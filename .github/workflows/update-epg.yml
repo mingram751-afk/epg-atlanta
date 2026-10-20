@@ -3,7 +3,7 @@ name: Update EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *" # every 6 hours, at minute 17
+    - cron: "17 */6 * * *"
 
 permissions:
   contents: write
@@ -17,8 +17,7 @@ jobs:
       - name: Download EPG
         run: |
           set -euo pipefail
-          curl -fL --retry 3 "https://iptv-epg.org/files/epg-us.xml" -o /tmp/guide.xml
-          gzip -dc /tmp/guide.xml > docs/guide.xml
+          curl -fL --retry 3 "https://YOUR-EPG-SOURCE/guide.xml" -o docs/guide.xml
 
       - name: Commit changed guide
         run: |
