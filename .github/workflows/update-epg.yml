@@ -3,16 +3,25 @@ name: Update EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 */6 * * *"   # Runs at 17 minutes past the hour, every 6 hours
 
 permissions:
   contents: write
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # Prevent ubuntu-latest migration issues
+
+    defaults:
+      run:
+        shell: bash
+
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
 
       - name: Download EPG
         run: |
