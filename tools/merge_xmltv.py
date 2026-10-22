@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 CHANNEL_IDS = (
-    "465164", "465165", "465179", "465061", "464947", "565869",
+    "465164", "465145", "465179", "465061", "464947", "565869",
     "465004", "467309", "464906", "464958", "465321",
 )
 BASE_URL = "https://epg.pw/api/epg.xml?channel_id="
