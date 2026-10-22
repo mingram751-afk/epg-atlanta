@@ -1,7 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv source-info-name="epg.pw" generator-info-name="Merged XMLTV">
+<?xml version='1.0' encoding='utf-8'?>
+<tv source-info-name="epg.pw" generator-info-name="epg-atlanta XMLTV merger">
   <channel id="465164">
     <display-name lang="US">Golden Eagle Broadcasting</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465145">
+    <display-name lang="US">3ABN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465179">
+    <display-name lang="US">World Harvest Television</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465061">
+    <display-name lang="US">3ABN Dare to Dream Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464947">
+    <display-name lang="US">3ABN International Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="565869">
+    <display-name lang="US">3ABN Kids Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465004">
+    <display-name lang="US">3ABN Proclaim Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="467309">
+    <display-name lang="US">KTBN-DT</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464906">
+    <display-name lang="US">Daystar Television Network HD [CHARTER]</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464958">
+    <display-name lang="US">The Hope Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465321">
+    <display-name lang="US">Christian Television Network</display-name>
     <icon src="" />
   </channel>
   <programme channel="465164" start="20261022000000 +0000" stop="20261022003000 +0000">
@@ -444,79 +484,396 @@
     <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
     <date>2026-10-24</date>
   </programme>
-  <channel id="465165">
-    <display-name lang="US">Zona Futbol</display-name>
-    <icon src="" />
-  </channel>
-  <programme channel="465165" start="20261022020000 +0000" stop="20261022060000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022000000 +0000" stop="20261022003000 +0000">
+    <title lang="zh">Made for Health</title>
+    <desc>We are mind, body, and spirit. Hal emphasizes wholistic health and how vital Jesus is to human flourishing.</desc>
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022060000 +0000" stop="20261022100000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022003000 +0000" stop="20261022010000 +0000">
+    <title lang="zh">A Wolf In Sheep's Clothing</title>
+    <desc>Tune in to hear a riveting story of how one woman went from Wiccan to Christian!</desc>
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022100000 +0000" stop="20261022140000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022010000 +0000" stop="20261022020000 +0000">
+    <title lang="zh">Today Cooking</title>
+    <desc />
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022140000 +0000" stop="20261022163000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022020000 +0000" stop="20261022023000 +0000">
+    <title lang="zh">It Is Written</title>
+    <desc />
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022163000 +0000" stop="20261022213000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022023000 +0000" stop="20261022024500 +0000">
+    <title lang="zh">Wellness By Design</title>
+    <desc>On Wellness by Design, hosted by Dr. Hana Kahleova, Director of Clinical Research, this episode—Cell Membranes and Diabetes—explores the vital role cell membranes play in metabolic health and blood sugar control. Discover how what you eat can impact cellular function and insulin sensitivity, and learn practical, science-based strategies to support better health and manage diabetes naturally.</desc>
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022213000 +0000" stop="20261022220000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022024500 +0000" stop="20261022030000 +0000">
+    <title lang="zh">Life Rx Media</title>
+    <desc>Discover the exciting truth that your brain can change—through new challenges, exercise, quality sleep, healthy eating, and meaningful connection.</desc>
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261022220000 +0000" stop="20261023000000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022030000 +0000" stop="20261022040000 +0000">
+    <title lang="zh">Love Me</title>
+    <desc />
     <date>2026-10-22</date>
   </programme>
-  <programme channel="465165" start="20261023020000 +0000" stop="20261023060000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261022040000 +0000" stop="20261022050000 +0000">
+    <title lang="zh">Today Cooking</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022050000 +0000" stop="20261022060000 +0000">
+    <title lang="zh">Unlocking Bible Prophecy</title>
+    <desc>Cami will be sharing on the beast, his mark, and when it’s going to take place. See how this is Satan’s last great attack on God’s people in Revelation’s battle for worship. Perplexed by the many different ideas about the mark of the beast? Wondering whether it’s really even important for Christians today? Listen in as Cami Oetman delivers from God’s Word the truth of the matter.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022060000 +0000" stop="20261022063000 +0000">
+    <title lang="zh">Digital Disconnect</title>
+    <desc>No need to speculate. Hollywood entertainers and worldly musicians have spoken openly about their involvement in spiritualism - not just in modern times but going back 100 years.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022063000 +0000" stop="20261022064500 +0000">
+    <title lang="zh">Raw Questions Relevant Answers</title>
+    <desc>Why does it feel like when I pray God won't answer? How do I pray, I always get distracted of fall asleep when I try?</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022064500 +0000" stop="20261022070000 +0000">
+    <title lang="zh">Intimate Clarity</title>
+    <desc>There may be no ideal, foolproof formula for finding a life partner, but timeless principles and God’s Spirit can guide the process. Since God designed marriage to be a lifelong relationship, we do well to consider it carefully.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022070000 +0000" stop="20261022073000 +0000">
+    <title lang="zh">Laymen Ministries</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022073000 +0000" stop="20261022080000 +0000">
+    <title lang="zh">Maranatha Mission Stories</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022080000 +0000" stop="20261022090000 +0000">
+    <title lang="zh">House Calls</title>
+    <desc>Gods Character Revealed Part 1 John Lomacang (Host), John Stanton.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022090000 +0000" stop="20261022093000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022093000 +0000" stop="20261022100000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022100000 +0000" stop="20261022103000 +0000">
+    <title lang="zh">More Than Conquerors</title>
+    <desc>Guilt isolates. Shame paralyzes. But God’s love restores. Discover how the gospel breaks the cycle and brings you back to life.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022103000 +0000" stop="20261022110000 +0000">
+    <title lang="zh">Watered by the Word</title>
+    <desc>Scripture Focus: Psalm 23:1, “…I shall not want.”\.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022110000 +0000" stop="20261022113000 +0000">
+    <title lang="zh">Body and Spirit Aerobics</title>
+    <desc>Depression Dick Nunez (Host), Cindy Hanson and Megan Frasier.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022113000 +0000" stop="20261022120000 +0000">
+    <title lang="zh">Jesus 4 Asia Now</title>
+    <desc>With over 17,000 islands in Indonesia the need for a flight program is real.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022120000 +0000" stop="20261022123000 +0000">
+    <title lang="zh">3ABN Kids Camp Kitchen Fun</title>
+    <desc>Let’s get creative in the kitchen with delicious and healthy recipes. Grab a parent and some friends and let’s get cooking together!</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022123000 +0000" stop="20261022124500 +0000">
+    <title lang="zh">Tiny Tots Kitchen</title>
+    <desc>Tiny tots learn how to cook with Miss Cinda. Summer Time Cupcakes.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022124500 +0000" stop="20261022130000 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022130000 +0000" stop="20261022140000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022140000 +0000" stop="20261022150000 +0000">
+    <title lang="zh">ASI Conventions</title>
+    <desc>This presentation traces the investment the Godhead made in our eternity in order to save us which is what motivates us for service. It will key off of a significant event in World War II and the words spoken by one of the greatest orators and leaders in history, Sir Winston Churchill. This very gospel focused presentation will use many elements in the story which will hopefully be a blessing.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022150000 +0000" stop="20261022151500 +0000">
+    <title lang="zh">Well News</title>
+    <desc>Fasting is no longer considered the rituals of monks or the mandates of insufficient food supplies. In this episode, fasting is recognized as a valuable resource to support health and help the body reset.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022151500 +0000" stop="20261022153000 +0000">
+    <title lang="zh">Unshackled Purpose</title>
+    <desc>Have you ever struggled with knowing your worth? Well, tune in to learn about the One who paid it all to be able to spend eternity with you!</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022153000 +0000" stop="20261022160000 +0000">
+    <title lang="zh">From Sickness to Health</title>
+    <desc>Stress.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022160000 +0000" stop="20261022170000 +0000">
+    <title lang="zh">God's Last Message to the World</title>
+    <desc>A most startling message proclaimed right on time that led to a most bitter disappointment but was God involved?</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022170000 +0000" stop="20261022180000 +0000">
+    <title lang="zh">Spotless</title>
+    <desc>In Episode 7 of SPOTLESS, Shelley Quinn takes us through the rest of the biblical account of the great patriarchs of Genesis. Your eyes will be opened to understand why Abraham (and the strapping young Isaac) had the faith to submit to God’s strange request of human sacrifice that was purely a test of loyalty. Follow the twists and turns of the dramatic life accounts of Isaac, Jacob, and Joseph, a</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022180000 +0000" stop="20261022183000 +0000">
+    <title lang="zh">Adventist World Aviation</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022183000 +0000" stop="20261022190000 +0000">
+    <title lang="zh">Amazing Facts with Doug Batchelor</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022190000 +0000" stop="20261022193000 +0000">
+    <title lang="zh">Body and Spirit (New)</title>
+    <desc>Strength Training 101 Jeanie Weaver (Host), LaDonna Terrill, Tim Tiernan.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022193000 +0000" stop="20261022200000 +0000">
+    <title lang="zh">Country Wisdom</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022200000 +0000" stop="20261022210000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022210000 +0000" stop="20261022211500 +0000">
+    <title lang="zh">3ABN Kids Camp Creation Crafts</title>
+    <desc>Get creative and make beautiful reminders of God’s Word with these unique crafts.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022211500 +0000" stop="20261022213000 +0000">
+    <title lang="zh">Creation Is! Science</title>
+    <desc>Focusing energy on God and learning about energy through science.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022213000 +0000" stop="20261022220000 +0000">
+    <title lang="zh">The Creation Case</title>
+    <desc>There are plants all over the world. Does their complexity say anything about Creation? Some trees in the world grow to be very old but do these long living trees provide evidence for Creation? Join Rich as he travels to learn about some of the oldest trees on earth.</desc>
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022220000 +0000" stop="20261022230000 +0000">
+    <title lang="zh">3ABN Sabbath School Panel</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022230000 +0000" stop="20261022233000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261022233000 +0000" stop="20261023000000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-22</date>
+  </programme>
+  <programme channel="465145" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
     <date>2026-10-23</date>
   </programme>
-  <programme channel="465165" start="20261023060000 +0000" stop="20261023100000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261023010000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
     <date>2026-10-23</date>
   </programme>
-  <programme channel="465165" start="20261023100000 +0000" stop="20261023140000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Revelation of Jesus Christ</title>
+    <desc>Seven Last Plagues.</desc>
     <date>2026-10-23</date>
   </programme>
-  <programme channel="465165" start="20261023140000 +0000" stop="20261023180000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
     <date>2026-10-23</date>
   </programme>
-  <programme channel="465165" start="20261023180000 +0000" stop="20261023220000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
     <date>2026-10-23</date>
   </programme>
-  <programme channel="465165" start="20261023220000 +0000" stop="20261024000000 +0000">
-    <title lang="zh">Zona Futbol</title>
-    <desc>Un show que ofrece todos los partidos de la UEFA Champions League y la UEFA Europa League en simultáneo. Con los goles y las mejores jugadas de los encuentros de la fase de grupos de dos de los torneos más importantes de Europa.</desc>
+  <programme channel="465145" start="20261023060000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
     <date>2026-10-23</date>
   </programme>
-  <channel id="465179">
-    <display-name lang="US">World Harvest Television</display-name>
-    <icon src="" />
-  </channel>
+  <programme channel="465145" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Strategies for Strongholds</title>
+    <desc>When times are challenging, where do you find hope? When family issues arise, how do you address them? Tune in to hear Andrea's story, and discover the strategies that she implemented in difficult times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Live to Be Well</title>
+    <desc>Join Dr. Kim and Malissa Martin as they converse about the value of education. Malissa shares some of the challenges she faces in regards to sharing her faith in the public school system.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Digging Deeper</title>
+    <desc>In this episode of Digging Deeper, explore the profound nature of God the Father. As the Creator, Source, and Sustainer of all creation, He embodies justice, mercy, grace, and steadfast love. Join us as we delve into Scripture to uncover how the qualities and powers exhibited in the Son and the Holy Spirit are also found in the Father. Discover the true character of the eternal Father and His unwa</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Action 4 Life</title>
+    <desc>Lunch Casio Jones (Host), Lynne Thompson Cundiff.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Christ Our Righteousness</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Ultimate Prescription</title>
+    <desc>Remember when you were a kid and your mom kept getting after you to eat your vegetables? Despite your distaste for them when you were younger, you have to acknowledge today that she was probably right. On today’s program, we’ll be sharing the best foods you can eat to promote cardiovascular health, and we’ll be sharing ideas that you can use to improve your health.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Body and Spirit</title>
+    <desc>Osteoporosis Dick Nunez (Host), Betty Garner.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Contending for the Faith</title>
+    <desc>The Fifth and Forever Kingdom.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Amazing Adventures</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Optimize 4 Life</title>
+    <desc>Optimize Your Circadian Rhythm.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Authentic</title>
+    <desc>Mark is a great place to start reading the Bible. It’s short enough that you can read it in one sitting, and the gospel talks about how Jesus relates to real, everyday people. But it turns out that maybe Mark isn't actually the author. AUTHENTIC host Shawn Boonstra walks you through the evidence in part 3 of a series called The Four Witnesses.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Enjoy Healthy Eating</title>
+    <desc>In the busyness of our lives, it is important to sit down as a family and enjoy eating together. Family meals are a time for the entire family to bond together. There are physical, emotional, social, behavioral, and spiritual benefits to eating together as families. In this program, Mrs. Finley will share tips on making family meals enjoyable.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023153000 +0000" stop="20261023154500 +0000">
+    <title lang="zh">Wellness By Design</title>
+    <desc>On Wellness by Design, hosted by Dr. Hana Kahleova, Director of Clinical Research, this episode—Cell Membranes and Diabetes—explores the vital role cell membranes play in metabolic health and blood sugar control. Discover how what you eat can impact cellular function and insulin sensitivity, and learn practical, science-based strategies to support better health and manage diabetes naturally.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023154500 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Life Rx Media</title>
+    <desc>Discover the exciting truth that your brain can change—through new challenges, exercise, quality sleep, healthy eating, and meaningful connection.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Made for Health</title>
+    <desc>We are mind, body, and spirit. Hal emphasizes wholistic health and how vital Jesus is to human flourishing.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023163000 +0000" stop="20261023164500 +0000">
+    <title lang="zh">Unshackled Purpose</title>
+    <desc>Have you ever struggled with knowing your worth? Well, tune in to learn about the One who paid it all to be able to spend eternity with you!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023164500 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Recipes from Russia</title>
+    <desc>An update from 3ABN Russia along with a recipe of a flavourful lentil loaf with fresh tomato sauce.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Today Family Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Behold the Lamb Presents</title>
+    <desc>When we hear the word investigation, we often think of crime scenes, detectives, and courtroom drama. But did you know there's a greater investigation happening right now—one that involves your name? In this powerful message, Pastor Kenny &amp; Chris Shelton will unpack the sobering reality of the Heavenly Investigative Judgment. While many will never face an earthly judge, the Bible reveals that ever</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023190000 +0000" stop="20261023191500 +0000">
+    <title lang="zh">Raw Questions Relevant Answers</title>
+    <desc>Why doesn't the church teach the reasoning behind the rules we currently have? I want to go to heaven, but I feel like I will never be good enough or be able to follow all the Christian standards. I feel like God is too controlling even though I realize it might just be people making Him out to be that way.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023191500 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Journeys</title>
+    <desc>Having achieved success in Los Angeles, former Muslim Samuel was searching for an inner peace that his atheism was not providing. Turning to spiritualism, transcendental meditation, yoga, hypnosis, Reiki and ayahuasca, he began having extrasensory experiences until things took a sinister turn. Would he be able to break free from the downward spiral of depression and addiction?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Sanctuary, Salvation, and Our Savior</title>
+    <desc>When an artist finishes his masterpiece, many times the artist signs his signature on His work. In the same way, when God finished his masterpiece of creation, He signed his signature of holiness in the time of the Sabbath. The Bible says that the Sabbath is also God’s signature of His work in us. We are His masterpiece.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about the Ark of the Covenant and how it was moved to a different location.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023213000 +0000" stop="20261023214500 +0000">
+    <title lang="zh">3ABN Kids Camp Sing Along</title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023214500 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Kids Camp Critters &amp; Creation</title>
+    <desc>Let’s meet God’s creatures and observe His creation together. From rocks and fossils, to animals with silky fur and shiny scales!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">3ABN Music Highlights</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Jesus 4 Asia Now</title>
+    <desc>With over 17,000 islands in Indonesia the need for a flight program is real.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">3ABN Homecoming</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
   <programme channel="465179" start="20261022000000 +0000" stop="20261022003000 +0000">
     <title lang="zh">Paid Programming</title>
     <desc>Paid programming.</desc>
@@ -992,10 +1349,6 @@
     <desc>Paid programming.</desc>
     <date>2026-10-24</date>
   </programme>
-  <channel id="465061">
-    <display-name lang="US">3ABN Dare to Dream Network</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="465061" start="20261022000000 +0000" stop="20261022003000 +0000">
     <title lang="zh">Strategies for Strongholds</title>
     <desc>Adele went through unimaginable hardships, but you'd never know it by looking at her. She was placed in foster care, sexually abused around three years old, and physically abused later in life. Tune in to find out how Adele overcame her struggles and gained victory.</desc>
@@ -1456,10 +1809,6 @@
     <desc>Abomination of Desolation Ivor Myers (Host), James Rafferty (Host), Jason Bradley, Yvonne Lewis.</desc>
     <date>2026-10-23</date>
   </programme>
-  <channel id="464947">
-    <display-name lang="US">3ABN International Network</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="464947" start="20261022000000 +0000" stop="20261022010000 +0000">
     <title lang="zh">A Sharper Focus</title>
     <desc>The Turth about the Secret Rapture, Part 3 John Lomacang.</desc>
@@ -1820,10 +2169,6 @@
     <desc>The days of Noah before the flood were a time of great prosperity and ease. The focus of the antediluvians was on worshipping the blessings that God provided in such great abundance rather than giving glory to the One who provided the blessings. Jesus declared that they did not know when the flood came. How is that possible? Are we living at a time when the same scenario is being played out?</desc>
     <date>2026-10-23</date>
   </programme>
-  <channel id="565869">
-    <display-name lang="US">3ABN Kids Network</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="565869" start="20261022000000 +0000" stop="20261022003000 +0000">
     <title lang="zh">3ABN Kids Camp Kitchen Fun</title>
     <desc>Let’s get creative in the kitchen with delicious and healthy recipes. Grab a parent and some friends and let’s get cooking together!</desc>
@@ -2529,10 +2874,6 @@
     <desc>This week we will study about the Ark’s interesting journey through the country of Philistine.</desc>
     <date>2026-10-23</date>
   </programme>
-  <channel id="465004">
-    <display-name lang="US">3ABN Proclaim Network</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="465004" start="20261022000000 +0000" stop="20261022003000 +0000">
     <title lang="zh">Imperative Life Lessons</title>
     <desc>Join Pastor Ryan Johnson as he examines the nuances of righteousness, shame, nakedness, and surrender through the story of Adam and Eve and that of the thief on the cross who asks Jesus to remember him. Despite our 'programming,' we cannot earn our way into righteousness.</desc>
@@ -2843,10 +3184,6 @@
     <desc />
     <date>2026-10-23</date>
   </programme>
-  <channel id="467309">
-    <display-name lang="US">KTBN-DT</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="467309" start="20261022000000 +0000" stop="20261022010000 +0000">
     <title lang="zh">Praise</title>
     <desc>Pastor and bestselling author Mark Batterson joins Matt and Laurie to discuss how we can live with courage, conviction, and compassion in a world of chaos, information overload, and cultural pressure.</desc>
@@ -3277,10 +3614,6 @@
     <desc>Showcases David's ascent to the throne, featuring towering giants, wild animals, and Philistine soldiers.</desc>
     <date>2026-10-23</date>
   </programme>
-  <channel id="464906">
-    <display-name lang="US">Daystar Television Network HD [CHARTER]</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="464906" start="20261022000000 +0000" stop="20261022003000 +0000">
     <title lang="zh">Gospel Truth with Andrew Wommack</title>
     <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
@@ -3726,10 +4059,6 @@
     <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
     <date>2026-10-24</date>
   </programme>
-  <channel id="464958">
-    <display-name lang="US">The Hope Channel</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="464958" start="20261022000000 +0000" stop="20261022010000 +0000">
     <title lang="zh">Hope Sabbath School</title>
     <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
@@ -4075,10 +4404,6 @@
     <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
     <date>2026-10-24</date>
   </programme>
-  <channel id="465321">
-    <display-name lang="US">Christian Television Network</display-name>
-    <icon src="" />
-  </channel>
   <programme channel="465321" start="20261022003000 +0000" stop="20261022010000 +0000">
     <title lang="zh">Tommy Bates</title>
     <desc>Gospel music and preaching with Pastor Tommy Bates.</desc>
