@@ -1,3 +1,2582 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7b25759c0526e479b47cf647c5394854123553d327ae84987ad3f959b773cd5
-size 298285
+<?xml version='1.0' encoding='utf-8'?>
+<tv source-info-name="epg.pw" generator-info-name="epg-atlanta XMLTV merger">
+  <channel id="465164">
+    <display-name lang="US">Golden Eagle Broadcasting</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465145">
+    <display-name lang="US">3ABN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465179">
+    <display-name lang="US">World Harvest Television</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465061">
+    <display-name lang="US">3ABN Dare to Dream Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464947">
+    <display-name lang="US">3ABN International Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="565869">
+    <display-name lang="US">3ABN Kids Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465004">
+    <display-name lang="US">3ABN Proclaim Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="467309">
+    <display-name lang="US">KTBN-DT</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464906">
+    <display-name lang="US">Daystar Television Network HD [CHARTER]</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464958">
+    <display-name lang="US">The Hope Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465321">
+    <display-name lang="US">Christian Television Network</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="465164" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">PHD Ministries</title>
+    <desc>Prayer, Healing, and Deliverance Ministries.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023010000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">Humanitarian</title>
+    <desc>An intervention seeks to improve the welfare and dignity of those in impoverished circumstances.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Miracle Word Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Joy With Danette</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">ORU Chapel Service</title>
+    <desc>Services at Oral Roberts University.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023090000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Kenneth Cox Ministries</title>
+    <desc>Author and evangelist Kenneth Cox travels with his team and shares the message of salvation with the world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">GOD TV Together Podcast</title>
+    <desc>Guests discuss contemporary issues from a religious perspective, emphasizing the importance of seeking the blessings of the Almighty.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Concepts of Faith With Charles Capps</title>
+    <desc>Charles and Annette Capps teach lessons of faith and the power of the spoken and written word.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Lifestyle</title>
+    <desc>Community happenings.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Christian World News</title>
+    <desc>George Thomas and co-anchor Wendy Griffith focus on news from around the world and the challenges of the global church; stories about Christians and their triumphs and tragedies, along with events that will affect us all.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Les Feldick</title>
+    <desc>Teaching the Bible.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Miracle Word Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Real Life Jack Hibbs</title>
+    <desc>Jack Hibbs delivers a discourse on the teachings of the Almighty and inspires devotees to follow the path of righteousness.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Joy With Danette</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Deborah Sweetin</title>
+    <desc>Deborah compares contemporary issues with passages from The Bible.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">GOD TV Together Podcast</title>
+    <desc>Guests discuss contemporary issues from a religious perspective, emphasizing the importance of seeking the blessings of the Almighty.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465164" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Miracle Word Today</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465145" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023010000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Revelation of Jesus Christ</title>
+    <desc>Seven Last Plagues.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023060000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Strategies for Strongholds</title>
+    <desc>When times are challenging, where do you find hope? When family issues arise, how do you address them? Tune in to hear Andrea's story, and discover the strategies that she implemented in difficult times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Live to Be Well</title>
+    <desc>Join Dr. Kim and Malissa Martin as they converse about the value of education. Malissa shares some of the challenges she faces in regards to sharing her faith in the public school system.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Digging Deeper</title>
+    <desc>In this episode of Digging Deeper, explore the profound nature of God the Father. As the Creator, Source, and Sustainer of all creation, He embodies justice, mercy, grace, and steadfast love. Join us as we delve into Scripture to uncover how the qualities and powers exhibited in the Son and the Holy Spirit are also found in the Father. Discover the true character of the eternal Father and His unwa</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Action 4 Life</title>
+    <desc>Lunch Casio Jones (Host), Lynne Thompson Cundiff.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Christ Our Righteousness</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Ultimate Prescription</title>
+    <desc>Remember when you were a kid and your mom kept getting after you to eat your vegetables? Despite your distaste for them when you were younger, you have to acknowledge today that she was probably right. On today’s program, we’ll be sharing the best foods you can eat to promote cardiovascular health, and we’ll be sharing ideas that you can use to improve your health.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Body and Spirit</title>
+    <desc>Osteoporosis Dick Nunez (Host), Betty Garner.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Contending for the Faith</title>
+    <desc>The Fifth and Forever Kingdom.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Amazing Adventures</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Optimize 4 Life</title>
+    <desc>Optimize Your Circadian Rhythm.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Authentic</title>
+    <desc>Mark is a great place to start reading the Bible. It’s short enough that you can read it in one sitting, and the gospel talks about how Jesus relates to real, everyday people. But it turns out that maybe Mark isn't actually the author. AUTHENTIC host Shawn Boonstra walks you through the evidence in part 3 of a series called The Four Witnesses.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Enjoy Healthy Eating</title>
+    <desc>In the busyness of our lives, it is important to sit down as a family and enjoy eating together. Family meals are a time for the entire family to bond together. There are physical, emotional, social, behavioral, and spiritual benefits to eating together as families. In this program, Mrs. Finley will share tips on making family meals enjoyable.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023153000 +0000" stop="20261023154500 +0000">
+    <title lang="zh">Wellness By Design</title>
+    <desc>On Wellness by Design, hosted by Dr. Hana Kahleova, Director of Clinical Research, this episode—Cell Membranes and Diabetes—explores the vital role cell membranes play in metabolic health and blood sugar control. Discover how what you eat can impact cellular function and insulin sensitivity, and learn practical, science-based strategies to support better health and manage diabetes naturally.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023154500 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Life Rx Media</title>
+    <desc>Discover the exciting truth that your brain can change—through new challenges, exercise, quality sleep, healthy eating, and meaningful connection.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Made for Health</title>
+    <desc>We are mind, body, and spirit. Hal emphasizes wholistic health and how vital Jesus is to human flourishing.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023163000 +0000" stop="20261023164500 +0000">
+    <title lang="zh">Unshackled Purpose</title>
+    <desc>Have you ever struggled with knowing your worth? Well, tune in to learn about the One who paid it all to be able to spend eternity with you!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023164500 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Recipes from Russia</title>
+    <desc>An update from 3ABN Russia along with a recipe of a flavourful lentil loaf with fresh tomato sauce.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Today Family Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Behold the Lamb Presents</title>
+    <desc>When we hear the word investigation, we often think of crime scenes, detectives, and courtroom drama. But did you know there's a greater investigation happening right now—one that involves your name? In this powerful message, Pastor Kenny &amp; Chris Shelton will unpack the sobering reality of the Heavenly Investigative Judgment. While many will never face an earthly judge, the Bible reveals that ever</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023190000 +0000" stop="20261023191500 +0000">
+    <title lang="zh">Raw Questions Relevant Answers</title>
+    <desc>Why doesn't the church teach the reasoning behind the rules we currently have? I want to go to heaven, but I feel like I will never be good enough or be able to follow all the Christian standards. I feel like God is too controlling even though I realize it might just be people making Him out to be that way.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023191500 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Journeys</title>
+    <desc>Having achieved success in Los Angeles, former Muslim Samuel was searching for an inner peace that his atheism was not providing. Turning to spiritualism, transcendental meditation, yoga, hypnosis, Reiki and ayahuasca, he began having extrasensory experiences until things took a sinister turn. Would he be able to break free from the downward spiral of depression and addiction?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Sanctuary, Salvation, and Our Savior</title>
+    <desc>When an artist finishes his masterpiece, many times the artist signs his signature on His work. In the same way, when God finished his masterpiece of creation, He signed his signature of holiness in the time of the Sabbath. The Bible says that the Sabbath is also God’s signature of His work in us. We are His masterpiece.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about the Ark of the Covenant and how it was moved to a different location.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023213000 +0000" stop="20261023214500 +0000">
+    <title lang="zh">3ABN Kids Camp Sing Along</title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023214500 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Kids Camp Critters &amp; Creation</title>
+    <desc>Let’s meet God’s creatures and observe His creation together. From rocks and fossils, to animals with silky fur and shiny scales!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">3ABN Music Highlights</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Jesus 4 Asia Now</title>
+    <desc>With over 17,000 islands in Indonesia the need for a flight program is real.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465145" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">3ABN Homecoming</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">Turning Point With Dr. David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Natural Blood Pressure Management</title>
+    <desc>Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Lester Sumrall Teaching</title>
+    <desc>Dr. Sumrall covers a wide range of topics through Scripture.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Speak the Word With Pastor Jo Anne Ramsay</title>
+    <desc>Equipping God's children to be proficient in wielding the Sword of the Spirit, which is the Word of God, to train His soldiers to recognize who they are in Christ Jesus and to exercise their authority.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Touching Hands Ministries</title>
+    <desc>With Darrell Dumas.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023070000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023073000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Lester Sumrall Teaching</title>
+    <desc>Dr. Sumrall covers a wide range of topics through Scripture.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Transformed by Grace</title>
+    <desc>Transformed by Grace is the daily television program produced by The Berean Bible Society. Join Pastor Kevin Sadler as he shares the transforming power of God's grace in your daily life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Speak the Word With Pastor Jo Anne Ramsay</title>
+    <desc>Equipping God's children to be proficient in wielding the Sword of the Spirit, which is the Word of God, to train His soldiers to recognize who they are in Christ Jesus and to exercise their authority.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">See Wrinkles and Bags Vanish Instantly With GEN90!!</title>
+    <desc>GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist's solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow's feet and fine lines instantly! Get fast, visible, long-lasting results!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Your Health With Dr. Richard &amp; Cindy Becker</title>
+    <desc>Dr. Richard and Cindy Becker speak about practical approaches to health.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">The Awakening Hour with Dr. William R. Crews</title>
+    <desc>"The Awakening Hour" is an international Bible teaching and preaching program that reaches people using uncompromised, nonpartisan Gospel teachings. The ministry's stated mission is to spread its scriptural teachings through various forms of media, including radio, TV, the Internet, the pulpit and the printing press.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>Thieves steal a wooden chest that an old prospector constantly carries.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>Banker Calvin Blair is vengeful outlaw Trigger Taylor.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>The Lone Ranger investigates the murder of a sheriff.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>A crooked jeweler kills a robber, then hires the man's brother.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>Thieves, masquerading as rainmakers, arrive in the drought-afflicted town of Greenville.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">The Lone Ranger</title>
+    <desc>A counterfeiter murders the government agent who could have exposed him.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465179" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="zh">Turning Point With Dr. David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">President and Christlove International Christian Ministries</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Faith Alive With Ted Shuttlesworth</title>
+    <desc>Evangelist Ted Shuttleworth's ministry began in 1976 and their message is clear and unchanging.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465061" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Lineage</title>
+    <desc>Title: The fires of Battle Creek, Oakwood, Loma Linda and Elmshaven.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Dare To Dream Creative Cooking</title>
+    <desc>Lunch in a Hurry The Holmes Sisters.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">Dollars and Sense</title>
+    <desc>Less talk . . . More action Ryan Mack (Host), Yvonne Lewis (Host).</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Live to Be Well</title>
+    <desc>Join Dr. Kim as she talks to a couple whose marriage is a special treasure.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">A Wolf In Sheep's Clothing</title>
+    <desc>Davie John Garcia shares his journey from spiritual uncertainty to occultism and New Age exploration. Discover how the Bible led him to discern truth amidst deception. Join us for an eye-opening episode exploring the power of Scripture in navigating spiritual pitfalls.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Pumped Up Parents</title>
+    <desc>How to improve your family devotion time.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Battles of Faith</title>
+    <desc>"Jury Selection" Ivor &amp; Atonte Myers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Urban Report</title>
+    <desc>Salvation in Symbols &amp; Signs Jason Bradley (Host), Yvonne Lewis (Host), Ivor Meyers, James Rafferty.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Pure Choices</title>
+    <desc>Transgenderism in the Church Michael Carducci (Host), Wayne Blakely, Walt Heyer.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023043000 +0000" stop="20261023044500 +0000">
+    <title lang="zh">Life After Choice</title>
+    <desc>Before she married a pastor, Loretta Mix had two abortions—one before she became a Christian, and another afterwards. The impact of the second was devastating, and haunted her for over 30 years. Keeping her earlier choices a secret affected her as a wife and a mother, and robbed her of the joy of Christianity. When she finally spilled her secret to her husband, he told her to quit believing Satan’</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023044500 +0000" stop="20261023050000 +0000">
+    <title lang="zh">The Missing Peace.</title>
+    <desc>Even though we have more prayer lines and groups, possibly than ever before, their effectiveness is not demonstrated because even though we perform the activity of praying with other believers, we do not experience the power of praying in agreement. This presentation examines biblical counsel, tips, and strategies that can empower our communal prayer sessions.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Free Indeed</title>
+    <desc>Putnamville Correctional Facility - Indiana.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Issues and Answers (D2D)</title>
+    <desc>Hour of a Seed Karen Thomas (Host), Dr. Andrea King.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Urban Report</title>
+    <desc>Place Holder.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Salvation in Symbols and Signs</title>
+    <desc>Abomination of Desolation Ivor Myers (Host), James Rafferty (Host), Jason Bradley, Yvonne Lewis.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023070000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">New Journey, The</title>
+    <desc>Personal Testimony Aaron Chancy (Host), Kendor Shy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023073000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Multitude of Counselors</title>
+    <desc>The Angst of Victim Advocacy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Take it to the Bank</title>
+    <desc>Marital Breakdown, Part 2 Cordell Thomas.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Magnify Him</title>
+    <desc>Ministry of Music Danita Jones (Host), Lyndon Carriger (Host), Lesile &amp; Marguerite Samue ls, Steven Norman.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Taste of Paradise</title>
+    <desc>Eggplant Bacon / Scrambled T'eggs Nyse Collins (Host), Evita Tezeno, Yvonne Lewis.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Pathway of Hope</title>
+    <desc>Obsessed With Being Blessed.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Action 4 Life</title>
+    <desc>Mall Walking.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Breath of Life</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Abundant Living</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Engage</title>
+    <desc>Leadership / Mentorship.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Battles of Faith</title>
+    <desc>"Sanctuary, Pt. 1" Ivor &amp; Atonte Myers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Issues and Answers (D2D)</title>
+    <desc>Hour of a Seed Karen Thomas (Host), Dr. Andrea King.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Behold the Lamb Presents</title>
+    <desc>The Godhead -part 2.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Urban Report</title>
+    <desc>Place Holder.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Salvation in Symbols and Signs</title>
+    <desc>Abomination of Desolation Ivor Myers (Host), James Rafferty (Host), Jason Bradley, Yvonne Lewis.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">New Journey, The</title>
+    <desc>Personal Testimony Aaron Chancy (Host), Kendor Shy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Multitude of Counselors</title>
+    <desc>The Angst of Victim Advocacy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Take it to the Bank</title>
+    <desc>Marital Breakdown, Part 2 Cordell Thomas.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Magnify Him</title>
+    <desc>Ministry of Music Danita Jones (Host), Lyndon Carriger (Host), Lesile &amp; Marguerite Samue ls, Steven Norman.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Taste of Paradise</title>
+    <desc>Eggplant Bacon / Scrambled T'eggs Nyse Collins (Host), Evita Tezeno, Yvonne Lewis.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">For Guys Only.</title>
+    <desc>Unhappy Ever After - Part 2 Pr. William Lee (Host), Brandon Dent, Colin King PhD, Stephen Barber.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Families for Heaven</title>
+    <desc>When Tragedy Strikes, Part 2.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Abundant Living</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Celebrating Life in Recovery</title>
+    <desc>Eating Disorders.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Table Talk</title>
+    <desc>The Second and third Angel's Messages.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023210000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Lineage</title>
+    <desc>Title: Ellen Whites later years and the SDA Church (Behind the Scenes).</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Magnify Him</title>
+    <desc>Ministry of Music Danita Jones (Host), Lyndon Carriger (Host), Lesile &amp; Marguerite Samue ls, Steven Norman.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Urban Report</title>
+    <desc>Place Holder.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465061" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Salvation in Symbols and Signs</title>
+    <desc>Abomination of Desolation Ivor Myers (Host), James Rafferty (Host), Jason Bradley, Yvonne Lewis.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023010000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">3ABN Homecoming</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Body and Spirit (New)</title>
+    <desc>Being In Health.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Tiny Tots for Jesus</title>
+    <desc>Jesus Is Love Linda Johnson.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023050000 +0000" stop="20261023051500 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Gems</title>
+    <desc>Dive into the stories of the Bible and see its characters come alive! What was it like to walk with Jesus, or hear Him calm the wind in the storm? Join us as we explore the wonders of our God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023051500 +0000" stop="20261023053000 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Buzz</title>
+    <desc>Gideon learned that nothing is impossible for God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about four noble boys who stood for what is right in Babylon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023060000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">3ABN Today Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">3ABN Sabbath School Panel</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">The Carter Report</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">The Incredible Journey</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Maranatha Mission Stories</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Let God Speak</title>
+    <desc>Week 5, Second Quarter, 2026.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Perfecting Me</title>
+    <desc>Character and Habit, Wintley Phipps (host).</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Countdown: Back to the Future</title>
+    <desc>Uncover the prophetic warnings hidden in the ruins of Pompeii and the Dark Ages as we journey through the seven seals of Revelation. Discover how the spiritual and physical decline of Christianity led to devastating consequences, and learn the vital signs that point to the imminent return of Jesus Christ. This captivating presentation explores the historical events and cosmic signs that signal the</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023140000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Daniel All Access</title>
+    <desc>“Thoughts on My Bed, Visions in My Head” is the title of this presentation. Join Pastor CA Murray as he opens Chapter 4 in the book of Daniel. King Nebuchadnezzar seems to be convicted by the power of God in Israel. Although he continues to praise the Lord he eventually turns his back to God yet again. Stay tuned to find how the rest of King Nebuchadnezzar’s story goes.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">3ABN Homecoming</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">3ABN Now</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about four noble boys who stood for what is right in Babylon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Let God Speak</title>
+    <desc>Week 5, Second Quarter, 2026.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Summer Camp Meeting</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">3ABN Today</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Bible Answers Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023210000 +0000" stop="20261023211500 +0000">
+    <title lang="zh">Jesus My Light</title>
+    <desc>Would you be able to recognize Jesus as you Savior?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023211500 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about four noble boys who stood for what is right in Babylon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023220000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Pioneer Media</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464947" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Focus on God's Word</title>
+    <desc>The days of Noah before the flood were a time of great prosperity and ease. The focus of the antediluvians was on worshipping the blessings that God provided in such great abundance rather than giving glory to the One who provided the blessings. Jesus declared that they did not know when the flood came. How is that possible? Are we living at a time when the same scenario is being played out?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023000000 +0000" stop="20261023001500 +0000">
+    <title lang="zh">3ABN Kids Camp Fit Club</title>
+    <desc>Join us as we strengthen the temple of our body and train to serve Jesus in everything we do.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023001500 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Bible Treasures</title>
+    <desc>In society most people only hear about secular views about dinosaurs that are anti-Biblical. Rich and his crew ask some hard questions about this topic.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023003000 +0000" stop="20261023004500 +0000">
+    <title lang="zh">3ABN Kids Camp Sing Along</title>
+    <desc>Are you feeling sad?  Praise the Lord that He can turn your feelings around.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023004500 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Kids Camp Ready, Set, X-Plore</title>
+    <desc>Let’s get ready and prepare to explore God’s creation and enjoy it to the fullest! There are so many wonderful things to discover in nature.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023010000 +0000" stop="20261023011500 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Gems</title>
+    <desc>God told Joseph how to interpret Pharaoh’s dreams.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023011500 +0000" stop="20261023013000 +0000">
+    <title lang="zh">3ABN Kids Camp Creation Crafts</title>
+    <desc>Get creative and make beautiful reminders of God’s Word with these unique crafts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023013000 +0000" stop="20261023014500 +0000">
+    <title lang="zh">Bible Treasures</title>
+    <desc>In society most people only hear about secular views about dinosaurs that are anti-Biblical. Rich and his crew ask some hard questions about this topic.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023014500 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Here I Am Send Me</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023020000 +0000" stop="20261023021500 +0000">
+    <title lang="zh">Jesus My Light</title>
+    <desc>Children of God will demonstrate forgiveness, mercy, and a peaceful spirit.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023021500 +0000" stop="20261023023000 +0000">
+    <title lang="zh">Kids X-Press</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">The Creation Case</title>
+    <desc>Since the erosion of land is caused mostly by water and wind, how do we explain the massive amount of eroded areas of our planet? This kind of large scale erosion isn’t happening today. Did something different happen in the past to cause so much destruction? Headquarters send Rich to investigate and the evidence is catastrophic!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Amazing Adventures</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023040000 +0000" stop="20261023041500 +0000">
+    <title lang="zh">Grandma's House</title>
+    <desc>Today we are on a Treasure Hunt, well at least we are trying to find out what might be a treasure to you? We see the things that we might collect and keep, things we might find down at the creek,and things we like to save because they might be important to us. We also find out that the Bible mentions that the kingdom of heaven is like treasure and also that Jesus considers each of you a treasure! </desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023041500 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Kids Camp Critters &amp; Creation</title>
+    <desc>Let’s meet God’s creatures and observe His creation together. From rocks and fossils, to animals with silky fur and shiny scales!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Kids Bible Zone</title>
+    <desc>God leads us to opportunities to serve Him and His people.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Mission Trek</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023053000 +0000" stop="20261023054500 +0000">
+    <title lang="zh">Grandma's House</title>
+    <desc>We are going to have a Dog Wash! Have you ever given a dog a bath? Watch now as we try to bathe several different dogs, some cooperate, some... not so much ! Sounds like fun, huh? kinda wet, soapy, messy fun ! Join us today and see what we learn.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023054500 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Tiny Tots for Jesus</title>
+    <desc>The Bible Tells Me To Be Thankful.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023063000 +0000" stop="20261023064500 +0000">
+    <title lang="zh">Tiny Tots Kitchen</title>
+    <desc>Tiny tots learn how to cook with Miss Cinda.  Oatmeal Apple Crisp.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023064500 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Kids Praise Too!</title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Mirielle Enriquez, Joseph Zuniga, The Spangler Family, Kerusso, Terell Phillips, Hannah Richardson, Foster Triplet, LMT Girls.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023070000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">Kids Bible Zone</title>
+    <desc>When I have God’s Word in my heart, I can say no to Satan.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023073000 +0000" stop="20261023074500 +0000">
+    <title lang="zh">Kids X-Press</title>
+    <desc>Meet kids from around the world to see how they are shining for Jesus while developing their character with Aunt Francine and Sandra.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023074500 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Creation Is! Science</title>
+    <desc>Join us in the clouds for today’s episode! Learn about God’s incredible handiwork: the water cycle.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023080000 +0000" stop="20261023081500 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Gems</title>
+    <desc>Have you ever lied to get ahead?  Jacob discovers that God’s way of truth is always better.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023081500 +0000" stop="20261023083000 +0000">
+    <title lang="zh">3ABN Kids Camp Creation Crafts</title>
+    <desc>Get creative and make beautiful reminders of God’s Word with these unique crafts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023083000 +0000" stop="20261023084500 +0000">
+    <title lang="zh">Kids Camp Critters &amp; Creation</title>
+    <desc>Let’s meet God’s creatures and observe His creation together. From rocks and fossils, to animals with silky fur and shiny scales!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023084500 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Kids Camp Ready, Set, X-Plore</title>
+    <desc>Let’s get ready and prepare to explore God’s creation and enjoy it to the fullest! There are so many wonderful things to discover in nature.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">3ABN Kids Camp Kitchen Fun</title>
+    <desc>Let’s get creative in the kitchen with delicious and healthy recipes. Grab a parent and some friends and let’s get cooking together!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Awesome Science</title>
+    <desc>In this episode, Noah travels to northwestern Montana to explore the amazing sites and geology at Glacier National Park.  He researches evidence for this area being created and eroded quickly by the effects of the global Flood.  He'll share why the Flood provided the right mechanisms to cause the Ice Age and how the end of the Ice Age provides the right conditions for the massive extinctions of ma</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023100000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Amazing Adventures</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Tiny Tots for Jesus</title>
+    <desc>The Bible Tells Me To Be Thankful.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023113000 +0000" stop="20261023114500 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023114500 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Bible Treasures</title>
+    <desc>People all over the world speak so many languages. Today, Rich and the crew look for clues and evidence about this topic.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Starting with Jesus</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023123000 +0000" stop="20261023124500 +0000">
+    <title lang="zh">3ABN Kids Camp Sing Along</title>
+    <desc>Hiding God’s word in our heart through songs helps us remember to always tell the truth.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023124500 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Creation Is! Science</title>
+    <desc>Join us in the clouds for today’s episode! Learn about God’s incredible handiwork: the water cycle.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Three Angels for Kids</title>
+    <desc>God throws our sins into the deepest part of the ocean.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023133000 +0000" stop="20261023134500 +0000">
+    <title lang="zh">Grandma's House</title>
+    <desc>We are going to have a Dog Wash! Have you ever given a dog a bath? Watch now as we try to bathe several different dogs, some cooperate, some... not so much ! Sounds like fun, huh? kinda wet, soapy, messy fun ! Join us today and see what we learn.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023134500 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Kids Praise</title>
+    <desc>Get ready to sing and praise Jesus! Join us for 30 minutes of glorious music that helps children grow their faith and keep a song in their hearts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023143000 +0000" stop="20261023144500 +0000">
+    <title lang="zh">Bible Treasures</title>
+    <desc>People all over the world speak so many languages. Today, Rich and the crew look for clues and evidence about this topic.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023144500 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Here I Am Send Me</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023150000 +0000" stop="20261023151500 +0000">
+    <title lang="zh">Tiny Tots Kitchen</title>
+    <desc>Tiny tots learn how to cook with Miss Cinda.  Oatmeal Apple Crisp.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023151500 +0000" stop="20261023153000 +0000">
+    <title lang="zh">3ABN Kids Camp Creation Crafts</title>
+    <desc>Get creative and make beautiful reminders of God’s Word with these unique crafts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023153000 +0000" stop="20261023154500 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Gems</title>
+    <desc>Have you ever lied to get ahead?  Jacob discovers that God’s way of truth is always better.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023154500 +0000" stop="20261023160000 +0000">
+    <title lang="zh">3ABN Kids Camp Bible Buzz</title>
+    <desc>Lying brings bad results.  Join the teams to answer questions about Jacob and Esau.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023160000 +0000" stop="20261023161500 +0000">
+    <title lang="zh">3ABN Kids Camp Sing Along</title>
+    <desc>Hiding God’s word in our heart through songs helps us remember to always tell the truth.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023161500 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Kids Camp Ready, Set, X-Plore</title>
+    <desc>Let’s get ready and prepare to explore God’s creation and enjoy it to the fullest! There are so many wonderful things to discover in nature.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Cook 30 for Kids</title>
+    <desc>Asian Tofu Tacos.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023170000 +0000" stop="20261023171500 +0000">
+    <title lang="zh">Kids Camp Critters &amp; Creation</title>
+    <desc>Let’s meet God’s creatures and observe His creation together. From rocks and fossils, to animals with silky fur and shiny scales!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023171500 +0000" stop="20261023173000 +0000">
+    <title lang="zh">3ABN Kids Camp Fit Club</title>
+    <desc>Join us as we strengthen the temple of our body and train to serve Jesus in everything we do.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">3ABN Kids Camp Kitchen Fun</title>
+    <desc>Let’s get creative in the kitchen with delicious and healthy recipes. Grab a parent and some friends and let’s get cooking together!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023180000 +0000" stop="20261023181500 +0000">
+    <title lang="zh">Creation Is! Science</title>
+    <desc>Join us in the clouds for today’s episode! Learn about God’s incredible handiwork: the water cycle.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023181500 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Jesus My Light</title>
+    <desc>Join Aunt Francine for a third season of Jesus My Light as we see Jesus as the Master Healer, the One who assures hope.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">3ABN Kids Camp Fit Club</title>
+    <desc>God gives us the strength we need, so get ready to work out!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">The Creation Case</title>
+    <desc>The mountain ranges around the world are beautiful and mysterious at the same time.  What causes mountains to form? Why do we find marine fossils at the top of many mountains? Come along as Rich uncovers clues that help us understand earth’s dramatic history.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Three Angels for Kids</title>
+    <desc>God throws our sins into the deepest part of the ocean.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Kids Bible Zone</title>
+    <desc>When I have God’s Word in my heart, I can say no to Satan.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Awesome Science</title>
+    <desc>In this episode, Noah travels to northwestern Montana to explore the amazing sites and geology at Glacier National Park.  He researches evidence for this area being created and eroded quickly by the effects of the global Flood.  He'll share why the Flood provided the right mechanisms to cause the Ice Age and how the end of the Ice Age provides the right conditions for the massive extinctions of ma</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023210000 +0000" stop="20261023211500 +0000">
+    <title lang="zh">Kids X-Press</title>
+    <desc>Meet kids from around the world to see how they are shining for Jesus while developing their character with Aunt Francine and Sandra.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023211500 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Jesus My Light</title>
+    <desc>Join Aunt Francine for a third season of Jesus My Light as we see Jesus as the Master Healer, the One who assures hope.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023213000 +0000" stop="20261023214500 +0000">
+    <title lang="zh">Here I Am Send Me</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023214500 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Kids Praise</title>
+    <desc>Get ready to sing and praise Jesus! Join us for 30 minutes of glorious music that helps children grow their faith and keep a song in their hearts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Tiny Tots for Jesus</title>
+    <desc>The Bible Tells Me To Be Thankful.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023230000 +0000" stop="20261023231500 +0000">
+    <title lang="zh">Tiny Tots Worship</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023231500 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Bible Treasures</title>
+    <desc>People all over the world speak so many languages. Today, Rich and the crew look for clues and evidence about this topic.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="565869" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">A Day with the King</title>
+    <desc>This week we will study about the Ark’s interesting journey through the country of Philistine.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Imperative Life Lessons</title>
+    <desc>Do resurrections still occur? Join Pastor Ryan Johnson as he defines resurrections through scripture. He investigates what defined death medically through history (not breathing, no heartbeat, brain death) and how revival can occur.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Authentic</title>
+    <desc>Did Christopher Hitchens lie? Or did he just interpret things differently? We're revisiting claims from the well-known "atheist evangelist" who said that religion poisons everything. AUTHENTIC with Shawn Boonstra is presented by the Voice of Prophecy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">Salvation in Symbols and Signs</title>
+    <desc>The Everlasting Gospel Ivor Myers (Host), James Rafferty (Host), Yvonne Lewis, Jason Bradley.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Timeless Healing Insights</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023020000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">3ABN Sabbath School Panel</title>
+    <desc>This week we study a handful of big concepts at the core of Revelation, to illustrate the all-important point that understanding the ancient foundations behind Revelation enables the student to see countless nuances in the text. Our study yields important lessons about the nature of humanity, of God, and of the conflict being waged in our universe and, thus, our lives.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Anchor School of Theology: Prophetic Principles</title>
+    <desc>The Sanctuary Sequence in the Book of Revelation Stephen Bohr.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Revelation Now  (new)</title>
+    <desc>Law And Grace Jac Colon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">3ABN On the Road</title>
+    <desc>How To Get Rid Of Your Guilt Pr. Louis Torres.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023060000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Life Discovery Series</title>
+    <desc>Death And The Powers Of Darkness Jim Reinking.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Eleventh Hour Evidence</title>
+    <desc>The Mark And The Seal.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Revelation Speaks Peace</title>
+    <desc>The Man of Revelation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023090000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">3ABN Homecoming</title>
+    <desc>Hosts Greg and Jill Morikone introduce the 3ABN Fall Camp Meeting with a music hour with guests Tim Parton, John Lomacang, Melody Firestone, Ryan Day, Gene McDonald, Reggie &amp; Ladye Love, Danny Shelton, and Yvonne Shelton.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Breath of Life</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Country Wisdom</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023110000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">3ABN Today Bible Q&amp;A</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Thunder in the Holy Land</title>
+    <desc>The Emmanuel Factor.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">It Is Written</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Breath of Life "Walter Pearson"</title>
+    <desc>Hanging By A Thread, Part 1.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Breath of Life "Walter Pearson"</title>
+    <desc>Hanging By A Thread, Part 2.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023140000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Revelation Insights!</title>
+    <desc>Here He Comes - Ready Or Not Pr. Lyle Albrecht.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Prophecy Unsealed</title>
+    <desc>Why does God allow trials to come upon us?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Voice of Prophecy Speaks</title>
+    <desc>The Great Escape.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Forecasting Hope</title>
+    <desc>There is powerful prophecy in Daniel 8 which tells us the world is running out of time and points us to Jesus.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Behold the Lamb Presents</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">In The Footsteps of Paul</title>
+    <desc>Finishing The Race.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">It Is Written</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Revelation of Jesus Christ</title>
+    <desc>Second Coming Of Christ.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023210000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Amazing Prophecies (J.M.)</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023220000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Revelation's Ancient Discoveries</title>
+    <desc>Some people are so afraid of it they try to avoid having a Social Security number. Others worry about the bar codes scanned at check-out stands—what could be behind it all?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465004" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">3ABN Worship Hour</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Praise</title>
+    <desc>Pastor and author Tim Barton joins Matt and Laurie to explore America's Christian heritage, the faith of the Founders, and original documents revealing a nation shaped by biblical principles and divine providence.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">The Rosenberg Report</title>
+    <desc>Joel C. Rosenberg is a respected geopolitical expert on the Middle East. Each week, he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Boots on the Ground</title>
+    <desc>Factual in-depth information about the ongoing war, providing viewers with clear insight into tactical maneuvers and key military events.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">God's Appointed Times With Rabbi Jason Sobel</title>
+    <desc>Rabbi Jason is joined by Rich Garza, an NBA chaplain; Rabbi and Rich sit down to discuss three different biblical celebrations that all connect; Rabbi shows how people need both the old and the new.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Stakelbeck Tonight</title>
+    <desc>Host Erick Stakelbeck takes viewers around the world; from Jerusalem to London to Washington, D.C., pointing beyond with cutting-edge commentary, analysis and interviews focusing on ever-changing events and why they matter.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Praise</title>
+    <desc>Pastor and author Tim Barton joins Matt and Laurie to explore America's Christian heritage, the faith of the Founders, and original documents revealing a nation shaped by biblical principles and divine providence.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Revelation 12 pulls back the veil to uncover the origin of sin and the conflict between God's people and their archenemy. Satan's true character shows to what extent he will go to destroy God's faithful bride in the last days. Part 1 of 2.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">The Rosenberg Report</title>
+    <desc>Joel C. Rosenberg is a respected geopolitical expert on the Middle East. Each week, he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">The Power of Healing Leaves With Jordan Rubin</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023063000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">Praise</title>
+    <desc>Matt and Laurie sit down with Pastor Samuel Rodriguez to discuss faith, culture and the power of storytelling to share the Gospel and influence the world around us.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023073000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Life Today</title>
+    <desc>The author of "Not My Circus" offers guidance to engage a corrupt culture while maintaining the truth and love of Christ.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Healthy Aging With Mushrooms With Jordan Rubin</title>
+    <desc>Discussing the benefits of Jordan Rubin and Josh Axe's product Lion's Mane supplements.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Taking Care of Business</title>
+    <desc>Taking Care of Business looks into the issues surrounding retirement.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Exhausting oneself trying to please everyone; Joyce offers insights on finding the balance between pleasing God and the people in one's life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Turning Point With Dr. David Jeremiah</title>
+    <desc>Examining a depiction of Christ found in Colossians chapter one.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Robert Jeffress</title>
+    <desc>Examining a story Jesus told that illustrates God's promise to those who hunger and thirst for righteousness.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Anger isn't the problem -- staying angry is; Joyce teaches how to release offense, forgive quickly and stop bitterness from taking root in your life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Hagee Ministries</title>
+    <desc>The mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">The Winning Walk With Dr. Ed Young</title>
+    <desc>The international teaching ministry of the Rev. Dr. Ed Young, senior pastor of Second Baptist Church in Houston, proclaims the truth of God's word to people throughout the world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Anger isn't the problem -- staying angry is; Joyce teaches how to release offense, forgive quickly and stop bitterness from taking root in your life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023173000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Better Together</title>
+    <desc>Sheila Walsh, Chrystal Evans Hurst, Holly Wagner, Nona Jones and Blynda Lane explore how shifting perspective and trusting God bring peace and confidence to face the future without fear.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Turning Point With Dr. David Jeremiah</title>
+    <desc>Examining a depiction of Christ found in Colossians chapter one.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Vision Bible: The Journey Begins</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Elmer Heinrich: Boosting Health with Immuno 150</title>
+    <desc>Matt Crouch interviews Elmer Heinrich, the company President and CEO of Liquid Assets, about boosting health with Immuno 150.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Allen Jackson NOW</title>
+    <desc>A lifeline for a struggling and anxious nation; a guiding hand for those who are not ready to give up, and for those who want to find a way past the negativity before things get worse; searching for the wisdom embedded in a Christian World View.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Sight &amp; Sound Theatres - David</title>
+    <desc>Showcases David's ascent to the throne, featuring towering giants, wild animals, and Philistine soldiers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="467309" start="20261024020000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Sight &amp; Sound Theatres - David</title>
+    <desc>Showcases David's ascent to the throne, featuring towering giants, wild animals, and Philistine soldiers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="467309" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Shawn and Holly Baker share their inspiring journey of faith, adoption, and our role in fulfilling God's plan for families.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023010000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">FlashPoint</title>
+    <desc>News and commentary about current events and issues facing America and the world in a spirit of faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">The Winner's Way With Mac Hammond</title>
+    <desc>Pastor Mac Hammond delivers a religious discourse inspired by the teachings of the Bible to Christian devotees and sheds light on the Word of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Healing Miracles With Pastor Addison Adamu</title>
+    <desc>With Addison Adamu, evangelist and pastor.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Dr. Sam</title>
+    <desc>Cardiologist, evangelist, medical missionary and author Samuel Kojoglanian, MD, known as Dr. Sam, provides a Biblical study of the end times with geopolitical views and heartwarming medical analogies.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Shawn and Holly Baker share their inspiring journey of faith, adoption, and our role in fulfilling God's plan for families.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Ministry Now</title>
+    <desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Jesus the Healer With Nancy Dufresne</title>
+    <desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023070000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023073000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023083000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Prophecy Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Life Today</title>
+    <desc>The author of "Not My Circus" offers guidance to engage a corrupt culture while maintaining the truth and love of Christ.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Jesus the Healer With Nancy Dufresne</title>
+    <desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">BillyGraham.TV</title>
+    <desc>Billy Graham sheds light on the spiritual battle raging around us, and shares a message of hope in Jesus Christ.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Marcus Lamb</title>
+    <desc>Be empowered to live in victory as Marcus Lamb shares how you can overcome every obstacle in Christ.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Gary Keesee: Fixing the Money Thing</title>
+    <desc>Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">John Ankerberg</title>
+    <desc>John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Sid Roth's It's Supernatural!</title>
+    <desc>Messianic investigator Sid Roth presents this show discussing and examining the supernatural reality and power of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Miracle Word Today With Marilyn Hickey</title>
+    <desc>Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Prophecy Live</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">PSB Prophetic Sound Broadcast With Shawn Baker</title>
+    <desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Bearded Bible Brothers</title>
+    <desc>Our Jewish Roots (formerly Zola Levitt Presents), teaches the Bible with an emphasis on Israel, prophecy, and the Jewish roots of Christianity. Joshua and Caleb Colson, the Bearded Bible Brothers, teach from the Holy Land, then join David and Kirsten Hart in studio. Using a strictly literal and inerrant Bible interpretation, salvation through Christ alone, an imminent pre-tribulation Rapture of al</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Love a Child</title>
+    <desc>Missionaries work to share hope and spread the message of God's love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Samuel Rodriguez</title>
+    <desc>Rev. Samuel Rodriguez shares his thoughts on the church's great commission and the biblical principles of faith, hope, love, prayer and evangelism.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Breakthrough With Rod Parsley</title>
+    <desc>"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464906" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Marcus Lamb</title>
+    <desc>Be empowered to live in victory as Marcus Lamb shares how you can overcome every obstacle in Christ.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Christ in Prophecy</title>
+    <desc>Focusing on what the Scriptures tell about the coming return of Christ and how Bible prophecy relates to current events.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East?</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261023003000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Decoding Hope</title>
+    <desc>We take a stroll through the very first battleground, the Garden of Eden, to understand the roots of the conflict that will one day explode at Armageddon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023020000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Cross Connection</title>
+    <desc>Hosts Oleg Kostyuk and Sergio Gonzalez examine the life of Jesus Christ through discussion of the four Gospels and conversations with guests.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023030000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Table Talk</title>
+    <desc>Ty Gibson, James Rafferty, David Asscherick and Jeffrey Rosario in dialogue on "The Big Picture.".</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023040000 +0000" stop="20261023042900 +0000">
+    <title lang="zh">The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023042900 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Tell the World</title>
+    <desc>In 19th century New England, the lives of a diverse group of people collide through despair, identity, faith, hope and trust.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">New Perceptions</title>
+    <desc>Messages from Pioneer Memorial Church.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Prophecy Unsealed</title>
+    <desc>Questions or to order a copy of this program call 541-474-3089.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Reimagining God</title>
+    <desc>Watch as international speaker and author Ty Gibson paints a desirable picture of God that you may find irresistible.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">CreationScapes</title>
+    <desc>Scenes with different themes and moods; soothing and inspirational music.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023100000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023110000 +0000" stop="20261023111500 +0000">
+    <title lang="zh">Wake Up With Hope</title>
+    <desc>Hosts Christian and Heidi Martin deliver messages from the Bible that guide people through their daily lives.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023111500 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Hope Talks</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Journeys</title>
+    <desc>Struggling with bitterness from her childhood experiences, Cacyne did not believe in God or in marriage, but all that would soon change.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">It Is Written</title>
+    <desc>A discussion with health professionals and a former drug addict on the dangers of drug use and how it's possible to break the chains of addiction.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Decoding Hope</title>
+    <desc>We take a stroll through the very first battleground, the Garden of Eden, to understand the roots of the conflict that will one day explode at Armageddon.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Mum's at the Table</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Wake Up With Hope</title>
+    <desc>Hosts Christian and Heidi Martin deliver messages from the Bible that guide people through their daily lives.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023143000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Pioneer Memorial Church</title>
+    <desc>Join Shane Anderson, Lead Pastor at Pioneer Memorial Church for his sermons from the Bible and music from our worship services.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">It Is Written</title>
+    <desc>A discussion with health professionals and a former drug addict on the dangers of drug use and how it's possible to break the chains of addiction.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Mum's at the Table</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Cross Connection</title>
+    <desc>Hosts Oleg Kostyuk and Sergio Gonzalez examine the life of Jesus Christ through discussion of the four Gospels and conversations with guests.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Go Healthy for Good!</title>
+    <desc>Healthy Schools: Do schools contribute to childhood obesity? Dr. Nerida hears from author Chris Lineberry about the impact our schools are having on kids today.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Maranatha Mission Stories</title>
+    <desc>Testimonies by people from various walks of life who have transformed their lives with help from Maranatha Mission volunteers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">A Pale Horse Rides</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Mission 360</title>
+    <desc>The host provides an in-depth insight into the work, challenges and development of missionaries in different parts of the world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>The Bible says a thousand years of peace are coming; what event begins this 1,000-year period?; where will God's people be during the millennium?</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Faith Journey</title>
+    <desc>God IS Love is the first thing that kids need to understand in order to fall in love with Jesus.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">The Torchlighters</title>
+    <desc>Martin Luther and the Reformation.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Breath of Life</title>
+    <desc>Dr. Carlton Byrd, speaker-director for Breath of Life Ministries, presents the gospel of Jesus Christ to the students.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Real Family Talk</title>
+    <desc>Discussing family dynamics and sharing tools to strengthen marriages and families.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">It Is Written: Canada</title>
+    <desc>Straightforward, Christ-centered presentations that inspire and encourage.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Lessons 4 Living</title>
+    <desc>Lessons for navigating a spiritual journey.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="464958" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Inverse</title>
+    <desc>The hosts conduct an interactive study of the Bible and other topics related to the Adventist faith using a practical and authentic approach.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="zh">Clash of Ideas</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Spencerville Church</title>
+    <desc>A variety of religious speakers share different Christian doctrines and passages from the Bible alongside their reflections on them.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Authentic</title>
+    <desc>Conversations about life, spirituality and God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Mission 360</title>
+    <desc>The host provides an in-depth insight into the work, challenges and development of missionaries in different parts of the world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024040000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Living Waters</title>
+    <desc>Mark Iannone.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261023003000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">One On One with Buddy &amp; Veronica McGlothin</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Man360</title>
+    <desc>Interviews, Bible teaching, and a focus on men's emotional, spiritual and physical health.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Firebrand</title>
+    <desc>Focusing on the everyday issues and interests of the younger generation, while encouraging them to pursue God's purpose for their lives and to see the world through a faith-based perspective; motivate young people to live passionately.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023033000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023043000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">You and Me Live Prayer</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023073000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Radiant TV</title>
+    <desc>Hosted by RadiantTV Founder, Jamey Schmitz, each episode features majestic scenery of God's creation captured within the 59 U.S. National Parks, uplifting instrumental music of the Great Hymns of the Christian faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Bridges Daily</title>
+    <desc>Showcasing the faithfulness of a loving God who is actively engaged in the lives of people; Monica Schmelter opens the conversation, shining God's light through real-life stories, one biblical truth at a time.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">The Lance Wallnau Show</title>
+    <desc>Lance simplifies the complex and entertains as he informs, offering perspective on current events.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Christian Fitness</title>
+    <desc>Exercise, fitness facts, nutrition suggestions and scripture.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Gary Keesee: Fixing the Money Thing</title>
+    <desc>Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Life Today With James Robison</title>
+    <desc>James and Betty Robison host guests.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">In the Kitchen with Gigi</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Bless Israel Media Advocacy</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Christian Fitness</title>
+    <desc>Exercise, fitness facts, nutrition suggestions and scripture.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Get Involved</title>
+    <desc>Do you avoid our culture's issues to protect yourself? Unplug for 30 minutes and discover how God's Word calls you to be part of the solution.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Your Health With Dr. Richard and Cindy Becker</title>
+    <desc>The Beckers bring a practical approach to health education through timely topics, interesting and renowned guests and live viewer calls - with a focus on preventative health, healthy cooking, and information with advice from a Christian perspective.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">Freedom Alive!</title>
+    <desc>Mat Staver and Steve Stiger discuss current events, government overreaches and people of faith victories.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Transformed by Grace with Kevin Sadler</title>
+    <desc>Pastor Kevin Sadler presents the transforming power of God's grace.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Contending for the Faith</title>
+    <desc>Religious Services.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Prophecy in the Spotlight</title>
+    <desc>A Bible-based media and TV ministry about the soon return of the Lord Jesus Christ to get His bride and set up the Kingdom.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465321" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">The Gospel Voice With Derrick Williams</title>
+    <desc>Uplifting Gospel, Christian, &amp; Original Music!</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Truth and Liberty</title>
+    <desc>Educate, unify and mobilize believers in Jesus Christ to affect the reformation of nations through the seven mountains of cultural influence.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Tommy Bates</title>
+    <desc>Gospel music and preaching with Pastor Tommy Bates.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024033000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">You and Me Live Prayer</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+</tv>
