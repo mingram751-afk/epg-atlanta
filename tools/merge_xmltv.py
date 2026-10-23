@@ -9,8 +9,8 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 CHANNEL_IDS = (
-    "465164", "470415", "465021", "465145", "465179", "465061", "464947", "565869",
-    "465004", "467309", "464906", "464958", "465321",
+    "465164", "465196", "470415", "465021", "465145", "465179", "465061", "464947", "565869",
+    "465004", "467309", "464906", "464958", "465321", "465285"
 )
 BASE_URL = "https://epg.pw/api/epg.xml?channel_id="
 OUTPUT = Path(__file__).resolve().parents[1] / "merged.xml"
