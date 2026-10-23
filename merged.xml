@@ -4,6 +4,10 @@
     <display-name lang="US">Golden Eagle Broadcasting</display-name>
     <icon src="" />
   </channel>
+  <channel id="465021">
+    <display-name lang="US">CNN International</display-name>
+    <icon src="" />
+  </channel>
   <channel id="465145">
     <display-name lang="US">3ABN</display-name>
     <icon src="" />
@@ -307,6 +311,176 @@
   <programme channel="465164" start="20261024043000 +0000" stop="20261025000000 +0000">
     <title lang="zh">Life Today</title>
     <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Live: Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023010000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Live: The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023020000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Live: CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023060000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>"CNN Newsroom" presents the day's headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>"CNN Newsroom" presents the day's headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>"CNN Newsroom" presents the day's headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023090000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">CNN Headline Express</title>
+    <desc>Brad Smith brings you the biggest headlines and most buzzworthy stories.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023100000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">CNN This Morning</title>
+    <desc>Stories from across the world and conversations with Audie Cornish.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023110000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023130000 +0000" stop="20261023134500 +0000">
+    <title lang="zh">Connect the World</title>
+    <desc>A journey across the continents.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023134500 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023140000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Connect the World</title>
+    <desc>A journey across the continents.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">One World With Zain Asher and Bianna Golodryga</title>
+    <desc>A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">One World With Zain Asher and Bianna Golodryga</title>
+    <desc>A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Amanpour</title>
+    <desc>Peabody Award-winning journalist Christiane Amanpour, CNN's chief international correspondent, hosts this half-hour weeknight interview program, with each episode focusing on a newsworthy topic and featuring guests, from global leaders to heads of state and cultural icons, who are comfortable challenging conventional wisdom.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Isa Soares Tonight</title>
+    <desc>Isa Soares brings together CNN's world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">What We Know With Max Foster</title>
+    <desc>Drawing on Foster's decades of experience covering major world events both on scene and in the studio, "What We Know" provides a definitive roundup of the day's top stories, and a deeper dive into the questions sparking debate around the world; in a nod to his digital prowess, Foster will seek to integrate social media throughout.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023200000 +0000" stop="20261023204500 +0000">
+    <title lang="zh">Live: Quest Means Business</title>
+    <desc>Richard Quest offers a dynamic look at the day's global business stories.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023204500 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Quest's World of Wonder</title>
+    <desc>Globe trotter Richard Quest travels to different cities to discover and learn things about them in ways tourists can't.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">The Lead With Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. "The Lead" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, </desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023220000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">The Brief With Jim Sciutto</title>
+    <desc>CNN's correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Erin Burnett OutFront</title>
+    <desc>Anchored by Erin Burnett, "OutFront" stays ahead of the headlines, providing objective reporting on the day's top issues. The Monday to Friday nightly news program features compelling newsmaker interviews, provides lively debates and offers in-depth analysis of the latest news and global headlines. "I want people to say that our show is smart. I want our show to be authentic," Burnett says. "I wan</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465021" start="20261024000000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations. Through nightly "Keeping Them Honest" reports, Anderson keeps his commitment to holding those in power accountable. And, of course, there's the RidicuList, a tongue-in-cheek commentary on the day's news that may leave viewers (and Anderson) laughing. Joining him are guests that frequently include political and le</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024040000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
     <date>2026-10-24</date>
   </programme>
   <programme channel="465145" start="20261023000000 +0000" stop="20261023010000 +0000">
