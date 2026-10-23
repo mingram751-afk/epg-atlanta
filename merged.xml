@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv source-info-name="epg.pw" generator-info-name="epg-atlanta XMLTV merger">
+<tv source-info-name="epg.pw + epgshare01" generator-info-name="epg-atlanta XMLTV merger">
   <channel id="465164">
     <display-name lang="US">Golden Eagle Broadcasting</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465196">
+    <display-name lang="US">Turner Classic Movies HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="470415">
+    <display-name lang="Canada">Al Jazeera English</display-name>
     <icon src="" />
   </channel>
   <channel id="465021">
@@ -46,6 +54,10 @@
   </channel>
   <channel id="465321">
     <display-name lang="US">Christian Television Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465285">
+    <display-name lang="US">TBS HD</display-name>
     <icon src="" />
   </channel>
   <channel id="WATC-DT.us_locals1">
@@ -317,6 +329,316 @@
   <programme channel="465164" start="20261024043000 +0000" stop="20261025000000 +0000">
     <title lang="zh">Life Today</title>
     <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261023000000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">The Snake Pit</title>
+    <desc>In this psychological drama, Virginia Cunningham is confused upon finding herself in a mental hospital, with no memory of her arrival at the institution. Tormented by delusions and unable to even recognize her husband, Robert, she is treated by Dr. Mark Kik, who is determined to get to the root of her mental illness. As her treatment progresses, flashbacks depict events in Virginia's life that may</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023020000 +0000" stop="20261023041500 +0000">
+    <title lang="zh">Suddenly, Last Summer</title>
+    <desc>In this adaptation of Tennessee Williams' play, young socialite Catherine Holly (Elizabeth Taylor) is traumatized and committed after witnessing her cousin's violent death on a trip to Europe. Her aunt, Violet Venable (Katharine Hepburn), wants to hide the events of her son's death and attempts to bribe young surgeon Dr. John Cukrowicz (Montgomery Clift) to perform a lobotomy on Catherine. But Joh</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023041500 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Torture Garden</title>
+    <desc>Sideshow psychic Dr. Diabolo (Burgess Meredith) predicts the horrific futures of some curious fairground visitors. Wealthy Colin (Michael Bryant) finds himself compelled to murder. Ruthless actress Carla (Beverly Adams) discovers that movie stars have a shocking secret. Lovestruck reporter Dorothy (Barbara Ewing) does battle with the spirit of her beloved's dead mother. And greedy Edgar Allan Poe </desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023060000 +0000" stop="20261023074500 +0000">
+    <title lang="zh">From Beyond the Grave</title>
+    <desc>The sinister owner (Peter Cushing) of a London antiques shop leads customers into four tales of terror.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023074500 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Kwaidan</title>
+    <desc>Taking its title from an archaic Japanese word meaning "ghost story," this anthology adapts four folk tales. A penniless samurai (Rentarô Mikuni) marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden (Keiko Kishi), but his rescue comes at a cost. Blind musician Hoichi (Katsuo Nakamura) is forced to perform for an audience of ghosts. An author (Osamu T</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023110000 +0000" stop="20261023124500 +0000">
+    <title lang="zh">Three Cases of Murder</title>
+    <desc>The first in this triptych of strange tales centers on a museum worker (Hugh Pryse), who discovers he can wander into the paintings he guards. Next, George (Emrys Jones) becomes rivals with a friend when they fall for the same girl (Elizabeth Sellars), but things turn dark when she turns up dead. Finally, after the powerful Lord Mountdrago (Orson Welles) ruins a politician's career during a heated</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023124500 +0000" stop="20261023134500 +0000">
+    <title lang="zh">Painted Desert</title>
+    <desc>Hugh buys the deed to the Banning mine, and sells it to Bob when he thinks it is worthless. When he learns the mine is full of tungsten, he sets out to get it back.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023134500 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Powdersmoke Range</title>
+    <desc>The Three Mesquiteers (Harry Carey, Hoot Gibson, Guinn Williams) fight a gambler and his henchmen for a ranch.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023150000 +0000" stop="20261023161500 +0000">
+    <title lang="zh">Yellow Dust</title>
+    <desc>A prospector goes undercover to clear his name of robbery before he can lay claim to a mother lode of gold.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023161500 +0000" stop="20261023174500 +0000">
+    <title lang="zh">The Arizonian</title>
+    <desc>A marshal, trying to end lawlessness and protect his brother and sweetheart, fights it out with a gang of crooks.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023174500 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Cimarron</title>
+    <desc>In 1889, adventurous lawyer and newspaper editor Yancey Cravat (Richard Dix) convinces his genteel wife, Sabra (Irene Dunne), to join him in the rush to populate Osage, Oklahoma. After they begin to settle into the community, Yancey leaves to go further west. Alone, Sabra inherits his editorial duties and struggles to bring civilization to the rough frontier town. Over a tumultuous 40 years, the c</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023200000 +0000" stop="20261023211500 +0000">
+    <title lang="zh">Ghost Valley</title>
+    <desc>A crooked judge (Mitchell Harris) unwittingly hires the heir to a gold mine to scare his cousin (Merna Kennedy) into selling the property.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023211500 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Annie Oakley</title>
+    <desc>Expert markswoman Annie Oakley (Barbara Stanwyck) leaves her backwoods home to challenge New York's vaudeville sharpshooter, Toby Walker (Preston Foster). Toby is skeptical of Annie's skill, but although she purposely loses their contest, the business partner of Buffalo Bill Cody (Moroni Olsen) realizes her potential. Cody builds an act for his Wild West show around Annie and Toby's rivalry, but i</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Scarlet River</title>
+    <desc>An actor (Tom Keene) on the set of a cowboy movie rescues a rancher (Dorothy Wilson) from her foreman (Creighton Chaney).</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465196" start="20261024000000 +0000" stop="20261024014500 +0000">
+    <title lang="zh">Carl Laemmle</title>
+    <desc>The extraordinary life story of Carl Laemmle, the German-Jewish immigrant who founded Universal Pictures and saved over 300 Jewish families from Nazi Germany.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024014500 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Frankenstein</title>
+    <desc>This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen assistant, Fritz, Frankenstein succeeds in animating his monster, but, confused and traumatized, it escapes into the countryside and begins to wreak havoc. Frankenstein searches for the elusive being, and </desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024030000 +0000" stop="20261024041500 +0000">
+    <title lang="zh">The Invisible Man</title>
+    <desc>While researching a new drug, Dr. Jack Griffin (Claude Rains) stumbles on a potion that can make him invisible. When he reveals his new ability to his old mentor (Henry Travers) and his fiancée (Gloria Stuart), it's clear that a side effect of the potion is insanity. Jack goes on a violent rampage, and the police struggle to hunt him down, unable to see their target, while his mentor and his forme</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024041500 +0000" stop="20261025000000 +0000">
+    <title lang="zh">The Black Cat</title>
+    <desc>Stranded Budapest honeymooners follow a mad doctor (Bela Lugosi) to a black-lipped architect's (Boris Karloff) Art Deco manor.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261023000000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023010000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">Witness</title>
+    <desc>The filmmakers examine the brutal consequences of evangelical Christian influence on US foreign policy in the Middle East.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023020000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">Fault Lines</title>
+    <desc>Reporters investigate America's role in the world and the people at the heart of the news.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">Echoes of a Lost Gaza</title>
+    <desc>Mariam looks back at stories she covered in Gaza between 2007 and 2011, including the importance of fertility clinics in Arab society, the Alfaluna school for children who are deaf and a woman who draws political cartoons for a local newspaper.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">Inside Story</title>
+    <desc>Going beyond the headlines and to the heart of the news of the day.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">Witness</title>
+    <desc>Two close friends find themselves on opposite sides of the Gaza conflict as Raed is trapped within Gaza's borders while George can only observe from a distance.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">Al Jazeera Explains</title>
+    <desc />
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">101 East</title>
+    <desc>Asian current affairs.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023100000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Inside Story</title>
+    <desc>Going beyond the headlines and to the heart of the news of the day.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Head to Head</title>
+    <desc>Mehdi engages in a discussion about the big issues in current time, such as faith, democracy and freedom of speech.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Fault Lines</title>
+    <desc>Reporters investigate America's role in the world and the people at the heart of the news.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Business of War</title>
+    <desc>Hind Hassan investigates how weapons from the global arms trade are being used by militarized police forces.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Inside Story</title>
+    <desc>Going beyond the headlines and to the heart of the news of the day.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023180000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Counting the Cost</title>
+    <desc>Providing the background to the economics stories that shape our world.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023200000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">Al Jazeera Investigates</title>
+    <desc>Investigating crimes.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023210000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">Mindset</title>
+    <desc>The host examines how South African traditional healers and Korean sport psychologists provide mental health solutions.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">Inside Story</title>
+    <desc>Going beyond the headlines and to the heart of the news of the day.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="470415" start="20261024000000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Head to Head</title>
+    <desc>Mehdi engages in a discussion about the big issues in current time, such as faith, democracy and freedom of speech.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">101 East</title>
+    <desc>Asian current affairs.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Witness</title>
+    <desc>Two close friends find themselves on opposite sides of the Gaza conflict as Raed is trapped within Gaza's borders while George can only observe from a distance.</desc>
     <date>2026-10-24</date>
   </programme>
   <programme channel="465021" start="20261023000000 +0000" stop="20261023010000 +0000">
@@ -2757,6 +3079,261 @@
   <programme channel="465321" start="20261024043000 +0000" stop="20261025000000 +0000">
     <title lang="zh">You and Me Live Prayer</title>
     <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon tries to teach the guys a lesson after they cut him out of a potentially valuable investment; a seven-year-old video reveals a secret about Leonard and Penny's relationship.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon and Amy try to use math to eliminate wedding planning stress; Koothrappali "breaks up" with Wolowitz after realizing he is hurting his confidence.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon plans an authentic "Little House on the Prairie" dinner for Amy's birthday; Leonard receives a Christmas letter from his brother.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon and Amy subject their friends to a series of secret experiments to discover which two would be most qualified to be the best man and the maid of honor at their wedding; Penny reveals her true feelings about Amy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon kicks Amy out to work solo; Amy and Leonard bond during a series of science experiments; Bert replaces Wolowitz in the band; Sheldon finds Penny a surprising source of scientific inspiration.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Koothrappali learns the woman he's dating has a very upset husband; Sheldon rents his old room for a quiet place to work.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael demands Toby's goodbye party at Dunder Mifflin be a huge celebration; Dwight and Meredith haze Holly (Amy Ryan), the new human resources person.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Staffers in the Scranton branch of Dunder Mifflin become obsessed with their weight in the wake of corporate weight-loss initiatives; Michael pursues a friendship with Holly; Jim misses Pam, who is away at art school.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023040000 +0000" stop="20261023043000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Staffers in the Scranton branch of Dunder Mifflin become obsessed with their weight in the wake of corporate weight-loss initiatives; Michael pursues a friendship with Holly; Jim misses Pam, who is away at art school.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023043000 +0000" stop="20261023050000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>A business ethics seminar gets out of control when Michael lets everyone talk about their unethical behavior at work; Jim makes Dwight observe the company's "time theft" policy.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023050000 +0000" stop="20261023053000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael has Dwight go over possible birthing scenarios to prepare for the birth of Jan's baby; Michael tells Holly he will pretend not to like her for Jan's benefit.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023053000 +0000" stop="20261023060000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael helps Pam get a part-time job so she can afford art school; Michael and Holly get an early start on their date night; after the office is robbed, Michael decides to raise money for all the lost items.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023060000 +0000" stop="20261023063000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Pam is embarrassed when no one else at corporate wears a costume on Halloween; Holly and Michael get shocking news from corporate; Dwight tries to get under Andy's skin.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023063000 +0000" stop="20261023070000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Jim and Dwight are stunned when they get the results of the annual customer survey report; Jim and Pam decide to spend every minute together; Andy and Angela choose an unusual location for their wedding.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023070000 +0000" stop="20261023073000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Michael is thrilled when David Wallace sends him on a business trip to Canada; Oscar and Andy become friends when Michael decides to bring them on the trip; Jim counts the days until Pam returns from art school.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023073000 +0000" stop="20261023080000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Someone made a huge mess in the microwave and refuses to clean it up; Michael must come to terms with the personnel changes in his staff.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Oscar informs Michael that the office must spend a cash surplus or lose it in the next year's budget; Dwight takes Angela and Andy to Schrute Farms to work on their wedding plans.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="zh">The Office</title>
+    <desc>Meredith's hair catches fire at Phyllis' Moroccan-themed Christmas party; Dwight corners the market on the hottest toy of the holiday season.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023090000 +0000" stop="20261023093000 +0000">
+    <title lang="zh">American Dad!</title>
+    <desc>Stan offers a reward to the person who can stop Hayley and her old boyfriend from eloping, and tragedy strikes Langley Falls.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023093000 +0000" stop="20261023100000 +0000">
+    <title lang="zh">American Dad!</title>
+    <desc>Francine and Stan compare parenting skills after Stan creates a clone of Steve; Roger searches for the missing bride and groom.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="zh">Young Sheldon</title>
+    <desc>George Sr. gets an exciting job offer; Sheldon prepares for his move to California.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="zh">Young Sheldon</title>
+    <desc>Sheldon leaves East Texas for the California Institute of Technology following the death of his father, George Cooper Sr.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="zh">Young Sheldon</title>
+    <desc>Young Sheldon ends its seven-year run with a must-see two-episode series finale; Jim Parsons and Mayim Bialik reprise their roles as Sheldon Cooper and Amy Farrah Fowler in an unforgettable hour of television.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="zh">Young Sheldon</title>
+    <desc>Sheldon learns that his high intelligence isn't always helpful growing up in East Texas, where church and football are king.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023120000 +0000" stop="20261023123000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Ross is upset when Rachel returns his personal belongings and dates Mark; Monica dates a millionaire.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023123000 +0000" stop="20261023130000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Monica's aunt dies and leaves her an antique dollhouse that she doesn't want Phoebe to play with; Rachel regrets making a date for Chandler and her boss, Joanna; Joey's interest in Kate intensifies.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Monica considers accepting a dream job in Pete's new restaurant but fears there is more to the deal; Ross makes a sacrifice for Rachel.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>The gang goes to the opening night of Joey's plays; Rachel brings a date (Ben Stiller) to make Ross jealous; Joey's play gets terrible reviews, but his co-star provides some comfort.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Afflicted with a mysterious skin condition, Ross seeks advice from Guru Saj; Monica can't decide about Pete.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>To her horror, Monica's boyfriend plans to fight; the friends are intrigued by a conversation between two strangers.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>The friends stay at a beach house; Phoebe meets someone who knows details about her family; Rachel expresses her jealousy of Ross' uninhibited girlfriend.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Ross dates Rachel again after unwittingly agreeing to take responsibility for their breakup; Phoebe reconciles with her mother; Monica is stung by a jellyfish.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Phoebe becomes convinced that the spirit of her dead mother is inside a cat; Chandler and Joey are robbed; Monica goes on a date with a guy from her high school.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Rachel's boss, Joanna, leaves Chandler in an awkward situation that will require Rachel's help; Monica's catering fiasco.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023170000 +0000" stop="20261023173000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Joey intervenes when the superintendent, Mr. Treeger, moves to evict Rachel and Monica; Chandler tries to quit a health club.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023173000 +0000" stop="20261023180000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Chandler falls for a woman who is already involved with Joey; Rachel and Ross play the jealousy game.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Ross starts dating a beautiful but messy co-worker from the museum; Monica and Phoebe cater a sad event.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Chandler faces a tough choice after his passionate kiss with Joey's girlfriend; Rachel has to learn about dining alone.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>To atone for kissing Joey's girlfriend, Chandler agrees to stay inside a shipping crate during the Thanksgiving holiday.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="zh">Friends</title>
+    <desc>Rachel's career is obstructed by her boss, Joanna; Monica faces a big decision; Chandler, Ross and Joey party.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon petitions Wil Wheaton to appear on the new "Professor Proton" show, but Wil offers a role to Amy instead; Penny gets angry when she thinks the female protagonist in Leonard's novel is based on her.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>When Bernadette won't go into labor, her friends try different tactics to get things started; Wolowitz confronts Bernadette after Amy accidentally reveals she's already chosen their son's name.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Leonard jumps through hoops to help secure the perfect wedding venue for Sheldon and Amy; Bernadette and Wolowitz have a hard time deciding who should stay at home with the kids and who should go back to work.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Penny gets the opportunity to host Bill Gates at work when his company wants to partner with hers; Leonard, Koothrappali and Wolowitz do everything in their power to meet him; Sheldon thinks he is the victim of a prank.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Leonard decides to run against Sheldon for president of the tenants' association; Bernadette encourages Wolowitz and Koothrappali to find the owner of a drone after they find it in the backyard.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>A brilliant but reclusive scientist, Doctor Wolcott, invites Sheldon to his cabin in the middle of nowhere; Penny and Bernadette improvise after Amy doesn't like the tame bachelorette party they planned for her.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023230000 +0000" stop="20261023233000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon's comic book store experience changes when writer Neil Gaiman puts Stuart's store on the map; friendships are threatened when Koothrappali takes credit for Penny's astronomical discovery.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261023233000 +0000" stop="20261024000000 +0000">
+    <title lang="zh">The Big Bang Theory</title>
+    <desc>Sheldon goes to Las Vegas to win money for science; Penny and Bernadette take Amy wedding dress shopping, but her terrible choice entangles them in a web of lies.</desc>
+    <date>2026-10-23</date>
+  </programme>
+  <programme channel="465285" start="20261024000000 +0000" stop="20261024024800 +0000">
+    <title lang="zh">Independence Day</title>
+    <desc>In the epic adventure film "Independence Day," strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261024024800 +0000" stop="20261024045200 +0000">
+    <title lang="zh">I, Robot</title>
+    <desc>In 2035, highly intelligent robots fill public service positions throughout the world, operating under three rules to keep humans safe. Despite his dark history with robotics, Detective Del Spooner (Will Smith) investigates the alleged suicide of U.S. Robotics founder Alfred Lanning (James Cromwell) and believes that a human-like robot (Alan Tudyk) murdered him. With the help of a robot expert (Br</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261024045200 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Independence Day</title>
+    <desc>In the epic adventure film "Independence Day," strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of</desc>
     <date>2026-10-24</date>
   </programme>
   <programme channel="WATC-DT.us_locals1" start="20261020050000 +0000" stop="20261020060000 +0000">
