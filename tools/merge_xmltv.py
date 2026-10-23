@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch and merge the configured epg.pw XMLTV feeds."""
+"""Fetch and merge the configured epg.pw and EPGShare XMLTV feeds."""
 
 from __future__ import annotations
 
@@ -17,12 +17,21 @@ BASE_URL = "https://epg.pw/api/epg.xml?channel_id="
 OUTPUT = Path(__file__).resolve().parents[1] / "merged.xml"
 WATC_URL = "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz"
 WATC_CHANNEL_ID = "WATC-DT.us_locals1"
+CNN_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+CNN_SOURCE_CHANNEL_ID = "plex.tv.CNN.Originals.plex"
+CNN_CHANNEL_ID = "CNNOriginals.us"
 
 
-def fetch_watc() -> tuple[ET.Element, list[ET.Element]]:
-    """Fetch the compressed US locals feed and keep only the WATC-DT entry."""
+def fetch_epgshare_channel(
+    url: str, source_channel_id: str, output_channel_id: str
+) -> tuple[ET.Element, list[ET.Element]]:
+    """Fetch a compressed EPGShare feed and retain one channel and its listings."""
     request = urllib.request.Request(
-        WATC_URL, headers={"User-Agent": "epg-atlanta-xmltv-merger/1.0"}
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; epg-atlanta-xmltv-merger/1.0)",
+            "Referer": "https://epgshare01.online/epgshare01/",
+        },
     )
     channels: list[ET.Element] = []
     programmes: list[ET.Element] = []
@@ -37,17 +46,21 @@ def fetch_watc() -> tuple[ET.Element, list[ET.Element]]:
                     continue
 
                 if len(stack) == 2:
-                    if elem.tag == "channel" and elem.get("id") == WATC_CHANNEL_ID:
-                        channels.append(ET.fromstring(ET.tostring(elem)))
+                    if elem.tag == "channel" and elem.get("id") == source_channel_id:
+                        channel = ET.fromstring(ET.tostring(elem))
+                        channel.set("id", output_channel_id)
+                        channels.append(channel)
                         found_channel = True
-                    elif elem.tag == "programme" and elem.get("channel") == WATC_CHANNEL_ID:
-                        programmes.append(ET.fromstring(ET.tostring(elem)))
+                    elif elem.tag == "programme" and elem.get("channel") == source_channel_id:
+                        programme = ET.fromstring(ET.tostring(elem))
+                        programme.set("channel", output_channel_id)
+                        programmes.append(programme)
                     stack[0].remove(elem)
                     elem.clear()
                 stack.pop()
 
     if not found_channel:
-        raise ValueError(f"source does not contain channel {WATC_CHANNEL_ID}")
+        raise ValueError(f"source does not contain channel {source_channel_id}")
     return channels[0], programmes
 
 
@@ -82,12 +95,25 @@ def main() -> int:
             return 1
 
     try:
-        watc_channel, watc_programmes = fetch_watc()
+        watc_channel, watc_programmes = fetch_epgshare_channel(
+            WATC_URL, WATC_CHANNEL_ID, WATC_CHANNEL_ID
+        )
         channels.setdefault(WATC_CHANNEL_ID, watc_channel)
         programmes.extend(watc_programmes)
         print(f"{WATC_CHANNEL_ID}: 1 channel, {len(watc_programmes)} programmes")
     except Exception as exc:
         print(f"Failed to fetch or parse WATC feed: {exc}", file=sys.stderr)
+        return 1
+
+    try:
+        cnn_channel, cnn_programmes = fetch_epgshare_channel(
+            CNN_URL, CNN_SOURCE_CHANNEL_ID, CNN_CHANNEL_ID
+        )
+        channels.setdefault(CNN_CHANNEL_ID, cnn_channel)
+        programmes.extend(cnn_programmes)
+        print(f"{CNN_CHANNEL_ID}: 1 channel, {len(cnn_programmes)} programmes")
+    except Exception as exc:
+        print(f"Failed to fetch or parse CNN Originals feed: {exc}", file=sys.stderr)
         return 1
 
     root = ET.Element(
