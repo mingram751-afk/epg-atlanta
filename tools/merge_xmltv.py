@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import gzip
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -14,6 +15,40 @@ CHANNEL_IDS = (
 )
 BASE_URL = "https://epg.pw/api/epg.xml?channel_id="
 OUTPUT = Path(__file__).resolve().parents[1] / "merged.xml"
+WATC_URL = "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz"
+WATC_CHANNEL_ID = "WATC-DT.us_locals1"
+
+
+def fetch_watc() -> tuple[ET.Element, list[ET.Element]]:
+    """Fetch the compressed US locals feed and keep only the WATC-DT entry."""
+    request = urllib.request.Request(
+        WATC_URL, headers={"User-Agent": "epg-atlanta-xmltv-merger/1.0"}
+    )
+    channels: list[ET.Element] = []
+    programmes: list[ET.Element] = []
+    stack: list[ET.Element] = []
+    found_channel = False
+
+    with urllib.request.urlopen(request, timeout=180) as response:
+        with gzip.GzipFile(fileobj=response) as source:
+            for event, elem in ET.iterparse(source, events=("start", "end")):
+                if event == "start":
+                    stack.append(elem)
+                    continue
+
+                if len(stack) == 2:
+                    if elem.tag == "channel" and elem.get("id") == WATC_CHANNEL_ID:
+                        channels.append(ET.fromstring(ET.tostring(elem)))
+                        found_channel = True
+                    elif elem.tag == "programme" and elem.get("channel") == WATC_CHANNEL_ID:
+                        programmes.append(ET.fromstring(ET.tostring(elem)))
+                    stack[0].remove(elem)
+                    elem.clear()
+                stack.pop()
+
+    if not found_channel:
+        raise ValueError(f"source does not contain channel {WATC_CHANNEL_ID}")
+    return channels[0], programmes
 
 
 def main() -> int:
@@ -46,10 +81,19 @@ def main() -> int:
             print(f"Failed to fetch or parse feed {channel_id}: {exc}", file=sys.stderr)
             return 1
 
+    try:
+        watc_channel, watc_programmes = fetch_watc()
+        channels.setdefault(WATC_CHANNEL_ID, watc_channel)
+        programmes.extend(watc_programmes)
+        print(f"{WATC_CHANNEL_ID}: 1 channel, {len(watc_programmes)} programmes")
+    except Exception as exc:
+        print(f"Failed to fetch or parse WATC feed: {exc}", file=sys.stderr)
+        return 1
+
     root = ET.Element(
         "tv",
         {
-            "source-info-name": "epg.pw",
+            "source-info-name": "epg.pw + epgshare01",
             "generator-info-name": "epg-atlanta XMLTV merger",
         },
     )
