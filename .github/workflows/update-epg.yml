@@ -3,7 +3,7 @@ name: Update EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */23 * * *"   # Runs at 17 minutes past the hour, every 6 hours
+    - cron: "17 */23 * * *"   # Runs at 17 minutes past the hour, every 23 hours
 
 permissions:
   contents: write
