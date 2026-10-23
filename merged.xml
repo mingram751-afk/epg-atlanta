@@ -48,6 +48,12 @@
     <display-name lang="US">Christian Television Network</display-name>
     <icon src="" />
   </channel>
+  <channel id="WATC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WATC-DT</display-name>
+  </channel>
   <programme channel="465164" start="20261023000000 +0000" stop="20261023003000 +0000">
     <title lang="zh">Andrew Wommack: Gospel Truth</title>
     <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
@@ -2752,5 +2758,2003 @@
     <title lang="zh">You and Me Live Prayer</title>
     <desc />
     <date>2026-10-24</date>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020050000 +0000" stop="20261020060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 14:1 -15:6 DVD 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E121</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020060000 +0000" stop="20261020070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 4:1-4:16 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E96</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020070000 +0000" stop="20261020080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 14:8 – 15:7 DVD Number 40210.13.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020080000 +0000" stop="20261020090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 11:1-13:6 DVD.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E118</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020090000 +0000" stop="20261020100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 22:05-23:10.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E56</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020100000 +0000" stop="20261020103000 +0000">
+    <title lang="en">Robbi Warren</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p883446_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020103000 +0000" stop="20261020110000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p695606_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020110000 +0000" stop="20261020113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020113000 +0000" stop="20261020120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020120000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020130000 +0000" stop="20261020133000 +0000">
+    <title lang="en">The Christian View</title>
+    <desc lang="en">A lively panel discussion of hot topics from a Christian perspective.</desc>
+    <date>2014</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11028995_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020133000 +0000" stop="20261020140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020140000 +0000" stop="20261020143000 +0000">
+    <title lang="en">Kingdom One Live</title>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21654710_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020143000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Magnify</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9595895_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020150000 +0000" stop="20261020153000 +0000">
+    <title lang="en">Steadfast Journey</title>
+    <desc lang="en">Bridging the gap through Evangelism, encouraging believers to continue moving forward and drawing lost souls with the undiluted Word of God.</desc>
+    <date>2022</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21337056_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020153000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020160000 +0000" stop="20261020163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020163000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Mark Batterson: The Power of Persistence</sub-title>
+    <desc lang="en">The author of "Gradually Then Suddenly" looks beyond our immediate concerns and goals to see God's pattern of working continually over long periods of time.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Mark Batterson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E114</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 22:05-23:10.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E56</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020180000 +0000" stop="20261020183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020183000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020190000 +0000" stop="20261020193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020193000 +0000" stop="20261020200000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="en">Babbies House</title>
+    <desc lang="en">Focuses on faith, family and music.</desc>
+    <credits>
+      <actor>Babbie Mason</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18003354_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020203000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020210000 +0000" stop="20261020213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 2</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E170</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020213000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020220000 +0000" stop="20261020223000 +0000">
+    <title lang="en">Jeff Lyle: Truth Shots</title>
+    <desc lang="en">Jeff and Amy Lyle speak biblically to important issues and current events that both the Church and the modern culture are facing.</desc>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18811175_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020223000 +0000" stop="20261020230000 +0000">
+    <title lang="en">Hallelujah Time</title>
+    <desc lang="en">Praise and worship music featuring Richard South and the Power Singers.</desc>
+    <date>2010</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8364565_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020230000 +0000" stop="20261021000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021000000 +0000" stop="20261021003000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Jennifer Rothschild: Heaven Starts Here</sub-title>
+    <desc lang="en">The author of "Heaven for Today" expresses the hope of heaven, both eternally and during this lifetime.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Jennifer Rothschild</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E115</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021003000 +0000" stop="20261021010000 +0000">
+    <title lang="en">Campmeeting Classics</title>
+    <date>2008</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p609695_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021010000 +0000" stop="20261021013000 +0000">
+    <title lang="en">Joyce Meyer</title>
+    <desc lang="en">Sharing encouragement to help others enjoy everyday life.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680837_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021013000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Life Outreach</title>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429496_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021020000 +0000" stop="20261021023000 +0000">
+    <title lang="en">Empowered to Achieve</title>
+    <desc lang="en">Teaching program with Dr. Coy and Dr. Dee Barker.</desc>
+    <date>2019</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16391825_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021023000 +0000" stop="20261021030000 +0000">
+    <title lang="en">Glad You Asked</title>
+    <desc lang="en">Dave Glander, and co-hosts Gabby and Alyssa, take questions from all around the world about ethics, culture, the Bible, Christianity, life, and the biblical worldview. Then, in unscripted discussion, they seek to provide solid biblical answers.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988376_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021030000 +0000" stop="20261021033000 +0000">
+    <title lang="en">Prophecy USA</title>
+    <desc lang="en">Minister Rick Pearson discusses the hidden mysteries of America's role in Bible prophecy.</desc>
+    <credits>
+      <actor>Rick Pearson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31409228_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021033000 +0000" stop="20261021040000 +0000">
+    <title lang="en">Robbi Warren</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p883446_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021040000 +0000" stop="20261021050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Nahum Chapter 2:6-3:19 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021050000 +0000" stop="20261021060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 15:7 -16:15 DVD 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E122</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021060000 +0000" stop="20261021070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 5:1-5:14 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E97</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021070000 +0000" stop="20261021080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 15:8 – 16:3 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E13</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021080000 +0000" stop="20261021090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 14:1 -16:11 DVD.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E119</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021090000 +0000" stop="20261021100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 23:11 and on.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E57</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021100000 +0000" stop="20261021103000 +0000">
+    <title lang="en">A Steadfast Journey</title>
+    <date>2023</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23963689_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021103000 +0000" stop="20261021110000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021110000 +0000" stop="20261021113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021113000 +0000" stop="20261021120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021120000 +0000" stop="20261021130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021130000 +0000" stop="20261021133000 +0000">
+    <title lang="en">Always More</title>
+    <desc lang="en">To encourage viewers to not waste one moment of their life running from the call of God.</desc>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15430145_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021133000 +0000" stop="20261021140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021140000 +0000" stop="20261021143000 +0000">
+    <title lang="en">Just Call Me Sarah</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11612146_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021143000 +0000" stop="20261021150000 +0000">
+    <title lang="en">This Day with Hope andJoy</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18987025_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021150000 +0000" stop="20261021153000 +0000">
+    <title lang="en">Time for Hope</title>
+    <desc lang="en">Dr. Freda Crews and her guests offer faith-based solutions to real-life problems, and challenge viewers to put their hope in Jesus Christ for peace, healing and recovery.</desc>
+    <credits>
+      <actor>Freda Crews</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p959430_b_h11_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021153000 +0000" stop="20261021160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021160000 +0000" stop="20261021163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021163000 +0000" stop="20261021170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Jennifer Rothschild: Heaven Starts Here</sub-title>
+    <desc lang="en">The author of "Heaven for Today" expresses the hope of heaven, both eternally and during this lifetime.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Jennifer Rothschild</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E115</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021170000 +0000" stop="20261021180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 23:11 and on.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E57</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021180000 +0000" stop="20261021183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021183000 +0000" stop="20261021190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021190000 +0000" stop="20261021193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021193000 +0000" stop="20261021200000 +0000">
+    <title lang="en">Pathway To Victory with Robert Jeffress</title>
+    <desc lang="en">Dr. Robert Jeffress provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29941863_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021200000 +0000" stop="20261021203000 +0000">
+    <title lang="en">Babbies House</title>
+    <desc lang="en">Focuses on faith, family and music.</desc>
+    <credits>
+      <actor>Babbie Mason</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18003354_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021203000 +0000" stop="20261021210000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021210000 +0000" stop="20261021213000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021213000 +0000" stop="20261021220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021220000 +0000" stop="20261021223000 +0000">
+    <title lang="en">Pastor Asa Dockery</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11643886_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021223000 +0000" stop="20261021230000 +0000">
+    <title lang="en">Jasper Crusade</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9289188_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021230000 +0000" stop="20261022003000 +0000">
+    <title lang="en">Gospel Music USA</title>
+    <date>2025</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680095_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022003000 +0000" stop="20261022010000 +0000">
+    <title lang="en">Coffee With Kim</title>
+    <desc lang="en">Meet a woman whose acting career shifted away from Hollywood and is now being poured into creating materials to fill children's hearts with the wonder of Jesus' love.</desc>
+    <date>2020</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17788406_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022010000 +0000" stop="20261022013000 +0000">
+    <title lang="en">The Whole Truth</title>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p955833_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022013000 +0000" stop="20261022020000 +0000">
+    <title lang="en">A Hope Worth Having</title>
+    <desc lang="en">A Hope Worth Having and the teachings of Christ.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p549406_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022020000 +0000" stop="20261022023000 +0000">
+    <title lang="en">Magnify</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9595895_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022023000 +0000" stop="20261022030000 +0000">
+    <title lang="en">Sarah Hurd</title>
+    <date>2013</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10129626_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022030000 +0000" stop="20261022033000 +0000">
+    <title lang="en">Sharing His Life</title>
+    <date>2026</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32731270_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022033000 +0000" stop="20261022040000 +0000">
+    <title lang="en">The Christian View</title>
+    <desc lang="en">A fast-paced, high-energy TV talk show with a panel of sharp, quick-witted hosts discussing today's hot topics and trending news from a Biblical perspective.</desc>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15779402_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022040000 +0000" stop="20261022050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Habakkuk Chapter 1:1-2:6 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022050000 +0000" stop="20261022060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 16:16-17:14 DVD Number 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E125</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022060000 +0000" stop="20261022070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 6:1-6:20 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E98</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022070000 +0000" stop="20261022080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 16:4 – 17:11 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022080000 +0000" stop="20261022090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 17:1 -18:10 DVD Number.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E111</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022090000 +0000" stop="20261022100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:1-1:2 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E27</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022100000 +0000" stop="20261022103000 +0000">
+    <title lang="en">Anthony Wynn</title>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22679883_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022103000 +0000" stop="20261022110000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2024</date>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27667610_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022110000 +0000" stop="20261022113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022113000 +0000" stop="20261022120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022120000 +0000" stop="20261022130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022130000 +0000" stop="20261022133000 +0000">
+    <title lang="en">My Journey With Paula</title>
+    <desc lang="en">Helping people manage the journey of life while embracing their unique, God-given gifts.</desc>
+    <credits>
+      <actor>Paula G. Fergunson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15829242_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022133000 +0000" stop="20261022140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022140000 +0000" stop="20261022143000 +0000">
+    <title lang="en">Jeff Lyle: Truth Shots</title>
+    <desc lang="en">Jeff and Amy Lyle speak biblically to important issues and current events that both the Church and the modern culture are facing.</desc>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18811175_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022143000 +0000" stop="20261022150000 +0000">
+    <title lang="en">The Master's Table</title>
+    <date>2023</date>
+    <icon src="http://dtil.tmsimg.com/assets/p24182414_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022150000 +0000" stop="20261022153000 +0000">
+    <title lang="en">Tracy Wells</title>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p963906_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022153000 +0000" stop="20261022160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022160000 +0000" stop="20261022163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022163000 +0000" stop="20261022170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Mark Batterson: Courage in a Crazy World</sub-title>
+    <desc lang="en">The author of "Not My Circus" offers guidance to engage a corrupt culture while maintaining the truth and love of Christ.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Mark Batterson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E116</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022170000 +0000" stop="20261022180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:1-1:2 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E27</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022180000 +0000" stop="20261022183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022183000 +0000" stop="20261022190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022190000 +0000" stop="20261022193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022193000 +0000" stop="20261022200000 +0000">
+    <title lang="en">Pathway To Victory with Robert Jeffress</title>
+    <desc lang="en">Dr. Robert Jeffress provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29941863_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022200000 +0000" stop="20261022203000 +0000">
+    <title lang="en">Babbie's House</title>
+    <desc lang="en">Host Babbie Mason cooks up delicious soul food with heart-warming interviews.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p582381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022203000 +0000" stop="20261022210000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2008</date>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p839471_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022210000 +0000" stop="20261022213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 4</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E172</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022213000 +0000" stop="20261022220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022220000 +0000" stop="20261022223000 +0000">
+    <title lang="en">Aurea's Ark</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33843085_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022223000 +0000" stop="20261022230000 +0000">
+    <title lang="en">Red Back Revival</title>
+    <desc lang="en">Host Charlie Sexton and the Red Back Revival Choir share many of the classic hymns from the Red Back Hymnal.</desc>
+    <credits>
+      <actor>Charlie Sexton</actor>
+      <director>Charlie Sexton</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23150077_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022230000 +0000" stop="20261023000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="en">Life Today With James Robison</title>
+    <desc lang="en">Inspirational stories through a talk show format with daily guests.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21728211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <credits>
+      <actor>Charles Stanley</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="en">Perry Stone</title>
+    <desc lang="en">An in-depth, prophetic and practical study of the word of God with Evangelist Perry Stone.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10076787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="en">Christian Worship Hr.</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19212354_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="en">Gospel Music USA</title>
+    <date>2025</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680095_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="en">Beyond the Call</title>
+    <date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28649234_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="en">Making People Productive</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p31490304_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="en">The Whole Truth</title>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p955833_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Habakkuk Chapter 2:7-3:4 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 17:15-19:12 DVD Number 40126.05.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E126</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023060000 +0000" stop="20261023070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 7:1-7:28 DVD Number 40157.03.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E99</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 17:12 – 17:35 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 18:11-18:38 DVD Number.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E113</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023090000 +0000" stop="20261023100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:3-1:31 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E28</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="en">Prophetic Times</title>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p866910_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="en">On the Move</title>
+    <desc lang="en">On the Move, hosted by Julie Hyman and Adam Shapiro, is a look at the top headlines and in depth analysis of what is moving the markets. Live at 11:00am ET.</desc>
+    <date>2019</date>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17883739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="en">Pastor Asa Dockery</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11643886_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="en">Coffee With Kim</title>
+    <desc lang="en">Meet a woman whose acting career shifted away from Hollywood and is now being poured into creating materials to fill children's hearts with the wonder of Jesus' love.</desc>
+    <date>2020</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17788406_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="en">Berean Endeavor</title>
+    <desc lang="en">Join Robert Vander Maten as he studies and learns about the God Who the people serve from His Word, the Bible.</desc>
+    <credits>
+      <actor>Robert Vander Maten</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20503686_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="en">CrossTalk</title>
+    <desc lang="en">Discussions on current events.</desc>
+    <date>2017</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13949360_st_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Randy and Betty Robison: Rescue Life</sub-title>
+    <desc lang="en">Betty and Randy expose the evil of sex trafficking and share the light of God's intervention to reach, rescue and restore young lives.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E112</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:3-1:31 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E28</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="en">Babbie's House</title>
+    <desc lang="en">Host Babbie Mason cooks up delicious soul food with heart-warming interviews.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p582381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2008</date>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p839471_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 5</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E173</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="en">Always More</title>
+    <desc lang="en">To encourage viewers to not waste one moment of their life running from the call of God.</desc>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15430145_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="en">Kingdom One Live</title>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21654710_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="en">Life Today With James Robison</title>
+    <desc lang="en">Inspirational stories through a talk show format with daily guests.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21728211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="en">Hallelujah Time</title>
+    <desc lang="en">Praise and worship music featuring Richard South and the Power Singers.</desc>
+    <date>2010</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8364565_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="en">T.J. McBride</title>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16265509_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="en">Healing Miracles</title>
+    <desc lang="en">Bible teaching, interview program with Addison Adamu.</desc>
+    <credits>
+      <actor>Addison Adamu</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11536649_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="en">The Ernest Angley Hour</title>
+    <desc lang="en">Rev. Angley presents the fullness of God's word to viewers.</desc>
+    <credits>
+      <actor>Ernest Angley</actor>
+    </credits>
+    <category lang="en">Variety</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p505261_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="en">I Pressed On</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p29545985_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="en">At Midnight Ministries</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33369096_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024040000 +0000" stop="20261024050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray special study; TOGETHER DVD Number 41241.</desc>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E31</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
   </programme>
 </tv>
