@@ -1,5 +1,6 @@
 import datetime
 import json
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
@@ -7,6 +8,8 @@ from zoneinfo import ZoneInfo
 
 TIMEZONE = ZoneInfo("America/New_York")
 API_BASE = "https://api2-test.3abn.org/sched/daily"
+GTN_FEED_BASE = "https://gms.awmws.com/program-guide/json"
+GTN_CHANNEL = ("GospelTruthTV.us", "Gospel Truth TV")
 DAYS = 7
 
 # XMLTV channel ID, display name, and network key used by the 3ABN schedule API.
@@ -60,6 +63,37 @@ def parse_duration(record):
     return datetime.timedelta(hours=hours, minutes=minutes, seconds=seconds)
 
 
+def parse_fixed_utc_offset(value):
+    """Parse the UTC offset published with a GTN day feed."""
+    match = re.fullmatch(r"UTC([+-])(\d{1,2}):(\d{2})", value or "")
+    if not match:
+        raise RuntimeError(f"Unrecognized GTN timezone offset: {value!r}")
+    sign = 1 if match.group(1) == "+" else -1
+    hours, minutes = int(match.group(2)), int(match.group(3))
+    return datetime.timezone(sign * datetime.timedelta(hours=hours, minutes=minutes))
+
+
+def fetch_gtn_schedule(day):
+    url = f"{GTN_FEED_BASE}/{day:%Y%m%d}"
+    request = urllib.request.Request(url, headers={"User-Agent": "epg-atlanta-xmltv/1.0"})
+    with urllib.request.urlopen(request, timeout=45) as response:
+        payload = json.load(response)
+
+    records = payload.get("entry") if isinstance(payload, dict) else None
+    if not isinstance(records, list) or not records:
+        raise RuntimeError(f"No GTN schedule records returned for {day}: {url}")
+    return records, parse_fixed_utc_offset(payload.get("time_zone"))
+
+
+def parse_gtn_time(value, source_timezone):
+    if not value:
+        raise RuntimeError("GTN schedule record is missing a start or end time")
+    parsed = datetime.datetime.fromisoformat(value)
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=source_timezone)
+    return parsed.astimezone(TIMEZONE)
+
+
 def xmltv_time(value):
     # Include the Eastern timezone offset, including the correct DST adjustment.
     return value.astimezone(TIMEZONE).strftime("%Y%m%d%H%M%S %z")
@@ -74,7 +108,7 @@ def main():
     today = datetime.datetime.now(TIMEZONE).date()
     days = [today + datetime.timedelta(days=index) for index in range(DAYS)]
 
-    root = ET.Element("tv", {"source-info-name": "3ABN", "source-info-url": "https://3abn.org"})
+    root = ET.Element("tv", {"source-info-name": "3ABN and Gospel Truth TV", "source-info-url": "https://watch.gtntv.com/guide-tabs"})
     all_programmes = []
 
     for channel_id, display_name, network in CHANNELS:
@@ -89,6 +123,24 @@ def main():
             start = parse_start(record)
             duration = parse_duration(record)
             all_programmes.append((start, duration, channel_id, record))
+
+    gtn_id, gtn_name = GTN_CHANNEL
+    channel = ET.SubElement(root, "channel", {"id": gtn_id})
+    ET.SubElement(channel, "display-name").text = gtn_name
+    for day in days:
+        records, source_timezone = fetch_gtn_schedule(day)
+        for record in records:
+            extensions = record.get("extensions") or {}
+            start = parse_gtn_time(extensions.get("start_time"), source_timezone)
+            stop = parse_gtn_time(extensions.get("end_time"), source_timezone)
+            if stop <= start:
+                raise RuntimeError(f"Invalid GTN programme interval for {day}: {record!r}")
+            normalized_record = {
+                "series_title": extensions.get("show_title") or record.get("title") or "Unknown program",
+                "program_title": record.get("title"),
+                "description": record.get("description"),
+            }
+            all_programmes.append((start, stop - start, gtn_id, normalized_record))
 
     all_programmes.sort(key=lambda item: (item[2], item[0]))
     for index, (start, duration, channel_id, record) in enumerate(all_programmes):
@@ -120,7 +172,7 @@ def main():
     ET.indent(root, space="  ")
     output = "3abn_full.xml"
     ET.ElementTree(root).write(output, encoding="utf-8", xml_declaration=True)
-    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS)} channels")
+    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS) + 1} channels")
 
 
 if __name__ == "__main__":
