@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import gzip
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import urllib.request
@@ -70,33 +70,49 @@ def fetch_epgshare_channel(
 def main() -> int:
     channels: dict[str, ET.Element] = {}
     programmes: list[ET.Element] = []
+    epg_programmes: dict[tuple[str | None, str | None, str | None], ET.Element] = {}
 
-    run_date = datetime.now(ZoneInfo("America/New_York")).strftime("%Y%m%d")
+    today = datetime.now(ZoneInfo("America/New_York")).date()
+    feed_dates = (today - timedelta(days=1), today)
     for channel_id in CHANNEL_IDS:
-        url = f"{BASE_URL}{channel_id}&date={run_date}"
-        request = urllib.request.Request(
-            url, headers={"User-Agent": "epg-atlanta-xmltv-merger/1.0"}
-        )
-        try:
-            with urllib.request.urlopen(request, timeout=60) as response:
-                payload = response.read()
-            source = ET.fromstring(payload)
-            if source.tag != "tv":
-                raise ValueError(f"expected <tv>, found <{source.tag}>")
-            feed_channels = source.findall("channel")
-            feed_programmes = source.findall("programme")
-            for channel in feed_channels:
-                channel_id_attr = channel.get("id")
-                if channel_id_attr:
-                    channels.setdefault(channel_id_attr, channel)
-            programmes.extend(feed_programmes)
-            print(
-                f"{channel_id}: {len(feed_channels)} channels, "
-                f"{len(feed_programmes)} programmes"
+        for feed_date in feed_dates:
+            date_text = feed_date.strftime("%Y%m%d")
+            url = f"{BASE_URL}{channel_id}&date={date_text}"
+            request = urllib.request.Request(
+                url, headers={"User-Agent": "epg-atlanta-xmltv-merger/1.0"}
             )
-        except Exception as exc:
-            print(f"Failed to fetch or parse feed {channel_id}: {exc}", file=sys.stderr)
-            return 1
+            try:
+                with urllib.request.urlopen(request, timeout=60) as response:
+                    payload = response.read()
+                source = ET.fromstring(payload)
+                if source.tag != "tv":
+                    raise ValueError(f"expected <tv>, found <{source.tag}>")
+                feed_channels = source.findall("channel")
+                feed_programmes = source.findall("programme")
+                for channel in feed_channels:
+                    channel_id_attr = channel.get("id")
+                    if channel_id_attr:
+                        channels.setdefault(channel_id_attr, channel)
+                # Later dates overwrite overlapping listings from the previous day.
+                for programme in feed_programmes:
+                    key = (
+                        programme.get("channel"),
+                        programme.get("start"),
+                        programme.get("stop"),
+                    )
+                    epg_programmes[key] = programme
+                print(
+                    f"{channel_id} ({date_text}): {len(feed_channels)} channels, "
+                    f"{len(feed_programmes)} programmes"
+                )
+            except Exception as exc:
+                print(
+                    f"Failed to fetch or parse feed {channel_id} for {date_text}: {exc}",
+                    file=sys.stderr,
+                )
+                return 1
+
+    programmes.extend(epg_programmes.values())
 
     try:
         watc_channel, watc_programmes = fetch_epgshare_channel(
