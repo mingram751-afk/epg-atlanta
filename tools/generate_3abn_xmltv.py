@@ -10,6 +10,11 @@ TIMEZONE = ZoneInfo("America/New_York")
 API_BASE = "https://api2-test.3abn.org/sched/daily"
 GTN_FEED_BASE = "https://gms.awmws.com/program-guide/json"
 GTN_CHANNEL = ("GospelTruthTV.us", "Gospel Truth TV")
+TWN_API_BASE = "https://www.titantvguide.com/data/eventspage"
+TWN_SITE_ID = "77972"
+TWN_CHANNEL_UUID = "bead6bfc-ebc5-43c2-89ee-b67122ff5273"
+TWN_CHANNEL_INDEX = "8752"
+TWN_CHANNEL = ("The.Word.Network.us2", "The Word Network")
 DAYS = 7
 
 # XMLTV channel ID, display name, and network key used by the 3ABN schedule API.
@@ -94,6 +99,50 @@ def parse_gtn_time(value, source_timezone):
     return parsed.astimezone(TIMEZONE)
 
 
+def fetch_twn_schedule(day):
+    # TitanTV returns one full local day when the requested window is 1440 minutes.
+    start_time = f"{day:%Y%m%d}0000"
+    url = (
+        f"{TWN_API_BASE}/{TWN_SITE_ID}/{TWN_CHANNEL_UUID}/"
+        f"{start_time}/1440/{TWN_CHANNEL_INDEX}/1"
+    )
+    request = urllib.request.Request(url, headers={"User-Agent": "epg-atlanta-xmltv/1.0"})
+    with urllib.request.urlopen(request, timeout=45) as response:
+        payload = json.load(response)
+
+    if payload.get("Status") != "SUCCESS":
+        raise RuntimeError(f"TitanTV returned an unsuccessful response for {day}: {url}")
+    try:
+        records = payload["Json"]["Channels"][0]["Days"][0]["Shows"]
+    except (KeyError, IndexError, TypeError) as error:
+        raise RuntimeError(f"TitanTV schedule response has an unexpected shape for {day}: {url}") from error
+    if not isinstance(records, list) or not records:
+        raise RuntimeError(f"No The Word Network schedule records returned for {day}: {url}")
+    return records
+
+
+def titantv_text(values):
+    """Extract English display text from a TitanTV localized text array."""
+    if not isinstance(values, list):
+        return None
+    for item in values:
+        if isinstance(item, dict) and item.get("Text") and item.get("Lang") == "eng":
+            return item["Text"]
+    for item in values:
+        if isinstance(item, dict) and item.get("Text"):
+            return item["Text"]
+    return None
+
+
+def parse_twn_time(value):
+    if not value:
+        raise RuntimeError("The Word Network schedule record is missing a start or end time")
+    parsed = datetime.datetime.fromisoformat(value)
+    if parsed.tzinfo is None:
+        raise RuntimeError(f"TitanTV returned a time without a timezone offset: {value!r}")
+    return parsed.astimezone(TIMEZONE)
+
+
 def xmltv_time(value):
     # Include the Eastern timezone offset, including the correct DST adjustment.
     return value.astimezone(TIMEZONE).strftime("%Y%m%d%H%M%S %z")
@@ -108,7 +157,7 @@ def main():
     today = datetime.datetime.now(TIMEZONE).date()
     days = [today + datetime.timedelta(days=index) for index in range(DAYS)]
 
-    root = ET.Element("tv", {"source-info-name": "3ABN and Gospel Truth TV", "source-info-url": "https://watch.gtntv.com/guide-tabs"})
+    root = ET.Element("tv", {"source-info-name": "3ABN, Gospel Truth TV, and The Word Network", "source-info-url": "https://www.thewordnetwork.org/"})
     all_programmes = []
 
     for channel_id, display_name, network in CHANNELS:
@@ -142,6 +191,22 @@ def main():
             }
             all_programmes.append((start, stop - start, gtn_id, normalized_record))
 
+    twn_id, twn_name = TWN_CHANNEL
+    channel = ET.SubElement(root, "channel", {"id": twn_id})
+    ET.SubElement(channel, "display-name").text = twn_name
+    for day in days:
+        for record in fetch_twn_schedule(day):
+            start = parse_twn_time(record.get("StartTime"))
+            stop = parse_twn_time(record.get("EndTime"))
+            if stop <= start:
+                raise RuntimeError(f"Invalid The Word Network programme interval for {day}: {record!r}")
+            normalized_record = {
+                "series_title": titantv_text(record.get("Title")) or "Unknown program",
+                "program_title": titantv_text(record.get("EpisodeTitle")),
+                "description": titantv_text(record.get("Description")),
+            }
+            all_programmes.append((start, stop - start, twn_id, normalized_record))
+
     all_programmes.sort(key=lambda item: (item[2], item[0]))
     for index, (start, duration, channel_id, record) in enumerate(all_programmes):
         stop = start + duration if duration is not None else None
@@ -172,7 +237,7 @@ def main():
     ET.indent(root, space="  ")
     output = "3abn_full.xml"
     ET.ElementTree(root).write(output, encoding="utf-8", xml_declaration=True)
-    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS) + 1} channels")
+    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS) + 2} channels")
 
 
 if __name__ == "__main__":
