@@ -1,0 +1,3919 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv source-info-name="epg.pw + epgshare01" generator-info-name="epg-atlanta XMLTV merger">
+  <channel id="465164">
+    <display-name lang="US">Golden Eagle Broadcasting</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465196">
+    <display-name lang="US">Turner Classic Movies HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="470415">
+    <display-name lang="Canada">Al Jazeera English</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465021">
+    <display-name lang="US">CNN International</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465145">
+    <display-name lang="US">3ABN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465179">
+    <display-name lang="US">World Harvest Television</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465061">
+    <display-name lang="US">3ABN Dare to Dream Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464947">
+    <display-name lang="US">3ABN International Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="565869">
+    <display-name lang="US">3ABN Kids Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465004">
+    <display-name lang="US">3ABN Proclaim Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="467309">
+    <display-name lang="US">KTBN-DT</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464906">
+    <display-name lang="US">Daystar Television Network HD [CHARTER]</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464958">
+    <display-name lang="US">The Hope Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465321">
+    <display-name lang="US">Christian Television Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="465285">
+    <display-name lang="US">TBS HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="WATC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WATC-DT</display-name>
+  </channel>
+  <channel id="CNNOriginals.us">
+    <display-name lang="en">CNN Originals</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <programme channel="465164" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Miracle Word Today</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465164" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024000000 +0000" stop="20261024014500 +0000">
+    <title lang="zh">Carl Laemmle</title>
+    <desc>The extraordinary life story of Carl Laemmle, the German-Jewish immigrant who founded Universal Pictures and saved over 300 Jewish families from Nazi Germany.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024014500 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Frankenstein</title>
+    <desc>This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen assistant, Fritz, Frankenstein succeeds in animating his monster, but, confused and traumatized, it escapes into the countryside and begins to wreak havoc. Frankenstein searches for the elusive being, and </desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024030000 +0000" stop="20261024041500 +0000">
+    <title lang="zh">The Invisible Man</title>
+    <desc>While researching a new drug, Dr. Jack Griffin (Claude Rains) stumbles on a potion that can make him invisible. When he reveals his new ability to his old mentor (Henry Travers) and his fiancée (Gloria Stuart), it's clear that a side effect of the potion is insanity. Jack goes on a violent rampage, and the police struggle to hunt him down, unable to see their target, while his mentor and his forme</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465196" start="20261024041500 +0000" stop="20261025000000 +0000">
+    <title lang="zh">The Black Cat</title>
+    <desc>Stranded Budapest honeymooners follow a mad doctor (Bela Lugosi) to a black-lipped architect's (Boris Karloff) Art Deco manor.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024000000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Head to Head</title>
+    <desc>Mehdi engages in a discussion about the big issues in current time, such as faith, democracy and freedom of speech.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc>World news linking Al Jazeera's international news centers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">101 East</title>
+    <desc>Asian current affairs.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Live: News</title>
+    <desc>World News from Al Jazeera's Kuala Lumpur news center.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="470415" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Witness</title>
+    <desc>Two close friends find themselves on opposite sides of the Gaza conflict as Raed is trapped within Gaza's borders while George can only observe from a distance.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024000000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations. Through nightly "Keeping Them Honest" reports, Anderson keeps his commitment to holding those in power accountable. And, of course, there's the RidicuList, a tongue-in-cheek commentary on the day's news that may leave viewers (and Anderson) laughing. Joining him are guests that frequently include political and le</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465021" start="20261024040000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Amazing Facts With Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="zh">Turning Point With Dr. David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Elevation With Steven Furtick</title>
+    <desc>Steven Furtick focuses on the strength of God in our everyday struggles.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">President and Christlove International Christian Ministries</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465179" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Faith Alive With Ted Shuttlesworth</title>
+    <desc>Evangelist Ted Shuttleworth's ministry began in 1976 and their message is clear and unchanging.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="467309" start="20261024020000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Sight &amp; Sound Theatres - David</title>
+    <desc>Showcases David's ascent to the throne, featuring towering giants, wild animals, and Philistine soldiers.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="467309" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Marcus Lamb</title>
+    <desc>Be empowered to live in victory as Marcus Lamb shares how you can overcome every obstacle in Christ.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Christ in Prophecy</title>
+    <desc>Focusing on what the Scriptures tell about the coming return of Christ and how Bible prophecy relates to current events.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East?</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024040000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464906" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="zh">Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">Inverse</title>
+    <desc>The hosts conduct an interactive study of the Bible and other topics related to the Adventist faith using a practical and authentic approach.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="zh">Clash of Ideas</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Spencerville Church</title>
+    <desc>A variety of religious speakers share different Christian doctrines and passages from the Bible alongside their reflections on them.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Authentic</title>
+    <desc>Conversations about life, spirituality and God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Mission 360</title>
+    <desc>The host provides an in-depth insight into the work, challenges and development of missionaries in different parts of the world.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="zh">Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="464958" start="20261024040000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Living Waters</title>
+    <desc>Mark Iannone.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="zh">The Gospel Voice With Derrick Williams</title>
+    <desc>Uplifting Gospel, Christian, &amp; Original Music!</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024010000 +0000" stop="20261024020000 +0000">
+    <title lang="zh">Truth and Liberty</title>
+    <desc>Educate, unify and mobilize believers in Jesus Christ to affect the reformation of nations through the seven mountains of cultural influence.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024020000 +0000" stop="20261024023000 +0000">
+    <title lang="zh">Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024023000 +0000" stop="20261024030000 +0000">
+    <title lang="zh">Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="zh">Tommy Bates</title>
+    <desc>Gospel music and preaching with Pastor Tommy Bates.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024033000 +0000" stop="20261024043000 +0000">
+    <title lang="zh">Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465321" start="20261024043000 +0000" stop="20261025000000 +0000">
+    <title lang="zh">You and Me Live Prayer</title>
+    <desc />
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261024000000 +0000" stop="20261024024800 +0000">
+    <title lang="zh">Independence Day</title>
+    <desc>In the epic adventure film "Independence Day," strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261024024800 +0000" stop="20261024045200 +0000">
+    <title lang="zh">I, Robot</title>
+    <desc>In 2035, highly intelligent robots fill public service positions throughout the world, operating under three rules to keep humans safe. Despite his dark history with robotics, Detective Del Spooner (Will Smith) investigates the alleged suicide of U.S. Robotics founder Alfred Lanning (James Cromwell) and believes that a human-like robot (Alan Tudyk) murdered him. With the help of a robot expert (Br</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="465285" start="20261024045200 +0000" stop="20261025000000 +0000">
+    <title lang="zh">Independence Day</title>
+    <desc>In the epic adventure film "Independence Day," strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of</desc>
+    <date>2026-10-24</date>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020050000 +0000" stop="20261020060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 14:1 -15:6 DVD 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E121</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020060000 +0000" stop="20261020070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 4:1-4:16 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E96</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020070000 +0000" stop="20261020080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 14:8 – 15:7 DVD Number 40210.13.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020080000 +0000" stop="20261020090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 11:1-13:6 DVD.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E118</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020090000 +0000" stop="20261020100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 22:05-23:10.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E56</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020100000 +0000" stop="20261020103000 +0000">
+    <title lang="en">Robbi Warren</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p883446_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020103000 +0000" stop="20261020110000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p695606_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020110000 +0000" stop="20261020113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020113000 +0000" stop="20261020120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020120000 +0000" stop="20261020130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020130000 +0000" stop="20261020133000 +0000">
+    <title lang="en">The Christian View</title>
+    <desc lang="en">A lively panel discussion of hot topics from a Christian perspective.</desc>
+    <date>2014</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11028995_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020133000 +0000" stop="20261020140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020140000 +0000" stop="20261020143000 +0000">
+    <title lang="en">Kingdom One Live</title>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21654710_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020143000 +0000" stop="20261020150000 +0000">
+    <title lang="en">Magnify</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9595895_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020150000 +0000" stop="20261020153000 +0000">
+    <title lang="en">Steadfast Journey</title>
+    <desc lang="en">Bridging the gap through Evangelism, encouraging believers to continue moving forward and drawing lost souls with the undiluted Word of God.</desc>
+    <date>2022</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21337056_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020153000 +0000" stop="20261020160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020160000 +0000" stop="20261020163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020163000 +0000" stop="20261020170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Mark Batterson: The Power of Persistence</sub-title>
+    <desc lang="en">The author of "Gradually Then Suddenly" looks beyond our immediate concerns and goals to see God's pattern of working continually over long periods of time.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Mark Batterson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E114</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 22:05-23:10.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E56</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020180000 +0000" stop="20261020183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020183000 +0000" stop="20261020190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020190000 +0000" stop="20261020193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020193000 +0000" stop="20261020200000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="en">Babbies House</title>
+    <desc lang="en">Focuses on faith, family and music.</desc>
+    <credits>
+      <actor>Babbie Mason</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18003354_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020203000 +0000" stop="20261020210000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020210000 +0000" stop="20261020213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 2</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E170</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020213000 +0000" stop="20261020220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020220000 +0000" stop="20261020223000 +0000">
+    <title lang="en">Jeff Lyle: Truth Shots</title>
+    <desc lang="en">Jeff and Amy Lyle speak biblically to important issues and current events that both the Church and the modern culture are facing.</desc>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18811175_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020223000 +0000" stop="20261020230000 +0000">
+    <title lang="en">Hallelujah Time</title>
+    <desc lang="en">Praise and worship music featuring Richard South and the Power Singers.</desc>
+    <date>2010</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8364565_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261020230000 +0000" stop="20261021000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021000000 +0000" stop="20261021003000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Jennifer Rothschild: Heaven Starts Here</sub-title>
+    <desc lang="en">The author of "Heaven for Today" expresses the hope of heaven, both eternally and during this lifetime.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Jennifer Rothschild</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E115</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021003000 +0000" stop="20261021010000 +0000">
+    <title lang="en">Campmeeting Classics</title>
+    <date>2008</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p609695_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021010000 +0000" stop="20261021013000 +0000">
+    <title lang="en">Joyce Meyer</title>
+    <desc lang="en">Sharing encouragement to help others enjoy everyday life.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680837_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021013000 +0000" stop="20261021020000 +0000">
+    <title lang="en">Life Outreach</title>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429496_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021020000 +0000" stop="20261021023000 +0000">
+    <title lang="en">Empowered to Achieve</title>
+    <desc lang="en">Teaching program with Dr. Coy and Dr. Dee Barker.</desc>
+    <date>2019</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16391825_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021023000 +0000" stop="20261021030000 +0000">
+    <title lang="en">Glad You Asked</title>
+    <desc lang="en">Dave Glander, and co-hosts Gabby and Alyssa, take questions from all around the world about ethics, culture, the Bible, Christianity, life, and the biblical worldview. Then, in unscripted discussion, they seek to provide solid biblical answers.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988376_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021030000 +0000" stop="20261021033000 +0000">
+    <title lang="en">Prophecy USA</title>
+    <desc lang="en">Minister Rick Pearson discusses the hidden mysteries of America's role in Bible prophecy.</desc>
+    <credits>
+      <actor>Rick Pearson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31409228_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021033000 +0000" stop="20261021040000 +0000">
+    <title lang="en">Robbi Warren</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p883446_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021040000 +0000" stop="20261021050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Nahum Chapter 2:6-3:19 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021050000 +0000" stop="20261021060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 15:7 -16:15 DVD 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E122</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021060000 +0000" stop="20261021070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 5:1-5:14 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E97</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021070000 +0000" stop="20261021080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 15:8 – 16:3 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E13</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021080000 +0000" stop="20261021090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 14:1 -16:11 DVD.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E119</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021090000 +0000" stop="20261021100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 23:11 and on.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E57</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021100000 +0000" stop="20261021103000 +0000">
+    <title lang="en">A Steadfast Journey</title>
+    <date>2023</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23963689_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021103000 +0000" stop="20261021110000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021110000 +0000" stop="20261021113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021113000 +0000" stop="20261021120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021120000 +0000" stop="20261021130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021130000 +0000" stop="20261021133000 +0000">
+    <title lang="en">Always More</title>
+    <desc lang="en">To encourage viewers to not waste one moment of their life running from the call of God.</desc>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15430145_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021133000 +0000" stop="20261021140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021140000 +0000" stop="20261021143000 +0000">
+    <title lang="en">Just Call Me Sarah</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11612146_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021143000 +0000" stop="20261021150000 +0000">
+    <title lang="en">This Day with Hope andJoy</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18987025_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021150000 +0000" stop="20261021153000 +0000">
+    <title lang="en">Time for Hope</title>
+    <desc lang="en">Dr. Freda Crews and her guests offer faith-based solutions to real-life problems, and challenge viewers to put their hope in Jesus Christ for peace, healing and recovery.</desc>
+    <credits>
+      <actor>Freda Crews</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p959430_b_h11_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021153000 +0000" stop="20261021160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021160000 +0000" stop="20261021163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021163000 +0000" stop="20261021170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Jennifer Rothschild: Heaven Starts Here</sub-title>
+    <desc lang="en">The author of "Heaven for Today" expresses the hope of heaven, both eternally and during this lifetime.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Jennifer Rothschild</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E115</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021170000 +0000" stop="20261021180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Samuel Chapter 23:11 and on.</desc>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E57</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021180000 +0000" stop="20261021183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021183000 +0000" stop="20261021190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021190000 +0000" stop="20261021193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021193000 +0000" stop="20261021200000 +0000">
+    <title lang="en">Pathway To Victory with Robert Jeffress</title>
+    <desc lang="en">Dr. Robert Jeffress provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29941863_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021200000 +0000" stop="20261021203000 +0000">
+    <title lang="en">Babbies House</title>
+    <desc lang="en">Focuses on faith, family and music.</desc>
+    <credits>
+      <actor>Babbie Mason</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18003354_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021203000 +0000" stop="20261021210000 +0000">
+    <title lang="en">Friends &amp; Neighbors</title>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16832088_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021210000 +0000" stop="20261021213000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021213000 +0000" stop="20261021220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021220000 +0000" stop="20261021223000 +0000">
+    <title lang="en">Pastor Asa Dockery</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11643886_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021223000 +0000" stop="20261021230000 +0000">
+    <title lang="en">Jasper Crusade</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9289188_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261021230000 +0000" stop="20261022003000 +0000">
+    <title lang="en">Gospel Music USA</title>
+    <date>2025</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680095_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022003000 +0000" stop="20261022010000 +0000">
+    <title lang="en">Coffee With Kim</title>
+    <desc lang="en">Meet a woman whose acting career shifted away from Hollywood and is now being poured into creating materials to fill children's hearts with the wonder of Jesus' love.</desc>
+    <date>2020</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17788406_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022010000 +0000" stop="20261022013000 +0000">
+    <title lang="en">The Whole Truth</title>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p955833_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022013000 +0000" stop="20261022020000 +0000">
+    <title lang="en">A Hope Worth Having</title>
+    <desc lang="en">A Hope Worth Having and the teachings of Christ.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p549406_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022020000 +0000" stop="20261022023000 +0000">
+    <title lang="en">Magnify</title>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9595895_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022023000 +0000" stop="20261022030000 +0000">
+    <title lang="en">Sarah Hurd</title>
+    <date>2013</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10129626_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022030000 +0000" stop="20261022033000 +0000">
+    <title lang="en">Sharing His Life</title>
+    <date>2026</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32731270_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022033000 +0000" stop="20261022040000 +0000">
+    <title lang="en">The Christian View</title>
+    <desc lang="en">A fast-paced, high-energy TV talk show with a panel of sharp, quick-witted hosts discussing today's hot topics and trending news from a Biblical perspective.</desc>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15779402_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022040000 +0000" stop="20261022050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Habakkuk Chapter 1:1-2:6 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022050000 +0000" stop="20261022060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 16:16-17:14 DVD Number 40126.04.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E125</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022060000 +0000" stop="20261022070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 6:1-6:20 DVD Number 40157.02.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E98</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022070000 +0000" stop="20261022080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 16:4 – 17:11 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022080000 +0000" stop="20261022090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 17:1 -18:10 DVD Number.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E111</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022090000 +0000" stop="20261022100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:1-1:2 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E27</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022100000 +0000" stop="20261022103000 +0000">
+    <title lang="en">Anthony Wynn</title>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22679883_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022103000 +0000" stop="20261022110000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2024</date>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27667610_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022110000 +0000" stop="20261022113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022113000 +0000" stop="20261022120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022120000 +0000" stop="20261022130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022130000 +0000" stop="20261022133000 +0000">
+    <title lang="en">My Journey With Paula</title>
+    <desc lang="en">Helping people manage the journey of life while embracing their unique, God-given gifts.</desc>
+    <credits>
+      <actor>Paula G. Fergunson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15829242_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022133000 +0000" stop="20261022140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022140000 +0000" stop="20261022143000 +0000">
+    <title lang="en">Jeff Lyle: Truth Shots</title>
+    <desc lang="en">Jeff and Amy Lyle speak biblically to important issues and current events that both the Church and the modern culture are facing.</desc>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18811175_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022143000 +0000" stop="20261022150000 +0000">
+    <title lang="en">The Master's Table</title>
+    <date>2023</date>
+    <icon src="http://dtil.tmsimg.com/assets/p24182414_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022150000 +0000" stop="20261022153000 +0000">
+    <title lang="en">Tracy Wells</title>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p963906_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022153000 +0000" stop="20261022160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022160000 +0000" stop="20261022163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022163000 +0000" stop="20261022170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Mark Batterson: Courage in a Crazy World</sub-title>
+    <desc lang="en">The author of "Not My Circus" offers guidance to engage a corrupt culture while maintaining the truth and love of Christ.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+      <actor>Mark Batterson</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E116</episode-num>
+    <premiere lang="en" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022170000 +0000" stop="20261022180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:1-1:2 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E27</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022180000 +0000" stop="20261022183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022183000 +0000" stop="20261022190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022190000 +0000" stop="20261022193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022193000 +0000" stop="20261022200000 +0000">
+    <title lang="en">Pathway To Victory with Robert Jeffress</title>
+    <desc lang="en">Dr. Robert Jeffress provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29941863_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022200000 +0000" stop="20261022203000 +0000">
+    <title lang="en">Babbie's House</title>
+    <desc lang="en">Host Babbie Mason cooks up delicious soul food with heart-warming interviews.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p582381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022203000 +0000" stop="20261022210000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2008</date>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p839471_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022210000 +0000" stop="20261022213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 4</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E172</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022213000 +0000" stop="20261022220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022220000 +0000" stop="20261022223000 +0000">
+    <title lang="en">Aurea's Ark</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33843085_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022223000 +0000" stop="20261022230000 +0000">
+    <title lang="en">Red Back Revival</title>
+    <desc lang="en">Host Charlie Sexton and the Red Back Revival Choir share many of the classic hymns from the Red Back Hymnal.</desc>
+    <credits>
+      <actor>Charlie Sexton</actor>
+      <director>Charlie Sexton</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23150077_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261022230000 +0000" stop="20261023000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023000000 +0000" stop="20261023003000 +0000">
+    <title lang="en">Life Today With James Robison</title>
+    <desc lang="en">Inspirational stories through a talk show format with daily guests.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21728211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023003000 +0000" stop="20261023010000 +0000">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <credits>
+      <actor>Charles Stanley</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023010000 +0000" stop="20261023013000 +0000">
+    <title lang="en">Perry Stone</title>
+    <desc lang="en">An in-depth, prophetic and practical study of the word of God with Evangelist Perry Stone.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10076787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="en">Christian Worship Hr.</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19212354_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="en">Gospel Music USA</title>
+    <date>2025</date>
+    <category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30680095_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="en">Beyond the Call</title>
+    <date>2024</date>
+    <category lang="en">Special</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28649234_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023030000 +0000" stop="20261023033000 +0000">
+    <title lang="en">Making People Productive</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p31490304_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="en">The Whole Truth</title>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p955833_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023040000 +0000" stop="20261023050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Habakkuk Chapter 2:7-3:4 DVD Number 40243.10.</desc>
+    <date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023050000 +0000" stop="20261023060000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Exodus Chapter 17:15-19:12 DVD Number 40126.05.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E126</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023060000 +0000" stop="20261023070000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Hebrews Chapter 7:1-7:28 DVD Number 40157.03.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E99</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of II Kings Chapter 17:12 – 17:35 DVD Number 40210.14.</desc>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023080000 +0000" stop="20261023090000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Pastor Dennis Murray teaches the Book of Psalms Chapter 18:11-18:38 DVD Number.</desc>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E113</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023090000 +0000" stop="20261023100000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:3-1:31 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E28</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023100000 +0000" stop="20261023103000 +0000">
+    <title lang="en">Prophetic Times</title>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p866910_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023103000 +0000" stop="20261023110000 +0000">
+    <title lang="en">On the Move</title>
+    <desc lang="en">On the Move, hosted by Julie Hyman and Adam Shapiro, is a look at the top headlines and in depth analysis of what is moving the markets. Live at 11:00am ET.</desc>
+    <date>2019</date>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17883739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023110000 +0000" stop="20261023113000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023113000 +0000" stop="20261023120000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023120000 +0000" stop="20261023130000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023130000 +0000" stop="20261023133000 +0000">
+    <title lang="en">Pastor Asa Dockery</title>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11643886_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023133000 +0000" stop="20261023140000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023140000 +0000" stop="20261023143000 +0000">
+    <title lang="en">Coffee With Kim</title>
+    <desc lang="en">Meet a woman whose acting career shifted away from Hollywood and is now being poured into creating materials to fill children's hearts with the wonder of Jesus' love.</desc>
+    <date>2020</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17788406_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="en">Berean Endeavor</title>
+    <desc lang="en">Join Robert Vander Maten as he studies and learns about the God Who the people serve from His Word, the Bible.</desc>
+    <credits>
+      <actor>Robert Vander Maten</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20503686_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="en">CrossTalk</title>
+    <desc lang="en">Discussions on current events.</desc>
+    <date>2017</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13949360_st_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13718743_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="en">Enjoying Everyday Life With Joyce Meyer</title>
+    <desc lang="en">Bible teacher Joyce Meyer reaches out to both Christians and non-Christians, as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18558381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023163000 +0000" stop="20261023170000 +0000">
+    <title lang="en">Life Today</title>
+    <sub-title lang="en">Randy and Betty Robison: Rescue Life</sub-title>
+    <desc lang="en">Betty and Randy expose the evil of sex trafficking and share the light of God's intervention to reach, rescue and restore young lives.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E112</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray teaches the Book of Genesis Chapter 1:3-1:31 DVD Number 40146.01.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E28</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="en">Fight to Win with Pastor Kurt Owen</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33505148_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023183000 +0000" stop="20261023190000 +0000">
+    <title lang="en">Anthony Wynn Ministries</title>
+    <desc lang="en">Pastor Anthony Wynn shares the Gospel and inspires faith on Greater Love TV.</desc>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23871513_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023190000 +0000" stop="20261023193000 +0000">
+    <title lang="en">The Dr. Asa Show</title>
+    <desc lang="en">3-time physician and #1 talk show host discusses peak health, longevity, fitness, and nutrition to become the best version of you. DrAsaShow.com.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22988329_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023193000 +0000" stop="20261023200000 +0000">
+    <title lang="en">Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023200000 +0000" stop="20261023203000 +0000">
+    <title lang="en">Babbie's House</title>
+    <desc lang="en">Host Babbie Mason cooks up delicious soul food with heart-warming interviews.</desc>
+    <date>2005</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p582381_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023203000 +0000" stop="20261023210000 +0000">
+    <title lang="en">On the Move</title>
+    <date>2008</date>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p839471_st_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023210000 +0000" stop="20261023213000 +0000">
+    <title lang="en">Andrew Wommack: Gospel Truth</title>
+    <sub-title lang="en">Seven Steps to Victory: Episode 5</sub-title>
+    <desc lang="en">Andrew teaches that faith appropriates God's provision through perseverance, spiritual focus and obedience — don't settle for less.</desc>
+    <credits>
+      <actor>Andrew Wommack</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p395218_b_h10_ai.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E173</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023213000 +0000" stop="20261023220000 +0000">
+    <title lang="en">Joseph Prince Ministries</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10123164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023220000 +0000" stop="20261023223000 +0000">
+    <title lang="en">Always More</title>
+    <desc lang="en">To encourage viewers to not waste one moment of their life running from the call of God.</desc>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15430145_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023223000 +0000" stop="20261023230000 +0000">
+    <title lang="en">Kingdom One Live</title>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21654710_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261023230000 +0000" stop="20261024000000 +0000">
+    <title lang="en">Atlanta Live</title>
+    <date>2020</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17907926_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024000000 +0000" stop="20261024003000 +0000">
+    <title lang="en">Life Today With James Robison</title>
+    <desc lang="en">Inspirational stories through a talk show format with daily guests.</desc>
+    <date>2022</date>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21728211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024003000 +0000" stop="20261024010000 +0000">
+    <title lang="en">Hallelujah Time</title>
+    <desc lang="en">Praise and worship music featuring Richard South and the Power Singers.</desc>
+    <date>2010</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8364565_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024010000 +0000" stop="20261024013000 +0000">
+    <title lang="en">T.J. McBride</title>
+    <date>2018</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16265509_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024013000 +0000" stop="20261024020000 +0000">
+    <title lang="en">Healing Miracles</title>
+    <desc lang="en">Bible teaching, interview program with Addison Adamu.</desc>
+    <credits>
+      <actor>Addison Adamu</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11536649_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024020000 +0000" stop="20261024030000 +0000">
+    <title lang="en">The Ernest Angley Hour</title>
+    <desc lang="en">Rev. Angley presents the fullness of God's word to viewers.</desc>
+    <credits>
+      <actor>Ernest Angley</actor>
+    </credits>
+    <category lang="en">Variety</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p505261_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024030000 +0000" stop="20261024033000 +0000">
+    <title lang="en">I Pressed On</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p29545985_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024033000 +0000" stop="20261024040000 +0000">
+    <title lang="en">At Midnight Ministries</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p33369096_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WATC-DT.us_locals1" start="20261024040000 +0000" stop="20261024050000 +0000">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Dr. Arnold Murray special study; TOGETHER DVD Number 41241.</desc>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12497396_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E31</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261021001400 +0000" stop="20261021010400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Sante and Kenneth Kimes: The Missing Socialite</sub-title>
+    <desc lang="en">Police investigate the case of a missing New York City socialite in 1988.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021010400 +0000" stop="20261021012900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021012900 +0000" stop="20261021015400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021015400 +0000" stop="20261021021900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021021900 +0000" stop="20261021024400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021024400 +0000" stop="20261021033400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Gardner Art Heist: Stealing Beauty</sub-title>
+    <desc lang="en">On Saint Patrick's Day 1990, robbers stormed Boston's Gardner Museum.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021033400 +0000" stop="20261021042400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Sante and Kenneth Kimes: The Missing Socialite</sub-title>
+    <desc lang="en">Police investigate the case of a missing New York City socialite in 1988.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021042400 +0000" stop="20261021044900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021044900 +0000" stop="20261021051400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021051400 +0000" stop="20261021053900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021053900 +0000" stop="20261021060400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021060400 +0000" stop="20261021065400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Gardner Art Heist: Stealing Beauty</sub-title>
+    <desc lang="en">On Saint Patrick's Day 1990, robbers stormed Boston's Gardner Museum.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021065400 +0000" stop="20261021074400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Sante and Kenneth Kimes: The Missing Socialite</sub-title>
+    <desc lang="en">Police investigate the case of a missing New York City socialite in 1988.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021074400 +0000" stop="20261021080900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021080900 +0000" stop="20261021083400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021083400 +0000" stop="20261021085900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021085900 +0000" stop="20261021092400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021092400 +0000" stop="20261021101400 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">Gardner Art Heist: Stealing Beauty</sub-title>
+    <desc lang="en">On Saint Patrick's Day 1990, robbers stormed Boston's Gardner Museum.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021101400 +0000" stop="20261021110600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021110600 +0000" stop="20261021115700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021115700 +0000" stop="20261021124800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Lyon</sub-title>
+    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021124800 +0000" stop="20261021133900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021133900 +0000" stop="20261021143000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021151900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021151900 +0000" stop="20261021160800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021160800 +0000" stop="20261021165900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021165900 +0000" stop="20261021175000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021175000 +0000" stop="20261021184100 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Lyon</sub-title>
+    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021184100 +0000" stop="20261021193200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021193200 +0000" stop="20261021202300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021202300 +0000" stop="20261021211200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021211200 +0000" stop="20261021220200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021220200 +0000" stop="20261021225300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021225300 +0000" stop="20261021234400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261021234400 +0000" stop="20261022003500 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Lyon</sub-title>
+    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022003500 +0000" stop="20261022012600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022012600 +0000" stop="20261022021700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022021700 +0000" stop="20261022030600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022030600 +0000" stop="20261022035500 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022035500 +0000" stop="20261022044600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022044600 +0000" stop="20261022053700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022053700 +0000" stop="20261022062800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Lyon</sub-title>
+    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022062800 +0000" stop="20261022071900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022071900 +0000" stop="20261022081000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022081000 +0000" stop="20261022090000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022094900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022094900 +0000" stop="20261022103700 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Dan Quayle vs. Murphy Brown</sub-title>
+    <desc lang="en">The show Murphy Brown is slammed for its portrayal of single motherhood.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022103700 +0000" stop="20261022112700 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Oprah and the Daytime Diet Wars</sub-title>
+    <desc lang="en">In 1988, Oprah walked on stage in size 10 jeans, wheeling 67 pounds of fat.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022112700 +0000" stop="20261022121700 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Ellen Comes Out</sub-title>
+    <desc lang="en">Ellen DeGeneres makes TV history when she and her character come out.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022121700 +0000" stop="20261022130500 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Kanye Breaks the Telethon</sub-title>
+    <desc lang="en">Kanye West declares, "George Bush doesn't care about Black people.".</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022130500 +0000" stop="20261022135300 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Dan Quayle vs. Murphy Brown</sub-title>
+    <desc lang="en">The show Murphy Brown is slammed for its portrayal of single motherhood.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022135300 +0000" stop="20261022144300 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Oprah and the Daytime Diet Wars</sub-title>
+    <desc lang="en">In 1988, Oprah walked on stage in size 10 jeans, wheeling 67 pounds of fat.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022144300 +0000" stop="20261022153300 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Ellen Comes Out</sub-title>
+    <desc lang="en">Ellen DeGeneres makes TV history when she and her character come out.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022153300 +0000" stop="20261022162100 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Kanye Breaks the Telethon</sub-title>
+    <desc lang="en">Kanye West declares, "George Bush doesn't care about Black people.".</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022162100 +0000" stop="20261022171000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Korea</sub-title>
+    <desc lang="en">Much has changed in the eight years since Tony was last in South Korea.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022171000 +0000" stop="20261022175900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Miami</sub-title>
+    <desc lang="en">Miami is constantly mixing tourists and immigrants with lifelong residents.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022175900 +0000" stop="20261022184700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Scotland</sub-title>
+    <desc lang="en">Tony's journey begins in Glasgow, one of the biggest cities in the UK.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022184700 +0000" stop="20261022193600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Budapest</sub-title>
+    <desc lang="en">Tony makes his first visit to Budapest, a bustling city of contradictions.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022193600 +0000" stop="20261022202600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Madagascar</sub-title>
+    <desc lang="en">Madagascar is a place that outsiders understand surprisingly little about.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022202600 +0000" stop="20261022211500 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Dan Quayle vs. Murphy Brown</sub-title>
+    <desc lang="en">The show Murphy Brown is slammed for its portrayal of single motherhood.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022211500 +0000" stop="20261022220500 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Oprah and the Daytime Diet Wars</sub-title>
+    <desc lang="en">In 1988, Oprah walked on stage in size 10 jeans, wheeling 67 pounds of fat.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022220500 +0000" stop="20261022225500 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Ellen Comes Out</sub-title>
+    <desc lang="en">Ellen DeGeneres makes TV history when she and her character come out.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022225500 +0000" stop="20261022234300 +0000" channel="CNNOriginals.us">
+    <title lang="en">TV on the Edge: Moments That Shaped Our Culture</title>
+    <sub-title lang="en">Kanye Breaks the Telethon</sub-title>
+    <desc lang="en">Kanye West declares, "George Bush doesn't care about Black people.".</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://d3r7ib22akc064.cloudfront.net/267447_001_SE_TXTD_1920x1080_en.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261022234300 +0000" stop="20261023000800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023000800 +0000" stop="20261023003300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023003300 +0000" stop="20261023005800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023005800 +0000" stop="20261023012300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023012300 +0000" stop="20261023021300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 1: "You Have 30 Minutes"</sub-title>
+    <desc lang="en">In 1996, a bombing at the Atlanta Olympics killed two and injured over 100.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023021300 +0000" stop="20261023030300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 2: The Bomber Is Watching</sub-title>
+    <desc lang="en">Former special agents and journalists provide insight into the case.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <premiere lang="en" />
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023030300 +0000" stop="20261023032800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023032800 +0000" stop="20261023035300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023035300 +0000" stop="20261023041800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023041800 +0000" stop="20261023044300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023044300 +0000" stop="20261023053300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 1: "You Have 30 Minutes"</sub-title>
+    <desc lang="en">In 1996, a bombing at the Atlanta Olympics killed two and injured over 100.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023053300 +0000" stop="20261023062300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 2: The Bomber Is Watching</sub-title>
+    <desc lang="en">Former special agents and journalists provide insight into the case.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023062300 +0000" stop="20261023064800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023064800 +0000" stop="20261023071300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">A fire leads investigators to dig up a victim who'd been buried for years.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023071300 +0000" stop="20261023073800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Car Accident</sub-title>
+    <desc lang="en">A healthy, young mother mysteriously dies after a minor traffic accident.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023073800 +0000" stop="20261023080300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">Inside Pocket</sub-title>
+    <desc lang="en">An insurance agent is shot in his office in broad daylight.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023080300 +0000" stop="20261023085300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 1: "You Have 30 Minutes"</sub-title>
+    <desc lang="en">In 1996, a bombing at the Atlanta Olympics killed two and injured over 100.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023085300 +0000" stop="20261023094300 +0000" channel="CNNOriginals.us">
+    <title lang="en">How It Really Happened</title>
+    <sub-title lang="en">The Atlanta Olympic Bombing Part 2: The Bomber Is Watching</sub-title>
+    <desc lang="en">Former special agents and journalists provide insight into the case.</desc>
+    <date>2024</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcc646ba94dadde653f4ae9de327513.jpg" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023094300 +0000" stop="20261023100800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Forensic Files II</title>
+    <sub-title lang="en">The Black Hole</sub-title>
+    <desc lang="en">A body is discovered in a Florida waterway.</desc>
+    <date>2020</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://image.tmdb.org/t/p/original/1ZMwcVOrY4nrxh3gsUEyhYxTIir.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023100800 +0000" stop="20261023105800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Venice</sub-title>
+    <desc lang="en">Stanley Tucci visits the "Floating City" of Venice.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023105800 +0000" stop="20261023114800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Piedmont</sub-title>
+    <desc lang="en">Stanley Tucci visits Piedmont which boasts a refined French heritage.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023114800 +0000" stop="20261023123800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Umbria</sub-title>
+    <desc lang="en">Stanley Tucci visits Umbria, nicknamed "The Green Heart of Italy.".</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023123800 +0000" stop="20261023132900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">London</sub-title>
+    <desc lang="en">Stanley Tucci explores how Italians transformed the food scene of London.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023132900 +0000" stop="20261023141900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Calabria</sub-title>
+    <desc lang="en">Tucci discovers the history of both Calabria and his own family.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023141900 +0000" stop="20261023150700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Sardinia</sub-title>
+    <desc lang="en">Tucci visits Sardinia, known for its harsh terrain and culinary diversity.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023150700 +0000" stop="20261023155700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Puglia</sub-title>
+    <desc lang="en">Tucci visits Puglia, a region famous for olive oil, durum wheat and more.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023155700 +0000" stop="20261023164700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Liguria</sub-title>
+    <desc lang="en">Tucci visits one of the most famous regions of Italy, the Italian Riviera.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023164700 +0000" stop="20261023173800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023173800 +0000" stop="20261023182900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023182900 +0000" stop="20261023191800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023191800 +0000" stop="20261023200700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023200700 +0000" stop="20261023205800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023205800 +0000" stop="20261023214900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023214900 +0000" stop="20261023223900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Venice</sub-title>
+    <desc lang="en">Stanley Tucci visits the "Floating City" of Venice.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023223900 +0000" stop="20261023232900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Piedmont</sub-title>
+    <desc lang="en">Stanley Tucci visits Piedmont which boasts a refined French heritage.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261023232900 +0000" stop="20261024002000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Umbria</sub-title>
+    <desc lang="en">Stanley Tucci visits Umbria, nicknamed "The Green Heart of Italy.".</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024002000 +0000" stop="20261024011000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">London</sub-title>
+    <desc lang="en">Stanley Tucci explores how Italians transformed the food scene of London.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024011000 +0000" stop="20261024020000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Calabria</sub-title>
+    <desc lang="en">Tucci discovers the history of both Calabria and his own family.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024024800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Sardinia</sub-title>
+    <desc lang="en">Tucci visits Sardinia, known for its harsh terrain and culinary diversity.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024024800 +0000" stop="20261024033800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Stanley Tucci: Searching For Italy</title>
+    <sub-title lang="en">Puglia</sub-title>
+    <desc lang="en">Tucci visits Puglia, a region famous for olive oil, durum wheat and more.</desc>
+    <date>2022</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3cc9ef5392aaf3fc94f249d9b833835b.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024042800 +0000" stop="20261024051900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Punjab</sub-title>
+    <desc lang="en">Tony dives into the state of Punjab, India, starting off in Amritsar.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024051900 +0000" stop="20261024061000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en">Anthony Bourdain travels to Las Vegas with food author Michael Ruhlman.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024061000 +0000" stop="20261024070100 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Lyon</sub-title>
+    <desc lang="en">Tony and noted chef Daniel Boulud visit Boulud's hometown of Lyon, France.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024070100 +0000" stop="20261024075200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mexico</sub-title>
+    <desc lang="en">Tony travels to Mexico City, Oaxaca and Cuernavaca in Mexico.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024075200 +0000" stop="20261024084300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Mississippi</sub-title>
+    <desc lang="en">Tony enjoys the diverse food and varied music scenes in Mississippi.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024084300 +0000" stop="20261024093200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Thailand</sub-title>
+    <desc lang="en">Tony teams up with Andy Ricker for an adventure in Chiang Mai, Thailand.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024093200 +0000" stop="20261024102100 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Brazil</sub-title>
+    <desc lang="en">Tony heads back to his beloved Salvador in northeastern Brazil.</desc>
+    <date>2014</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024102100 +0000" stop="20261024111000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Korea</sub-title>
+    <desc lang="en">Much has changed in the eight years since Tony was last in South Korea.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024111000 +0000" stop="20261024115900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Miami</sub-title>
+    <desc lang="en">Miami is constantly mixing tourists and immigrants with lifelong residents.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024115900 +0000" stop="20261024124700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Scotland</sub-title>
+    <desc lang="en">Tony's journey begins in Glasgow, one of the biggest cities in the UK.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024124700 +0000" stop="20261024133600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Budapest</sub-title>
+    <desc lang="en">Tony makes his first visit to Budapest, a bustling city of contradictions.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024133600 +0000" stop="20261024142700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Madagascar</sub-title>
+    <desc lang="en">Madagascar is a place that outsiders understand surprisingly little about.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024142700 +0000" stop="20261024151700 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">New Jersey</sub-title>
+    <desc lang="en">Tony travels to his homeland, his roots, his favorite state: New Jersey.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024151700 +0000" stop="20261024160600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Hawaii</sub-title>
+    <desc lang="en">Tony explores the Hawaii that tourists don't see when they visit.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024160600 +0000" stop="20261024165400 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Beirut</sub-title>
+    <desc lang="en">Beirut is a city that combines the world's troubles and the world's good.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024165400 +0000" stop="20261024174300 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Korea</sub-title>
+    <desc lang="en">Much has changed in the eight years since Tony was last in South Korea.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024174300 +0000" stop="20261024183200 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Miami</sub-title>
+    <desc lang="en">Miami is constantly mixing tourists and immigrants with lifelong residents.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024183200 +0000" stop="20261024192000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Scotland</sub-title>
+    <desc lang="en">Tony's journey begins in Glasgow, one of the biggest cities in the UK.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024192000 +0000" stop="20261024200900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Budapest</sub-title>
+    <desc lang="en">Tony makes his first visit to Budapest, a bustling city of contradictions.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024200900 +0000" stop="20261024210000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Madagascar</sub-title>
+    <desc lang="en">Madagascar is a place that outsiders understand surprisingly little about.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024215000 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">New Jersey</sub-title>
+    <desc lang="en">Tony travels to his homeland, his roots, his favorite state: New Jersey.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024215000 +0000" stop="20261024223900 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Hawaii</sub-title>
+    <desc lang="en">Tony explores the Hawaii that tourists don't see when they visit.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024223900 +0000" stop="20261024232800 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Beirut</sub-title>
+    <desc lang="en">Beirut is a city that combines the world's troubles and the world's good.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20261024232800 +0000" stop="20261025001600 +0000" channel="CNNOriginals.us">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <sub-title lang="en">Korea</sub-title>
+    <desc lang="en">Much has changed in the eight years since Tony was last in South Korea.</desc>
+    <date>2015</date>
+    <category lang="en">Daytime TV + Games</category>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0787516886e69e73d843a7eb2dadad8e.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+</tv>
