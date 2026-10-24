@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv source-info-name="3ABN" source-info-url="https://3abn.org">
+<tv source-info-name="3ABN and Gospel Truth TV" source-info-url="https://watch.gtntv.com/guide-tabs">
   <channel id="3ABN.us">
     <display-name>3ABN</display-name>
   </channel>
@@ -17,6 +17,9 @@
   </channel>
   <channel id="3ABN-PraiseHimMusic.us">
     <display-name>3ABN Praise Him Music Network</display-name>
+  </channel>
+  <channel id="GospelTruthTV.us">
+    <display-name>Gospel Truth TV</display-name>
   </channel>
   <programme start="20261024000000 -0400" stop="20261024002830 -0400" channel="3ABN-DareToDream.us">
     <title>Battles of Faith</title>
@@ -11131,5 +11134,1183 @@ Hashtags
     <sub-title>The Community’S Kitchen</sub-title>
     <desc>Lake boat leaders in Zambia, Global Mission in Ethiopia and mission stories in Los Angeles. Join us as we explore mission around the globe!</desc>
     <episode-num system="onscreen">MTS004701</episode-num>
+  </programme>
+  <programme start="20261024173000 -0400" stop="20261024183000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith International</title>
+    <sub-title>France 2026: Grace The Power of the Gospel | S1 Ep 2</sub-title>
+    <desc>Discover powerful testimonies of healing and grace as Andrew shares how God is transforming lives in the French-speaking world.</desc>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Stories</title>
+    <sub-title>Standing When Symptoms Scream | S1 Ep 48</sub-title>
+    <desc>Discover practical steps to embrace your God-given authority and walk in healing.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="GospelTruthTV.us">
+    <title>The Garden Cartoon</title>
+    <sub-title>Double Trouble / Fish and Ships</sub-title>
+    <desc>Lenny orders a butler robot to do his chores but when it starts to malfunction Lenny finds himself in an even bigger mess! /  Captain Snappy’s ship gets swallowed by a whale! It's up to Lenny and Lucy to help him get it back!</desc>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="GospelTruthTV.us">
+    <title>Good Day</title>
+    <sub-title>Can't Do It Yet | S2 Ep 17</sub-title>
+    <desc>Learn the value of stepping out of your comfort zone and embracing challenges, even when things feel difficult. Explore how trusting your identity in Christ can help you overcome fear, face failure, and take bold steps toward growth and victory.</desc>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024210000 -0400" channel="GospelTruthTV.us">
+    <title>Truth &amp; Liberty</title>
+    <sub-title>History and Truth with Tim Barton</sub-title>
+    <desc>Was America truly founded on the Bible? This episode examines historical evidence and the beliefs of the Founding Fathers. Featuring Tim Barton, this compelling discussion reveals America’s Christian heritage and why it still matters in today’s cultural and political landscape.</desc>
+  </programme>
+  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="GospelTruthTV.us">
+    <title>The Winner's Way</title>
+    <sub-title>Passing the Test: The Mental Test</sub-title>
+    <desc>You will experience God’s will to the extent that your mind is renewed to God and His Word. A renewed mind will pass the mental tests of life.</desc>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024223000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Jim Zarich: Testimony</sub-title>
+    <desc>Discover how the revelation of Spirit, Soul &amp; Body became pivotal in Jim’s walk with God and his family.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>The Heart of Prayer | Harmony of the Gospels | Episode 29</sub-title>
+    <desc>Andrew Wommack unpacks Jesus’ teaching on prayer and the believer’s relationship with the Heavenly Father. Discover why prayer is meant to be a genuine connection with God, how Jesus’ model prayer provides a framework for communicating with Him, and why the heart behind our prayers matters.
+
+Scriptures covered: Matthew 6:7-19</desc>
+  </programme>
+  <programme start="20261024230000 -0400" stop="20261024233000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Stories</title>
+    <sub-title>Standing When Symptoms Scream | S1 Ep 48</sub-title>
+    <desc>Discover practical steps to embrace your God-given authority and walk in healing.</desc>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025000000 -0400" channel="GospelTruthTV.us">
+    <title>The Insider</title>
+    <sub-title>Walking in the Spirit: Ephesians | S2 Ep 14</sub-title>
+    <desc>In this fourteenth episode of our Ephesians study, Paul warns against immorality, impurity, and covetousness, emphasizing that these are incompatible with our identity as saints. Instead, he encourages speech that builds others up and focuses on thanksgiving. Paul highlights that walking in the Spirit transforms our desires, enabling us to live in a way that pleases God and reflects His holiness.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025010000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>God Spoke and I Responded | S7 Ep 14</sub-title>
+    <desc>Feeling that something is missing? Discover how encountering God can radically transform your life.</desc>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="GospelTruthTV.us">
+    <title>Campus Days</title>
+    <sub-title>The Power of Hope | S3 Ep 9</sub-title>
+    <desc>Don’t let hope fade—Pastor Rick inspires you to expect God’s goodness, sow hope &amp; watch faith come alive.</desc>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025020000 -0400" channel="GospelTruthTV.us">
+    <title>Campus Days</title>
+    <sub-title>Walking in Hope | S3 Ep 10</sub-title>
+    <desc>Declare God’s goodness! Pastor Rick inspires you to use hope, faith &amp; Scripture to transform your circumstances.</desc>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025023000 -0400" channel="GospelTruthTV.us">
+    <title>WORSHIP</title>
+    <sub-title>Most High God</sub-title>
+    <desc>Charis Worship celebrates the nations in this special Festival of Nations gathering recorded live at Charis Bible College in 2026. Featuring “Let Your Light Shine,” “Alleluia,” an African worship medley, along with “Great Are You Lord,” this episode showcases the beauty of global worship united in one voice to glorify God.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="GospelTruthTV.us">
+    <title>Let's Talk</title>
+    <sub-title>With Friends: My Truth vs. The Truth | S3 Ep 10</sub-title>
+    <desc>Is "your truth" helping you or harming you? Can the truth be subjective? Find out in this episode!</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025033000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Chapel</title>
+    <sub-title>Charis Chapel with Jesse Duplantis Part 2</sub-title>
+    <desc>Jesse Duplantis ministers during Charis Chapel at Charis Bible College.</desc>
+  </programme>
+  <programme start="20261025033000 -0400" stop="20261025040000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>The Purpose of God's Goodness | S1 Ep 8</sub-title>
+    <desc>What if we changed our perspective and embraced a new vision of God's character, allowing His goodness to surpass our doubts? We seldom feel that we deserve anything good from Him. We know our faults and failures. We strive to have faith, but many times we feel our faith is inadequate.  In this episode, Barry shares how God's goodness far exceeds our expectations, encouraging us to see beyond our shortcomings.</desc>
+  </programme>
+  <programme start="20261025040000 -0400" stop="20261025050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Faith, Fire, and Freedom | S3 Ep 5</sub-title>
+    <desc>Dive into revelations about God's willingness to heal</desc>
+  </programme>
+  <programme start="20261025045959 -0400" stop="20261025053000 -0400" channel="GospelTruthTV.us">
+    <title>WORSHIP</title>
+    <sub-title>Most High God</sub-title>
+    <desc>Charis Worship celebrates the nations in this special Festival of Nations gathering recorded live at Charis Bible College in 2026. Featuring “Let Your Light Shine,” “Alleluia,” an African worship medley, along with “Great Are You Lord,” this episode showcases the beauty of global worship united in one voice to glorify God.</desc>
+  </programme>
+  <programme start="20261025053000 -0400" stop="20261025060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>In "Prayer - Drawing Near to God," Duane Sheriff teaches that prayer is not about bargaining with God, nor should it be a last resort when everything else fails. Prayer is God’s means of relationship and partnership with us. Through the new birth, we are restored to God’s design to walk with Him, hear His voice, and partner with Him so that His will is done on earth as it is in heaven.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025070000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Calvin and Robin McMillan: Transforming Lives</sub-title>
+    <desc>Be inspired by their testimony of resilience and commitment to serve the community in Montgomery, New York.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Bold Access to God | S17 Ep 18</sub-title>
+    <desc>Struggling with feelings of unworthiness? Mike’s teaching highlights how we are no longer bound by sin in the New Covenant but are empowered to live righteously through Christ, making this revelation accessible to all believers.</desc>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025083000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Healed, Whole, and Powerful | S7 Ep 15</sub-title>
+    <desc>Are you living your life for God? Discover the healing power of Jesus through one woman's transformative journey.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Living by Kingdom Wisdom | Harmony of the Gospels | Episode 31</sub-title>
+    <desc>How should followers of Jesus respond to worry, judgment, and difficult decisions? The Sermon on the Mount offers a powerful framework: trust God, seek His Kingdom, pray with confidence, and extend mercy while exercising discernment. Discover timeless Kingdom principles that can shape your faith and daily walk with God.
+
+Scriptures covered: Matthew 6:34-7:8</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 8</sub-title>
+    <desc>What would change if you took hold of what Christ has already given you? Renew your mind and begin walking in what is already yours.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025103000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith International</title>
+    <sub-title>France 2026: Grace The Power of the Gospel | S1 Ep 2</sub-title>
+    <desc>Discover powerful testimonies of healing and grace as Andrew shares how God is transforming lives in the French-speaking world.</desc>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Bold Access to God | S17 Ep 18</sub-title>
+    <desc>Struggling with feelings of unworthiness? Mike’s teaching highlights how we are no longer bound by sin in the New Covenant but are empowered to live righteously through Christ, making this revelation accessible to all believers.</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="GospelTruthTV.us">
+    <title>The Garden Cartoon</title>
+    <sub-title>Double Trouble / Fish and Ships</sub-title>
+    <desc>Lenny orders a butler robot to do his chores but when it starts to malfunction Lenny finds himself in an even bigger mess! /  Captain Snappy’s ship gets swallowed by a whale! It's up to Lenny and Lucy to help him get it back!</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>Miracles Are for Today | S2 Ep 21</sub-title>
+    <desc>Jim Baker reveals how faith, compassion &amp; obedience unlock God’s healing power—expect miracles &amp; embrace His goodness!</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>Faith Looks at Jesus | S2 Ep 22</sub-title>
+    <desc>Jim Baker exposes the barriers to receiving God’s love—trust Jesus, expect breakthrough &amp; step into healing and wholeness!</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="GospelTruthTV.us">
+    <title>Higher Ground</title>
+    <sub-title>Jesus in His Own Words – Part 8 – Jesus is the Bread of Life – Part 1</sub-title>
+    <desc>In Matthew 16:13-20, Jesus Christ asked his disciples, “Who do you say that I am?” By the Holy Spirit, Jesus is asking every one of us the same question today. How we respond will determine not only our eternal destiny, but the measure of our victory in this life! And what better place can we go to answer this immortal question than Christ’s own statements about himself? In this life-changing 14-part series from his television broadcast, Higher Ground, Richard Harris leads you in an amazing study of the fourteen times in the Gospels when Jesus used God’s revealed name, “I AM,” for Himself. Through this series, you will experience greater intimacy with Jesus, and be empowered to testify to a broken world about his true nature and identity!</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Chapel</title>
+    <sub-title>Charis Chapel with Jesse Duplantis Part 2</sub-title>
+    <desc>Jesse Duplantis ministers during Charis Chapel at Charis Bible College.</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Hello and welcome back again to Student of the Word with Pastor Bob Yandian. Well, we're getting close to the end of the series. I'm teaching on 37 things that God gave to us the moment we got born again, unseen, unfelt, and unknown. And through our time as being born again, we these things come to pass. Today we're going to be talking about that. We are a gift from God the Father to the Lord Jesus Christ. The moment we get born again, God saves us, but he gives us to Jesus Christ, and we become a son and a daughter of God, but we also become brothers and sisters with Jesus Christ. We're also going to talk about the fact that we have access to God the Father. The moment we get born again to come into his throne. They couldn't even do that in the Old Testament believers. They had to come before the priest and talk to him. We can go directly to God the Father. Great show today. I know you're going to be blessed.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <desc>What could be stealing the peace, health, and freedom Jesus has already provided for you? In the final installment of “Thieves and Robbers,” Dr. Kevin Chapman reveals several areas believers must learn to recognize and guard against. From pride and the fear of man to sickness, mental torment, and poverty, Kevin combines biblical truth with practical insight to expose these thieves. Discover how spiritual maturity helps you discern what comes from God and stand firmly in His truth.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>At the end of the age, false teachers will smuggle demonic heresies into Church doctrine. Has this already started? You need to hear this!</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>In "Prayer - Drawing Near to God," Duane Sheriff teaches that prayer is not about bargaining with God, nor should it be a last resort when everything else fails. Prayer is God’s means of relationship and partnership with us. Through the new birth, we are restored to God’s design to walk with Him, hear His voice, and partner with Him so that His will is done on earth as it is in heaven.</desc>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="GospelTruthTV.us">
+    <title>One Gospel</title>
+    <sub-title>Praying in Spirit and Truth</sub-title>
+    <desc>A clear and powerful teaching about praying in spirit and truth. Johan Toet explains why prayer is more than bringing problems and needs before God. True prayer flows from relationship with the Father, faith in His Word and knowing who you are in Christ. Through Scripture and a powerful testimony from his years in prison, discover what happens when your prayers align with God’s Word and His heart.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Faith, Fire, and Freedom | S3 Ep 5</sub-title>
+    <desc>Dive into revelations about God's willingness to heal</desc>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025173000 -0400" channel="GospelTruthTV.us">
+    <title>WORSHIP</title>
+    <sub-title>Most High God</sub-title>
+    <desc>Charis Worship celebrates the nations in this special Festival of Nations gathering recorded live at Charis Bible College in 2026. Featuring “Let Your Light Shine,” “Alleluia,” an African worship medley, along with “Great Are You Lord,” this episode showcases the beauty of global worship united in one voice to glorify God.</desc>
+  </programme>
+  <programme start="20261025173000 -0400" stop="20261025183000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith International</title>
+    <sub-title>France 2026: Grace The Power of the Gospel | S1 Ep 2</sub-title>
+    <desc>Discover powerful testimonies of healing and grace as Andrew shares how God is transforming lives in the French-speaking world.</desc>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Stories</title>
+    <sub-title>Faith That Never Backed Down | S1 Ep 49</sub-title>
+    <desc>Discover how to stand strong in healing despite re-emerging symptoms.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="GospelTruthTV.us">
+    <title>The Garden Cartoon</title>
+    <sub-title>Double Trouble / Fish and Ships</sub-title>
+    <desc>Lenny orders a butler robot to do his chores but when it starts to malfunction Lenny finds himself in an even bigger mess! /  Captain Snappy’s ship gets swallowed by a whale! It's up to Lenny and Lucy to help him get it back!</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="GospelTruthTV.us">
+    <title>Good Day</title>
+    <sub-title>Authority Matters | S2 Ep 18</sub-title>
+    <desc>Authority matters, but so does the heart behind it. Discover the importance of stepping up to your responsibilities with purpose, integrity, and a genuine desire to serve others, fostering lasting good fruit in every area of life.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025210000 -0400" channel="GospelTruthTV.us">
+    <title>Truth &amp; Liberty</title>
+    <sub-title>History and Truth with Tim Barton</sub-title>
+    <desc>Was America truly founded on the Bible? This episode examines historical evidence and the beliefs of the Founding Fathers. Featuring Tim Barton, this compelling discussion reveals America’s Christian heritage and why it still matters in today’s cultural and political landscape.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="GospelTruthTV.us">
+    <title>The Winner's Way</title>
+    <sub-title>A Conversation on Church Planting, Part 1</sub-title>
+    <desc>Why did Mac and Lynne Hammond start a new ministry planting churches worldwide after 45 years of pastoring a church? Listen in for their answer.</desc>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025223000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Calvin and Robin McMillan: Transforming Lives</sub-title>
+    <desc>Be inspired by their testimony of resilience and commitment to serve the community in Montgomery, New York.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Living by Kingdom Wisdom | Harmony of the Gospels | Episode 31</sub-title>
+    <desc>How should followers of Jesus respond to worry, judgment, and difficult decisions? The Sermon on the Mount offers a powerful framework: trust God, seek His Kingdom, pray with confidence, and extend mercy while exercising discernment. Discover timeless Kingdom principles that can shape your faith and daily walk with God.
+
+Scriptures covered: Matthew 6:34-7:8</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Stories</title>
+    <sub-title>Faith That Never Backed Down | S1 Ep 49</sub-title>
+    <desc>Discover how to stand strong in healing despite re-emerging symptoms.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="GospelTruthTV.us">
+    <title>The Insider</title>
+    <sub-title>Honor Each Other: Ephesians | S2 Ep 15</sub-title>
+    <desc>In this fifteenth episode of our Ephesians study, we explore Paul's instructions for Christian households, emphasizing doing everything "as unto the Lord." Paul highlights mutual love and respect in marriage, obedience between parents and children, and urges bondservants to serve as if serving Christ, while calling masters to treat their servants justly.</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026010000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Healed, Whole, and Powerful | S7 Ep 15</sub-title>
+    <desc>Are you living your life for God? Discover the healing power of Jesus through one woman's transformative journey.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026013000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>Miracles Are for Today | S2 Ep 21</sub-title>
+    <desc>Jim Baker reveals how faith, compassion &amp; obedience unlock God’s healing power—expect miracles &amp; embrace His goodness!</desc>
+  </programme>
+  <programme start="20261026013000 -0400" stop="20261026020000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>Faith Looks at Jesus | S2 Ep 22</sub-title>
+    <desc>Jim Baker exposes the barriers to receiving God’s love—trust Jesus, expect breakthrough &amp; step into healing and wholeness!</desc>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="GospelTruthTV.us">
+    <title>Wisdom for Living</title>
+    <sub-title>Wisdom For Living</sub-title>
+    <desc>The Word of God declares that every believer is called to walk and live by faith, but how can we practically apply this in our lives? In this 20-part series, Pastor Greg Mohr shares revelation and experience he received during forty years of walking with the Lord that will help you create your own personal faith adventures. Get ready to be blessed, equipped, and confident in walking by faith, as well as grow in your intimacy with the Lord as you receive the truths contained in this series, Adventures in Faith!</desc>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="GospelTruthTV.us">
+    <title>Abundant Life</title>
+    <desc>As a believer, you have authority through Christ, so stand on His Word, refuse fear, and walk in the victory, healing, and wholeness He provides.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026033000 -0400" channel="GospelTruthTV.us">
+    <title>Good News</title>
+    <desc>Did you know that being born again isn't just getting a ticket to heaven—it is a complete, miraculous transformation of your spirit?</desc>
+  </programme>
+  <programme start="20261026033000 -0400" stop="20261026040000 -0400" channel="GospelTruthTV.us">
+    <title>Victory Life Today</title>
+    <desc>A diagnosis, a bank balance, or a bad report can speak loudly without getting to finish the sentence. On letting God's Word be final.</desc>
+  </programme>
+  <programme start="20261026040000 -0400" stop="20261026043000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Welcome again to Student of the Word. This is Pastor Bob Yandian. I'm beginning this something that can probably take 5 or 6 different lessons on. We'll see. But it's on the power of the Word of God being your daily food, giving you strength inside of yourself for one main purpose. And that's so we can look like Christians and act like Christians and talk like Christians from the strength that comes from the Word of God. Today we're going to talk about the power of the Word of God against sin. Let's talk about that. Let's go to the Word of God together.</desc>
+  </programme>
+  <programme start="20261026043000 -0400" stop="20261026050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <desc>Have you ever struggled to truly believe just how deeply God loves you? In this episode, Julieann Hartman reveals why understanding God’s love can transform the way you see healing, fear, symptoms, and your relationship with Him. Discover why His love isn’t based on your performance, works, or ability to get everything right. Instead of focusing on what you must do, Julieann encourages you to rest in Jesus, receive His love, and recognize everything He has already provided.</desc>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026053000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>When Timothy was the Pastor in Ephesus, a group arose to amend the Gospel for inclusion and assimilation. Has that movement returned?</desc>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>Healing is not something we earn or deserve. It is a gift of grace, received through faith in what Jesus has already provided. In The God Who Heals, Duane Sheriff teaches how God’s nature, love, mercy, and Word reveal His desire to heal. From the Passover and the promises of God to the life and ministry of Jesus and His finished work on the cross, Scripture reveals healing as part of God’s redemptive provision. Discover biblical ways to receive and minister healing through prayer, communion, laying on of hands, anointing with oil, and gifts of the Spirit.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026070000 -0400" channel="GospelTruthTV.us">
+    <title>Gospel Truth Conference</title>
+    <sub-title>Perfected Once For All | S4 Ep 17</sub-title>
+    <desc>Discover how joy is more than emotion—it gives strength to finish your race with purpose. Overcome weariness and live in God’s power and peace.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Knowing Your Identity Very Well | S18 Ep 1</sub-title>
+    <desc>Did you know how well you know your identity and how you value yourself can impact every area of your life? Join Greg Mohr in this transformative episode as he encourages you to discover the powerful truths of your identity in Christ.</desc>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Am I Irredeemable? | S2 Ep 22</sub-title>
+    <desc>If you’ve ever felt unredeemable due to past mistakes, discover how God's Word reveals your redemption in Christ, offering forgiveness and a fresh start.</desc>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 1</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Authority to Forgive Sins | Harmony of the Gospels | Episode 34</sub-title>
+    <desc>Faith often presses through every obstacle to reach Jesus. Discover how a leper’s humble request and the determined faith of a paralyzed man’s friends led to miraculous healing. As Jesus forgives sins before commanding the man to walk, He reveals that His mission is about more than physical restoration - it is about making people whole from the inside out.
+
+Scriptures covered: Luke 5:12-17, Matthew 9:1-8, Mark 2:1-12</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 11</sub-title>
+    <desc>What if you don't have to figure it all out? Trust God's direction, take the next step, and let Him lead the way.</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026103000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 1</sub-title>
+    <desc>Are you tired of begging for God's blessings?
+This episode reveals the powerful truth that you've already received everything you need through Christ.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Knowing Your Identity Very Well | S18 Ep 1</sub-title>
+    <desc>Did you know how well you know your identity and how you value yourself can impact every area of your life? Join Greg Mohr in this transformative episode as he encourages you to discover the powerful truths of your identity in Christ.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026130000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Archives</title>
+    <sub-title>Effortless Change Ep61</sub-title>
+    <desc>Discover how God’s Word can transform your life from the inside out. Andrew Wommack teaches how to plant the Word in your heart, let it take root through meditation and patience, and experience lasting change, growth, fruit, and God’s purpose.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 11</sub-title>
+    <desc>What if you don't have to figure it all out? Trust God's direction, take the next step, and let Him lead the way.</desc>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>The Promises of God | S1 Ep 11</sub-title>
+    <desc>Many of us have no trouble trusting what we can see and feel, but when it comes to promises—mere words—we often struggle. Even though His words created and sustain the universe, we struggle to believe in what we don't yet see.  In this episode, we’ll uncover how to fully trust in God's promises and watch as they unfold powerfully in our lives.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="GospelTruthTV.us">
+    <title>Truth Revealed</title>
+    <sub-title>Spotting Toxic Ties God’s Way</sub-title>
+    <desc>What does Scripture say about harmful connections? Gain tools to set boundaries, guard your heart, and love without fear.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026160000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 1</sub-title>
+    <desc>Are you tired of begging for God's blessings?
+This episode reveals the powerful truth that you've already received everything you need through Christ.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Receiving from a Loving God | S3 Ep 7</sub-title>
+    <desc>Experience healing by resting in God’s love instead of striving.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026180000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Michelle Patterson: Join the Mission</sub-title>
+    <desc>Learn about the importance of hands-on ministry and the impact of Charis Bible College's missions program.</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Victory News</sub-title>
+    <desc>08/24/2026</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>The Promises of God | S1 Ep 11</sub-title>
+    <desc>Many of us have no trouble trusting what we can see and feel, but when it comes to promises—mere words—we often struggle. Even though His words created and sustain the universe, we struggle to believe in what we don't yet see.  In this episode, we’ll uncover how to fully trust in God's promises and watch as they unfold powerfully in our lives.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 1</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 11</sub-title>
+    <desc>What if you don't have to figure it all out? Trust God's direction, take the next step, and let Him lead the way.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026210000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Flashpoint Live</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>The Truth &amp; Liberty Show</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 1</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Authority to Forgive Sins | Harmony of the Gospels | Episode 34</sub-title>
+    <desc>Faith often presses through every obstacle to reach Jesus. Discover how a leper’s humble request and the determined faith of a paralyzed man’s friends led to miraculous healing. As Jesus forgives sins before commanding the man to walk, He reveals that His mission is about more than physical restoration - it is about making people whole from the inside out.
+
+Scriptures covered: Luke 5:12-17, Matthew 9:1-8, Mark 2:1-12</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261027000000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 1</sub-title>
+    <desc>Are you tired of begging for God's blessings?
+This episode reveals the powerful truth that you've already received everything you need through Christ.</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Am I Irredeemable? | S2 Ep 22</sub-title>
+    <desc>If you’ve ever felt unredeemable due to past mistakes, discover how God's Word reveals your redemption in Christ, offering forgiveness and a fresh start.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027010000 -0400" channel="GospelTruthTV.us">
+    <title>Run Your Race</title>
+    <sub-title>The Secret Weapon | Ep 5</sub-title>
+    <desc>Hope unlocks the doors to your destiny. See what God has in store as you grow through challenges!</desc>
+  </programme>
+  <programme start="20261027010000 -0400" stop="20261027013000 -0400" channel="GospelTruthTV.us">
+    <title>Campus Days</title>
+    <sub-title>Suffering God's Way | S4 Ep 5</sub-title>
+    <desc>Challenges don’t disqualify you—they refine you. Pastor Greg Moore inspires courage, purpose &amp; perseverance through every trial.</desc>
+  </programme>
+  <programme start="20261027013000 -0400" stop="20261027020000 -0400" channel="GospelTruthTV.us">
+    <title>Campus Days</title>
+    <sub-title>Trusting God in Obscurity | S4 Ep 6</sub-title>
+    <desc>Greg Moore reminds us God’s will is personal—stop comparing, trust His leading &amp; pursue the purpose placed in your heart.</desc>
+  </programme>
+  <programme start="20261027020000 -0400" stop="20261027023000 -0400" channel="GospelTruthTV.us">
+    <title>Wisdom for Living</title>
+    <sub-title>Wisdom For Living</sub-title>
+    <desc>The Word of God declares that every believer is called to walk and live by faith, but how can we practically apply this in our lives? In this 20-part series, Pastor Greg Mohr shares revelation and experience he received during forty years of walking with the Lord that will help you create your own personal faith adventures. Get ready to be blessed, equipped, and confident in walking by faith, as well as grow in your intimacy with the Lord as you receive the truths contained in this series, Adventures in Faith!</desc>
+  </programme>
+  <programme start="20261027023000 -0400" stop="20261027030000 -0400" channel="GospelTruthTV.us">
+    <title>Abundant Life</title>
+    <desc>Be filled with the Holy Spirit, move beyond natural understanding, hear the Word in faith, and come into agreement with what God says.</desc>
+  </programme>
+  <programme start="20261027030000 -0400" stop="20261027033000 -0400" channel="GospelTruthTV.us">
+    <title>Good News</title>
+    <desc>If you're a prince, but you think like a pauper, you'll never walk in the privileges that rightfully belong to you.</desc>
+  </programme>
+  <programme start="20261027033000 -0400" stop="20261027040000 -0400" channel="GospelTruthTV.us">
+    <title>Victory Life Today</title>
+    <desc>The mind does not drift toward faith on its own. Practical steps for choosing your thoughts before they start choosing you.</desc>
+  </programme>
+  <programme start="20261027040000 -0400" stop="20261027043000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Hi, this is pastor Bob Yandian. Welcome back again to Student of the Word. In the last broadcast, we began a series on the Word of God is your food. Today we're going to talk about that. Food gives you strength against sin, to see sin resist sin. And if you do sin, the power to get rid of it. Jesus Christ is our great High Priest. So, let's go to the Word of God. I know you're going to enjoy this.</desc>
+  </programme>
+  <programme start="20261027043000 -0400" stop="20261027050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <sub-title>Are You All Over the Place With Your Healing?</sub-title>
+    <desc>In this powerful episode of Healing Journeys Today, Jeremiah Klaas tackles the question, “Are you all over the place with your healing?” If you’ve felt up and down, unstable, or unsure in your journey toward healing, you’re not alone—but that’s not how God designed it. Jeremiah shares how instability was never part of God’s plan and how you can get grounded in truth to start seeing consistent, lasting results in your healing walk with Him.</desc>
+  </programme>
+  <programme start="20261027050000 -0400" stop="20261027053000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>Discover how a lack of Biblical knowledge makes you susceptible to deceptive teaching that leaves you with more questions than answers.</desc>
+  </programme>
+  <programme start="20261027053000 -0400" stop="20261027060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>Healing is not something we earn or deserve. It is a gift of grace, received through faith in what Jesus has already provided. In The God Who Heals, Duane Sheriff teaches how God’s nature, love, mercy, and Word reveal His desire to heal. From the Passover and the promises of God to the life and ministry of Jesus and His finished work on the cross, Scripture reveals healing as part of God’s redemptive provision. Discover biblical ways to receive and minister healing through prayer, communion, laying on of hands, anointing with oil, and gifts of the Spirit.</desc>
+  </programme>
+  <programme start="20261027060000 -0400" stop="20261027070000 -0400" channel="GospelTruthTV.us">
+    <title>Gospel Truth Conference</title>
+    <sub-title>Finish With Joy | S4 Ep 18</sub-title>
+    <desc>Discover how joy fuels strength to finish with purpose, overcome weariness, and live filled with God’s power and peace.</desc>
+  </programme>
+  <programme start="20261027070000 -0400" stop="20261027073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>What Your True Identity Is | S18 Ep 2</sub-title>
+    <desc>Are you struggling to find your true identity? Andrew opens the episode by asking how you would define yourself, leading into a deep dive on the vital discovery of your identity in Christ as a spiritual being.</desc>
+  </programme>
+  <programme start="20261027073000 -0400" stop="20261027080000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Jesus Is Lord | S4 Ep 23</sub-title>
+    <desc>Wondering if God can use you? Discover how the only limit to His mighty work in your life is you. Dive into His Word and uncover your potential.</desc>
+  </programme>
+  <programme start="20261027080000 -0400" stop="20261027083000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 2</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261027083000 -0400" stop="20261027090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>A New Way of Living | Harmony of the Gospels | Episode 35</sub-title>
+    <desc>Jesus’ ministry reaches beyond outward appearances and physical circumstances. When faithful friends bring a paralyzed man into His presence, Jesus addresses the heart of the matter by forgiving his sins and then healing his body. He later calls Levi from the tax booth and explains that His mission is to reach those who know they need a physician. Through these encounters and His teaching about new wine, Jesus reveals the restoring power of grace and the new life He came to give.
+
+Scriptures covered: Luke 5:17-29, Mark 2:13-22, Matthew 9:9-17</desc>
+  </programme>
+  <programme start="20261027090000 -0400" stop="20261027093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 12</sub-title>
+    <desc>Don’t let unexpected trouble dictate your response. Choose a response rooted in who God is and what He has promised.</desc>
+  </programme>
+  <programme start="20261027093000 -0400" stop="20261027103000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 2</sub-title>
+    <desc>Ready to shift your mindset?
+Learn how to stop asking for what you've already been given and start walking in your God-given authority.</desc>
+  </programme>
+  <programme start="20261027103000 -0400" stop="20261027110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>What Your True Identity Is | S18 Ep 2</sub-title>
+    <desc>Are you struggling to find your true identity? Andrew opens the episode by asking how you would define yourself, leading into a deep dive on the vital discovery of your identity in Christ as a spiritual being.</desc>
+  </programme>
+  <programme start="20261027110000 -0400" stop="20261027130000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Archives</title>
+    <sub-title>Effortless Change Ep62</sub-title>
+    <desc>Discover how God’s Word can transform your life from the inside out. Andrew Wommack teaches how to plant the Word in your heart, let it take root through meditation and patience, and experience lasting change, growth, fruit, and God’s purpose.</desc>
+  </programme>
+  <programme start="20261027130000 -0400" stop="20261027133000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 12</sub-title>
+    <desc>Don’t let unexpected trouble dictate your response. Choose a response rooted in who God is and what He has promised.</desc>
+  </programme>
+  <programme start="20261027133000 -0400" stop="20261027140000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Promises &amp; Seeds | S1 Ep 12</sub-title>
+    <desc>A promise is like a seed—it holds the potential for fulfillment but must be planted and nurtured. Each word He speaks holds the power to bring itself to pass, just as a seed can only produce what it was designed to be. In this episode, discover how to activate and cultivate God’s promises in your life for a harvest beyond imagination.</desc>
+  </programme>
+  <programme start="20261027140000 -0400" stop="20261027150000 -0400" channel="GospelTruthTV.us">
+    <title>Truth Revealed</title>
+    <sub-title>Truth, Boundaries and Trust</sub-title>
+    <desc>Struggling in dating or marriage? Get Scripture-based tools for healthy, Christ-centered relationships.</desc>
+  </programme>
+  <programme start="20261027150000 -0400" stop="20261027160000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 2</sub-title>
+    <desc>Ready to shift your mindset?
+Learn how to stop asking for what you've already been given and start walking in your God-given authority.</desc>
+  </programme>
+  <programme start="20261027160000 -0400" stop="20261027170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Fear Not, Only Believe | S3 Ep 8</sub-title>
+    <desc>Learn how to respond to crises by choosing faith over fear.</desc>
+  </programme>
+  <programme start="20261027170000 -0400" stop="20261027180000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Jack Phillips: Testimony</sub-title>
+    <desc>Be inspired by Jack Phillips as he shares his powerful journey of faith and standing up for his beliefs.</desc>
+  </programme>
+  <programme start="20261027180000 -0400" stop="20261027183000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Victory News</sub-title>
+    <desc>08/24/2026</desc>
+  </programme>
+  <programme start="20261027183000 -0400" stop="20261027190000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Promises &amp; Seeds | S1 Ep 12</sub-title>
+    <desc>A promise is like a seed—it holds the potential for fulfillment but must be planted and nurtured. Each word He speaks holds the power to bring itself to pass, just as a seed can only produce what it was designed to be. In this episode, discover how to activate and cultivate God’s promises in your life for a harvest beyond imagination.</desc>
+  </programme>
+  <programme start="20261027190000 -0400" stop="20261027193000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 2</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261027193000 -0400" stop="20261027200000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 12</sub-title>
+    <desc>Don’t let unexpected trouble dictate your response. Choose a response rooted in who God is and what He has promised.</desc>
+  </programme>
+  <programme start="20261027200000 -0400" stop="20261027210000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Flashpoint Live</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261027210000 -0400" stop="20261027220000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>The Truth &amp; Liberty Show</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261027220000 -0400" stop="20261027223000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 2</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261027223000 -0400" stop="20261027230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>A New Way of Living | Harmony of the Gospels | Episode 35</sub-title>
+    <desc>Jesus’ ministry reaches beyond outward appearances and physical circumstances. When faithful friends bring a paralyzed man into His presence, Jesus addresses the heart of the matter by forgiving his sins and then healing his body. He later calls Levi from the tax booth and explains that His mission is to reach those who know they need a physician. Through these encounters and His teaching about new wine, Jesus reveals the restoring power of grace and the new life He came to give.
+
+Scriptures covered: Luke 5:17-29, Mark 2:13-22, Matthew 9:9-17</desc>
+  </programme>
+  <programme start="20261027230000 -0400" stop="20261028000000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 2</sub-title>
+    <desc>Ready to shift your mindset?
+Learn how to stop asking for what you've already been given and start walking in your God-given authority.</desc>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028003000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Jesus Is Lord | S4 Ep 23</sub-title>
+    <desc>Wondering if God can use you? Discover how the only limit to His mighty work in your life is you. Dive into His Word and uncover your potential.</desc>
+  </programme>
+  <programme start="20261028003000 -0400" stop="20261028010000 -0400" channel="GospelTruthTV.us">
+    <title>Kingdom Wealth</title>
+    <sub-title>Dare to Innovate | Ep 7</sub-title>
+    <desc>Unleash your creativity! Discover how to turn life’s challenges into stepping stones and transform problems into pathways to build wealth.</desc>
+  </programme>
+  <programme start="20261028010000 -0400" stop="20261028013000 -0400" channel="GospelTruthTV.us">
+    <title>Men's Advance</title>
+    <sub-title>The Dreamer Cometh. | S5 Ep 1</sub-title>
+    <desc>Jesse Duplantis ignites faith for everyday life—break limits, believe boldly &amp; align your mindset with God’s promises!</desc>
+  </programme>
+  <programme start="20261028013000 -0400" stop="20261028020000 -0400" channel="GospelTruthTV.us">
+    <title>Men's Advance</title>
+    <sub-title>Endurance for Every Battle | S5 Ep 2</sub-title>
+    <desc>Jesse Duplantis calls men to rise—dream big, live righteous &amp; turn pressure into purpose with bold, God-filled confidence!</desc>
+  </programme>
+  <programme start="20261028020000 -0400" stop="20261028023000 -0400" channel="GospelTruthTV.us">
+    <title>Wisdom for Living</title>
+    <sub-title>Wisdom For Living</sub-title>
+    <desc>The Word of God declares that every believer is called to walk and live by faith, but how can we practically apply this in our lives? In this 20-part series, Pastor Greg Mohr shares revelation and experience he received during forty years of walking with the Lord that will help you create your own personal faith adventures. Get ready to be blessed, equipped, and confident in walking by faith, as well as grow in your intimacy with the Lord as you receive the truths contained in this series, Adventures in Faith!</desc>
+  </programme>
+  <programme start="20261028023000 -0400" stop="20261028030000 -0400" channel="GospelTruthTV.us">
+    <title>Abundant Life</title>
+    <desc>Make room for God’s Word, shut the door to unbelief, and fix your eyes on Him until your faith speaks louder than the mountain.</desc>
+  </programme>
+  <programme start="20261028030000 -0400" stop="20261028033000 -0400" channel="GospelTruthTV.us">
+    <title>Good News</title>
+    <desc>Greg Fritz unpacks why the new birth is a specific event that happens in a moment of time—and why it requires your full, personal consent.</desc>
+  </programme>
+  <programme start="20261028033000 -0400" stop="20261028040000 -0400" channel="GospelTruthTV.us">
+    <title>Victory Life Today</title>
+    <desc>Worship leader BJ Sullivan on worship as something you labor at and build a life around, not just a song you sing on Sunday morning.</desc>
+  </programme>
+  <programme start="20261028040000 -0400" stop="20261028043000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Hi, this is Pastor Bob Yandian, and welcome back to the broadcast. This is the third in my series on the Word of God is food, our daily food. And today we're going to talk about the fact that we need that daily food so we can be a witness in front of other people that God has called us in this earth to produce good works, good works of those things that are backed by the Word of God that you don't even have to think about. You just do it because you love God and that can win other people to the Lord. It's part of your witnessing. Sound good? Let's go to the Word of God together.</desc>
+  </programme>
+  <programme start="20261028043000 -0400" stop="20261028050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <desc>Our Father's love comes with many benefits. Mike focuses on one particular benefit that when received brings great freedom.</desc>
+  </programme>
+  <programme start="20261028050000 -0400" stop="20261028053000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>It is important to be able to tell when Bible teaching is accurate and when it isn’t. Learn how to judge for yourself in today’s program!</desc>
+  </programme>
+  <programme start="20261028053000 -0400" stop="20261028060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>Healing is not something we earn or deserve. It is a gift of grace, received through faith in what Jesus has already provided. In The God Who Heals, Duane Sheriff teaches how God’s nature, love, mercy, and Word reveal His desire to heal. From the Passover and the promises of God to the life and ministry of Jesus and His finished work on the cross, Scripture reveals healing as part of God’s redemptive provision. Discover biblical ways to receive and minister healing through prayer, communion, laying on of hands, anointing with oil, and gifts of the Spirit.</desc>
+  </programme>
+  <programme start="20261028060000 -0400" stop="20261028070000 -0400" channel="GospelTruthTV.us">
+    <title>Gospel Truth Conference</title>
+    <sub-title>Unshakable Love Revealed | S4 Ep 19</sub-title>
+    <desc>Feeling like you’re not enough? Andrew Wommack shares how your identity in Christ makes you complete—empowering you in God’s love and calling.</desc>
+  </programme>
+  <programme start="20261028070000 -0400" stop="20261028073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Righteousness as Our Identity | S18 Ep 3</sub-title>
+    <desc>Have you ever felt pressured by the expectations of others? Join Carrie Pickett in this powerful teaching on discovering your true identity in Christ and how to live boldly out of that revelation.</desc>
+  </programme>
+  <programme start="20261028073000 -0400" stop="20261028080000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Health, Healing, Wholeness | S2 Ep 3</sub-title>
+    <desc>Facing a cancer diagnosis? Join us as we explore how God's Word can be your healing treatment and source of hope in difficult times.</desc>
+  </programme>
+  <programme start="20261028080000 -0400" stop="20261028083000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 3</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261028083000 -0400" stop="20261028090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Do You Want Healing? | Harmony of the Gospels | Episode 36</sub-title>
+    <desc>For thirty-eight years, a man at Bethesda lived with a condition he could not change. Then Jesus asked him a direct question and gave him a command that changed everything. This episode explores the authority of Jesus’ Word, the nature of faith, and the freedom that comes when we stop relying on old ways and embrace the new life He brings.
+
+Scriptures covered: Luke 5:30-39, John 5:1-9</desc>
+  </programme>
+  <programme start="20261028090000 -0400" stop="20261028093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 13</sub-title>
+    <desc>What you say reveals what you're believing. Give your faith a voice, and let God's Word shape your words.</desc>
+  </programme>
+  <programme start="20261028093000 -0400" stop="20261028103000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 3</sub-title>
+    <desc>Feeling stuck in your spiritual journey?
+This discussion explores how understanding your identity in Christ can lead to a victorious life.</desc>
+  </programme>
+  <programme start="20261028103000 -0400" stop="20261028110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Righteousness as Our Identity | S18 Ep 3</sub-title>
+    <desc>Have you ever felt pressured by the expectations of others? Join Carrie Pickett in this powerful teaching on discovering your true identity in Christ and how to live boldly out of that revelation.</desc>
+  </programme>
+  <programme start="20261028110000 -0400" stop="20261028130000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Archives</title>
+    <sub-title>Effortless Change Ep63</sub-title>
+    <desc>Discover how God’s Word can transform your life from the inside out. Andrew Wommack teaches how to plant the Word in your heart, let it take root through meditation and patience, and experience lasting change, growth, fruit, and God’s purpose.</desc>
+  </programme>
+  <programme start="20261028130000 -0400" stop="20261028133000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 13</sub-title>
+    <desc>What you say reveals what you're believing. Give your faith a voice, and let God's Word shape your words.</desc>
+  </programme>
+  <programme start="20261028133000 -0400" stop="20261028140000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>How God's Promises Work | S1 Ep 13</sub-title>
+    <desc>'When we discover a promise of God in the Bible, we’re seeing a glimpse of His heart and His will. God’s promises reveal what He intended for humanity before sin brought corruption and loss, offering us hope. Join us in this episode as we unpack these promises and what they mean for us today.</desc>
+  </programme>
+  <programme start="20261028140000 -0400" stop="20261028150000 -0400" channel="GospelTruthTV.us">
+    <title>Truth Revealed</title>
+    <sub-title>End the Silent Divide</sub-title>
+    <desc>What if the distance in your marriage isn’t beyond repair? One small shift can reopen your heart with God’s help.</desc>
+  </programme>
+  <programme start="20261028150000 -0400" stop="20261028160000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 3</sub-title>
+    <desc>Feeling stuck in your spiritual journey?
+This discussion explores how understanding your identity in Christ can lead to a victorious life.</desc>
+  </programme>
+  <programme start="20261028160000 -0400" stop="20261028170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Do You Trust Me? | S3 Ep 9</sub-title>
+    <desc>Discover the truth about what God has already provided for you.</desc>
+  </programme>
+  <programme start="20261028170000 -0400" stop="20261028180000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Brian &amp; Alexis Cosmos: Testimony</sub-title>
+    <desc>Learn about their journey from struggles to ministry, and how God brought them together at Charis Bible College.</desc>
+  </programme>
+  <programme start="20261028180000 -0400" stop="20261028183000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Victory News</sub-title>
+    <desc>08/24/2026</desc>
+  </programme>
+  <programme start="20261028183000 -0400" stop="20261028190000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>How God's Promises Work | S1 Ep 13</sub-title>
+    <desc>'When we discover a promise of God in the Bible, we’re seeing a glimpse of His heart and His will. God’s promises reveal what He intended for humanity before sin brought corruption and loss, offering us hope. Join us in this episode as we unpack these promises and what they mean for us today.</desc>
+  </programme>
+  <programme start="20261028190000 -0400" stop="20261028193000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 3</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261028193000 -0400" stop="20261028200000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 13</sub-title>
+    <desc>What you say reveals what you're believing. Give your faith a voice, and let God's Word shape your words.</desc>
+  </programme>
+  <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Flashpoint Live</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261028210000 -0400" stop="20261028220000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>The Truth &amp; Liberty Show</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261028220000 -0400" stop="20261028223000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 3</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261028223000 -0400" stop="20261028230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Do You Want Healing? | Harmony of the Gospels | Episode 36</sub-title>
+    <desc>For thirty-eight years, a man at Bethesda lived with a condition he could not change. Then Jesus asked him a direct question and gave him a command that changed everything. This episode explores the authority of Jesus’ Word, the nature of faith, and the freedom that comes when we stop relying on old ways and embrace the new life He brings.
+
+Scriptures covered: Luke 5:30-39, John 5:1-9</desc>
+  </programme>
+  <programme start="20261028230000 -0400" stop="20261029000000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 3</sub-title>
+    <desc>Feeling stuck in your spiritual journey?
+This discussion explores how understanding your identity in Christ can lead to a victorious life.</desc>
+  </programme>
+  <programme start="20261029000000 -0400" stop="20261029003000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Health, Healing, Wholeness | S2 Ep 3</sub-title>
+    <desc>Facing a cancer diagnosis? Join us as we explore how God's Word can be your healing treatment and source of hope in difficult times.</desc>
+  </programme>
+  <programme start="20261029003000 -0400" stop="20261029010000 -0400" channel="GospelTruthTV.us">
+    <title>Run Your Race</title>
+    <sub-title>Command the Impossible | Ep 6</sub-title>
+    <desc>Fear locks you in, but faith breaks you out. Speak boldly and trust Jesus to make a way.</desc>
+  </programme>
+  <programme start="20261029010000 -0400" stop="20261029013000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Is Here</title>
+    <sub-title>Releasing What You Carry | S3 Ep 5</sub-title>
+    <desc>Lies don’t define you—Daniel Amstutz shows how God’s Word frees, heals &amp; restores your true identity in Christ.</desc>
+  </programme>
+  <programme start="20261029013000 -0400" stop="20261029020000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Is Here</title>
+    <sub-title>Life Already In You | S3 Ep 6</sub-title>
+    <desc>Daniel Amstutz shows how aligning your mind with God’s Word unlocks healing &amp; transformation in body and soul</desc>
+  </programme>
+  <programme start="20261029020000 -0400" stop="20261029023000 -0400" channel="GospelTruthTV.us">
+    <title>Wisdom for Living</title>
+    <sub-title>Wisdom For Living</sub-title>
+    <desc>The Word of God declares that every believer is called to walk and live by faith, but how can we practically apply this in our lives? In this 20-part series, Pastor Greg Mohr shares revelation and experience he received during forty years of walking with the Lord that will help you create your own personal faith adventures. Get ready to be blessed, equipped, and confident in walking by faith, as well as grow in your intimacy with the Lord as you receive the truths contained in this series, Adventures in Faith!</desc>
+  </programme>
+  <programme start="20261029023000 -0400" stop="20261029030000 -0400" channel="GospelTruthTV.us">
+    <title>Abundant Life</title>
+    <desc>Discover the truth of who God is and learn to place your faith, trust, and confidence fully in Him.</desc>
+  </programme>
+  <programme start="20261029030000 -0400" stop="20261029033000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Good News</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261029033000 -0400" stop="20261029040000 -0400" channel="GospelTruthTV.us">
+    <title>Victory Life Today</title>
+    <desc>Dr. Don Wood makes the case that the design written into creation, and into you, points to a Creator rather than a coincidence.</desc>
+  </programme>
+  <programme start="20261029040000 -0400" stop="20261029043000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Hi, Pastor Bob Yandian. Today we're in lesson number four on our series on the Word of God is our meal. It's our food that God provides for us. Today we're going to talk about the power of the Word of God to produce obedience in our life. This is what God is looking for us to simply say yes to the promises of God. Obey them. It's not up to us to cause it to come to pass, simply to keep our trust in God. Let's go to the Word of God together.</desc>
+  </programme>
+  <programme start="20261029043000 -0400" stop="20261029050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <sub-title>God's Exceeding Greatness Towards You for Healing</sub-title>
+    <desc>In this encouraging episode of Healing Journeys Today, Colleen Iammarino shares a powerful message on “God’s Exceeding Greatness Towards You for Healing.” She unpacks where our healing truly comes from—God Himself. According to His greatness, we’ve already been given everything we need. Learn how to receive and walk confidently in the healing that is already yours through Christ. You’re not lacking—His power is working in you right now.</desc>
+  </programme>
+  <programme start="20261029050000 -0400" stop="20261029053000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>When you hear truth but don’t act, curiosity can lead to strange doctrine, but sound teaching leads to clear, decisive conclusions.</desc>
+  </programme>
+  <programme start="20261029053000 -0400" stop="20261029060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>Healing is not something we earn or deserve. It is a gift of grace, received through faith in what Jesus has already provided. In The God Who Heals, Duane Sheriff teaches how God’s nature, love, mercy, and Word reveal His desire to heal. From the Passover and the promises of God to the life and ministry of Jesus and His finished work on the cross, Scripture reveals healing as part of God’s redemptive provision. Discover biblical ways to receive and minister healing through prayer, communion, laying on of hands, anointing with oil, and gifts of the Spirit.</desc>
+  </programme>
+  <programme start="20261029060000 -0400" stop="20261029070000 -0400" channel="GospelTruthTV.us">
+    <title>Gospel Truth Conference</title>
+    <sub-title>Finish Strong With Faith | S4 Ep 20</sub-title>
+    <desc>Join us to discover endurance and perseverance in your Christian walk. Stay strong in faith, filled with joy and purpose through every challenge.</desc>
+  </programme>
+  <programme start="20261029070000 -0400" stop="20261029073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Do You Know Who You Are | S18 Ep 4</sub-title>
+    <desc>Feeling lost in your purpose? Javan Smith emphasizes the importance of understanding your God-given identity before thriving in your divine assignment, reminding us we're beloved by God.</desc>
+  </programme>
+  <programme start="20261029073000 -0400" stop="20261029080000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Investing Time | S7 Ep 25</sub-title>
+    <desc>Ever felt like God is disappointed? Discover how embracing God’s unconditional love can set you free from guilt and shame.</desc>
+  </programme>
+  <programme start="20261029080000 -0400" stop="20261029083000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 4</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261029083000 -0400" stop="20261029090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Equal With God | Harmony of the Gospels | Episode 37</sub-title>
+    <desc>Why did Jesus’ healing on the Sabbath provoke such intense opposition? As the religious leaders challenge Him, Jesus reveals the unity between Himself and the Father. He explains that the Son works in complete agreement with God, sees what the Father is doing, and has been given authority to give life and execute judgment. This episode explores the divine identity and authority of Christ.
+
+Scriptures covered: John 5:10-22</desc>
+  </programme>
+  <programme start="20261029090000 -0400" stop="20261029093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 14</sub-title>
+    <desc>Are you growing weary waiting for your breakthrough? Let praise become the sound of your faith before you ever see the answer.</desc>
+  </programme>
+  <programme start="20261029093000 -0400" stop="20261029103000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 4</sub-title>
+    <desc>What if everything you need is already within you?
+Discover the powerful truth behind your identity in Christ and how to unlock your potential!</desc>
+  </programme>
+  <programme start="20261029103000 -0400" stop="20261029110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Do You Know Who You Are | S18 Ep 4</sub-title>
+    <desc>Feeling lost in your purpose? Javan Smith emphasizes the importance of understanding your God-given identity before thriving in your divine assignment, reminding us we're beloved by God.</desc>
+  </programme>
+  <programme start="20261029110000 -0400" stop="20261029130000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Archives</title>
+    <sub-title>You've Already Got It EP64</sub-title>
+    <desc>Discover how understanding what God has already provided in Christ can transform your faith. Learn to overcome unbelief, renew your thinking with God’s Word, and walk by faith rather than being controlled by what you see, feel, or experience.</desc>
+  </programme>
+  <programme start="20261029130000 -0400" stop="20261029133000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 14</sub-title>
+    <desc>Are you growing weary waiting for your breakthrough? Let praise become the sound of your faith before you ever see the answer.</desc>
+  </programme>
+  <programme start="20261029133000 -0400" stop="20261029140000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Are You Waiting On the Promises?  | S1 Ep 14</sub-title>
+    <desc>How can you tell if you're waiting on God's promises as He intended, or if you're waiting in defeat, losing hope as time passes? True waiting renews your strength, gives you vision, and keeps you from giving up. It’s a time of growth and becoming, not passive resignation. If you aren’t growing and seeing God’s future for you, you may not truly be waiting on the Lord. Join us in this episode as we explore what it means to wait with faith and expectation.</desc>
+  </programme>
+  <programme start="20261029140000 -0400" stop="20261029150000 -0400" channel="GospelTruthTV.us">
+    <title>Truth Revealed</title>
+    <sub-title>God's Design for Connection</sub-title>
+    <desc>What if one small shift could changed everything? Learn how renewed minds transform life with God, family, and friends.</desc>
+  </programme>
+  <programme start="20261029150000 -0400" stop="20261029160000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 4</sub-title>
+    <desc>What if everything you need is already within you?
+Discover the powerful truth behind your identity in Christ and how to unlock your potential!</desc>
+  </programme>
+  <programme start="20261029160000 -0400" stop="20261029170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>The Heart Behind Healing | S3 Ep 10</sub-title>
+    <desc>Learn how transformation happens when we align our beliefs with truth.</desc>
+  </programme>
+  <programme start="20261029170000 -0400" stop="20261029180000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Mark Cowart: Testimony</sub-title>
+    <desc>Join us to hear Mark Cowart's testimony of faith, perseverance, and transformation through God's grace.</desc>
+  </programme>
+  <programme start="20261029180000 -0400" stop="20261029183000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Victory News</sub-title>
+    <desc>08/24/2026</desc>
+  </programme>
+  <programme start="20261029183000 -0400" stop="20261029190000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Are You Waiting On the Promises?  | S1 Ep 14</sub-title>
+    <desc>How can you tell if you're waiting on God's promises as He intended, or if you're waiting in defeat, losing hope as time passes? True waiting renews your strength, gives you vision, and keeps you from giving up. It’s a time of growth and becoming, not passive resignation. If you aren’t growing and seeing God’s future for you, you may not truly be waiting on the Lord. Join us in this episode as we explore what it means to wait with faith and expectation.</desc>
+  </programme>
+  <programme start="20261029190000 -0400" stop="20261029193000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 4</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261029193000 -0400" stop="20261029200000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 14</sub-title>
+    <desc>Are you growing weary waiting for your breakthrough? Let praise become the sound of your faith before you ever see the answer.</desc>
+  </programme>
+  <programme start="20261029200000 -0400" stop="20261029210000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Flashpoint Live</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>The Truth &amp; Liberty Show</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261029220000 -0400" stop="20261029223000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 4</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261029223000 -0400" stop="20261029230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Equal With God | Harmony of the Gospels | Episode 37</sub-title>
+    <desc>Why did Jesus’ healing on the Sabbath provoke such intense opposition? As the religious leaders challenge Him, Jesus reveals the unity between Himself and the Father. He explains that the Son works in complete agreement with God, sees what the Father is doing, and has been given authority to give life and execute judgment. This episode explores the divine identity and authority of Christ.
+
+Scriptures covered: John 5:10-22</desc>
+  </programme>
+  <programme start="20261029230000 -0400" stop="20261030000000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 4</sub-title>
+    <desc>What if everything you need is already within you?
+Discover the powerful truth behind your identity in Christ and how to unlock your potential!</desc>
+  </programme>
+  <programme start="20261030000000 -0400" stop="20261030003000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Investing Time | S7 Ep 25</sub-title>
+    <desc>Ever felt like God is disappointed? Discover how embracing God’s unconditional love can set you free from guilt and shame.</desc>
+  </programme>
+  <programme start="20261030003000 -0400" stop="20261030010000 -0400" channel="GospelTruthTV.us">
+    <title>Kingdom Wealth</title>
+    <sub-title>Design Your Future | Ep 8</sub-title>
+    <desc>Have the confidence to design your future! Don’t let finances limit your dreams—step out in faith and create the life God has called you to.</desc>
+  </programme>
+  <programme start="20261030010000 -0400" stop="20261030013000 -0400" channel="GospelTruthTV.us">
+    <title>Women Arise</title>
+    <sub-title>Living a Life Fully Surrendered | S2 Ep 7</sub-title>
+    <desc>In this episode, Audrey Mack unpacks how intimacy with God and surrender unlock His dreams, healing, and fulfillment for your life.</desc>
+  </programme>
+  <programme start="20261030013000 -0400" stop="20261030020000 -0400" channel="GospelTruthTV.us">
+    <title>Women Arise</title>
+    <sub-title>Fully His | S2 Ep 8</sub-title>
+    <desc>In this inspiring episode, Audrey Mack reveals how surrender and spiritual sensitivity can lead you into God’s miraculous plan for your life.</desc>
+  </programme>
+  <programme start="20261030020000 -0400" stop="20261030023000 -0400" channel="GospelTruthTV.us">
+    <title>Wisdom for Living</title>
+    <sub-title>Wisdom For Living</sub-title>
+    <desc>The Word of God declares that every believer is called to walk and live by faith, but how can we practically apply this in our lives? In this 20-part series, Pastor Greg Mohr shares revelation and experience he received during forty years of walking with the Lord that will help you create your own personal faith adventures. Get ready to be blessed, equipped, and confident in walking by faith, as well as grow in your intimacy with the Lord as you receive the truths contained in this series, Adventures in Faith!</desc>
+  </programme>
+  <programme start="20261030023000 -0400" stop="20261030030000 -0400" channel="GospelTruthTV.us">
+    <title>Abundant Life</title>
+    <desc>God’s Word declares your victory and authority over the works of the enemy, so refuse his lies and stand firmly on what God has spoken.</desc>
+  </programme>
+  <programme start="20261030030000 -0400" stop="20261030033000 -0400" channel="GospelTruthTV.us">
+    <title>Good News</title>
+    <desc>In today's message from the "Who Do You Think You Are?" series, Greg Fritz tackles the hard questions surrounding eternal security, falling away, and the unpardonable sin.</desc>
+  </programme>
+  <programme start="20261030033000 -0400" stop="20261030040000 -0400" channel="GospelTruthTV.us">
+    <title>Victory Life Today</title>
+    <desc>Dr. Don Wood on where medicine ends and the miraculous begins, and why good doctors and strong faith were never meant to be opponents.</desc>
+  </programme>
+  <programme start="20261030040000 -0400" stop="20261030043000 -0400" channel="GospelTruthTV.us">
+    <title>Student of the Word</title>
+    <sub-title>Student Of the Word - Bob Yandian</sub-title>
+    <desc>Hi, this is Pastor Bob Yandian. Today is number five in our series that I'm talking about. The Word of God is like a meal. God has provided so many different varieties of food. And today we're going to talk about the abundance of promises found in the Word of God. I know it's going to be a blessing to you. I don't want to hold you back any longer. Let's go straight to the Word of God.</desc>
+  </programme>
+  <programme start="20261030043000 -0400" stop="20261030050000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Journeys Today</title>
+    <sub-title>The Building Blocks of Strongholds: Mastering Strongholds Part I</sub-title>
+    <desc>In this insightful episode of Healing Journeys Today, Dr. Kevin Chapman kicks off his new series, Mastering Strongholds, with Part 1: “The Building Blocks of Strongholds.” Learn how strongholds take root in our lives, where they come from, and the subtle tactics the enemy uses to establish them. Dr. Chapman breaks it down with clarity and biblical truth, helping you recognize these patterns and take the first step toward lasting freedom and transformation.</desc>
+  </programme>
+  <programme start="20261030050000 -0400" stop="20261030053000 -0400" channel="GospelTruthTV.us">
+    <title>Rick Renner</title>
+    <desc>Join Rick to find out how one believer straying from truth affects the whole church — and why teachers are held to a higher standard.</desc>
+  </programme>
+  <programme start="20261030053000 -0400" stop="20261030060000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Truth with Duane Sheriff</title>
+    <sub-title>Grace &amp; Truth - Duane Sheriff</sub-title>
+    <desc>Healing is not something we earn or deserve. It is a gift of grace, received through faith in what Jesus has already provided. In The God Who Heals, Duane Sheriff teaches how God’s nature, love, mercy, and Word reveal His desire to heal. From the Passover and the promises of God to the life and ministry of Jesus and His finished work on the cross, Scripture reveals healing as part of God’s redemptive provision. Discover biblical ways to receive and minister healing through prayer, communion, laying on of hands, anointing with oil, and gifts of the Spirit.</desc>
+  </programme>
+  <programme start="20261030060000 -0400" stop="20261030070000 -0400" channel="GospelTruthTV.us">
+    <title>Gospel Truth Conference</title>
+    <sub-title>Perfected Forever in Christ | S4 Ep 21</sub-title>
+    <desc>Join us as we uncover why your identity in Christ matters more than your emotions. Discover how God’s love is constant and unshakable, and learn to live victorious through faith, not feelings.</desc>
+  </programme>
+  <programme start="20261030070000 -0400" stop="20261030073000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Your Identity | S18 Ep 5</sub-title>
+    <desc>Do you know who you are? In today's episode, Barry Bennett dives deep into the essence of your identity in Christ and how it shapes your life. You’ll be inspired to reflect on how you see yourself and its impact on your daily choices.</desc>
+  </programme>
+  <programme start="20261030073000 -0400" stop="20261030080000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Turn Towards Destiny | S7 Ep 24</sub-title>
+    <desc>Hear a testimony of transformation where faith leads to healing and renewal—your story can change too!</desc>
+  </programme>
+  <programme start="20261030080000 -0400" stop="20261030083000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 5</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261030083000 -0400" stop="20261030090000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Honoring the Son | Harmony of the Gospels | Episode 38</sub-title>
+    <desc>Andrew Wommack examines Jesus’ teaching in John 5 about divine authority, eternal life, resurrection, and judgment. Jesus explains why the Son deserves the same honor as the Father and reveals that His words carry the power of life. The episode also explores the witnesses that testify to Christ’s identity and the importance of believing the Scriptures concerning Him.
+
+Scriptures covered: John 5:23-38</desc>
+  </programme>
+  <programme start="20261030090000 -0400" stop="20261030093000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 15</sub-title>
+    <desc>Your words can reinforce what you're believing. Speak in agreement with God's truth instead of what your circumstances say.</desc>
+  </programme>
+  <programme start="20261030093000 -0400" stop="20261030103000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 5</sub-title>
+    <desc>What does it mean to live from a place of completed work?
+Join the conversation about claiming your inheritance and walking boldly in God’s promises</desc>
+  </programme>
+  <programme start="20261030103000 -0400" stop="20261030110000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Daily</title>
+    <sub-title>Your Identity | S18 Ep 5</sub-title>
+    <desc>Do you know who you are? In today's episode, Barry Bennett dives deep into the essence of your identity in Christ and how it shapes your life. You’ll be inspired to reflect on how you see yourself and its impact on your daily choices.</desc>
+  </programme>
+  <programme start="20261030110000 -0400" stop="20261030130000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Archives</title>
+    <sub-title>You've Already Got It EP65</sub-title>
+    <desc>Discover how understanding what God has already provided in Christ can transform your faith. Learn to overcome unbelief, renew your thinking with God’s Word, and walk by faith rather than being controlled by what you see, feel, or experience.</desc>
+  </programme>
+  <programme start="20261030130000 -0400" stop="20261030133000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 15</sub-title>
+    <desc>Your words can reinforce what you're believing. Speak in agreement with God's truth instead of what your circumstances say.</desc>
+  </programme>
+  <programme start="20261030133000 -0400" stop="20261030140000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Redeeming the Time | S1 Ep 15</sub-title>
+    <desc>Waiting on God is far from passive— it's a life-changing journey. Imagine praising God, giving thanks, loving others, giving generously, and hearing His voice. These are the keys to unlocking His promises in your life to foster growth and redeem your time. Join us as we explore how to wait on God with purpose and see real results today!</desc>
+  </programme>
+  <programme start="20261030140000 -0400" stop="20261030150000 -0400" channel="GospelTruthTV.us">
+    <title>Truth Revealed</title>
+    <sub-title>Boundaries That Bring Freedom</sub-title>
+    <desc>What if God’s design blesses, not burdens? Discover how His boundaries protect, heal shame, and lead to freedom.</desc>
+  </programme>
+  <programme start="20261030150000 -0400" stop="20261030160000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 5</sub-title>
+    <desc>What does it mean to live from a place of completed work?
+Join the conversation about claiming your inheritance and walking boldly in God’s promises</desc>
+  </programme>
+  <programme start="20261030160000 -0400" stop="20261030170000 -0400" channel="GospelTruthTV.us">
+    <title>Healing Now</title>
+    <sub-title>Health is Your Inheritance | S3 Ep 11</sub-title>
+    <desc>Explore how realizing your identity leads to healing and wholeness.</desc>
+  </programme>
+  <programme start="20261030170000 -0400" stop="20261030180000 -0400" channel="GospelTruthTV.us">
+    <title>Grace &amp; Faith Today</title>
+    <sub-title>Ken Davis: Testimony</sub-title>
+    <desc>Discover how faith and action combine in Ken's testimony, leading to impactful involvement in politics and community.</desc>
+  </programme>
+  <programme start="20261030180000 -0400" stop="20261030183000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Victory News</sub-title>
+    <desc>08/24/2026</desc>
+  </programme>
+  <programme start="20261030183000 -0400" stop="20261030190000 -0400" channel="GospelTruthTV.us">
+    <title>Free Indeed</title>
+    <sub-title>Redeeming the Time | S1 Ep 15</sub-title>
+    <desc>Waiting on God is far from passive— it's a life-changing journey. Imagine praising God, giving thanks, loving others, giving generously, and hearing His voice. These are the keys to unlocking His promises in your life to foster growth and redeem your time. Join us as we explore how to wait on God with purpose and see real results today!</desc>
+  </programme>
+  <programme start="20261030190000 -0400" stop="20261030193000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 5</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261030193000 -0400" stop="20261030200000 -0400" channel="GospelTruthTV.us">
+    <title>Life Foundations</title>
+    <sub-title>The Privilege of Faith | Episode 15</sub-title>
+    <desc>Your words can reinforce what you're believing. Speak in agreement with God's truth instead of what your circumstances say.</desc>
+  </programme>
+  <programme start="20261030200000 -0400" stop="20261030210000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>Flashpoint Live</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261030210000 -0400" stop="20261030220000 -0400" channel="GospelTruthTV.us">
+    <title>Live Stream Event</title>
+    <sub-title>The Truth &amp; Liberty Show</sub-title>
+    <desc>Watch the live stream.</desc>
+  </programme>
+  <programme start="20261030220000 -0400" stop="20261030223000 -0400" channel="GospelTruthTV.us">
+    <title>The Gospel Truth</title>
+    <sub-title>Charis Week: The Faith of God: Episode 5</sub-title>
+    <desc>Join Andrew Wommack and Mike and Carrie Pickett for this eye-opening discussion on how every born-again believer has been given God’s supernatural faith, the very same faith Jesus has. Discover the truth: You don’t need more faith. In Christ, you’ve already received everything you need to succeed and live victoriously today.</desc>
+  </programme>
+  <programme start="20261030223000 -0400" stop="20261030230000 -0400" channel="GospelTruthTV.us">
+    <title>Through the Bible with Andrew Wommack</title>
+    <sub-title>Honoring the Son | Harmony of the Gospels | Episode 38</sub-title>
+    <desc>Andrew Wommack examines Jesus’ teaching in John 5 about divine authority, eternal life, resurrection, and judgment. Jesus explains why the Son deserves the same honor as the Father and reveals that His words carry the power of life. The episode also explores the witnesses that testify to Christ’s identity and the importance of believing the Scriptures concerning Him.
+
+Scriptures covered: John 5:23-38</desc>
+  </programme>
+  <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="GospelTruthTV.us">
+    <title>Andrew's Classics</title>
+    <sub-title>You've Already Got It | Episode 5</sub-title>
+    <desc>What does it mean to live from a place of completed work?
+Join the conversation about claiming your inheritance and walking boldly in God’s promises</desc>
+  </programme>
+  <programme start="20261031000000 -0400" stop="20261031003000 -0400" channel="GospelTruthTV.us">
+    <title>Charis Unplugged</title>
+    <sub-title>Turn Towards Destiny | S7 Ep 24</sub-title>
+    <desc>Hear a testimony of transformation where faith leads to healing and renewal—your story can change too!</desc>
+  </programme>
+  <programme start="20261031003000 -0400" stop="20261031010000 -0400" channel="GospelTruthTV.us">
+    <title>Run Your Race</title>
+    <sub-title>Your Feelings Aren't Final | Ep 7</sub-title>
+    <desc>When life disappoints, God’s voice is still speaking. Learn how to rise above emotions, hear God’s voice, and turn suffering into spiritual growth.</desc>
+  </programme>
+  <programme start="20261031010000 -0400" stop="20261031013000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>Knowing Jesus: The Key to Maturity | S2 Ep 9</sub-title>
+    <desc>Fulfillment starts with knowing Him—Pastor Greg Mohr inspires deeper connection &amp; intimacy with Christ.</desc>
+  </programme>
+  <programme start="20261031013000 -0400" stop="20261031020000 -0400" channel="GospelTruthTV.us">
+    <title>Summer Family Bible Conference</title>
+    <sub-title>The Power of Knowing Him | S2 Ep 10</sub-title>
+    <desc>With God, all things are possible! Pastor Greg Mohr inspires bold faith &amp; resilience in life’s challenges.</desc>
   </programme>
 </tv>
