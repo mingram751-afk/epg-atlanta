@@ -1202,7 +1202,7 @@ https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBN Gospel" tvg-name="CBN Gospel" tvg-logo="https://cbn.com/sites/default/files/styles/large/public/images/cbn-family-app-icon.png?itok=OHgX8c6B" group-title="Religious",CBN Gospel
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
-#EXTINF:-1 Channel-id="ATL 26" tvg-id="ATL 26" tvg-name"ATL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNQPiTuz5DrQmsnjVwb3-PCRjDoussHiefk-ypjdXfg&s=10" group-title="Government",ATL 26
+#EXTINF:-1 Channel-id="ATL 26" tvg-id="ATL 26" tvg-name="ATL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNQPiTuz5DrQmsnjVwb3-PCRjDoussHiefk-ypjdXfg&s=10" group-title="Government",ATL 26
 https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
 #EXTINF:-1 channel-id="WATC-DT.us_locals1" tvg-id="WATC-DT.us_locals1" tvg-chno="" tvg-name="Atlanta's 57 WATC 57.1" tvg-logo="https://watc.tv/wp-content/uploads/2023/10/cropped-57-new-logo-wht-bg-blk-text-.png" group-title="Religious",Atlanta's 57 WATC 57.1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
