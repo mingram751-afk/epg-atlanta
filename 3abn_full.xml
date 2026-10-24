@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv source-info-name="3ABN and Gospel Truth TV" source-info-url="https://watch.gtntv.com/guide-tabs">
+<tv source-info-name="3ABN, Gospel Truth TV, and The Word Network" source-info-url="https://www.thewordnetwork.org/">
   <channel id="3ABN.us">
     <display-name>3ABN</display-name>
   </channel>
@@ -20,6 +20,9 @@
   </channel>
   <channel id="GospelTruthTV.us">
     <display-name>Gospel Truth TV</display-name>
+  </channel>
+  <channel id="The.Word.Network.us2">
+    <display-name>The Word Network</display-name>
   </channel>
   <programme start="20261024000000 -0400" stop="20261024002830 -0400" channel="3ABN-DareToDream.us">
     <title>Battles of Faith</title>
@@ -12312,5 +12315,1247 @@ Join the conversation about claiming your inheritance and walking boldly in Godâ
     <title>Summer Family Bible Conference</title>
     <sub-title>The Power of Knowing Him | S2 Ep 10</sub-title>
     <desc>With God, all things are possible! Pastor Greg Mohr inspires bold faith &amp; resilience in lifeâ€™s challenges.</desc>
+  </programme>
+  <programme start="20261024000000 -0400" stop="20261024003000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261024003000 -0400" stop="20261024010000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261024010000 -0400" stop="20261024013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261024013000 -0400" stop="20261024020000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261024020000 -0400" stop="20261024023000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261024023000 -0400" stop="20261024030000 -0400" channel="The.Word.Network.us2">
+    <title>Robbi Warren</title>
+    <desc>In Baltimore, Maryland, Evangelist Robbie D. Warren teaches and preaches the gospel of Jesus Christ to his congregation.</desc>
+  </programme>
+  <programme start="20261024030000 -0400" stop="20261024033000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261024033000 -0400" stop="20261024040000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261024040000 -0400" stop="20261024043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261024043000 -0400" stop="20261024050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024053000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261024053000 -0400" stop="20261024060000 -0400" channel="The.Word.Network.us2">
+    <title>Divine Plan</title>
+    <desc>Host George Wilmott presents a nondenominational Bible study, which celebrates tolerance and good will to any believer or non-believer in Christianity.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024063000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261024063000 -0400" stop="20261024070000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024073000 -0400" channel="The.Word.Network.us2">
+    <title>Dr. W.F. Washington</title>
+  </programme>
+  <programme start="20261024073000 -0400" stop="20261024080000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024083000 -0400" channel="The.Word.Network.us2">
+    <title>The Living Word with Tommy Combs</title>
+    <desc>Evangelist Tommy Combs of Healing Word, Living Word Ministries offers an in-depth look into Biblical principles needed for a fulfilled walk with Christ.</desc>
+  </programme>
+  <programme start="20261024083000 -0400" stop="20261024090000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261024090000 -0400" stop="20261024093000 -0400" channel="The.Word.Network.us2">
+    <title>Victory Life Today</title>
+    <desc>Daily teachings from Al and Angie Buhrke to help you grow your faith and find victory every day through Jesus.</desc>
+  </programme>
+  <programme start="20261024093000 -0400" stop="20261024100000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261024100000 -0400" stop="20261024103000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261024103000 -0400" stop="20261024110000 -0400" channel="The.Word.Network.us2">
+    <title>Dr. Taketa Williams</title>
+    <desc>Known as the "preachers preacher," Taketa Williams travels the country with her ministry preaching the word and currently co-pastors United Ministries Church.</desc>
+  </programme>
+  <programme start="20261024110000 -0400" stop="20261024120000 -0400" channel="The.Word.Network.us2">
+    <title>Rainbow PUSH Coalition with Jesse Jackson</title>
+    <desc>Rainbow PUSH Coalition is a multi-racial, multi-issue, progressive, international organization formed by Reverend Jesse L. Jackson to promote social change.</desc>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="The.Word.Network.us2">
+    <title>God Made Millionaire TV with TC Bradley</title>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024133000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261024133000 -0400" stop="20261024140000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024143000 -0400" channel="The.Word.Network.us2">
+    <title>Jamal Bryant</title>
+    <desc>Jamal Harrison Bryant is an American minister, author and former political candidate. He is the senior pastor of New Birth Missionary Baptist Church</desc>
+  </programme>
+  <programme start="20261024143000 -0400" stop="20261024150000 -0400" channel="The.Word.Network.us2">
+    <title>Nick Hood</title>
+    <desc>Rev. Nicholas Hood III has served as the pastor and senior minister of the Plymouth United Church of Christ in Detroit, Michigan since 1985.</desc>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="The.Word.Network.us2">
+    <title>David Bibey</title>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="The.Word.Network.us2">
+    <title>Christlove International Church</title>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024163000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince delivers a sermon on the Gospel of Grace and the victory believers have through Christ.</desc>
+  </programme>
+  <programme start="20261024163000 -0400" stop="20261024170000 -0400" channel="The.Word.Network.us2">
+    <title>Time for Hope</title>
+    <desc>Dr. Freda Crews and guests present viewers with a broad span of practical solutions and hope in Jesus Christ, discussing issues from a faith-based perspective.</desc>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024180000 -0400" channel="The.Word.Network.us2">
+    <title>Gaither Music</title>
+    <desc>Bill Gaither presents an evening of music and fun for the whole family that includes performances of some of America's most treasured gospel songs.</desc>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024203000 -0400" channel="The.Word.Network.us2">
+    <title>Bishop Charles H. Ellis III</title>
+    <desc>Charles H. Ellis III leads the Greater Grace Temple, City of David, in Detroit where he offers positive help for those who need to be comforted.</desc>
+  </programme>
+  <programme start="20261024203000 -0400" stop="20261024213000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024220000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261024220000 -0400" stop="20261024223000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024230000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261024230000 -0400" stop="20261024233000 -0400" channel="The.Word.Network.us2">
+    <title>Glorious Moments with Prophet Jerome Fernando</title>
+    <desc>Exploring the Bible with Prophet Jerome Fernando.</desc>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025003000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025003000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025020000 -0400" channel="The.Word.Network.us2">
+    <title>Tomorrow's World</title>
+    <desc>Christian hosts preach the Gospel, discuss end-of-time prophecies and proclaim the warnings of Ezekiel.</desc>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025023000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025033000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261025033000 -0400" stop="20261025040000 -0400" channel="The.Word.Network.us2">
+    <title>Rev. Jim Holley</title>
+    <desc>Rev. Jim Holley, has served for 43 years as Senior Pastor of one of the largest congregations in Detroit.</desc>
+  </programme>
+  <programme start="20261025040000 -0400" stop="20261025043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261025043000 -0400" stop="20261025050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025053000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261025053000 -0400" stop="20261025060000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025063000 -0400" channel="The.Word.Network.us2">
+    <title>The Awakening Hour</title>
+    <desc>The Awakening Hour with Dr. William R. Crews, is a Bible preaching program with a no-frills, no-nonsense approach to the Gospel of Christ.</desc>
+  </programme>
+  <programme start="20261025063000 -0400" stop="20261025070000 -0400" channel="The.Word.Network.us2">
+    <title>James Meeks</title>
+    <desc>Rev. James Meeks delivers a message of peace and hope through his television ministry and to Chicago's Roseland community from Salem Baptist Church of Chicago.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025080000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince delivers a sermon on the Gospel of Grace and the victory believers have through Christ.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="The.Word.Network.us2">
+    <title>Dr. Robert Jeffress</title>
+    <desc>Paster Robert James Jeffress is a pastor at First Baptist Church in Dallas, Texas, and he spreads the word of God to an audience and people all over the world.</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="The.Word.Network.us2">
+    <title>Allen Jackson Ministries</title>
+    <desc>While Pastor Allen Jackson shares the message of God's word in front of a congregation, his sermons are translated to several countries.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025103000 -0400" channel="The.Word.Network.us2">
+    <title>Hagee Ministries</title>
+    <desc>Pastors John C. Hagee and Matt Hagee, of the Cornerstone Church in San Antonio, Texas, offer exclusive content from their evangelical church.</desc>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="The.Word.Network.us2">
+    <title>God's Mighty Word</title>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="The.Word.Network.us2">
+    <title>Ralph Douglas West</title>
+    <desc>Pastor Ralph Douglas West of the Church Without Walls in Houston, Tex., preaches about biblical learning and faith.</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="The.Word.Network.us2">
+    <title>Trunell Felder</title>
+    <desc>Dr. Trunell and Rev. Alexis Felder teach by example with the mission work of five churches in Ghana, West Africa; they stress problem solving and communication.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Ministries</title>
+    <desc>Televangelist Reverend Peter Popoff preaches the gospel around the world.</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="The.Word.Network.us2">
+    <title>Debleaire Snell</title>
+    <desc>Pastor Debleaire K. Snell was born in Tallahassee, Florida to Deborah and Larry Snell.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="The.Word.Network.us2">
+    <title>Tomorrow's World</title>
+    <desc>Christian hosts preach the Gospel, discuss end-of-time prophecies and proclaim the warnings of Ezekiel.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="The.Word.Network.us2">
+    <title>Catholic TV Mass</title>
+    <desc>Interested and Roman Catholic viewers are provided with a broadcast of Catholic Masses as they are performed.</desc>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025170000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025180000 -0400" channel="The.Word.Network.us2">
+    <title>Gaither Music</title>
+    <desc>Bill Gaither presents an evening of music and fun for the whole family that includes performances of some of America's most treasured gospel songs.</desc>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="The.Word.Network.us2">
+    <title>Tomorrow's World</title>
+    <desc>Storied Christians proclaim the Good News of Jesus Christ, make plain the Bible, and explore global events based on biblical prophecy.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025203000 -0400" channel="The.Word.Network.us2">
+    <title>Bishop Charles H. Ellis III</title>
+    <desc>Charles H. Ellis III leads the Greater Grace Temple, City of David, in Detroit where he offers positive help for those who need to be comforted.</desc>
+  </programme>
+  <programme start="20261025203000 -0400" stop="20261025210000 -0400" channel="The.Word.Network.us2">
+    <title>Kingdom Christian Church</title>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="The.Word.Network.us2">
+    <title>Woody Martin Ministries</title>
+    <desc>Pastor Woody Martin preaches the "Word of God" to members of his congregation at The Victory Temple Church in Lenoir City, Tennessee.</desc>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025223000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="The.Word.Network.us2">
+    <title>Wayne Parks Ministres</title>
+    <desc>This ministry is about helping you get your miracle as well as getting you to know God through His Son Jesus Christ in the power of the Holy Ghost.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026003000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261026003000 -0400" stop="20261026010000 -0400" channel="The.Word.Network.us2">
+    <title>Allen Jackson Ministries</title>
+    <desc>While Pastor Allen Jackson shares the message of God's word in front of a congregation, his sermons are translated to several countries.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026013000 -0400" channel="The.Word.Network.us2">
+    <title>Dr. Robert Jeffress</title>
+    <desc>Paster Robert James Jeffress is a pastor at First Baptist Church in Dallas, Texas, and he spreads the word of God to an audience and people all over the world.</desc>
+  </programme>
+  <programme start="20261026013000 -0400" stop="20261026020000 -0400" channel="The.Word.Network.us2">
+    <title>John Hagee Ministries</title>
+    <desc>Pastors John and Matt Hagee of Hagee Ministries in San Antonio, TX, give messages that are taken from God's Word, proclaiming the bold truth of His promises.</desc>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026033000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261026033000 -0400" stop="20261026040000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261026040000 -0400" stop="20261026043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261026043000 -0400" stop="20261026050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026053000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 1</sub-title>
+    <desc>Joyce teaches how to stop being passive, take action in faith, and become an active partner with God.</desc>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026063000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261026063000 -0400" stop="20261026070000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026080000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 1</sub-title>
+    <desc>Joyce teaches how to stop being passive, take action in faith, and become an active partner with God.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="The.Word.Network.us2">
+    <title>Bill Winston Ministries</title>
+    <desc>Drs. Bill and Veronica Winston address their congregation and viewers from the Living Word Christian Center in Chicago with an inspirational, Biblical message.</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026123000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026123000 -0400" stop="20261026130000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026153000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261026153000 -0400" stop="20261026160000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026203000 -0400" channel="The.Word.Network.us2">
+    <title>Charles Ellis</title>
+    <desc>At Greater Grace Temple, they're out to touch more lives than ever before for the Kingdom of God, promoting a gospel of life and salvation in Christ.At Greate</desc>
+  </programme>
+  <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026213000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261026213000 -0400" stop="20261026220000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 1</sub-title>
+    <desc>Joyce teaches how to stop being passive, take action in faith, and become an active partner with God.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <sub-title>The Reconciliation Table</sub-title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261027000000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027010000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261027010000 -0400" stop="20261027013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261027013000 -0400" stop="20261027020000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261027020000 -0400" stop="20261027023000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261027023000 -0400" stop="20261027030000 -0400" channel="The.Word.Network.us2">
+    <title>Divine Plan</title>
+    <desc>Host George Wilmott presents a nondenominational Bible study, which celebrates tolerance and good will to any believer or non-believer in Christianity.</desc>
+  </programme>
+  <programme start="20261027030000 -0400" stop="20261027033000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261027033000 -0400" stop="20261027040000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261027040000 -0400" stop="20261027043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261027043000 -0400" stop="20261027050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261027050000 -0400" stop="20261027053000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 2</sub-title>
+    <desc>Joyce teaches why you have to get up, take action yourself, and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027053000 -0400" stop="20261027060000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261027060000 -0400" stop="20261027063000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261027063000 -0400" stop="20261027070000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261027070000 -0400" stop="20261027080000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261027080000 -0400" stop="20261027083000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261027083000 -0400" stop="20261027090000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261027090000 -0400" stop="20261027093000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261027093000 -0400" stop="20261027100000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261027100000 -0400" stop="20261027103000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 2</sub-title>
+    <desc>Joyce teaches why you have to get up, take action yourself, and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027103000 -0400" stop="20261027110000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261027110000 -0400" stop="20261027113000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261027113000 -0400" stop="20261027120000 -0400" channel="The.Word.Network.us2">
+    <title>Bill Winston Ministries</title>
+    <desc>Drs. Bill and Veronica Winston address their congregation and viewers from the Living Word Christian Center in Chicago with an inspirational, Biblical message.</desc>
+  </programme>
+  <programme start="20261027120000 -0400" stop="20261027123000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261027123000 -0400" stop="20261027130000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261027130000 -0400" stop="20261027133000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261027133000 -0400" stop="20261027140000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261027140000 -0400" stop="20261027150000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261027150000 -0400" stop="20261027153000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261027153000 -0400" stop="20261027160000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261027160000 -0400" stop="20261027163000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261027163000 -0400" stop="20261027170000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261027170000 -0400" stop="20261027173000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261027173000 -0400" stop="20261027180000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261027180000 -0400" stop="20261027183000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261027183000 -0400" stop="20261027190000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261027190000 -0400" stop="20261027193000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261027193000 -0400" stop="20261027200000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261027200000 -0400" stop="20261027203000 -0400" channel="The.Word.Network.us2">
+    <title>Charles Ellis</title>
+    <desc>At Greater Grace Temple, they're out to touch more lives than ever before for the Kingdom of God, promoting a gospel of life and salvation in Christ.At Greate</desc>
+  </programme>
+  <programme start="20261027203000 -0400" stop="20261027210000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261027210000 -0400" stop="20261027213000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261027213000 -0400" stop="20261027220000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261027220000 -0400" stop="20261027223000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Working with God Part 2</sub-title>
+    <desc>Joyce teaches why you have to get up, take action yourself, and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027223000 -0400" stop="20261027230000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <sub-title>God's Will For Your Life</sub-title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261027230000 -0400" stop="20261028000000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028003000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261028003000 -0400" stop="20261028010000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261028010000 -0400" stop="20261028013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261028013000 -0400" stop="20261028020000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261028020000 -0400" stop="20261028023000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261028023000 -0400" stop="20261028030000 -0400" channel="The.Word.Network.us2">
+    <title>Manna-Fest with Perry Stone</title>
+    <desc>Perry Stone provides a program dealing with the predictive and sensible studies of God's Word, helping to get a better understanding of biblical prophecy.</desc>
+  </programme>
+  <programme start="20261028030000 -0400" stop="20261028033000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261028033000 -0400" stop="20261028040000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261028040000 -0400" stop="20261028043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261028043000 -0400" stop="20261028050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261028050000 -0400" stop="20261028053000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>How to Be Godly in an Ungodly World</sub-title>
+    <desc>How Christ's gift of righteousness can change a life.</desc>
+  </programme>
+  <programme start="20261028053000 -0400" stop="20261028060000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261028060000 -0400" stop="20261028063000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261028063000 -0400" stop="20261028070000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261028070000 -0400" stop="20261028080000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261028080000 -0400" stop="20261028083000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261028083000 -0400" stop="20261028090000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261028090000 -0400" stop="20261028093000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261028093000 -0400" stop="20261028100000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261028100000 -0400" stop="20261028103000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>How to Be Godly in an Ungodly World</sub-title>
+    <desc>How Christ's gift of righteousness can change a life.</desc>
+  </programme>
+  <programme start="20261028103000 -0400" stop="20261028110000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261028110000 -0400" stop="20261028113000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261028113000 -0400" stop="20261028120000 -0400" channel="The.Word.Network.us2">
+    <title>Bill Winston Ministries</title>
+    <desc>Drs. Bill and Veronica Winston address their congregation and viewers from the Living Word Christian Center in Chicago with an inspirational, Biblical message.</desc>
+  </programme>
+  <programme start="20261028120000 -0400" stop="20261028123000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>The Water for LIFE outreach has helped provide more than 9,500 water wells, making clean water accessible to more than 9 million people.</desc>
+  </programme>
+  <programme start="20261028123000 -0400" stop="20261028130000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261028130000 -0400" stop="20261028133000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261028133000 -0400" stop="20261028140000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261028140000 -0400" stop="20261028150000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261028150000 -0400" stop="20261028153000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261028153000 -0400" stop="20261028160000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261028160000 -0400" stop="20261028163000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261028163000 -0400" stop="20261028170000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261028170000 -0400" stop="20261028173000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261028173000 -0400" stop="20261028180000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261028180000 -0400" stop="20261028183000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261028183000 -0400" stop="20261028190000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261028190000 -0400" stop="20261028193000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261028193000 -0400" stop="20261028200000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261028200000 -0400" stop="20261028203000 -0400" channel="The.Word.Network.us2">
+    <title>Charles Ellis</title>
+    <desc>At Greater Grace Temple, they're out to touch more lives than ever before for the Kingdom of God, promoting a gospel of life and salvation in Christ.At Greate</desc>
+  </programme>
+  <programme start="20261028203000 -0400" stop="20261028210000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261028210000 -0400" stop="20261028213000 -0400" channel="The.Word.Network.us2">
+    <title>Manna-Fest with Perry Stone</title>
+    <desc>Perry Stone provides a program dealing with the predictive and sensible studies of God's Word, helping to get a better understanding of biblical prophecy.</desc>
+  </programme>
+  <programme start="20261028213000 -0400" stop="20261028220000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261028220000 -0400" stop="20261028223000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>How to Be Godly in an Ungodly World</sub-title>
+    <desc>How Christ's gift of righteousness can change a life.</desc>
+  </programme>
+  <programme start="20261028223000 -0400" stop="20261028230000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <sub-title>Holy Spirit Power</sub-title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261028230000 -0400" stop="20261029000000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261029000000 -0400" stop="20261029003000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261029003000 -0400" stop="20261029010000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261029010000 -0400" stop="20261029013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261029013000 -0400" stop="20261029020000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261029020000 -0400" stop="20261029023000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261029023000 -0400" stop="20261029030000 -0400" channel="The.Word.Network.us2">
+    <title>Wayne Parks Ministres</title>
+    <desc>This ministry is about helping you get your miracle as well as getting you to know God through His Son Jesus Christ in the power of the Holy Ghost.</desc>
+  </programme>
+  <programme start="20261029030000 -0400" stop="20261029033000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261029033000 -0400" stop="20261029040000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261029040000 -0400" stop="20261029043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261029043000 -0400" stop="20261029050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261029050000 -0400" stop="20261029053000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 1</sub-title>
+    <desc>Joyce shares on the importance of remaining diligent and finding success.</desc>
+  </programme>
+  <programme start="20261029053000 -0400" stop="20261029060000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261029060000 -0400" stop="20261029063000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261029063000 -0400" stop="20261029070000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261029070000 -0400" stop="20261029080000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261029080000 -0400" stop="20261029083000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261029083000 -0400" stop="20261029090000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261029090000 -0400" stop="20261029093000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261029093000 -0400" stop="20261029100000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261029100000 -0400" stop="20261029103000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 1</sub-title>
+    <desc>Joyce shares on the importance of remaining diligent and finding success.</desc>
+  </programme>
+  <programme start="20261029103000 -0400" stop="20261029110000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261029110000 -0400" stop="20261029113000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261029113000 -0400" stop="20261029120000 -0400" channel="The.Word.Network.us2">
+    <title>Bill Winston Ministries</title>
+    <desc>Drs. Bill and Veronica Winston address their congregation and viewers from the Living Word Christian Center in Chicago with an inspirational, Biblical message.</desc>
+  </programme>
+  <programme start="20261029120000 -0400" stop="20261029123000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261029123000 -0400" stop="20261029130000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261029130000 -0400" stop="20261029133000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261029133000 -0400" stop="20261029140000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261029140000 -0400" stop="20261029150000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261029150000 -0400" stop="20261029153000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261029153000 -0400" stop="20261029160000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261029160000 -0400" stop="20261029163000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261029163000 -0400" stop="20261029170000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261029170000 -0400" stop="20261029173000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261029173000 -0400" stop="20261029180000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261029180000 -0400" stop="20261029183000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261029183000 -0400" stop="20261029190000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261029190000 -0400" stop="20261029193000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261029193000 -0400" stop="20261029200000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261029200000 -0400" stop="20261029203000 -0400" channel="The.Word.Network.us2">
+    <title>Charles Ellis</title>
+    <desc>At Greater Grace Temple, they're out to touch more lives than ever before for the Kingdom of God, promoting a gospel of life and salvation in Christ.At Greate</desc>
+  </programme>
+  <programme start="20261029203000 -0400" stop="20261029210000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261029210000 -0400" stop="20261029213000 -0400" channel="The.Word.Network.us2">
+    <title>Wounded Warriors</title>
+    <desc>The Wounded Warrior Project helps wounded service members who are returning home with mental health, career counseling, and long-term rehabilitative care.</desc>
+  </programme>
+  <programme start="20261029213000 -0400" stop="20261029220000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261029220000 -0400" stop="20261029223000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 1</sub-title>
+    <desc>Joyce shares on the importance of remaining diligent and finding success.</desc>
+  </programme>
+  <programme start="20261029223000 -0400" stop="20261029230000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <sub-title>Graceful Warrior</sub-title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261029230000 -0400" stop="20261030000000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261030000000 -0400" stop="20261030003000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261030003000 -0400" stop="20261030010000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261030010000 -0400" stop="20261030013000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261030013000 -0400" stop="20261030020000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261030020000 -0400" stop="20261030023000 -0400" channel="The.Word.Network.us2">
+    <title>Touching Hands Ministries with Darrell Dumas</title>
+    <desc>A Mississippi-based ministry that utilizes Biblical teaching to encourage the maintenance of strong families and communities amongst congregants and viewers.</desc>
+  </programme>
+  <programme start="20261030023000 -0400" stop="20261030030000 -0400" channel="The.Word.Network.us2">
+    <title>Manna-Fest with Perry Stone</title>
+    <desc>Perry Stone provides a program dealing with the predictive and sensible studies of God's Word, helping to get a better understanding of biblical prophecy.</desc>
+  </programme>
+  <programme start="20261030030000 -0400" stop="20261030033000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261030033000 -0400" stop="20261030040000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261030040000 -0400" stop="20261030043000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261030043000 -0400" stop="20261030050000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261030050000 -0400" stop="20261030053000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 2</sub-title>
+    <desc>Joyce discusses the benefits of diligence and steady effort.</desc>
+  </programme>
+  <programme start="20261030053000 -0400" stop="20261030060000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261030060000 -0400" stop="20261030063000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261030063000 -0400" stop="20261030070000 -0400" channel="The.Word.Network.us2">
+    <title>Amazing Facts with Doug Batchelor</title>
+    <desc>Pastor Doug Batchelor presents a studious hour on spiritually relevant topics such as Bible prophecy, the gospel message and the Holy Spirit.</desc>
+  </programme>
+  <programme start="20261030070000 -0400" stop="20261030080000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261030080000 -0400" stop="20261030083000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261030083000 -0400" stop="20261030090000 -0400" channel="The.Word.Network.us2">
+    <title>Word Special</title>
+  </programme>
+  <programme start="20261030090000 -0400" stop="20261030093000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261030093000 -0400" stop="20261030100000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261030100000 -0400" stop="20261030103000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 2</sub-title>
+    <desc>Joyce discusses the benefits of diligence and steady effort.</desc>
+  </programme>
+  <programme start="20261030103000 -0400" stop="20261030110000 -0400" channel="The.Word.Network.us2">
+    <title>Operation Smile</title>
+    <desc>A look at the work of a nonprofit organization known as Operation Smile shows doctors' attempts to repair facial deformities on children around the world.</desc>
+  </programme>
+  <programme start="20261030110000 -0400" stop="20261030113000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261030113000 -0400" stop="20261030120000 -0400" channel="The.Word.Network.us2">
+    <title>Bill Winston Ministries</title>
+    <desc>Drs. Bill and Veronica Winston address their congregation and viewers from the Living Word Christian Center in Chicago with an inspirational, Biblical message.</desc>
+  </programme>
+  <programme start="20261030120000 -0400" stop="20261030123000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>The Water for LIFE outreach has helped provide more than 9,500 water wells, making clean water accessible to more than 9 million people.</desc>
+  </programme>
+  <programme start="20261030123000 -0400" stop="20261030130000 -0400" channel="The.Word.Network.us2">
+    <title>International Fellowship of Christians and Jews</title>
+    <desc>Rabbi Yael Eckstein serves as the leader of a non-profit organization dedicated to building bridges between the Jewish and Christian populations.</desc>
+  </programme>
+  <programme start="20261030130000 -0400" stop="20261030133000 -0400" channel="The.Word.Network.us2">
+    <title>Joseph Prince</title>
+    <desc>Pastor Joseph Prince allows spiritually minded viewers to witness the services of New Creation Church in Singapore, where he spreads gospel messages.</desc>
+  </programme>
+  <programme start="20261030133000 -0400" stop="20261030140000 -0400" channel="The.Word.Network.us2">
+    <title>Elevation Church with Steve Furtick</title>
+    <desc>Pastor Furtick leads services at Elevation Church in North Carolina and shares faith-based sermons on a variety of topics.</desc>
+  </programme>
+  <programme start="20261030140000 -0400" stop="20261030150000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
+  </programme>
+  <programme start="20261030150000 -0400" stop="20261030153000 -0400" channel="The.Word.Network.us2">
+    <title>Through the Bible with Les Feldick</title>
+    <desc>Bible teacher Les Feldick, an Oklahoma rancher who teaches by the Holy Spirit's guidance, presents lessons that are free of denominational bias.</desc>
+  </programme>
+  <programme start="20261030153000 -0400" stop="20261030160000 -0400" channel="The.Word.Network.us2">
+    <title>Sonoran Secret</title>
+  </programme>
+  <programme start="20261030160000 -0400" stop="20261030163000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261030163000 -0400" stop="20261030170000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261030170000 -0400" stop="20261030173000 -0400" channel="The.Word.Network.us2">
+    <title>Stem Cell Activators with Dr. Joseph Christiano</title>
+    <desc>A naturapathic physician, author, motivational speaker, wellness coach and certified nutritional counselor, discusses stem cell activators.</desc>
+  </programme>
+  <programme start="20261030173000 -0400" stop="20261030180000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261030180000 -0400" stop="20261030183000 -0400" channel="The.Word.Network.us2">
+    <title>Peter Popoff Miracle Ministry</title>
+    <desc>For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+  </programme>
+  <programme start="20261030183000 -0400" stop="20261030190000 -0400" channel="The.Word.Network.us2">
+    <title>Mercy Ships</title>
+  </programme>
+  <programme start="20261030190000 -0400" stop="20261030193000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261030193000 -0400" stop="20261030200000 -0400" channel="The.Word.Network.us2">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261030200000 -0400" stop="20261030203000 -0400" channel="The.Word.Network.us2">
+    <title>Charles Ellis</title>
+    <desc>At Greater Grace Temple, they're out to touch more lives than ever before for the Kingdom of God, promoting a gospel of life and salvation in Christ.At Greate</desc>
+  </programme>
+  <programme start="20261030203000 -0400" stop="20261030210000 -0400" channel="The.Word.Network.us2">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Messianic Rabbi Jonathon Bernis explores the Jewish origins of the Christian faith and discusses how prophecies in the bible merge with everyday life.</desc>
+  </programme>
+  <programme start="20261030210000 -0400" stop="20261030213000 -0400" channel="The.Word.Network.us2">
+    <title>Water for Life</title>
+    <desc>LIFE Outreach International puts the spotlight on the deeds of Water for Life, which is determined to provide clean water across the globe.</desc>
+  </programme>
+  <programme start="20261030213000 -0400" stop="20261030220000 -0400" channel="The.Word.Network.us2">
+    <title>Lawson Perdue</title>
+    <desc>Lawson and Barbara Perdue are the senior pastors of Charis Christian Center in Colorado Springs, Colorado.</desc>
+  </programme>
+  <programme start="20261030220000 -0400" stop="20261030223000 -0400" channel="The.Word.Network.us2">
+    <title>Joyce Meyer: Enjoying Everyday Life</title>
+    <sub-title>Diligence Part 2</sub-title>
+    <desc>Joyce discusses the benefits of diligence and steady effort.</desc>
+  </programme>
+  <programme start="20261030223000 -0400" stop="20261030230000 -0400" channel="The.Word.Network.us2">
+    <title>LIFE Today</title>
+    <sub-title>Rescue LIFE</sub-title>
+    <desc>An innovative talk show that shares the Gospel message with people all over the world and invites viewers to minister to others.</desc>
+  </programme>
+  <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="The.Word.Network.us2">
+    <title>Campmeeting</title>
+    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
   </programme>
 </tv>
