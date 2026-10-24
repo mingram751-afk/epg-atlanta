@@ -22,12 +22,12 @@ jobs:
         run: python tools/merge_xmltv.py
       - name: Commit updated guide
         run: |
-          if git diff --quiet -- merged.xml; then
+          git add merged.xml
+          if git diff --cached --quiet -- merged.xml; then
             echo 'merged.xml is already up to date'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add merged.xml
           git commit -m 'Update XMLTV guide'
           git push
