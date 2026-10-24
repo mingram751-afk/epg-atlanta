@@ -16,6 +16,7 @@ CHANNELS = [
     ("3ABN-DareToDream.us", "3ABN Dare to Dream Network", "dare"),
     ("3ABN-International.us", "3ABN International Network", "int"),
     ("3ABN-Kids.us", "3ABN Kids Network", "kids"),
+    ("3ABN-PraiseHimMusic.us", "3ABN Praise Him Music Network", "praise"),
 ]
 
 
