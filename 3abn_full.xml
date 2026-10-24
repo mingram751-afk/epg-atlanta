@@ -15,6 +15,9 @@
   <channel id="3ABN-Kids.us">
     <display-name>3ABN Kids Network</display-name>
   </channel>
+  <channel id="3ABN-PraiseHimMusic.us">
+    <display-name>3ABN Praise Him Music Network</display-name>
+  </channel>
   <programme start="20261024000000" stop="20261024002830" channel="3ABN-DareToDream.us">
     <title>Battles of Faith</title>
     <sub-title>Sanctuary, Pt. 1</sub-title>
@@ -6339,6 +6342,1946 @@ What followed became one of the most peculiar episodes in military history: stra
     <sub-title>Jesus Is Able</sub-title>
     <desc>Get ready to sing and praise Jesus! Join us for 30 minutes of glorious music that helps children grow their faith and keep a song in their hearts.</desc>
     <episode-num system="onscreen">KP260016</episode-num>
+  </programme>
+  <programme start="20261024000000" stop="20261024005530" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Music Ministry</sub-title>
+    <desc>Join Shelley Quinn and her guest Paulo Torres a talented violin player who ministers to people in hospitals and nursing homes using his God given talent. Paulo shares amazing experiences of healing during his regular visits to hospitals in his native Brasil. You will not want to miss out on hearing his powerful testimony and some of his wonderful music.</desc>
+    <episode-num system="onscreen">TDY018086</episode-num>
+  </programme>
+  <programme start="20261024010000" stop="20261024012658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024013000" stop="20261024015810" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Jonathan Kasabasic</sub-title>
+    <episode-num system="onscreen">TMH250011</episode-num>
+  </programme>
+  <programme start="20261024020000" stop="20261024022900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Faith And Acceptance</sub-title>
+    <desc>Faith And Acceptance</desc>
+    <episode-num system="onscreen">SCS000006</episode-num>
+  </programme>
+  <programme start="20261024023000" stop="20261024025220" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>A Bad Day for No Reason - Solved</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every “bad” experience.</desc>
+    <episode-num system="onscreen">SAL250009</episode-num>
+  </programme>
+  <programme start="20261024030000" stop="20261024032830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #4</sub-title>
+    <episode-num system="onscreen">LV240006</episode-num>
+  </programme>
+  <programme start="20261024033000" stop="20261024035830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Donnell and Denise Josiah , James Bowman</desc>
+    <episode-num system="onscreen">MGNH000007</episode-num>
+  </programme>
+  <programme start="20261024040000" stop="20261024042759" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 14</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200014</episode-num>
+  </programme>
+  <programme start="20261024043000" stop="20261024045658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024050000" stop="20261024052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Michael Settle'Sweet Hour of Prayer' 02.Shelley VanZyl'In Your Presence'03.Joo Young Oh'The God of Abraham Praise'04.Margie Salcedo-Rice'The Gentleness &amp; Peace of God' 05.Melody Firestone'Send a Miracle' 06.Annette Campbell'Somebody's Praying Me Through' 07.Diane Anders'How Long Has It Been'</desc>
+    <episode-num system="onscreen">P000012</episode-num>
+  </programme>
+  <programme start="20261024053000" stop="20261024055830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>A Mighty Fortress</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190001</episode-num>
+  </programme>
+  <programme start="20261024060000" stop="20261024062830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261024063000" stop="20261024065810" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Jonathan Kasabasic</sub-title>
+    <episode-num system="onscreen">TMH250011</episode-num>
+  </programme>
+  <programme start="20261024070000" stop="20261024072900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Faith And Acceptance</sub-title>
+    <desc>Faith And Acceptance</desc>
+    <episode-num system="onscreen">SCS000006</episode-num>
+  </programme>
+  <programme start="20261024073000" stop="20261024075658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024080000" stop="20261024081430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Beholding Jesus</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230014</episode-num>
+  </programme>
+  <programme start="20261024081500" stop="20261024082917" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Jonathan Galicia, The Spangler Family, Mirielle Enriquez, Molly Rea, Olivia Blackman, Marlana VanHouse, Ellen Echevarria, and Logan Parchmento.</desc>
+    <episode-num system="onscreen">KPT190009</episode-num>
+  </programme>
+  <programme start="20261024083000" stop="20261024084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 55 - Salvation</sub-title>
+    <desc>Join us for prayer and song on the topic of: salvation.</desc>
+    <episode-num system="onscreen">PHPTP210055</episode-num>
+  </programme>
+  <programme start="20261024084500" stop="20261024085134" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Kalyna Birmele-Skoretz</sub-title>
+    <desc>Kalyna Birmele-Skoretz shares her personal testimony of finding the Desire of Ages book in a hotel room and her journey to God.</desc>
+    <episode-num system="onscreen">TN220034</episode-num>
+  </programme>
+  <programme start="20261024090000" stop="20261024095414" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Personal Testimony</sub-title>
+    <desc>Join Tim Parton and guest Roy Treiyer, an accomplished piano player. Roy started to play the piano at an early age giving recitals and piano concerts in churches in his native Argentina and other parts of the world as well.  Throughout the interview Roy will inspire you as he plays some beautiful hymns that he has arranged</desc>
+    <episode-num system="onscreen">TDY018101</episode-num>
+  </programme>
+  <programme start="20261024100000" stop="20261024102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261024103000" stop="20261024105830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #4</sub-title>
+    <episode-num system="onscreen">LV240006</episode-num>
+  </programme>
+  <programme start="20261024110000" stop="20261024112759" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 14</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200014</episode-num>
+  </programme>
+  <programme start="20261024113000" stop="20261024115830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Donnell and Denise Josiah , James Bowman</desc>
+    <episode-num system="onscreen">MGNH000007</episode-num>
+  </programme>
+  <programme start="20261024120000" stop="20261024122900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Faith And Acceptance</sub-title>
+    <desc>Faith And Acceptance</desc>
+    <episode-num system="onscreen">SCS000006</episode-num>
+  </programme>
+  <programme start="20261024123000" stop="20261024125220" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>A Bad Day for No Reason - Solved</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every “bad” experience.</desc>
+    <episode-num system="onscreen">SAL250009</episode-num>
+  </programme>
+  <programme start="20261024130000" stop="20261024132658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024133000" stop="20261024135900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Growing Up Into Christ</sub-title>
+    <desc>Growing Up Into Christ</desc>
+    <episode-num system="onscreen">SCS000008</episode-num>
+  </programme>
+  <programme start="20261024140000" stop="20261024141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 55 - Salvation</sub-title>
+    <desc>Join us for prayer and song on the topic of: salvation.</desc>
+    <episode-num system="onscreen">PHPTP210055</episode-num>
+  </programme>
+  <programme start="20261024141500" stop="20261024142134" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Kalyna Birmele-Skoretz</sub-title>
+    <desc>Kalyna Birmele-Skoretz shares her personal testimony of finding the Desire of Ages book in a hotel room and her journey to God.</desc>
+    <episode-num system="onscreen">TN220034</episode-num>
+  </programme>
+  <programme start="20261024143000" stop="20261024145810" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Jonathan Kasabasic</sub-title>
+    <episode-num system="onscreen">TMH250011</episode-num>
+  </programme>
+  <programme start="20261024150000" stop="20261024152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261024153000" stop="20261024155830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>A Mighty Fortress</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190001</episode-num>
+  </programme>
+  <programme start="20261024160000" stop="20261024165414" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Personal Testimony</sub-title>
+    <desc>Join Tim Parton and guest Roy Treiyer, an accomplished piano player. Roy started to play the piano at an early age giving recitals and piano concerts in churches in his native Argentina and other parts of the world as well.  Throughout the interview Roy will inspire you as he plays some beautiful hymns that he has arranged</desc>
+    <episode-num system="onscreen">TDY018101</episode-num>
+  </programme>
+  <programme start="20261024170000" stop="20261024172830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #4</sub-title>
+    <episode-num system="onscreen">LV240006</episode-num>
+  </programme>
+  <programme start="20261024173000" stop="20261024174430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Beholding Jesus</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230014</episode-num>
+  </programme>
+  <programme start="20261024174500" stop="20261024175917" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Jonathan Galicia, The Spangler Family, Mirielle Enriquez, Molly Rea, Olivia Blackman, Marlana VanHouse, Ellen Echevarria, and Logan Parchmento.</desc>
+    <episode-num system="onscreen">KPT190009</episode-num>
+  </programme>
+  <programme start="20261024180000" stop="20261024182658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024183000" stop="20261024185830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Donnell and Denise Josiah , James Bowman</desc>
+    <episode-num system="onscreen">MGNH000007</episode-num>
+  </programme>
+  <programme start="20261024190000" stop="20261024192759" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 14</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200014</episode-num>
+  </programme>
+  <programme start="20261024193000" stop="20261024195900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Faith And Acceptance</sub-title>
+    <desc>Faith And Acceptance</desc>
+    <episode-num system="onscreen">SCS000006</episode-num>
+  </programme>
+  <programme start="20261024200000" stop="20261024202830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>New Dawn</sub-title>
+    <episode-num system="onscreen">TMH240002</episode-num>
+  </programme>
+  <programme start="20261024203000" stop="20261024204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 55 - Salvation</sub-title>
+    <desc>Join us for prayer and song on the topic of: salvation.</desc>
+    <episode-num system="onscreen">PHPTP210055</episode-num>
+  </programme>
+  <programme start="20261024204500" stop="20261024205134" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Kalyna Birmele-Skoretz</sub-title>
+    <desc>Kalyna Birmele-Skoretz shares her personal testimony of finding the Desire of Ages book in a hotel room and her journey to God.</desc>
+    <episode-num system="onscreen">TN220034</episode-num>
+  </programme>
+  <programme start="20261024210000" stop="20261024215414" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Personal Testimony</sub-title>
+    <desc>Join Tim Parton and guest Roy Treiyer, an accomplished piano player. Roy started to play the piano at an early age giving recitals and piano concerts in churches in his native Argentina and other parts of the world as well.  Throughout the interview Roy will inspire you as he plays some beautiful hymns that he has arranged</desc>
+    <episode-num system="onscreen">TDY018101</episode-num>
+  </programme>
+  <programme start="20261024220000" stop="20261024222658" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Bless The Lord, Oh My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000005</episode-num>
+  </programme>
+  <programme start="20261024223000" stop="20261024225830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>A Mighty Fortress</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190001</episode-num>
+  </programme>
+  <programme start="20261024230000" stop="20261024232759" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 14</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200014</episode-num>
+  </programme>
+  <programme start="20261024233000" stop="20261024235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Michael Settle'Sweet Hour of Prayer' 02.Shelley VanZyl'In Your Presence'03.Joo Young Oh'The God of Abraham Praise'04.Margie Salcedo-Rice'The Gentleness &amp; Peace of God' 05.Melody Firestone'Send a Miracle' 06.Annette Campbell'Somebody's Praying Me Through' 07.Diane Anders'How Long Has It Been'</desc>
+    <episode-num system="onscreen">P000012</episode-num>
+  </programme>
+  <programme start="20261025000000" stop="20261025005414" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Personal Testimony</sub-title>
+    <desc>Join Tim Parton and guest Roy Treiyer, an accomplished piano player. Roy started to play the piano at an early age giving recitals and piano concerts in churches in his native Argentina and other parts of the world as well.  Throughout the interview Roy will inspire you as he plays some beautiful hymns that he has arranged</desc>
+    <episode-num system="onscreen">TDY018101</episode-num>
+  </programme>
+  <programme start="20261025010000" stop="20261025012701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025013000" stop="20261025015829" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'Change Me Now' Melody Firestone 02. 'Come' Scott Michael Bennett 03. 'My Faith has Found a Resting Place' Dave &amp; Marlene Colburn 04. 'The Warrior is a Child' Rosemary Malkiewycz 05. 'All Hail the Power of Jesus' Name' Jaime Jorge 06. 'Because of Who You Are' Darrell Marshall 07. 'Praise His Name' Valerie Shelton Walker</desc>
+    <episode-num system="onscreen">MFMH000327</episode-num>
+  </programme>
+  <programme start="20261025020000" stop="20261025022900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Test Of Discipleship</sub-title>
+    <desc>The Test Of Discipleship</desc>
+    <episode-num system="onscreen">SCS000007</episode-num>
+  </programme>
+  <programme start="20261025023000" stop="20261025025853" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>God Can’T Lie</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250010</episode-num>
+  </programme>
+  <programme start="20261025030000" stop="20261025032715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261025033000" stop="20261025035830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Mark Prentice, Michael Ga yle</desc>
+    <episode-num system="onscreen">MGNH000008</episode-num>
+  </programme>
+  <programme start="20261025040000" stop="20261025042914" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 15</sub-title>
+    <episode-num system="onscreen">CMC200015</episode-num>
+  </programme>
+  <programme start="20261025043000" stop="20261025045701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025050000" stop="20261025052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Praise Overflowing</sub-title>
+    <desc>Praise Overflowing Kelly Mowrer (Host) 01. Tammy Chance 'Spring of Living Water' 02. Emma McDonald 'The Wonder of it All' 03. Jack Crosby &amp; Donna Shurley 'Satisfied' 04. Denise Barclay 'Alleluia Amen' 05. Ron Woolsey 'Springs of Living Water' 06. Ouachita Hills Academy 'Praise to the Lord' 07. Lyndon Carriger 'I Worship You Medley' 08. Denise Barclay 'Alleluia Amen'</desc>
+    <episode-num system="onscreen">P000016</episode-num>
+  </programme>
+  <programme start="20261025053000" stop="20261025055820" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>The Church in the Wildwood</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190002</episode-num>
+  </programme>
+  <programme start="20261025060000" stop="20261025062830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261025063000" stop="20261025065829" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'Change Me Now' Melody Firestone 02. 'Come' Scott Michael Bennett 03. 'My Faith has Found a Resting Place' Dave &amp; Marlene Colburn 04. 'The Warrior is a Child' Rosemary Malkiewycz 05. 'All Hail the Power of Jesus' Name' Jaime Jorge 06. 'Because of Who You Are' Darrell Marshall 07. 'Praise His Name' Valerie Shelton Walker</desc>
+    <episode-num system="onscreen">MFMH000327</episode-num>
+  </programme>
+  <programme start="20261025070000" stop="20261025072900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Test Of Discipleship</sub-title>
+    <desc>The Test Of Discipleship</desc>
+    <episode-num system="onscreen">SCS000007</episode-num>
+  </programme>
+  <programme start="20261025073000" stop="20261025075701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025080000" stop="20261025081430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>For My Sake</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230015</episode-num>
+  </programme>
+  <programme start="20261025081500" stop="20261025082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Mirielle Enriquez, Avery Dixon, The Quave Sisters, Joshua Hunt, Giselle Watts, Lysle Follette, and Molly Rae.</desc>
+    <episode-num system="onscreen">KPT190010</episode-num>
+  </programme>
+  <programme start="20261025083000" stop="20261025084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 56 - Government</sub-title>
+    <desc>Join us for prayer and song on the topic of: government.</desc>
+    <episode-num system="onscreen">PHPTP210056</episode-num>
+  </programme>
+  <programme start="20261025084500" stop="20261025085107" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Daniel Lui</sub-title>
+    <desc>Daniel Lui takes us on his medical missionary journey and extreme faith to fulfill God's calling.</desc>
+    <episode-num system="onscreen">TN220035</episode-num>
+  </programme>
+  <programme start="20261025090000" stop="20261025095815" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Around The Piano with Reggie &amp; Ladye Love</sub-title>
+    <episode-num system="onscreen">TDY190013</episode-num>
+  </programme>
+  <programme start="20261025100000" stop="20261025102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261025103000" stop="20261025105701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025110000" stop="20261025112914" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 15</sub-title>
+    <episode-num system="onscreen">CMC200015</episode-num>
+  </programme>
+  <programme start="20261025113000" stop="20261025115830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Mark Prentice, Michael Ga yle</desc>
+    <episode-num system="onscreen">MGNH000008</episode-num>
+  </programme>
+  <programme start="20261025120000" stop="20261025122900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Test Of Discipleship</sub-title>
+    <desc>The Test Of Discipleship</desc>
+    <episode-num system="onscreen">SCS000007</episode-num>
+  </programme>
+  <programme start="20261025123000" stop="20261025125853" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>God Can’T Lie</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250010</episode-num>
+  </programme>
+  <programme start="20261025130000" stop="20261025132701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025133000" stop="20261025135830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261025140000" stop="20261025141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 56 - Government</sub-title>
+    <desc>Join us for prayer and song on the topic of: government.</desc>
+    <episode-num system="onscreen">PHPTP210056</episode-num>
+  </programme>
+  <programme start="20261025141500" stop="20261025142107" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Daniel Lui</sub-title>
+    <desc>Daniel Lui takes us on his medical missionary journey and extreme faith to fulfill God's calling.</desc>
+    <episode-num system="onscreen">TN220035</episode-num>
+  </programme>
+  <programme start="20261025143000" stop="20261025145829" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'Change Me Now' Melody Firestone 02. 'Come' Scott Michael Bennett 03. 'My Faith has Found a Resting Place' Dave &amp; Marlene Colburn 04. 'The Warrior is a Child' Rosemary Malkiewycz 05. 'All Hail the Power of Jesus' Name' Jaime Jorge 06. 'Because of Who You Are' Darrell Marshall 07. 'Praise His Name' Valerie Shelton Walker</desc>
+    <episode-num system="onscreen">MFMH000327</episode-num>
+  </programme>
+  <programme start="20261025150000" stop="20261025152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Praise Him Now- Music Special with Layke Jones &amp; Tim Parton</sub-title>
+    <desc>Join Layke Jones and Tim Parton in this half-hour music special around the piano.</desc>
+    <episode-num system="onscreen">PHN240015</episode-num>
+  </programme>
+  <programme start="20261025153000" stop="20261025155820" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>The Church in the Wildwood</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190002</episode-num>
+  </programme>
+  <programme start="20261025160000" stop="20261025165815" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Around The Piano with Reggie &amp; Ladye Love</sub-title>
+    <episode-num system="onscreen">TDY190013</episode-num>
+  </programme>
+  <programme start="20261025170000" stop="20261025172715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261025173000" stop="20261025174430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>For My Sake</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230015</episode-num>
+  </programme>
+  <programme start="20261025174500" stop="20261025175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Mirielle Enriquez, Avery Dixon, The Quave Sisters, Joshua Hunt, Giselle Watts, Lysle Follette, and Molly Rae.</desc>
+    <episode-num system="onscreen">KPT190010</episode-num>
+  </programme>
+  <programme start="20261025180000" stop="20261025182701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025183000" stop="20261025185830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), Mark Prentice, Michael Ga yle</desc>
+    <episode-num system="onscreen">MGNH000008</episode-num>
+  </programme>
+  <programme start="20261025190000" stop="20261025192914" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 15</sub-title>
+    <episode-num system="onscreen">CMC200015</episode-num>
+  </programme>
+  <programme start="20261025193000" stop="20261025195900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Test Of Discipleship</sub-title>
+    <desc>The Test Of Discipleship</desc>
+    <episode-num system="onscreen">SCS000007</episode-num>
+  </programme>
+  <programme start="20261025200000" stop="20261025202830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Sarah Vargas</sub-title>
+    <episode-num system="onscreen">TMH240003</episode-num>
+  </programme>
+  <programme start="20261025203000" stop="20261025204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 56 - Government</sub-title>
+    <desc>Join us for prayer and song on the topic of: government.</desc>
+    <episode-num system="onscreen">PHPTP210056</episode-num>
+  </programme>
+  <programme start="20261025204500" stop="20261025205107" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Daniel Lui</sub-title>
+    <desc>Daniel Lui takes us on his medical missionary journey and extreme faith to fulfill God's calling.</desc>
+    <episode-num system="onscreen">TN220035</episode-num>
+  </programme>
+  <programme start="20261025210000" stop="20261025215815" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Around The Piano with Reggie &amp; Ladye Love</sub-title>
+    <episode-num system="onscreen">TDY190013</episode-num>
+  </programme>
+  <programme start="20261025220000" stop="20261025222701" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>I Don't Want to Get Adjusted to This World</sub-title>
+    <episode-num system="onscreen">YFBR000006</episode-num>
+  </programme>
+  <programme start="20261025223000" stop="20261025225830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261025230000" stop="20261025232914" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 15</sub-title>
+    <episode-num system="onscreen">CMC200015</episode-num>
+  </programme>
+  <programme start="20261025233000" stop="20261025235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Praise Overflowing</sub-title>
+    <desc>Praise Overflowing Kelly Mowrer (Host) 01. Tammy Chance 'Spring of Living Water' 02. Emma McDonald 'The Wonder of it All' 03. Jack Crosby &amp; Donna Shurley 'Satisfied' 04. Denise Barclay 'Alleluia Amen' 05. Ron Woolsey 'Springs of Living Water' 06. Ouachita Hills Academy 'Praise to the Lord' 07. Lyndon Carriger 'I Worship You Medley' 08. Denise Barclay 'Alleluia Amen'</desc>
+    <episode-num system="onscreen">P000016</episode-num>
+  </programme>
+  <programme start="20261026000000" stop="20261026005815" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Around The Piano with Reggie &amp; Ladye Love</sub-title>
+    <episode-num system="onscreen">TDY190013</episode-num>
+  </programme>
+  <programme start="20261026010000" stop="20261026012702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026013000" stop="20261026015830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'I Walked Today Where Jesus Walked' Steve Darmody 02. 'Wondrous Love' Emily Felts-Jones 03. 'We Believe' Pierre Van Der Westhuizen 04. 'In the Garden Medley' Tim Parton 05. 'Go Free' C. A. Murray 06. 'Carry Me Away' Melody Firestone</desc>
+    <episode-num system="onscreen">MFMH000328</episode-num>
+  </programme>
+  <programme start="20261026020000" stop="20261026022900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Growing Up Into Christ</sub-title>
+    <desc>Growing Up Into Christ</desc>
+    <episode-num system="onscreen">SCS000008</episode-num>
+  </programme>
+  <programme start="20261026023000" stop="20261026025823" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>The Ten Commandments and More, In Song</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250011</episode-num>
+  </programme>
+  <programme start="20261026030000" stop="20261026032715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261026033000" stop="20261026035830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), John Lomacang, Monique Gr iffiths</desc>
+    <episode-num system="onscreen">MGNH000009</episode-num>
+  </programme>
+  <programme start="20261026040000" stop="20261026042835" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 16</sub-title>
+    <episode-num system="onscreen">CMC200016</episode-num>
+  </programme>
+  <programme start="20261026043000" stop="20261026045702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026050000" stop="20261026052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>More Love To Thee</sub-title>
+    <desc>More Love To Thee Kelly Mowrer (Host) 01. Jill Morikone 'I am Thine O Lord' 02. Jennifer LaMountain 'Lord You have My Heart' 03. Diane Anders 'How Great Thou Art' 04. Hope's Call 'How Can I keep from Singing?' 05. Reggie Samuel 'The Love of God' 06. Omega Quartet 'Render at Your Feet' 07. Annette Campbell 'My Jesus I Love You' 08. Joo Young Oh &amp; Abby Coo 'I'd Rather Have Jesus'</desc>
+    <episode-num system="onscreen">P000017</episode-num>
+  </programme>
+  <programme start="20261026053000" stop="20261026055815" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Sons of the Heavenly Father</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190003</episode-num>
+  </programme>
+  <programme start="20261026060000" stop="20261026062830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261026063000" stop="20261026065830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'I Walked Today Where Jesus Walked' Steve Darmody 02. 'Wondrous Love' Emily Felts-Jones 03. 'We Believe' Pierre Van Der Westhuizen 04. 'In the Garden Medley' Tim Parton 05. 'Go Free' C. A. Murray 06. 'Carry Me Away' Melody Firestone</desc>
+    <episode-num system="onscreen">MFMH000328</episode-num>
+  </programme>
+  <programme start="20261026070000" stop="20261026072900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Growing Up Into Christ</sub-title>
+    <desc>Growing Up Into Christ</desc>
+    <episode-num system="onscreen">SCS000008</episode-num>
+  </programme>
+  <programme start="20261026073000" stop="20261026075702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026080000" stop="20261026081430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>City of God</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230016</episode-num>
+  </programme>
+  <programme start="20261026081500" stop="20261026082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Madison Bishop, Sam Santiago, Giselle Watts, Mirielle Enriquez, Lysle Follette, Ellen Echevarria, Jahbarri Bradshaw</desc>
+    <episode-num system="onscreen">KPT190011</episode-num>
+  </programme>
+  <programme start="20261026083000" stop="20261026084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 58 - Encouragement</sub-title>
+    <desc>Join us for prayer and song on the topic of: encouragement.</desc>
+    <episode-num system="onscreen">PHPTP210058</episode-num>
+  </programme>
+  <programme start="20261026084500" stop="20261026085159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Dr. Diane Vanhorne</sub-title>
+    <desc>At 10 years old, Dr. Diane VanHorne knew she wanted to be a medical doctor.  In her interview, Dr. VanHorne shares her trials and victories in pursuing her life's dream. Her desire is to encourage young people to trust in the Lord and pursue their dreams no matter what the circumstances may be; because nothing is impossible with God.</desc>
+    <episode-num system="onscreen">TN230036</episode-num>
+  </programme>
+  <programme start="20261026090000" stop="20261026095630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Lanny Wolfe Trio</sub-title>
+    <desc>The Lanny Wolfe Trio discussed their ministry. Have A Nice Day Fresh Touch Of Desire I Love You More Than Ever Before Jesus You Captured My Heart I Feel Good Jesus, Be The Lord Of All Where I Long To Be I Feel Heaven In This Place Surely The Presence Peace Of Jesus A Brand New Touch In God’s Hands</desc>
+    <episode-num system="onscreen">TDY190065</episode-num>
+  </programme>
+  <programme start="20261026100000" stop="20261026102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261026103000" stop="20261026105702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026110000" stop="20261026112835" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 16</sub-title>
+    <episode-num system="onscreen">CMC200016</episode-num>
+  </programme>
+  <programme start="20261026113000" stop="20261026115830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), John Lomacang, Monique Gr iffiths</desc>
+    <episode-num system="onscreen">MGNH000009</episode-num>
+  </programme>
+  <programme start="20261026120000" stop="20261026122900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Growing Up Into Christ</sub-title>
+    <desc>Growing Up Into Christ</desc>
+    <episode-num system="onscreen">SCS000008</episode-num>
+  </programme>
+  <programme start="20261026123000" stop="20261026125823" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>The Ten Commandments and More, In Song</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250011</episode-num>
+  </programme>
+  <programme start="20261026130000" stop="20261026132702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026133000" stop="20261026135900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song - (HDL)</title>
+    <sub-title>Dealing With Anger And Hurt Feelings</sub-title>
+    <desc>Dealing With Anger And Hurt Feelings Mike Lemon (Host)</desc>
+    <episode-num system="onscreen">HDL000008</episode-num>
+  </programme>
+  <programme start="20261026140000" stop="20261026141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 58 - Encouragement</sub-title>
+    <desc>Join us for prayer and song on the topic of: encouragement.</desc>
+    <episode-num system="onscreen">PHPTP210058</episode-num>
+  </programme>
+  <programme start="20261026141500" stop="20261026142159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Dr. Diane Vanhorne</sub-title>
+    <desc>At 10 years old, Dr. Diane VanHorne knew she wanted to be a medical doctor.  In her interview, Dr. VanHorne shares her trials and victories in pursuing her life's dream. Her desire is to encourage young people to trust in the Lord and pursue their dreams no matter what the circumstances may be; because nothing is impossible with God.</desc>
+    <episode-num system="onscreen">TN230036</episode-num>
+  </programme>
+  <programme start="20261026143000" stop="20261026145830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'I Walked Today Where Jesus Walked' Steve Darmody 02. 'Wondrous Love' Emily Felts-Jones 03. 'We Believe' Pierre Van Der Westhuizen 04. 'In the Garden Medley' Tim Parton 05. 'Go Free' C. A. Murray 06. 'Carry Me Away' Melody Firestone</desc>
+    <episode-num system="onscreen">MFMH000328</episode-num>
+  </programme>
+  <programme start="20261026150000" stop="20261026152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261026153000" stop="20261026155815" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Sons of the Heavenly Father</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190003</episode-num>
+  </programme>
+  <programme start="20261026160000" stop="20261026165630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Lanny Wolfe Trio</sub-title>
+    <desc>The Lanny Wolfe Trio discussed their ministry. Have A Nice Day Fresh Touch Of Desire I Love You More Than Ever Before Jesus You Captured My Heart I Feel Good Jesus, Be The Lord Of All Where I Long To Be I Feel Heaven In This Place Surely The Presence Peace Of Jesus A Brand New Touch In God’s Hands</desc>
+    <episode-num system="onscreen">TDY190065</episode-num>
+  </programme>
+  <programme start="20261026170000" stop="20261026172715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261026173000" stop="20261026174430" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>City of God</sub-title>
+    <desc>Join us as we raise our voices in praise to the Lord!</desc>
+    <episode-num system="onscreen">KCSA230016</episode-num>
+  </programme>
+  <programme start="20261026174500" stop="20261026175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Madison Bishop, Sam Santiago, Giselle Watts, Mirielle Enriquez, Lysle Follette, Ellen Echevarria, Jahbarri Bradshaw</desc>
+    <episode-num system="onscreen">KPT190011</episode-num>
+  </programme>
+  <programme start="20261026180000" stop="20261026182702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026183000" stop="20261026185830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Duawne Starling (Host), Yvonne Lewis (Host), John Lomacang, Monique Gr iffiths</desc>
+    <episode-num system="onscreen">MGNH000009</episode-num>
+  </programme>
+  <programme start="20261026190000" stop="20261026192835" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 16</sub-title>
+    <episode-num system="onscreen">CMC200016</episode-num>
+  </programme>
+  <programme start="20261026193000" stop="20261026195900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>Growing Up Into Christ</sub-title>
+    <desc>Growing Up Into Christ</desc>
+    <episode-num system="onscreen">SCS000008</episode-num>
+  </programme>
+  <programme start="20261026200000" stop="20261026202830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Pedro Naranjo</sub-title>
+    <episode-num system="onscreen">TMH240004</episode-num>
+  </programme>
+  <programme start="20261026203000" stop="20261026204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 58 - Encouragement</sub-title>
+    <desc>Join us for prayer and song on the topic of: encouragement.</desc>
+    <episode-num system="onscreen">PHPTP210058</episode-num>
+  </programme>
+  <programme start="20261026204500" stop="20261026205159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Dr. Diane Vanhorne</sub-title>
+    <desc>At 10 years old, Dr. Diane VanHorne knew she wanted to be a medical doctor.  In her interview, Dr. VanHorne shares her trials and victories in pursuing her life's dream. Her desire is to encourage young people to trust in the Lord and pursue their dreams no matter what the circumstances may be; because nothing is impossible with God.</desc>
+    <episode-num system="onscreen">TN230036</episode-num>
+  </programme>
+  <programme start="20261026210000" stop="20261026215630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Lanny Wolfe Trio</sub-title>
+    <desc>The Lanny Wolfe Trio discussed their ministry. Have A Nice Day Fresh Touch Of Desire I Love You More Than Ever Before Jesus You Captured My Heart I Feel Good Jesus, Be The Lord Of All Where I Long To Be I Feel Heaven In This Place Surely The Presence Peace Of Jesus A Brand New Touch In God’s Hands</desc>
+    <episode-num system="onscreen">TDY190065</episode-num>
+  </programme>
+  <programme start="20261026220000" stop="20261026222830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261026223000" stop="20261026225702" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Victory In Jesus</sub-title>
+    <episode-num system="onscreen">YFBR000007</episode-num>
+  </programme>
+  <programme start="20261026230000" stop="20261026232835" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 16</sub-title>
+    <episode-num system="onscreen">CMC200016</episode-num>
+  </programme>
+  <programme start="20261026233000" stop="20261026235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>More Love To Thee</sub-title>
+    <desc>More Love To Thee Kelly Mowrer (Host) 01. Jill Morikone 'I am Thine O Lord' 02. Jennifer LaMountain 'Lord You have My Heart' 03. Diane Anders 'How Great Thou Art' 04. Hope's Call 'How Can I keep from Singing?' 05. Reggie Samuel 'The Love of God' 06. Omega Quartet 'Render at Your Feet' 07. Annette Campbell 'My Jesus I Love You' 08. Joo Young Oh &amp; Abby Coo 'I'd Rather Have Jesus'</desc>
+    <episode-num system="onscreen">P000017</episode-num>
+  </programme>
+  <programme start="20261027000000" stop="20261027005630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Lanny Wolfe Trio</sub-title>
+    <desc>The Lanny Wolfe Trio discussed their ministry. Have A Nice Day Fresh Touch Of Desire I Love You More Than Ever Before Jesus You Captured My Heart I Feel Good Jesus, Be The Lord Of All Where I Long To Be I Feel Heaven In This Place Surely The Presence Peace Of Jesus A Brand New Touch In God’s Hands</desc>
+    <episode-num system="onscreen">TDY190065</episode-num>
+  </programme>
+  <programme start="20261027010000" stop="20261027012631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027013000" stop="20261027015830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'No One Ever Cared for Me Like Jesus' Byron Rowe &amp; Elva Washington 02. 'Be Thou My Vision' Victor Moreno 03. 'Lord 04. 'God Leads Us Along' Mark Trammell 05. 'Just Once More' Yvonne Lewis 06. 'Gentle Shepherd' Jill Morikone 07. 'Lord I Want to be a Christian' Colleen Hauser Let Me Hold On to You' Danny Shelton</desc>
+    <episode-num system="onscreen">MFMH000329</episode-num>
+  </programme>
+  <programme start="20261027020000" stop="20261027022930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Work And The Life</sub-title>
+    <desc>The Work And The Life</desc>
+    <episode-num system="onscreen">SCS000009</episode-num>
+  </programme>
+  <programme start="20261027023000" stop="20261027025848" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>We Are Never, Ever, Alone!</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250012</episode-num>
+  </programme>
+  <programme start="20261027030000" stop="20261027032830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261027033000" stop="20261027035845" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Deon Muschette, Heather Willis</desc>
+    <episode-num system="onscreen">MGNH000010</episode-num>
+  </programme>
+  <programme start="20261027040000" stop="20261027042826" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 17</sub-title>
+    <episode-num system="onscreen">CMC200017</episode-num>
+  </programme>
+  <programme start="20261027043000" stop="20261027045631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027050000" stop="20261027052831" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Jennifer LaMountain'Chasing of the Wind' 02.Christian Berdahl'Embrace the Cross' 03.Emma McDonald'Be Still and Know' 04.Rudy Micelli'Great Is Thy Faithfulness' 05.Stephanie Dawn'My Peace' 06.Rudy Micelli'Trust His Heart'</desc>
+    <episode-num system="onscreen">P000018</episode-num>
+  </programme>
+  <programme start="20261027053000" stop="20261027055820" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190004</episode-num>
+  </programme>
+  <programme start="20261027060000" stop="20261027062715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261027063000" stop="20261027065830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'No One Ever Cared for Me Like Jesus' Byron Rowe &amp; Elva Washington 02. 'Be Thou My Vision' Victor Moreno 03. 'Lord 04. 'God Leads Us Along' Mark Trammell 05. 'Just Once More' Yvonne Lewis 06. 'Gentle Shepherd' Jill Morikone 07. 'Lord I Want to be a Christian' Colleen Hauser Let Me Hold On to You' Danny Shelton</desc>
+    <episode-num system="onscreen">MFMH000329</episode-num>
+  </programme>
+  <programme start="20261027070000" stop="20261027072930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Work And The Life</sub-title>
+    <desc>The Work And The Life</desc>
+    <episode-num system="onscreen">SCS000009</episode-num>
+  </programme>
+  <programme start="20261027073000" stop="20261027075631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027080000" stop="20261027081500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Daniel in the Lion’S Den</sub-title>
+    <desc>Get ready to sing for joy as we sing “I’m feelin’ Real Good,” “Lord I Lift Your Name on High,” and “Joy, Joy, Joy, Joy, Down in my Heart.”</desc>
+    <episode-num system="onscreen">KCSA190001</episode-num>
+  </programme>
+  <programme start="20261027081500" stop="20261027082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Mirielle Enriquez, Joseph Zuniga, The Spangler Family, Kerusso, Terell Phillips, Hannah Richardson, Foster Triplet, LMT Girls</desc>
+    <episode-num system="onscreen">KPT190012</episode-num>
+  </programme>
+  <programme start="20261027083000" stop="20261027084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 59 - Anxiety</sub-title>
+    <desc>Join us for prayer and song on the topic: anxiety.</desc>
+    <episode-num system="onscreen">PHPTP210059</episode-num>
+  </programme>
+  <programme start="20261027084500" stop="20261027085152" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Lawren Fogg, Part 2 of 2</sub-title>
+    <desc>Lawren shares her story about trusting in God to give guidance for her life's direction. Sometimes God may have different plans for us that we may not have thought of or even think we could do on our own.  Our part is to move forward in faith and trust in His leading along the way.  His promise to us is, "I will instruct thee and teach thee in the way which thou shalt go. I will guide thee with mine eye." Psalms 32:8</desc>
+    <episode-num system="onscreen">TN230037</episode-num>
+  </programme>
+  <programme start="20261027090000" stop="20261027095830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Shelton Family Music</sub-title>
+    <episode-num system="onscreen">TDY210050</episode-num>
+  </programme>
+  <programme start="20261027100000" stop="20261027102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261027103000" stop="20261027105830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261027110000" stop="20261027112826" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 17</sub-title>
+    <episode-num system="onscreen">CMC200017</episode-num>
+  </programme>
+  <programme start="20261027113000" stop="20261027115845" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Deon Muschette, Heather Willis</desc>
+    <episode-num system="onscreen">MGNH000010</episode-num>
+  </programme>
+  <programme start="20261027120000" stop="20261027122930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Work And The Life</sub-title>
+    <desc>The Work And The Life</desc>
+    <episode-num system="onscreen">SCS000009</episode-num>
+  </programme>
+  <programme start="20261027123000" stop="20261027125848" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>We Are Never, Ever, Alone!</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250012</episode-num>
+  </programme>
+  <programme start="20261027130000" stop="20261027132631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027133000" stop="20261027135830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261027140000" stop="20261027141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 59 - Anxiety</sub-title>
+    <desc>Join us for prayer and song on the topic: anxiety.</desc>
+    <episode-num system="onscreen">PHPTP210059</episode-num>
+  </programme>
+  <programme start="20261027141500" stop="20261027142152" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Lawren Fogg, Part 2 of 2</sub-title>
+    <desc>Lawren shares her story about trusting in God to give guidance for her life's direction. Sometimes God may have different plans for us that we may not have thought of or even think we could do on our own.  Our part is to move forward in faith and trust in His leading along the way.  His promise to us is, "I will instruct thee and teach thee in the way which thou shalt go. I will guide thee with mine eye." Psalms 32:8</desc>
+    <episode-num system="onscreen">TN230037</episode-num>
+  </programme>
+  <programme start="20261027143000" stop="20261027145830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'No One Ever Cared for Me Like Jesus' Byron Rowe &amp; Elva Washington 02. 'Be Thou My Vision' Victor Moreno 03. 'Lord 04. 'God Leads Us Along' Mark Trammell 05. 'Just Once More' Yvonne Lewis 06. 'Gentle Shepherd' Jill Morikone 07. 'Lord I Want to be a Christian' Colleen Hauser Let Me Hold On to You' Danny Shelton</desc>
+    <episode-num system="onscreen">MFMH000329</episode-num>
+  </programme>
+  <programme start="20261027150000" stop="20261027152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261027153000" stop="20261027155820" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190004</episode-num>
+  </programme>
+  <programme start="20261027160000" stop="20261027165830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Shelton Family Music</sub-title>
+    <episode-num system="onscreen">TDY210050</episode-num>
+  </programme>
+  <programme start="20261027170000" stop="20261027172830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261027173000" stop="20261027174500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Daniel in the Lion’S Den</sub-title>
+    <desc>Get ready to sing for joy as we sing “I’m feelin’ Real Good,” “Lord I Lift Your Name on High,” and “Joy, Joy, Joy, Joy, Down in my Heart.”</desc>
+    <episode-num system="onscreen">KCSA190001</episode-num>
+  </programme>
+  <programme start="20261027174500" stop="20261027175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Mirielle Enriquez, Joseph Zuniga, The Spangler Family, Kerusso, Terell Phillips, Hannah Richardson, Foster Triplet, LMT Girls</desc>
+    <episode-num system="onscreen">KPT190012</episode-num>
+  </programme>
+  <programme start="20261027180000" stop="20261027182631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027183000" stop="20261027185845" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Deon Muschette, Heather Willis</desc>
+    <episode-num system="onscreen">MGNH000010</episode-num>
+  </programme>
+  <programme start="20261027190000" stop="20261027192826" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 17</sub-title>
+    <episode-num system="onscreen">CMC200017</episode-num>
+  </programme>
+  <programme start="20261027193000" stop="20261027195930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Work And The Life</sub-title>
+    <desc>The Work And The Life</desc>
+    <episode-num system="onscreen">SCS000009</episode-num>
+  </programme>
+  <programme start="20261027200000" stop="20261027202900" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Vanessa Aldana</sub-title>
+    <episode-num system="onscreen">TMH240005</episode-num>
+  </programme>
+  <programme start="20261027203000" stop="20261027204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 59 - Anxiety</sub-title>
+    <desc>Join us for prayer and song on the topic: anxiety.</desc>
+    <episode-num system="onscreen">PHPTP210059</episode-num>
+  </programme>
+  <programme start="20261027204500" stop="20261027205152" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Lawren Fogg, Part 2 of 2</sub-title>
+    <desc>Lawren shares her story about trusting in God to give guidance for her life's direction. Sometimes God may have different plans for us that we may not have thought of or even think we could do on our own.  Our part is to move forward in faith and trust in His leading along the way.  His promise to us is, "I will instruct thee and teach thee in the way which thou shalt go. I will guide thee with mine eye." Psalms 32:8</desc>
+    <episode-num system="onscreen">TN230037</episode-num>
+  </programme>
+  <programme start="20261027210000" stop="20261027215830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Shelton Family Music</sub-title>
+    <episode-num system="onscreen">TDY210050</episode-num>
+  </programme>
+  <programme start="20261027220000" stop="20261027222631" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>Heaven Came Down and Glory Filled My Soul</sub-title>
+    <episode-num system="onscreen">YFBR000008</episode-num>
+  </programme>
+  <programme start="20261027223000" stop="20261027225830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261027230000" stop="20261027232826" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 17</sub-title>
+    <episode-num system="onscreen">CMC200017</episode-num>
+  </programme>
+  <programme start="20261027233000" stop="20261027235831" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Jennifer LaMountain'Chasing of the Wind' 02.Christian Berdahl'Embrace the Cross' 03.Emma McDonald'Be Still and Know' 04.Rudy Micelli'Great Is Thy Faithfulness' 05.Stephanie Dawn'My Peace' 06.Rudy Micelli'Trust His Heart'</desc>
+    <episode-num system="onscreen">P000018</episode-num>
+  </programme>
+  <programme start="20261028000000" stop="20261028005830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Shelton Family Music</sub-title>
+    <episode-num system="onscreen">TDY210050</episode-num>
+  </programme>
+  <programme start="20261028010000" stop="20261028012730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028013000" stop="20261028015830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'My Hiding Place' Melody Firestone 02. 'Always' Neville Peter 03. 'In the Heart of Jesus' Dave &amp; Marlene Colburn 04. 'Home Where I Belong' John Watkins 05. 'With All My Heart' Nickole Semakula 06. 'Grace Will be There' The Clarks 07. 'Lamb of Glory' Pierre Van Der Westhuizen</desc>
+    <episode-num system="onscreen">MFMH000330</episode-num>
+  </programme>
+  <programme start="20261028020000" stop="20261028022930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>A Knowledge Of God</sub-title>
+    <desc>A Knowledge Of God</desc>
+    <episode-num system="onscreen">SCS000010</episode-num>
+  </programme>
+  <programme start="20261028023000" stop="20261028025836" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>Step of Faith</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250013</episode-num>
+  </programme>
+  <programme start="20261028030000" stop="20261028032715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261028033000" stop="20261028035900" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Heather Willis, Justin Davis</desc>
+    <episode-num system="onscreen">MGNH000011</episode-num>
+  </programme>
+  <programme start="20261028040000" stop="20261028042922" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 18</sub-title>
+    <episode-num system="onscreen">CMC200018</episode-num>
+  </programme>
+  <programme start="20261028043000" stop="20261028045730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028050000" stop="20261028052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Steve Darmody'How Wonderful Heaven Will Be' 02.Stephanie Dawn'He Who Trusts' 03.Christian Berdahl'New Jerusalem' 04.Sandra Entermann'Remember Me' 05.Rudy Micelli'Fall From All Care'/'Under His Wings' 06.Ron Woolsey'Mas Alla Del Sol'</desc>
+    <episode-num system="onscreen">P000019</episode-num>
+  </programme>
+  <programme start="20261028053000" stop="20261028055830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Tribute</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!e</desc>
+    <episode-num system="onscreen">PHPP190005</episode-num>
+  </programme>
+  <programme start="20261028060000" stop="20261028062830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261028063000" stop="20261028065830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'My Hiding Place' Melody Firestone 02. 'Always' Neville Peter 03. 'In the Heart of Jesus' Dave &amp; Marlene Colburn 04. 'Home Where I Belong' John Watkins 05. 'With All My Heart' Nickole Semakula 06. 'Grace Will be There' The Clarks 07. 'Lamb of Glory' Pierre Van Der Westhuizen</desc>
+    <episode-num system="onscreen">MFMH000330</episode-num>
+  </programme>
+  <programme start="20261028070000" stop="20261028072930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>A Knowledge Of God</sub-title>
+    <desc>A Knowledge Of God</desc>
+    <episode-num system="onscreen">SCS000010</episode-num>
+  </programme>
+  <programme start="20261028073000" stop="20261028075730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028080000" stop="20261028081500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Spending Time with God</sub-title>
+    <desc>God loves to hear us sing. Come join us as we lift our voices to Him!</desc>
+    <episode-num system="onscreen">KCSA190002</episode-num>
+  </programme>
+  <programme start="20261028081500" stop="20261028082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features The Mourad Sisters, Andrews University Pre-College Division, InstruVoice Duo, Chekiyah Martin, The Spangler Family, Lysle Follette, Jedel Butoy, Mirielle Enriquez</desc>
+    <episode-num system="onscreen">KPT190013</episode-num>
+  </programme>
+  <programme start="20261028083000" stop="20261028084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 60 - Trusting God and Others</sub-title>
+    <desc>Join us for prayer and song on the topic of: trusting God and others.</desc>
+    <episode-num system="onscreen">PHPTP210060</episode-num>
+  </programme>
+  <programme start="20261028084500" stop="20261028085038" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Ret. Pr. Dale Ziegele</sub-title>
+    <desc>Pastor Dale Ziegele shares his insights and priorities of life gained over the years. Despite current circumstances, Pr. Dale has great hope for a better future and encourages others to hold onto God, for He is faithful.</desc>
+    <episode-num system="onscreen">TN230038</episode-num>
+  </programme>
+  <programme start="20261028090000" stop="20261028095830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Making Music with Danny and Friends</sub-title>
+    <desc>Danny Shelton, Billy Blackwood, and Tim Parton sing and share about God's blessings. Billy Blackwood speaks of his legacy in gospel music and of God's goodness throughout the years. Join us for this special program.</desc>
+    <episode-num system="onscreen">TDY220025</episode-num>
+  </programme>
+  <programme start="20261028100000" stop="20261028102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261028103000" stop="20261028105730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028110000" stop="20261028112922" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 18</sub-title>
+    <episode-num system="onscreen">CMC200018</episode-num>
+  </programme>
+  <programme start="20261028113000" stop="20261028115900" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Heather Willis, Justin Davis</desc>
+    <episode-num system="onscreen">MGNH000011</episode-num>
+  </programme>
+  <programme start="20261028120000" stop="20261028122930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>A Knowledge Of God</sub-title>
+    <desc>A Knowledge Of God</desc>
+    <episode-num system="onscreen">SCS000010</episode-num>
+  </programme>
+  <programme start="20261028123000" stop="20261028125836" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>Step of Faith</sub-title>
+    <desc>Join this youth-led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250013</episode-num>
+  </programme>
+  <programme start="20261028130000" stop="20261028132730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028133000" stop="20261028135930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Work And The Life</sub-title>
+    <desc>The Work And The Life</desc>
+    <episode-num system="onscreen">SCS000009</episode-num>
+  </programme>
+  <programme start="20261028140000" stop="20261028141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 60 - Trusting God and Others</sub-title>
+    <desc>Join us for prayer and song on the topic of: trusting God and others.</desc>
+    <episode-num system="onscreen">PHPTP210060</episode-num>
+  </programme>
+  <programme start="20261028141500" stop="20261028142038" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Ret. Pr. Dale Ziegele</sub-title>
+    <desc>Pastor Dale Ziegele shares his insights and priorities of life gained over the years. Despite current circumstances, Pr. Dale has great hope for a better future and encourages others to hold onto God, for He is faithful.</desc>
+    <episode-num system="onscreen">TN230038</episode-num>
+  </programme>
+  <programme start="20261028143000" stop="20261028145830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'My Hiding Place' Melody Firestone 02. 'Always' Neville Peter 03. 'In the Heart of Jesus' Dave &amp; Marlene Colburn 04. 'Home Where I Belong' John Watkins 05. 'With All My Heart' Nickole Semakula 06. 'Grace Will be There' The Clarks 07. 'Lamb of Glory' Pierre Van Der Westhuizen</desc>
+    <episode-num system="onscreen">MFMH000330</episode-num>
+  </programme>
+  <programme start="20261028150000" stop="20261028152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261028153000" stop="20261028155830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Tribute</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!e</desc>
+    <episode-num system="onscreen">PHPP190005</episode-num>
+  </programme>
+  <programme start="20261028160000" stop="20261028165830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Making Music with Danny and Friends</sub-title>
+    <desc>Danny Shelton, Billy Blackwood, and Tim Parton sing and share about God's blessings. Billy Blackwood speaks of his legacy in gospel music and of God's goodness throughout the years. Join us for this special program.</desc>
+    <episode-num system="onscreen">TDY220025</episode-num>
+  </programme>
+  <programme start="20261028170000" stop="20261028172715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261028173000" stop="20261028174500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Spending Time with God</sub-title>
+    <desc>God loves to hear us sing. Come join us as we lift our voices to Him!</desc>
+    <episode-num system="onscreen">KCSA190002</episode-num>
+  </programme>
+  <programme start="20261028174500" stop="20261028175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features The Mourad Sisters, Andrews University Pre-College Division, InstruVoice Duo, Chekiyah Martin, The Spangler Family, Lysle Follette, Jedel Butoy, Mirielle Enriquez</desc>
+    <episode-num system="onscreen">KPT190013</episode-num>
+  </programme>
+  <programme start="20261028180000" stop="20261028182730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028183000" stop="20261028185900" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Heather Willis, Justin Davis</desc>
+    <episode-num system="onscreen">MGNH000011</episode-num>
+  </programme>
+  <programme start="20261028190000" stop="20261028192922" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 18</sub-title>
+    <episode-num system="onscreen">CMC200018</episode-num>
+  </programme>
+  <programme start="20261028193000" stop="20261028195930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>A Knowledge Of God</sub-title>
+    <desc>A Knowledge Of God</desc>
+    <episode-num system="onscreen">SCS000010</episode-num>
+  </programme>
+  <programme start="20261028200000" stop="20261028202745" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Reggie and Ladye Love Smith</sub-title>
+    <episode-num system="onscreen">TMH240006</episode-num>
+  </programme>
+  <programme start="20261028203000" stop="20261028204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 60 - Trusting God and Others</sub-title>
+    <desc>Join us for prayer and song on the topic of: trusting God and others.</desc>
+    <episode-num system="onscreen">PHPTP210060</episode-num>
+  </programme>
+  <programme start="20261028204500" stop="20261028205038" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Ret. Pr. Dale Ziegele</sub-title>
+    <desc>Pastor Dale Ziegele shares his insights and priorities of life gained over the years. Despite current circumstances, Pr. Dale has great hope for a better future and encourages others to hold onto God, for He is faithful.</desc>
+    <episode-num system="onscreen">TN230038</episode-num>
+  </programme>
+  <programme start="20261028210000" stop="20261028215830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Making Music with Danny and Friends</sub-title>
+    <desc>Danny Shelton, Billy Blackwood, and Tim Parton sing and share about God's blessings. Billy Blackwood speaks of his legacy in gospel music and of God's goodness throughout the years. Join us for this special program.</desc>
+    <episode-num system="onscreen">TDY220025</episode-num>
+  </programme>
+  <programme start="20261028220000" stop="20261028222830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261028223000" stop="20261028225730" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>At That Old Country Church</sub-title>
+    <episode-num system="onscreen">YFBR170009</episode-num>
+  </programme>
+  <programme start="20261028230000" stop="20261028232922" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 18</sub-title>
+    <episode-num system="onscreen">CMC200018</episode-num>
+  </programme>
+  <programme start="20261028233000" stop="20261028235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Steve Darmody'How Wonderful Heaven Will Be' 02.Stephanie Dawn'He Who Trusts' 03.Christian Berdahl'New Jerusalem' 04.Sandra Entermann'Remember Me' 05.Rudy Micelli'Fall From All Care'/'Under His Wings' 06.Ron Woolsey'Mas Alla Del Sol'</desc>
+    <episode-num system="onscreen">P000019</episode-num>
+  </programme>
+  <programme start="20261029000000" stop="20261029005830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Making Music with Danny and Friends</sub-title>
+    <desc>Danny Shelton, Billy Blackwood, and Tim Parton sing and share about God's blessings. Billy Blackwood speaks of his legacy in gospel music and of God's goodness throughout the years. Join us for this special program.</desc>
+    <episode-num system="onscreen">TDY220025</episode-num>
+  </programme>
+  <programme start="20261029010000" stop="20261029012745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029013000" stop="20261029015830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'His Strength is Perfect' Valerie Walker 02. 'Crying in the Chapel' Darrell Marshall 03. 'When I Survey the Wondrous Cross' The King's Heralds 04. 'Alabaster Box' Deidre Robinson 05. 'Jesus Loves Me' Matt Throgmorton 06. 'Fairest Lord Jesus Medley' Kateena LeForge 07. 'This Song of Worship' Norwill Simmonds</desc>
+    <episode-num system="onscreen">MFMH000331</episode-num>
+  </programme>
+  <programme start="20261029020000" stop="20261029022930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Privilege Of Prayer</sub-title>
+    <desc>The Privilege Of Prayer</desc>
+    <episode-num system="onscreen">SCS000011</episode-num>
+  </programme>
+  <programme start="20261029023000" stop="20261029025842" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>Just Looking at Bread Won’T Feed You!</sub-title>
+    <desc>Join this youth led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250014</episode-num>
+  </programme>
+  <programme start="20261029030000" stop="20261029032830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261029033000" stop="20261029035830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Keisha Dukes &amp; Kwan Dukes Reese , Marquita Richarson</desc>
+    <episode-num system="onscreen">MGNH000012</episode-num>
+  </programme>
+  <programme start="20261029040000" stop="20261029042924" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 01</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200001</episode-num>
+  </programme>
+  <programme start="20261029043000" stop="20261029045745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029050000" stop="20261029052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Emma McDonald'Wonderful 02.Angela Bryant-Brown'Amazing Grace Medley' 03.Clint McKay'Jesus Paid It All' 04.Lyndon Carriger'Amazing Grace' 05.Sandra Entermann'Were It Not For Grace' 06.Ron Woolsey'Cleanse Me/I Will Serve Thee' Merciful Savior'</desc>
+    <episode-num system="onscreen">P000020</episode-num>
+  </programme>
+  <programme start="20261029053000" stop="20261029055811" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Be Thou My Vision</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190006</episode-num>
+  </programme>
+  <programme start="20261029060000" stop="20261029062715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261029063000" stop="20261029065830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'His Strength is Perfect' Valerie Walker 02. 'Crying in the Chapel' Darrell Marshall 03. 'When I Survey the Wondrous Cross' The King's Heralds 04. 'Alabaster Box' Deidre Robinson 05. 'Jesus Loves Me' Matt Throgmorton 06. 'Fairest Lord Jesus Medley' Kateena LeForge 07. 'This Song of Worship' Norwill Simmonds</desc>
+    <episode-num system="onscreen">MFMH000331</episode-num>
+  </programme>
+  <programme start="20261029070000" stop="20261029072930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Privilege Of Prayer</sub-title>
+    <desc>The Privilege Of Prayer</desc>
+    <episode-num system="onscreen">SCS000011</episode-num>
+  </programme>
+  <programme start="20261029073000" stop="20261029075745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029080000" stop="20261029081500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>God Never Leaves Us</sub-title>
+    <desc>Singing can bring joy and build your trust in God. Are you ready to get happy? Join us around the campfire.</desc>
+    <episode-num system="onscreen">KCSA190003</episode-num>
+  </programme>
+  <programme start="20261029081500" stop="20261029082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Jaydelle Baird, Fire and Steel, Brittany Howard, Jaimes Milson, Devon and Darla Milholm, Mirielle Enriquez, Andrews University Pre-College Division</desc>
+    <episode-num system="onscreen">KPT190001</episode-num>
+  </programme>
+  <programme start="20261029083000" stop="20261029084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 61 - Missionaries</sub-title>
+    <desc>Join us for prayer and song on the topic: missionaries.</desc>
+    <episode-num system="onscreen">PHPTP210061</episode-num>
+  </programme>
+  <programme start="20261029084500" stop="20261029085159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Pastor Caleb White</sub-title>
+    <desc>Pastor Caleb White shares his journey of trusting in God especially for life's important decisions. God truly wants to direct us throughout our life and lead us on the best paths. " Commit to the Lord whatever you do, and He will establish your plans." Proverbs 16:3</desc>
+    <episode-num system="onscreen">TN230039</episode-num>
+  </programme>
+  <programme start="20261029090000" stop="20261029095630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Humble Yourself and See What God Will Do</sub-title>
+    <desc>Mere alignment with Biblical and intellectual truths isn't the whole picture. Without humility, our Christian outreach runs the risk of failure. Our pride can undermine our effectiveness in conveying our message to others. Join host Jill Morikone and singer Stephanie Dawn as she shares how her concert ministry turns hearts to Jesus.</desc>
+    <episode-num system="onscreen">TDY240026</episode-num>
+  </programme>
+  <programme start="20261029100000" stop="20261029102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261029103000" stop="20261029105830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261029110000" stop="20261029112924" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 01</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200001</episode-num>
+  </programme>
+  <programme start="20261029113000" stop="20261029115830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Keisha Dukes &amp; Kwan Dukes Reese , Marquita Richarson</desc>
+    <episode-num system="onscreen">MGNH000012</episode-num>
+  </programme>
+  <programme start="20261029120000" stop="20261029122930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Privilege Of Prayer</sub-title>
+    <desc>The Privilege Of Prayer</desc>
+    <episode-num system="onscreen">SCS000011</episode-num>
+  </programme>
+  <programme start="20261029123000" stop="20261029125842" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>Just Looking at Bread Won’T Feed You!</sub-title>
+    <desc>Join this youth led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250014</episode-num>
+  </programme>
+  <programme start="20261029130000" stop="20261029132745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029133000" stop="20261029135830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261029140000" stop="20261029141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 61 - Missionaries</sub-title>
+    <desc>Join us for prayer and song on the topic: missionaries.</desc>
+    <episode-num system="onscreen">PHPTP210061</episode-num>
+  </programme>
+  <programme start="20261029141500" stop="20261029142159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Pastor Caleb White</sub-title>
+    <desc>Pastor Caleb White shares his journey of trusting in God especially for life's important decisions. God truly wants to direct us throughout our life and lead us on the best paths. " Commit to the Lord whatever you do, and He will establish your plans." Proverbs 16:3</desc>
+    <episode-num system="onscreen">TN230039</episode-num>
+  </programme>
+  <programme start="20261029143000" stop="20261029145830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'His Strength is Perfect' Valerie Walker 02. 'Crying in the Chapel' Darrell Marshall 03. 'When I Survey the Wondrous Cross' The King's Heralds 04. 'Alabaster Box' Deidre Robinson 05. 'Jesus Loves Me' Matt Throgmorton 06. 'Fairest Lord Jesus Medley' Kateena LeForge 07. 'This Song of Worship' Norwill Simmonds</desc>
+    <episode-num system="onscreen">MFMH000331</episode-num>
+  </programme>
+  <programme start="20261029150000" stop="20261029152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261029153000" stop="20261029155811" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Be Thou My Vision</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190006</episode-num>
+  </programme>
+  <programme start="20261029160000" stop="20261029165630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Humble Yourself and See What God Will Do</sub-title>
+    <desc>Mere alignment with Biblical and intellectual truths isn't the whole picture. Without humility, our Christian outreach runs the risk of failure. Our pride can undermine our effectiveness in conveying our message to others. Join host Jill Morikone and singer Stephanie Dawn as she shares how her concert ministry turns hearts to Jesus.</desc>
+    <episode-num system="onscreen">TDY240026</episode-num>
+  </programme>
+  <programme start="20261029170000" stop="20261029172830" channel="3ABN-PraiseHimMusic.us">
+    <title>LoudVoice</title>
+    <sub-title>Episode #5</sub-title>
+    <episode-num system="onscreen">LV240007</episode-num>
+  </programme>
+  <programme start="20261029173000" stop="20261029174500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>God Never Leaves Us</sub-title>
+    <desc>Singing can bring joy and build your trust in God. Are you ready to get happy? Join us around the campfire.</desc>
+    <episode-num system="onscreen">KCSA190003</episode-num>
+  </programme>
+  <programme start="20261029174500" stop="20261029175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features Jaydelle Baird, Fire and Steel, Brittany Howard, Jaimes Milson, Devon and Darla Milholm, Mirielle Enriquez, Andrews University Pre-College Division</desc>
+    <episode-num system="onscreen">KPT190001</episode-num>
+  </programme>
+  <programme start="20261029180000" stop="20261029182745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029183000" stop="20261029185830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music Yvonne Lewis &amp; Duawne Starling (Host), Keisha Dukes &amp; Kwan Dukes Reese , Marquita Richarson</desc>
+    <episode-num system="onscreen">MGNH000012</episode-num>
+  </programme>
+  <programme start="20261029190000" stop="20261029192924" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 01</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200001</episode-num>
+  </programme>
+  <programme start="20261029193000" stop="20261029195930" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>The Privilege Of Prayer</sub-title>
+    <desc>The Privilege Of Prayer</desc>
+    <episode-num system="onscreen">SCS000011</episode-num>
+  </programme>
+  <programme start="20261029200000" stop="20261029202830" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Moses Brown</sub-title>
+    <desc>In this episode, we highlight the musical gifts of Moses Brown</desc>
+    <episode-num system="onscreen">TMH240007</episode-num>
+  </programme>
+  <programme start="20261029203000" stop="20261029204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 61 - Missionaries</sub-title>
+    <desc>Join us for prayer and song on the topic: missionaries.</desc>
+    <episode-num system="onscreen">PHPTP210061</episode-num>
+  </programme>
+  <programme start="20261029204500" stop="20261029205159" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Pastor Caleb White</sub-title>
+    <desc>Pastor Caleb White shares his journey of trusting in God especially for life's important decisions. God truly wants to direct us throughout our life and lead us on the best paths. " Commit to the Lord whatever you do, and He will establish your plans." Proverbs 16:3</desc>
+    <episode-num system="onscreen">TN230039</episode-num>
+  </programme>
+  <programme start="20261029210000" stop="20261029215630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Humble Yourself and See What God Will Do</sub-title>
+    <desc>Mere alignment with Biblical and intellectual truths isn't the whole picture. Without humility, our Christian outreach runs the risk of failure. Our pride can undermine our effectiveness in conveying our message to others. Join host Jill Morikone and singer Stephanie Dawn as she shares how her concert ministry turns hearts to Jesus.</desc>
+    <episode-num system="onscreen">TDY240026</episode-num>
+  </programme>
+  <programme start="20261029220000" stop="20261029222745" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>To God Be The Glory</sub-title>
+    <episode-num system="onscreen">YFBR170010</episode-num>
+  </programme>
+  <programme start="20261029223000" stop="20261029225830" channel="3ABN-PraiseHimMusic.us">
+    <title>Billy Blackwood and Friends</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Billy Blackwood invites viewers to take a look into the lives of some of his friends as they open up and share how Jesus is using them in their music careers.  You’ll hear incredible stories, talent, and passion for God’s love in each episode.</desc>
+    <episode-num system="onscreen">BBF170002</episode-num>
+  </programme>
+  <programme start="20261029230000" stop="20261029232924" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 01</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200001</episode-num>
+  </programme>
+  <programme start="20261029233000" stop="20261029235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Emma McDonald'Wonderful 02.Angela Bryant-Brown'Amazing Grace Medley' 03.Clint McKay'Jesus Paid It All' 04.Lyndon Carriger'Amazing Grace' 05.Sandra Entermann'Were It Not For Grace' 06.Ron Woolsey'Cleanse Me/I Will Serve Thee' Merciful Savior'</desc>
+    <episode-num system="onscreen">P000020</episode-num>
+  </programme>
+  <programme start="20261030000000" stop="20261030005630" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Humble Yourself and See What God Will Do</sub-title>
+    <desc>Mere alignment with Biblical and intellectual truths isn't the whole picture. Without humility, our Christian outreach runs the risk of failure. Our pride can undermine our effectiveness in conveying our message to others. Join host Jill Morikone and singer Stephanie Dawn as she shares how her concert ministry turns hearts to Jesus.</desc>
+    <episode-num system="onscreen">TDY240026</episode-num>
+  </programme>
+  <programme start="20261030010000" stop="20261030012830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030013000" stop="20261030015830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'The Hammer Holds' Annette Campbell 02. 'Sometimes I Feel Like a Motherless Child' Alexej Muran 03. 'You were There' Yvonne Lewis 04. 'Be Still and Know' Burchfield Brothers 05. 'Carry You' Neville Peter 06. 'He Knows My Name' Melody Firestone 07. The Lord's Prayer' Steve Darmody</desc>
+    <episode-num system="onscreen">MFMH000332</episode-num>
+  </programme>
+  <programme start="20261030020000" stop="20261030022900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>What To Do With Doubt</sub-title>
+    <desc>What To Do With Doubt</desc>
+    <episode-num system="onscreen">SCS000012</episode-num>
+  </programme>
+  <programme start="20261030023000" stop="20261030025845" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>How Is Liberty Different Than Freedom?</sub-title>
+    <desc>Join this youth led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250015</episode-num>
+  </programme>
+  <programme start="20261030030000" stop="20261030032715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261030033000" stop="20261030035830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music</desc>
+    <episode-num system="onscreen">MGNH000013</episode-num>
+  </programme>
+  <programme start="20261030040000" stop="20261030042817" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 02</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200002</episode-num>
+  </programme>
+  <programme start="20261030043000" stop="20261030045830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030050000" stop="20261030052830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise</title>
+    <sub-title>Music</sub-title>
+    <desc>Music Kelly Mowrer (Host) 01.Rudy Micelli'Scars' 02.Derrick Hall'The Old Rugged Cross' 03.Tammy Chance'He Forgives and Forgets' 04.Denise Barclay'Shepherd of My Heart' 05.Steve Darmody'Ivory Palaces' 06.Reggie Samuel'The Love of God'</desc>
+    <episode-num system="onscreen">P000021</episode-num>
+  </programme>
+  <programme start="20261030053000" stop="20261030055830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Open The Eyes of My Heart</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190007</episode-num>
+  </programme>
+  <programme start="20261030060000" stop="20261030062830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261030063000" stop="20261030065830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'The Hammer Holds' Annette Campbell 02. 'Sometimes I Feel Like a Motherless Child' Alexej Muran 03. 'You were There' Yvonne Lewis 04. 'Be Still and Know' Burchfield Brothers 05. 'Carry You' Neville Peter 06. 'He Knows My Name' Melody Firestone 07. The Lord's Prayer' Steve Darmody</desc>
+    <episode-num system="onscreen">MFMH000332</episode-num>
+  </programme>
+  <programme start="20261030070000" stop="20261030072900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>What To Do With Doubt</sub-title>
+    <desc>What To Do With Doubt</desc>
+    <episode-num system="onscreen">SCS000012</episode-num>
+  </programme>
+  <programme start="20261030073000" stop="20261030075830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030080000" stop="20261030081500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Become Great with God</sub-title>
+    <desc>Come on! Let’s sing the adventures of little people doing great things for God.</desc>
+    <episode-num system="onscreen">KCSA190004</episode-num>
+  </programme>
+  <programme start="20261030081500" stop="20261030082915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features James Naibaho, Avery Dixon, The Philpott Trio, Devon and Darla Milholm, Avery Dixon, Mirielle Enriquez, The Knowlton Brothers, Angeli Ramella</desc>
+    <episode-num system="onscreen">KPT190002</episode-num>
+  </programme>
+  <programme start="20261030083000" stop="20261030084430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 63 - Serving</sub-title>
+    <desc>Join us for prayer and song on the topic: serving.</desc>
+    <episode-num system="onscreen">PHPTP210063</episode-num>
+  </programme>
+  <programme start="20261030084500" stop="20261030085142" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Rafael and Marina Ortiz</sub-title>
+    <desc>Beyond coincidence.  Two mission-minded people seemingly on different paths. But God, by His providence, merged those two separate paths into one. Trust in the Lord, stay on His path and He will bring you the desires of your heart.</desc>
+    <episode-num system="onscreen">TN230040</episode-num>
+  </programme>
+  <programme start="20261030090000" stop="20261030095528" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Music with Tim Parton</sub-title>
+    <episode-num system="onscreen">TDY240105</episode-num>
+  </programme>
+  <programme start="20261030100000" stop="20261030102830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261030103000" stop="20261030105830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030110000" stop="20261030112817" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 02</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200002</episode-num>
+  </programme>
+  <programme start="20261030113000" stop="20261030115830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music</desc>
+    <episode-num system="onscreen">MGNH000013</episode-num>
+  </programme>
+  <programme start="20261030120000" stop="20261030122900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>What To Do With Doubt</sub-title>
+    <desc>What To Do With Doubt</desc>
+    <episode-num system="onscreen">SCS000012</episode-num>
+  </programme>
+  <programme start="20261030123000" stop="20261030125845" channel="3ABN-PraiseHimMusic.us">
+    <title>Scripture Sing-A-Long</title>
+    <sub-title>How Is Liberty Different Than Freedom?</sub-title>
+    <desc>Join this youth led Sing-a-Long with a look at God’s Word full of joy, hope, and a solution for every challenge in life!</desc>
+    <episode-num system="onscreen">SAL250015</episode-num>
+  </programme>
+  <programme start="20261030130000" stop="20261030132830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030133000" stop="20261030135915" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song - (HDL)</title>
+    <sub-title>Words And Relationships</sub-title>
+    <desc>Words And Relationships Mike Lemon (Host)</desc>
+    <episode-num system="onscreen">HDL000009</episode-num>
+  </programme>
+  <programme start="20261030140000" stop="20261030141430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 63 - Serving</sub-title>
+    <desc>Join us for prayer and song on the topic: serving.</desc>
+    <episode-num system="onscreen">PHPTP210063</episode-num>
+  </programme>
+  <programme start="20261030141500" stop="20261030142142" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Rafael and Marina Ortiz</sub-title>
+    <desc>Beyond coincidence.  Two mission-minded people seemingly on different paths. But God, by His providence, merged those two separate paths into one. Trust in the Lord, stay on His path and He will bring you the desires of your heart.</desc>
+    <episode-num system="onscreen">TN230040</episode-num>
+  </programme>
+  <programme start="20261030143000" stop="20261030145830" channel="3ABN-PraiseHimMusic.us">
+    <title>Melody from My Heart</title>
+    <desc>01. 'The Hammer Holds' Annette Campbell 02. 'Sometimes I Feel Like a Motherless Child' Alexej Muran 03. 'You were There' Yvonne Lewis 04. 'Be Still and Know' Burchfield Brothers 05. 'Carry You' Neville Peter 06. 'He Knows My Name' Melody Firestone 07. The Lord's Prayer' Steve Darmody</desc>
+    <episode-num system="onscreen">MFMH000332</episode-num>
+  </programme>
+  <programme start="20261030150000" stop="20261030152830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261030153000" stop="20261030155830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Open The Eyes of My Heart</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190007</episode-num>
+  </programme>
+  <programme start="20261030160000" stop="20261030165528" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Music with Tim Parton</sub-title>
+    <episode-num system="onscreen">TDY240105</episode-num>
+  </programme>
+  <programme start="20261030170000" stop="20261030172715" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Matt &amp; Josie Minikus</sub-title>
+    <episode-num system="onscreen">TMH250012</episode-num>
+  </programme>
+  <programme start="20261030173000" stop="20261030174500" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Kids Camp Sing Along</title>
+    <sub-title>Become Great with God</sub-title>
+    <desc>Come on! Let’s sing the adventures of little people doing great things for God.</desc>
+    <episode-num system="onscreen">KCSA190004</episode-num>
+  </programme>
+  <programme start="20261030174500" stop="20261030175915" channel="3ABN-PraiseHimMusic.us">
+    <title>Kids Praise Too!</title>
+    <sub-title>Kids Praise Too</sub-title>
+    <desc>Join the 3ABN kids in singing and praising the Lord together. This episode features James Naibaho, Avery Dixon, The Philpott Trio, Devon and Darla Milholm, Avery Dixon, Mirielle Enriquez, The Knowlton Brothers, Angeli Ramella</desc>
+    <episode-num system="onscreen">KPT190002</episode-num>
+  </programme>
+  <programme start="20261030180000" stop="20261030182830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030183000" stop="20261030185830" channel="3ABN-PraiseHimMusic.us">
+    <title>Magnify Him</title>
+    <sub-title>Ministry of Music</sub-title>
+    <desc>Ministry of Music</desc>
+    <episode-num system="onscreen">MGNH000013</episode-num>
+  </programme>
+  <programme start="20261030190000" stop="20261030192817" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 02</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200002</episode-num>
+  </programme>
+  <programme start="20261030193000" stop="20261030195900" channel="3ABN-PraiseHimMusic.us">
+    <title>Steps to Christ in Song</title>
+    <sub-title>What To Do With Doubt</sub-title>
+    <desc>What To Do With Doubt</desc>
+    <episode-num system="onscreen">SCS000012</episode-num>
+  </programme>
+  <programme start="20261030200000" stop="20261030202845" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Music Highlights</title>
+    <sub-title>Vonda Beerman-3abn Music Highlights</sub-title>
+    <desc>In this episode, we highlight the musical gifts of Vonda Beerman.</desc>
+    <episode-num system="onscreen">TMH240008</episode-num>
+  </programme>
+  <programme start="20261030203000" stop="20261030204430" channel="3ABN-PraiseHimMusic.us">
+    <title>Pause to Pray</title>
+    <sub-title>Episode 63 - Serving</sub-title>
+    <desc>Join us for prayer and song on the topic: serving.</desc>
+    <episode-num system="onscreen">PHPTP210063</episode-num>
+  </programme>
+  <programme start="20261030204500" stop="20261030205142" channel="3ABN-PraiseHimMusic.us">
+    <title>Testimony Now</title>
+    <sub-title>Rafael and Marina Ortiz</sub-title>
+    <desc>Beyond coincidence.  Two mission-minded people seemingly on different paths. But God, by His providence, merged those two separate paths into one. Trust in the Lord, stay on His path and He will bring you the desires of your heart.</desc>
+    <episode-num system="onscreen">TN230040</episode-num>
+  </programme>
+  <programme start="20261030210000" stop="20261030215528" channel="3ABN-PraiseHimMusic.us">
+    <title>3ABN Today</title>
+    <sub-title>Music with Tim Parton</sub-title>
+    <episode-num system="onscreen">TDY240105</episode-num>
+  </programme>
+  <programme start="20261030220000" stop="20261030222830" channel="3ABN-PraiseHimMusic.us">
+    <title>Praise Him Now</title>
+    <sub-title>Music Special with the Foster Triplets</sub-title>
+    <desc>Join the Foster Triplets as they sing around the piano in this half-hour music special.</desc>
+    <episode-num system="onscreen">PHN240022</episode-num>
+  </programme>
+  <programme start="20261030223000" stop="20261030225830" channel="3ABN-PraiseHimMusic.us">
+    <title>Your Favorites By Request</title>
+    <sub-title>This Is My Father's World</sub-title>
+    <episode-num system="onscreen">YFBR170011</episode-num>
+  </programme>
+  <programme start="20261030230000" stop="20261030232817" channel="3ABN-PraiseHimMusic.us">
+    <title>Camp Meeting Classics</title>
+    <sub-title>Program 02</sub-title>
+    <desc>The best music from 3ABN Camp Meetings 2009-2014</desc>
+    <episode-num system="onscreen">CMC200002</episode-num>
+  </programme>
+  <programme start="20261030233000" stop="20261030235830" channel="3ABN-PraiseHimMusic.us">
+    <title>Piano Praise</title>
+    <sub-title>Open The Eyes of My Heart</sub-title>
+    <desc>There's something about a simple gospel song that stirs up sentiment, invoking memories and an attitude of worship.  Piano Praise, is a musical program by various pianists for the purpose of leading us to the throne of God.  Let's worship the King and make His praise glorious!</desc>
+    <episode-num system="onscreen">PHPP190007</episode-num>
   </programme>
   <programme start="20261024000000" stop="20261024005830" channel="3ABN-Proclaim.us">
     <title>Revelation Now  (new)</title>
