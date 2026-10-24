@@ -1175,50 +1175,50 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="464947" tvg-name="3ABN International Network" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" group-title="Religious",3ABN International Network
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="565869" channel-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Religious",3ABN Kids Network
+#EXTINF:-1 tvg-id="565869" channel-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="3ABNPraiseHimMusicNetwork.us" channel-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://www.3abnpraisehim.tv/img/praise-him-white.gif" group-title="Religious",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" channel-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://www.3abnpraisehim.tv/img/praise-him-white.gif" group-title="Religious",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="465004" channel-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim Network" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" group-title="Religious",3ABN Proclaim Network
+#EXTINF:-1 tvg-id="465004" channel-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim Network" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" group-title="Religious",3ABN Proclaim Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="465061" channel-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gW9_8p6_TjF2vGa_jjbIKeJ1cisqOhHW_iL_cuNqMw&s=10" group-title="Religious",3ABN Dare To Dream Network
+#EXTINF:-1 tvg-id="465061" channel-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gW9_8p6_TjF2vGa_jjbIKeJ1cisqOhHW_iL_cuNqMw&s=10" group-title="Religious",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="465164" channel-id="465164" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/GEB_logo_blue.png" group-title="Religious",Golden Eagle Broadcasting
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us" channel-id="ElevationChurchNetwork.us" tvg-name="Elevation Church Network" tvg-logo="https://cdn.elevationchurch.org/images/ec.org/ElevationLogoColorWhite.png" group-title="Religious",Elevation Church Network
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1, tvg-id="AmazingFactsTV.us" channel-id="AmazingFactsTV.us" tvg-name="Amazing Facts TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTaRlR0zkBIE9eB23UUKO57ieX9stnHpK7Et-hGMkusQ&s=10" group-title="Religious",AFTV
+#EXTINF:-1 tvg-id="AmazingFactsTV.us" channel-id="AmazingFactsTV.us" tvg-name="Amazing Facts TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTaRlR0zkBIE9eB23UUKO57ieX9stnHpK7Et-hGMkusQ&s=10" group-title="Religious",AFTV
 https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="464906" tvg-name="Daystar Network" tvg-logo=http://dtil.tmsimg.com/assets/GNLZZGG0028Y563.png?w=360&amp;h=270 group-title="Religious",Daystar Television Network HD
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="467309" channel-id="TBN.us" tvg-name="TBN" tvg-logo="https://www.tbn.org/sites/default/files/2022-11/Official%20TBN%20Logo%20B-W-no-pad.png" group-title="Religious",TBN
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
-#EXTINF:-1,tvg-id=465179" channel-id="465179" tvg-name="World Harvest TV" tvg-logo="https://familybroadcastingcorporation.com/wp-content/uploads/2022/11/wht_logo.jpg" group-title="Religious",World Harvest TV
+#EXTINF:-1 tvg-id=465179" channel-id="465179" tvg-name="World Harvest TV" tvg-logo="https://familybroadcastingcorporation.com/wp-content/uploads/2022/11/wht_logo.jpg" group-title="Religious",World Harvest TV
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTruthTV.us" channel-id="GospelTruthTV.us" tvg-name="Gospel Truth TV" tvg-logo="https://i.imgur.com/LI52X2q.png" group-title="Religious",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 tvg-id="464958" tvg-name="Hope Channel North America" tvg-logo="https://i.imgur.com/wzvgAch.png" group-title="Religious",Hope Channel North America https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
-#EXTINF:1,tvg-id="CBNFamily.us" channel-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="https://cbn.com/sites/default/files/styles/large/public/images/cbn-family-app-icon.png?itok=OHgX8c6B" group-title="Religious",CBN Family
+#EXTINF:-1 tvg-id="CBNFamily.us" channel-id="CBNFamily.us" tvg-name="CBN Family" tvg-logo="https://cbn.com/sites/default/files/styles/large/public/images/cbn-family-app-icon.png?itok=OHgX8c6B" group-title="Religious",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:1,tvg-id="CBN Gospel" tvg-name="CBN Gospel" tvg-logo="https://cbn.com/sites/default/files/styles/large/public/images/cbn-family-app-icon.png?itok=OHgX8c6B" group-title="Religious",CBN Gospel
+#EXTINF:-1 tvg-id="CBN Gospel" tvg-name="CBN Gospel" tvg-logo="https://cbn.com/sites/default/files/styles/large/public/images/cbn-family-app-icon.png?itok=OHgX8c6B" group-title="Religious",CBN Gospel
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
-#EXTINF:1,Channel-id="ATL 26" tvg-id="ATL 26" tvg-name"ATL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNQPiTuz5DrQmsnjVwb3-PCRjDoussHiefk-ypjdXfg&s=10" group-title="Government",ATL 26
+#EXTINF:-1 Channel-id="ATL 26" tvg-id="ATL 26" tvg-name"ATL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNQPiTuz5DrQmsnjVwb3-PCRjDoussHiefk-ypjdXfg&s=10" group-title="Government",ATL 26
 https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
-#EXTINF:1 channel-id="WATC-DT.us_locals1" tvg-id="WATC-DT.us_locals1" tvg-chno="" tvg-name="Atlanta's 57 WATC 57.1" tvg-logo="https://watc.tv/wp-content/uploads/2023/10/cropped-57-new-logo-wht-bg-blk-text-.png" group-title="Religious",Atlanta's 57 WATC 57.1
+#EXTINF:-1 channel-id="WATC-DT.us_locals1" tvg-id="WATC-DT.us_locals1" tvg-chno="" tvg-name="Atlanta's 57 WATC 57.1" tvg-logo="https://watc.tv/wp-content/uploads/2023/10/cropped-57-new-logo-wht-bg-blk-text-.png" group-title="Religious",Atlanta's 57 WATC 57.1
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel.us@SD",channel-id="AtlantaChannel.us@SD" tvg-name="Atlanta Channel" tvg-logo="https://content.jwplatform.com/images/nZiP75iF.png" group-title="Lifestyle & Pop Culture",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1,tvg-id="465285" tvg-name="TBS" tvg-logo="https://www.tbs.com/themes/custom/ten_theme/images/tbs/tbs_logo_top.png" group-title="Sports & Outdoors",TBS
+#EXTINF:-1 tvg-id="465285" tvg-name="TBS" tvg-logo="https://www.tbs.com/themes/custom/ten_theme/images/tbs/tbs_logo_top.png" group-title="Sports & Outdoors",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,tvg-id="465196" tvg-name="TCM" tvg-logo="https://static.tcm.com/2025-11/legacy-tcm-animated-logo.gif" group-title="Movies",TCM
+#EXTINF:-1 tvg-id="465196" tvg-name="TCM" tvg-logo="https://static.tcm.com/2025-11/legacy-tcm-animated-logo.gif" group-title="Movies",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1,tvg-id="465021" tvg-name="CNN International" tvg-logo="https://images.icon-icons.com/2699/PNG/96/cnn_logo_icon_170361.png" group-title="News & Opinion",CNN International
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN International" tvg-logo="https://images.icon-icons.com/2699/PNG/96/cnn_logo_icon_170361.png" group-title="News & Opinion",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1,tvg-id="CNN Originals" tvg-name="CNN Originals" tvg-logo="https://images.icon-icons.com/2699/PNG/96/cnn_logo_icon_170361.png" group-title="News & Opinion",CNN Originals
+#EXTINF:-1 tvg-id="CNN Originals" tvg-name="CNN Originals" tvg-logo="https://images.icon-icons.com/2699/PNG/96/cnn_logo_icon_170361.png" group-title="News & Opinion",CNN Originals
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
-#EXTINF:-1,tvg-id="465321" tvg-name="Christian Television Network" tvg-logo="https://cdn.ctnonline.com/wp-content/uploads/2026/03/cropped-cropped-ctnonline-com-enjoy-life-consider-eternity-1.webp" group-title="Religious",Christian Television Network
+#EXTINF:-1 tvg-id="465321" tvg-name="Christian Television Network" tvg-logo="https://cdn.ctnonline.com/wp-content/uploads/2026/03/cropped-cropped-ctnonline-com-enjoy-life-consider-eternity-1.webp" group-title="Religious",Christian Television Network
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
-#EXTINF:-1,tvg-id="The.Word.Network.us2" tvg-name="The Word Network" tvg-logo="https://www.thewordnetwork.org/wp-content/uploads/2021/08/logo.png" group-title="Religious",The Word Network
+#EXTINF:-1 tvg-id="The.Word.Network.us2" tvg-name="The Word Network" tvg-logo="https://www.thewordnetwork.org/wp-content/uploads/2021/08/logo.png" group-title="Religious",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-#EXTINF:-1,tvg-id="JoelOsteenNetwork.us" channel-id="JoelOsteenNetwork.us" tvg-name="Joel Osteen Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozwdolPayozSJHi54mrUIjTouNiaeUn69qTcRiS6_FA&s=10" group-title="Religious",Joel Osteen Network
+#EXTINF:-1 tvg-id="JoelOsteenNetwork.us" channel-id="JoelOsteenNetwork.us" tvg-name="Joel Osteen Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozwdolPayozSJHi54mrUIjTouNiaeUn69qTcRiS6_FA&s=10" group-title="Religious",Joel Osteen Network
 https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
