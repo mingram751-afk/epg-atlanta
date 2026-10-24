@@ -1,4 +1,5 @@
 import datetime
+import xml.etree.ElementTree as ET
 
 CHANNELS = [
     ("3ABN.us", "3ABN"),
@@ -29,35 +30,44 @@ START_DATE = datetime.date(2026, 10, 24)
 DAYS = 7
 TZ_OFFSET = "-0400"
 
+
 def format_dt(date_obj, hour):
-    return date_obj.strftime("%Y%m%d") + f"T{hour:02d}0000 {TZ_OFFSET}"
+    return date_obj.strftime("%Y%m%d") + f"{hour:02d}0000 {TZ_OFFSET}"
+
 
 def main():
-    lines = []
-    lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-    lines.append('<tv generator-info-name="Michael-ATL-EPG">')
+    root = ET.Element("tv", {"generator-info-name": "Michael-ATL-EPG"})
 
-    for cid, name in CHANNELS:
-        lines.append(f'  <channel id="{cid}">')
-        lines.append(f'    <display-name>{name}</display-name>')
-        lines.append(f'    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>')
-        lines.append("  </channel>")
+    for channel_id, name in CHANNELS:
+        channel = ET.SubElement(root, "channel", {"id": channel_id})
+        ET.SubElement(channel, "display-name").text = name
+        ET.SubElement(
+            channel,
+            "icon",
+            {"src": "https://3abn.org/assets/img/3abn-logo.png"},
+        )
 
-    for cid, _ in CHANNELS:
-        for d in range(DAYS):
-            day = START_DATE + datetime.timedelta(days=d)
-            for i, (title, desc) in enumerate(PROGRAM_BLOCK):
-                start = format_dt(day, i)
-                stop = format_dt(day, i + 1)
-                lines.append(f'  <programme start="{start}" stop="{stop}" channel="{cid}">')
-                lines.append(f'    <title>{title}</title>')
-                lines.append(f'    <desc>{desc}</desc>')
-                lines.append("  </programme>")
+    for channel_id, _ in CHANNELS:
+        for day_offset in range(DAYS):
+            day = START_DATE + datetime.timedelta(days=day_offset)
+            for hour, (title, description) in enumerate(PROGRAM_BLOCK):
+                programme = ET.SubElement(
+                    root,
+                    "programme",
+                    {
+                        "channel": channel_id,
+                        "start": format_dt(day, hour),
+                        "stop": format_dt(day, hour + 1),
+                    },
+                )
+                ET.SubElement(programme, "title").text = title
+                ET.SubElement(programme, "desc").text = description
 
-    lines.append("</tv>")
+    ET.indent(root, space="  ")
+    ET.ElementTree(root).write(
+        "3abn_full.xml", encoding="utf-8", xml_declaration=True
+    )
 
-    with open("3abn_full.xml", "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
 
 if __name__ == "__main__":
     main()
