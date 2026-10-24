@@ -28,11 +28,10 @@ PROGRAM_BLOCK = [
 
 START_DATE = datetime.date(2026, 10, 24)
 DAYS = 7
-TZ_OFFSET = "-0400"
 
 
 def format_dt(date_obj, hour):
-    return date_obj.strftime("%Y%m%d") + f"{hour:02d}0000 {TZ_OFFSET}"
+    return date_obj.strftime("%Y%m%d") + f"{hour:02d}0000"
 
 
 def main():
