@@ -61,8 +61,8 @@ def parse_duration(record):
 
 
 def xmltv_time(value):
-    # Preserve the requested XMLTV format without a timezone suffix.
-    return value.astimezone(TIMEZONE).strftime("%Y%m%d%H%M%S")
+    # Include the Eastern timezone offset, including the correct DST adjustment.
+    return value.astimezone(TIMEZONE).strftime("%Y%m%d%H%M%S %z")
 
 
 def add_text(parent, tag, value):
