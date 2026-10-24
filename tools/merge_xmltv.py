@@ -5,6 +5,9 @@ from __future__ import annotations
 
 import gzip
 import sys
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -68,8 +71,9 @@ def main() -> int:
     channels: dict[str, ET.Element] = {}
     programmes: list[ET.Element] = []
 
+    run_date = datetime.now(ZoneInfo("America/New_York")).strftime("%Y%m%d")
     for channel_id in CHANNEL_IDS:
-        url = BASE_URL + channel_id
+        url = f"{BASE_URL}{channel_id}&date={run_date}"
         request = urllib.request.Request(
             url, headers={"User-Agent": "epg-atlanta-xmltv-merger/1.0"}
         )
