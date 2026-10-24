@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/mingram751-afk/epg-atlanta/main/3abn_full.xml"
 #EXTINF:-1 channel-id="USBB320000397" tvg-id="USBB320000397" tvg-chno="1600" tvg-name="21 Jump Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20241105T024257SQUARE.png" group-title="Action & Drama",21 Jump Street
 https://jmp2.uk/stvp-USBB320000397
 #EXTINF:-1 channel-id="US4000064JE" tvg-id="US4000064JE" tvg-chno="3952" tvg-name="40 y 20" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000064JE_20260421T141724SQUARE.png" group-title="Latino",40 y 20
