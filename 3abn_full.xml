@@ -1,1982 +1,1982 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Michael-ATL-EPG">
   <channel id="3ABN.us">
     <display-name>3ABN</display-name>
-    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>
+    <icon src="https://3abn.org/assets/img/3abn-logo.png" />
   </channel>
   <channel id="3ABN-DareToDream.us">
     <display-name>3ABN Dare to Dream Network</display-name>
-    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>
+    <icon src="https://3abn.org/assets/img/3abn-logo.png" />
   </channel>
   <channel id="3ABN-International.us">
     <display-name>3ABN International Network</display-name>
-    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>
+    <icon src="https://3abn.org/assets/img/3abn-logo.png" />
   </channel>
   <channel id="3ABN-Proclaim.us">
     <display-name>3ABN Proclaim Network</display-name>
-    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>
+    <icon src="https://3abn.org/assets/img/3abn-logo.png" />
   </channel>
   <channel id="3ABN-Kids.us">
     <display-name>3ABN Kids Network</display-name>
-    <icon src="https://3abn.org/assets/img/3abn-logo.png"/>
+    <icon src="https://3abn.org/assets/img/3abn-logo.png" />
   </channel>
-  <programme start="20261024T000000 -0400" stop="20261024T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024000000 -0400" stop="20261024010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261024T010000 -0400" stop="20261024T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024010000 -0400" stop="20261024020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261024T020000 -0400" stop="20261024T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024020000 -0400" stop="20261024030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261024T030000 -0400" stop="20261024T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024030000 -0400" stop="20261024040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261024T040000 -0400" stop="20261024T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024040000 -0400" stop="20261024050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261024T050000 -0400" stop="20261024T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024050000 -0400" stop="20261024060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261024T060000 -0400" stop="20261024T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024060000 -0400" stop="20261024070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261024T070000 -0400" stop="20261024T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024070000 -0400" stop="20261024080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261024T080000 -0400" stop="20261024T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024080000 -0400" stop="20261024090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261024T090000 -0400" stop="20261024T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024090000 -0400" stop="20261024100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261024T100000 -0400" stop="20261024T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024100000 -0400" stop="20261024110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261024T110000 -0400" stop="20261024T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024110000 -0400" stop="20261024120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261024T120000 -0400" stop="20261024T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024120000 -0400" stop="20261024130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261024T130000 -0400" stop="20261024T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261024130000 -0400" stop="20261024140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261025T000000 -0400" stop="20261025T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025000000 -0400" stop="20261025010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261025T010000 -0400" stop="20261025T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025010000 -0400" stop="20261025020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261025T020000 -0400" stop="20261025T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025020000 -0400" stop="20261025030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261025T030000 -0400" stop="20261025T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025030000 -0400" stop="20261025040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261025T040000 -0400" stop="20261025T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025040000 -0400" stop="20261025050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261025T050000 -0400" stop="20261025T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025050000 -0400" stop="20261025060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261025T060000 -0400" stop="20261025T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025060000 -0400" stop="20261025070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261025T070000 -0400" stop="20261025T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025070000 -0400" stop="20261025080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261025T080000 -0400" stop="20261025T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025080000 -0400" stop="20261025090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261025T090000 -0400" stop="20261025T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025090000 -0400" stop="20261025100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261025T100000 -0400" stop="20261025T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025100000 -0400" stop="20261025110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261025T110000 -0400" stop="20261025T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025110000 -0400" stop="20261025120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261025T120000 -0400" stop="20261025T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025120000 -0400" stop="20261025130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261025T130000 -0400" stop="20261025T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261025130000 -0400" stop="20261025140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261026T000000 -0400" stop="20261026T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026000000 -0400" stop="20261026010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261026T010000 -0400" stop="20261026T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026010000 -0400" stop="20261026020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261026T020000 -0400" stop="20261026T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026020000 -0400" stop="20261026030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261026T030000 -0400" stop="20261026T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026030000 -0400" stop="20261026040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261026T040000 -0400" stop="20261026T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026040000 -0400" stop="20261026050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261026T050000 -0400" stop="20261026T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026050000 -0400" stop="20261026060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261026T060000 -0400" stop="20261026T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026060000 -0400" stop="20261026070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261026T070000 -0400" stop="20261026T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026070000 -0400" stop="20261026080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261026T080000 -0400" stop="20261026T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026080000 -0400" stop="20261026090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261026T090000 -0400" stop="20261026T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026090000 -0400" stop="20261026100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261026T100000 -0400" stop="20261026T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026100000 -0400" stop="20261026110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261026T110000 -0400" stop="20261026T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026110000 -0400" stop="20261026120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261026T120000 -0400" stop="20261026T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026120000 -0400" stop="20261026130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261026T130000 -0400" stop="20261026T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261026130000 -0400" stop="20261026140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261027T000000 -0400" stop="20261027T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027000000 -0400" stop="20261027010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261027T010000 -0400" stop="20261027T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027010000 -0400" stop="20261027020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261027T020000 -0400" stop="20261027T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027020000 -0400" stop="20261027030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261027T030000 -0400" stop="20261027T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027030000 -0400" stop="20261027040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261027T040000 -0400" stop="20261027T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027040000 -0400" stop="20261027050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261027T050000 -0400" stop="20261027T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027050000 -0400" stop="20261027060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261027T060000 -0400" stop="20261027T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027060000 -0400" stop="20261027070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261027T070000 -0400" stop="20261027T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027070000 -0400" stop="20261027080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261027T080000 -0400" stop="20261027T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027080000 -0400" stop="20261027090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261027T090000 -0400" stop="20261027T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027090000 -0400" stop="20261027100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261027T100000 -0400" stop="20261027T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027100000 -0400" stop="20261027110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261027T110000 -0400" stop="20261027T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027110000 -0400" stop="20261027120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261027T120000 -0400" stop="20261027T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027120000 -0400" stop="20261027130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261027T130000 -0400" stop="20261027T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261027130000 -0400" stop="20261027140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261028T000000 -0400" stop="20261028T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028000000 -0400" stop="20261028010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261028T010000 -0400" stop="20261028T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028010000 -0400" stop="20261028020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261028T020000 -0400" stop="20261028T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028020000 -0400" stop="20261028030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261028T030000 -0400" stop="20261028T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028030000 -0400" stop="20261028040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261028T040000 -0400" stop="20261028T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028040000 -0400" stop="20261028050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261028T050000 -0400" stop="20261028T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028050000 -0400" stop="20261028060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261028T060000 -0400" stop="20261028T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028060000 -0400" stop="20261028070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261028T070000 -0400" stop="20261028T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028070000 -0400" stop="20261028080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261028T080000 -0400" stop="20261028T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028080000 -0400" stop="20261028090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261028T090000 -0400" stop="20261028T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028090000 -0400" stop="20261028100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261028T100000 -0400" stop="20261028T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028100000 -0400" stop="20261028110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261028T110000 -0400" stop="20261028T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028110000 -0400" stop="20261028120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261028T120000 -0400" stop="20261028T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028120000 -0400" stop="20261028130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261028T130000 -0400" stop="20261028T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261028130000 -0400" stop="20261028140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261029T000000 -0400" stop="20261029T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029000000 -0400" stop="20261029010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261029T010000 -0400" stop="20261029T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029010000 -0400" stop="20261029020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261029T020000 -0400" stop="20261029T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029020000 -0400" stop="20261029030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261029T030000 -0400" stop="20261029T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029030000 -0400" stop="20261029040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261029T040000 -0400" stop="20261029T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029040000 -0400" stop="20261029050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261029T050000 -0400" stop="20261029T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029050000 -0400" stop="20261029060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261029T060000 -0400" stop="20261029T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029060000 -0400" stop="20261029070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261029T070000 -0400" stop="20261029T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029070000 -0400" stop="20261029080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261029T080000 -0400" stop="20261029T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029080000 -0400" stop="20261029090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261029T090000 -0400" stop="20261029T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029090000 -0400" stop="20261029100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261029T100000 -0400" stop="20261029T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029100000 -0400" stop="20261029110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261029T110000 -0400" stop="20261029T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029110000 -0400" stop="20261029120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261029T120000 -0400" stop="20261029T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029120000 -0400" stop="20261029130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261029T130000 -0400" stop="20261029T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261029130000 -0400" stop="20261029140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261030T000000 -0400" stop="20261030T010000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030000000 -0400" stop="20261030010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261030T010000 -0400" stop="20261030T020000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030010000 -0400" stop="20261030020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261030T020000 -0400" stop="20261030T030000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030020000 -0400" stop="20261030030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261030T030000 -0400" stop="20261030T040000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030030000 -0400" stop="20261030040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261030T040000 -0400" stop="20261030T050000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030040000 -0400" stop="20261030050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261030T050000 -0400" stop="20261030T060000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030050000 -0400" stop="20261030060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261030T060000 -0400" stop="20261030T070000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030060000 -0400" stop="20261030070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261030T070000 -0400" stop="20261030T080000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030070000 -0400" stop="20261030080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261030T080000 -0400" stop="20261030T090000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030080000 -0400" stop="20261030090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261030T090000 -0400" stop="20261030T100000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030090000 -0400" stop="20261030100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261030T100000 -0400" stop="20261030T110000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030100000 -0400" stop="20261030110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261030T110000 -0400" stop="20261030T120000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030110000 -0400" stop="20261030120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261030T120000 -0400" stop="20261030T130000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030120000 -0400" stop="20261030130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261030T130000 -0400" stop="20261030T140000 -0400" channel="3ABN.us">
+  <programme channel="3ABN.us" start="20261030130000 -0400" stop="20261030140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261024T000000 -0400" stop="20261024T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024000000 -0400" stop="20261024010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261024T010000 -0400" stop="20261024T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024010000 -0400" stop="20261024020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261024T020000 -0400" stop="20261024T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024020000 -0400" stop="20261024030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261024T030000 -0400" stop="20261024T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024030000 -0400" stop="20261024040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261024T040000 -0400" stop="20261024T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024040000 -0400" stop="20261024050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261024T050000 -0400" stop="20261024T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024050000 -0400" stop="20261024060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261024T060000 -0400" stop="20261024T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024060000 -0400" stop="20261024070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261024T070000 -0400" stop="20261024T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024070000 -0400" stop="20261024080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261024T080000 -0400" stop="20261024T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024080000 -0400" stop="20261024090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261024T090000 -0400" stop="20261024T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024090000 -0400" stop="20261024100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261024T100000 -0400" stop="20261024T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024100000 -0400" stop="20261024110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261024T110000 -0400" stop="20261024T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024110000 -0400" stop="20261024120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261024T120000 -0400" stop="20261024T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024120000 -0400" stop="20261024130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261024T130000 -0400" stop="20261024T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261024130000 -0400" stop="20261024140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261025T000000 -0400" stop="20261025T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025000000 -0400" stop="20261025010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261025T010000 -0400" stop="20261025T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025010000 -0400" stop="20261025020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261025T020000 -0400" stop="20261025T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025020000 -0400" stop="20261025030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261025T030000 -0400" stop="20261025T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025030000 -0400" stop="20261025040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261025T040000 -0400" stop="20261025T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025040000 -0400" stop="20261025050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261025T050000 -0400" stop="20261025T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025050000 -0400" stop="20261025060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261025T060000 -0400" stop="20261025T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025060000 -0400" stop="20261025070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261025T070000 -0400" stop="20261025T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025070000 -0400" stop="20261025080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261025T080000 -0400" stop="20261025T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025080000 -0400" stop="20261025090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261025T090000 -0400" stop="20261025T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025090000 -0400" stop="20261025100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261025T100000 -0400" stop="20261025T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025100000 -0400" stop="20261025110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261025T110000 -0400" stop="20261025T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025110000 -0400" stop="20261025120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261025T120000 -0400" stop="20261025T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025120000 -0400" stop="20261025130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261025T130000 -0400" stop="20261025T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261025130000 -0400" stop="20261025140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261026T000000 -0400" stop="20261026T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026000000 -0400" stop="20261026010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261026T010000 -0400" stop="20261026T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026010000 -0400" stop="20261026020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261026T020000 -0400" stop="20261026T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026020000 -0400" stop="20261026030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261026T030000 -0400" stop="20261026T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026030000 -0400" stop="20261026040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261026T040000 -0400" stop="20261026T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026040000 -0400" stop="20261026050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261026T050000 -0400" stop="20261026T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026050000 -0400" stop="20261026060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261026T060000 -0400" stop="20261026T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026060000 -0400" stop="20261026070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261026T070000 -0400" stop="20261026T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026070000 -0400" stop="20261026080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261026T080000 -0400" stop="20261026T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026080000 -0400" stop="20261026090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261026T090000 -0400" stop="20261026T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026090000 -0400" stop="20261026100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261026T100000 -0400" stop="20261026T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026100000 -0400" stop="20261026110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261026T110000 -0400" stop="20261026T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026110000 -0400" stop="20261026120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261026T120000 -0400" stop="20261026T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026120000 -0400" stop="20261026130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261026T130000 -0400" stop="20261026T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261026130000 -0400" stop="20261026140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261027T000000 -0400" stop="20261027T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027000000 -0400" stop="20261027010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261027T010000 -0400" stop="20261027T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027010000 -0400" stop="20261027020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261027T020000 -0400" stop="20261027T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027020000 -0400" stop="20261027030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261027T030000 -0400" stop="20261027T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027030000 -0400" stop="20261027040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261027T040000 -0400" stop="20261027T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027040000 -0400" stop="20261027050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261027T050000 -0400" stop="20261027T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027050000 -0400" stop="20261027060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261027T060000 -0400" stop="20261027T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027060000 -0400" stop="20261027070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261027T070000 -0400" stop="20261027T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027070000 -0400" stop="20261027080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261027T080000 -0400" stop="20261027T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027080000 -0400" stop="20261027090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261027T090000 -0400" stop="20261027T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027090000 -0400" stop="20261027100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261027T100000 -0400" stop="20261027T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027100000 -0400" stop="20261027110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261027T110000 -0400" stop="20261027T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027110000 -0400" stop="20261027120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261027T120000 -0400" stop="20261027T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027120000 -0400" stop="20261027130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261027T130000 -0400" stop="20261027T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261027130000 -0400" stop="20261027140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261028T000000 -0400" stop="20261028T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028000000 -0400" stop="20261028010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261028T010000 -0400" stop="20261028T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028010000 -0400" stop="20261028020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261028T020000 -0400" stop="20261028T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028020000 -0400" stop="20261028030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261028T030000 -0400" stop="20261028T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028030000 -0400" stop="20261028040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261028T040000 -0400" stop="20261028T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028040000 -0400" stop="20261028050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261028T050000 -0400" stop="20261028T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028050000 -0400" stop="20261028060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261028T060000 -0400" stop="20261028T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028060000 -0400" stop="20261028070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261028T070000 -0400" stop="20261028T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028070000 -0400" stop="20261028080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261028T080000 -0400" stop="20261028T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028080000 -0400" stop="20261028090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261028T090000 -0400" stop="20261028T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028090000 -0400" stop="20261028100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261028T100000 -0400" stop="20261028T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028100000 -0400" stop="20261028110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261028T110000 -0400" stop="20261028T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028110000 -0400" stop="20261028120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261028T120000 -0400" stop="20261028T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028120000 -0400" stop="20261028130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261028T130000 -0400" stop="20261028T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261028130000 -0400" stop="20261028140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261029T000000 -0400" stop="20261029T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029000000 -0400" stop="20261029010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261029T010000 -0400" stop="20261029T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029010000 -0400" stop="20261029020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261029T020000 -0400" stop="20261029T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029020000 -0400" stop="20261029030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261029T030000 -0400" stop="20261029T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029030000 -0400" stop="20261029040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261029T040000 -0400" stop="20261029T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029040000 -0400" stop="20261029050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261029T050000 -0400" stop="20261029T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029050000 -0400" stop="20261029060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261029T060000 -0400" stop="20261029T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029060000 -0400" stop="20261029070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261029T070000 -0400" stop="20261029T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029070000 -0400" stop="20261029080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261029T080000 -0400" stop="20261029T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029080000 -0400" stop="20261029090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261029T090000 -0400" stop="20261029T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029090000 -0400" stop="20261029100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261029T100000 -0400" stop="20261029T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029100000 -0400" stop="20261029110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261029T110000 -0400" stop="20261029T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029110000 -0400" stop="20261029120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261029T120000 -0400" stop="20261029T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029120000 -0400" stop="20261029130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261029T130000 -0400" stop="20261029T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261029130000 -0400" stop="20261029140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261030T000000 -0400" stop="20261030T010000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030000000 -0400" stop="20261030010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261030T010000 -0400" stop="20261030T020000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030010000 -0400" stop="20261030020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261030T020000 -0400" stop="20261030T030000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030020000 -0400" stop="20261030030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261030T030000 -0400" stop="20261030T040000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030030000 -0400" stop="20261030040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261030T040000 -0400" stop="20261030T050000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030040000 -0400" stop="20261030050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261030T050000 -0400" stop="20261030T060000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030050000 -0400" stop="20261030060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261030T060000 -0400" stop="20261030T070000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030060000 -0400" stop="20261030070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261030T070000 -0400" stop="20261030T080000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030070000 -0400" stop="20261030080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261030T080000 -0400" stop="20261030T090000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030080000 -0400" stop="20261030090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261030T090000 -0400" stop="20261030T100000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030090000 -0400" stop="20261030100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261030T100000 -0400" stop="20261030T110000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030100000 -0400" stop="20261030110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261030T110000 -0400" stop="20261030T120000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030110000 -0400" stop="20261030120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261030T120000 -0400" stop="20261030T130000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030120000 -0400" stop="20261030130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261030T130000 -0400" stop="20261030T140000 -0400" channel="3ABN-DareToDream.us">
+  <programme channel="3ABN-DareToDream.us" start="20261030130000 -0400" stop="20261030140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261024T000000 -0400" stop="20261024T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024000000 -0400" stop="20261024010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261024T010000 -0400" stop="20261024T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024010000 -0400" stop="20261024020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261024T020000 -0400" stop="20261024T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024020000 -0400" stop="20261024030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261024T030000 -0400" stop="20261024T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024030000 -0400" stop="20261024040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261024T040000 -0400" stop="20261024T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024040000 -0400" stop="20261024050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261024T050000 -0400" stop="20261024T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024050000 -0400" stop="20261024060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261024T060000 -0400" stop="20261024T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024060000 -0400" stop="20261024070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261024T070000 -0400" stop="20261024T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024070000 -0400" stop="20261024080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261024T080000 -0400" stop="20261024T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024080000 -0400" stop="20261024090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261024T090000 -0400" stop="20261024T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024090000 -0400" stop="20261024100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261024T100000 -0400" stop="20261024T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024100000 -0400" stop="20261024110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261024T110000 -0400" stop="20261024T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024110000 -0400" stop="20261024120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261024T120000 -0400" stop="20261024T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024120000 -0400" stop="20261024130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261024T130000 -0400" stop="20261024T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261024130000 -0400" stop="20261024140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261025T000000 -0400" stop="20261025T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025000000 -0400" stop="20261025010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261025T010000 -0400" stop="20261025T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025010000 -0400" stop="20261025020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261025T020000 -0400" stop="20261025T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025020000 -0400" stop="20261025030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261025T030000 -0400" stop="20261025T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025030000 -0400" stop="20261025040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261025T040000 -0400" stop="20261025T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025040000 -0400" stop="20261025050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261025T050000 -0400" stop="20261025T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025050000 -0400" stop="20261025060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261025T060000 -0400" stop="20261025T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025060000 -0400" stop="20261025070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261025T070000 -0400" stop="20261025T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025070000 -0400" stop="20261025080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261025T080000 -0400" stop="20261025T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025080000 -0400" stop="20261025090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261025T090000 -0400" stop="20261025T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025090000 -0400" stop="20261025100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261025T100000 -0400" stop="20261025T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025100000 -0400" stop="20261025110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261025T110000 -0400" stop="20261025T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025110000 -0400" stop="20261025120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261025T120000 -0400" stop="20261025T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025120000 -0400" stop="20261025130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261025T130000 -0400" stop="20261025T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261025130000 -0400" stop="20261025140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261026T000000 -0400" stop="20261026T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026000000 -0400" stop="20261026010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261026T010000 -0400" stop="20261026T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026010000 -0400" stop="20261026020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261026T020000 -0400" stop="20261026T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026020000 -0400" stop="20261026030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261026T030000 -0400" stop="20261026T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026030000 -0400" stop="20261026040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261026T040000 -0400" stop="20261026T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026040000 -0400" stop="20261026050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261026T050000 -0400" stop="20261026T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026050000 -0400" stop="20261026060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261026T060000 -0400" stop="20261026T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026060000 -0400" stop="20261026070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261026T070000 -0400" stop="20261026T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026070000 -0400" stop="20261026080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261026T080000 -0400" stop="20261026T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026080000 -0400" stop="20261026090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261026T090000 -0400" stop="20261026T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026090000 -0400" stop="20261026100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261026T100000 -0400" stop="20261026T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026100000 -0400" stop="20261026110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261026T110000 -0400" stop="20261026T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026110000 -0400" stop="20261026120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261026T120000 -0400" stop="20261026T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026120000 -0400" stop="20261026130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261026T130000 -0400" stop="20261026T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261026130000 -0400" stop="20261026140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261027T000000 -0400" stop="20261027T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027000000 -0400" stop="20261027010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261027T010000 -0400" stop="20261027T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027010000 -0400" stop="20261027020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261027T020000 -0400" stop="20261027T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027020000 -0400" stop="20261027030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261027T030000 -0400" stop="20261027T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027030000 -0400" stop="20261027040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261027T040000 -0400" stop="20261027T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027040000 -0400" stop="20261027050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261027T050000 -0400" stop="20261027T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027050000 -0400" stop="20261027060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261027T060000 -0400" stop="20261027T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027060000 -0400" stop="20261027070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261027T070000 -0400" stop="20261027T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027070000 -0400" stop="20261027080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261027T080000 -0400" stop="20261027T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027080000 -0400" stop="20261027090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261027T090000 -0400" stop="20261027T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027090000 -0400" stop="20261027100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261027T100000 -0400" stop="20261027T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027100000 -0400" stop="20261027110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261027T110000 -0400" stop="20261027T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027110000 -0400" stop="20261027120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261027T120000 -0400" stop="20261027T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027120000 -0400" stop="20261027130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261027T130000 -0400" stop="20261027T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261027130000 -0400" stop="20261027140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261028T000000 -0400" stop="20261028T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028000000 -0400" stop="20261028010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261028T010000 -0400" stop="20261028T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028010000 -0400" stop="20261028020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261028T020000 -0400" stop="20261028T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028020000 -0400" stop="20261028030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261028T030000 -0400" stop="20261028T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028030000 -0400" stop="20261028040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261028T040000 -0400" stop="20261028T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028040000 -0400" stop="20261028050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261028T050000 -0400" stop="20261028T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028050000 -0400" stop="20261028060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261028T060000 -0400" stop="20261028T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028060000 -0400" stop="20261028070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261028T070000 -0400" stop="20261028T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028070000 -0400" stop="20261028080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261028T080000 -0400" stop="20261028T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028080000 -0400" stop="20261028090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261028T090000 -0400" stop="20261028T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028090000 -0400" stop="20261028100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261028T100000 -0400" stop="20261028T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028100000 -0400" stop="20261028110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261028T110000 -0400" stop="20261028T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028110000 -0400" stop="20261028120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261028T120000 -0400" stop="20261028T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028120000 -0400" stop="20261028130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261028T130000 -0400" stop="20261028T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261028130000 -0400" stop="20261028140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261029T000000 -0400" stop="20261029T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029000000 -0400" stop="20261029010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261029T010000 -0400" stop="20261029T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029010000 -0400" stop="20261029020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261029T020000 -0400" stop="20261029T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029020000 -0400" stop="20261029030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261029T030000 -0400" stop="20261029T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029030000 -0400" stop="20261029040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261029T040000 -0400" stop="20261029T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029040000 -0400" stop="20261029050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261029T050000 -0400" stop="20261029T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029050000 -0400" stop="20261029060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261029T060000 -0400" stop="20261029T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029060000 -0400" stop="20261029070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261029T070000 -0400" stop="20261029T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029070000 -0400" stop="20261029080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261029T080000 -0400" stop="20261029T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029080000 -0400" stop="20261029090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261029T090000 -0400" stop="20261029T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029090000 -0400" stop="20261029100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261029T100000 -0400" stop="20261029T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029100000 -0400" stop="20261029110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261029T110000 -0400" stop="20261029T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029110000 -0400" stop="20261029120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261029T120000 -0400" stop="20261029T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029120000 -0400" stop="20261029130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261029T130000 -0400" stop="20261029T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261029130000 -0400" stop="20261029140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261030T000000 -0400" stop="20261030T010000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030000000 -0400" stop="20261030010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261030T010000 -0400" stop="20261030T020000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030010000 -0400" stop="20261030020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261030T020000 -0400" stop="20261030T030000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030020000 -0400" stop="20261030030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261030T030000 -0400" stop="20261030T040000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030030000 -0400" stop="20261030040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261030T040000 -0400" stop="20261030T050000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030040000 -0400" stop="20261030050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261030T050000 -0400" stop="20261030T060000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030050000 -0400" stop="20261030060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261030T060000 -0400" stop="20261030T070000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030060000 -0400" stop="20261030070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261030T070000 -0400" stop="20261030T080000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030070000 -0400" stop="20261030080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261030T080000 -0400" stop="20261030T090000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030080000 -0400" stop="20261030090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261030T090000 -0400" stop="20261030T100000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030090000 -0400" stop="20261030100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261030T100000 -0400" stop="20261030T110000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030100000 -0400" stop="20261030110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261030T110000 -0400" stop="20261030T120000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030110000 -0400" stop="20261030120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261030T120000 -0400" stop="20261030T130000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030120000 -0400" stop="20261030130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261030T130000 -0400" stop="20261030T140000 -0400" channel="3ABN-International.us">
+  <programme channel="3ABN-International.us" start="20261030130000 -0400" stop="20261030140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261024T000000 -0400" stop="20261024T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024000000 -0400" stop="20261024010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261024T010000 -0400" stop="20261024T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024010000 -0400" stop="20261024020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261024T020000 -0400" stop="20261024T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024020000 -0400" stop="20261024030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261024T030000 -0400" stop="20261024T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024030000 -0400" stop="20261024040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261024T040000 -0400" stop="20261024T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024040000 -0400" stop="20261024050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261024T050000 -0400" stop="20261024T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024050000 -0400" stop="20261024060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261024T060000 -0400" stop="20261024T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024060000 -0400" stop="20261024070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261024T070000 -0400" stop="20261024T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024070000 -0400" stop="20261024080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261024T080000 -0400" stop="20261024T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024080000 -0400" stop="20261024090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261024T090000 -0400" stop="20261024T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024090000 -0400" stop="20261024100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261024T100000 -0400" stop="20261024T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024100000 -0400" stop="20261024110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261024T110000 -0400" stop="20261024T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024110000 -0400" stop="20261024120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261024T120000 -0400" stop="20261024T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024120000 -0400" stop="20261024130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261024T130000 -0400" stop="20261024T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261024130000 -0400" stop="20261024140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261025T000000 -0400" stop="20261025T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025000000 -0400" stop="20261025010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261025T010000 -0400" stop="20261025T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025010000 -0400" stop="20261025020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261025T020000 -0400" stop="20261025T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025020000 -0400" stop="20261025030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261025T030000 -0400" stop="20261025T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025030000 -0400" stop="20261025040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261025T040000 -0400" stop="20261025T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025040000 -0400" stop="20261025050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261025T050000 -0400" stop="20261025T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025050000 -0400" stop="20261025060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261025T060000 -0400" stop="20261025T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025060000 -0400" stop="20261025070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261025T070000 -0400" stop="20261025T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025070000 -0400" stop="20261025080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261025T080000 -0400" stop="20261025T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025080000 -0400" stop="20261025090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261025T090000 -0400" stop="20261025T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025090000 -0400" stop="20261025100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261025T100000 -0400" stop="20261025T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025100000 -0400" stop="20261025110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261025T110000 -0400" stop="20261025T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025110000 -0400" stop="20261025120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261025T120000 -0400" stop="20261025T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025120000 -0400" stop="20261025130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261025T130000 -0400" stop="20261025T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261025130000 -0400" stop="20261025140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261026T000000 -0400" stop="20261026T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026000000 -0400" stop="20261026010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261026T010000 -0400" stop="20261026T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026010000 -0400" stop="20261026020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261026T020000 -0400" stop="20261026T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026020000 -0400" stop="20261026030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261026T030000 -0400" stop="20261026T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026030000 -0400" stop="20261026040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261026T040000 -0400" stop="20261026T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026040000 -0400" stop="20261026050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261026T050000 -0400" stop="20261026T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026050000 -0400" stop="20261026060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261026T060000 -0400" stop="20261026T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026060000 -0400" stop="20261026070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261026T070000 -0400" stop="20261026T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026070000 -0400" stop="20261026080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261026T080000 -0400" stop="20261026T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026080000 -0400" stop="20261026090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261026T090000 -0400" stop="20261026T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026090000 -0400" stop="20261026100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261026T100000 -0400" stop="20261026T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026100000 -0400" stop="20261026110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261026T110000 -0400" stop="20261026T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026110000 -0400" stop="20261026120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261026T120000 -0400" stop="20261026T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026120000 -0400" stop="20261026130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261026T130000 -0400" stop="20261026T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261026130000 -0400" stop="20261026140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261027T000000 -0400" stop="20261027T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027000000 -0400" stop="20261027010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261027T010000 -0400" stop="20261027T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027010000 -0400" stop="20261027020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261027T020000 -0400" stop="20261027T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027020000 -0400" stop="20261027030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261027T030000 -0400" stop="20261027T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027030000 -0400" stop="20261027040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261027T040000 -0400" stop="20261027T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027040000 -0400" stop="20261027050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261027T050000 -0400" stop="20261027T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027050000 -0400" stop="20261027060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261027T060000 -0400" stop="20261027T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027060000 -0400" stop="20261027070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261027T070000 -0400" stop="20261027T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027070000 -0400" stop="20261027080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261027T080000 -0400" stop="20261027T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027080000 -0400" stop="20261027090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261027T090000 -0400" stop="20261027T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027090000 -0400" stop="20261027100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261027T100000 -0400" stop="20261027T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027100000 -0400" stop="20261027110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261027T110000 -0400" stop="20261027T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027110000 -0400" stop="20261027120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261027T120000 -0400" stop="20261027T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027120000 -0400" stop="20261027130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261027T130000 -0400" stop="20261027T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261027130000 -0400" stop="20261027140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261028T000000 -0400" stop="20261028T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028000000 -0400" stop="20261028010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261028T010000 -0400" stop="20261028T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028010000 -0400" stop="20261028020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261028T020000 -0400" stop="20261028T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028020000 -0400" stop="20261028030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261028T030000 -0400" stop="20261028T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028030000 -0400" stop="20261028040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261028T040000 -0400" stop="20261028T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028040000 -0400" stop="20261028050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261028T050000 -0400" stop="20261028T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028050000 -0400" stop="20261028060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261028T060000 -0400" stop="20261028T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028060000 -0400" stop="20261028070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261028T070000 -0400" stop="20261028T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028070000 -0400" stop="20261028080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261028T080000 -0400" stop="20261028T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028080000 -0400" stop="20261028090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261028T090000 -0400" stop="20261028T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028090000 -0400" stop="20261028100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261028T100000 -0400" stop="20261028T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028100000 -0400" stop="20261028110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261028T110000 -0400" stop="20261028T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028110000 -0400" stop="20261028120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261028T120000 -0400" stop="20261028T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028120000 -0400" stop="20261028130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261028T130000 -0400" stop="20261028T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261028130000 -0400" stop="20261028140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261029T000000 -0400" stop="20261029T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029000000 -0400" stop="20261029010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261029T010000 -0400" stop="20261029T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029010000 -0400" stop="20261029020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261029T020000 -0400" stop="20261029T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029020000 -0400" stop="20261029030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261029T030000 -0400" stop="20261029T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029030000 -0400" stop="20261029040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261029T040000 -0400" stop="20261029T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029040000 -0400" stop="20261029050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261029T050000 -0400" stop="20261029T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029050000 -0400" stop="20261029060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261029T060000 -0400" stop="20261029T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029060000 -0400" stop="20261029070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261029T070000 -0400" stop="20261029T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029070000 -0400" stop="20261029080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261029T080000 -0400" stop="20261029T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029080000 -0400" stop="20261029090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261029T090000 -0400" stop="20261029T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029090000 -0400" stop="20261029100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261029T100000 -0400" stop="20261029T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029100000 -0400" stop="20261029110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261029T110000 -0400" stop="20261029T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029110000 -0400" stop="20261029120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261029T120000 -0400" stop="20261029T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029120000 -0400" stop="20261029130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261029T130000 -0400" stop="20261029T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261029130000 -0400" stop="20261029140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261030T000000 -0400" stop="20261030T010000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030000000 -0400" stop="20261030010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261030T010000 -0400" stop="20261030T020000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030010000 -0400" stop="20261030020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261030T020000 -0400" stop="20261030T030000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030020000 -0400" stop="20261030030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261030T030000 -0400" stop="20261030T040000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030030000 -0400" stop="20261030040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261030T040000 -0400" stop="20261030T050000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030040000 -0400" stop="20261030050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261030T050000 -0400" stop="20261030T060000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030050000 -0400" stop="20261030060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261030T060000 -0400" stop="20261030T070000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030060000 -0400" stop="20261030070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261030T070000 -0400" stop="20261030T080000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030070000 -0400" stop="20261030080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261030T080000 -0400" stop="20261030T090000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030080000 -0400" stop="20261030090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261030T090000 -0400" stop="20261030T100000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030090000 -0400" stop="20261030100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261030T100000 -0400" stop="20261030T110000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030100000 -0400" stop="20261030110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261030T110000 -0400" stop="20261030T120000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030110000 -0400" stop="20261030120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261030T120000 -0400" stop="20261030T130000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030120000 -0400" stop="20261030130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261030T130000 -0400" stop="20261030T140000 -0400" channel="3ABN-Proclaim.us">
+  <programme channel="3ABN-Proclaim.us" start="20261030130000 -0400" stop="20261030140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261024T000000 -0400" stop="20261024T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024000000 -0400" stop="20261024010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261024T010000 -0400" stop="20261024T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024010000 -0400" stop="20261024020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261024T020000 -0400" stop="20261024T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024020000 -0400" stop="20261024030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261024T030000 -0400" stop="20261024T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024030000 -0400" stop="20261024040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261024T040000 -0400" stop="20261024T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024040000 -0400" stop="20261024050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261024T050000 -0400" stop="20261024T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024050000 -0400" stop="20261024060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261024T060000 -0400" stop="20261024T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024060000 -0400" stop="20261024070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261024T070000 -0400" stop="20261024T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024070000 -0400" stop="20261024080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261024T080000 -0400" stop="20261024T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024080000 -0400" stop="20261024090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261024T090000 -0400" stop="20261024T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024090000 -0400" stop="20261024100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261024T100000 -0400" stop="20261024T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024100000 -0400" stop="20261024110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261024T110000 -0400" stop="20261024T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024110000 -0400" stop="20261024120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261024T120000 -0400" stop="20261024T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024120000 -0400" stop="20261024130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261024T130000 -0400" stop="20261024T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261024130000 -0400" stop="20261024140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261025T000000 -0400" stop="20261025T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025000000 -0400" stop="20261025010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261025T010000 -0400" stop="20261025T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025010000 -0400" stop="20261025020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261025T020000 -0400" stop="20261025T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025020000 -0400" stop="20261025030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261025T030000 -0400" stop="20261025T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025030000 -0400" stop="20261025040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261025T040000 -0400" stop="20261025T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025040000 -0400" stop="20261025050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261025T050000 -0400" stop="20261025T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025050000 -0400" stop="20261025060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261025T060000 -0400" stop="20261025T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025060000 -0400" stop="20261025070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261025T070000 -0400" stop="20261025T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025070000 -0400" stop="20261025080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261025T080000 -0400" stop="20261025T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025080000 -0400" stop="20261025090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261025T090000 -0400" stop="20261025T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025090000 -0400" stop="20261025100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261025T100000 -0400" stop="20261025T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025100000 -0400" stop="20261025110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261025T110000 -0400" stop="20261025T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025110000 -0400" stop="20261025120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261025T120000 -0400" stop="20261025T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025120000 -0400" stop="20261025130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261025T130000 -0400" stop="20261025T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261025130000 -0400" stop="20261025140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261026T000000 -0400" stop="20261026T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026000000 -0400" stop="20261026010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261026T010000 -0400" stop="20261026T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026010000 -0400" stop="20261026020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261026T020000 -0400" stop="20261026T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026020000 -0400" stop="20261026030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261026T030000 -0400" stop="20261026T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026030000 -0400" stop="20261026040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261026T040000 -0400" stop="20261026T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026040000 -0400" stop="20261026050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261026T050000 -0400" stop="20261026T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026050000 -0400" stop="20261026060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261026T060000 -0400" stop="20261026T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026060000 -0400" stop="20261026070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261026T070000 -0400" stop="20261026T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026070000 -0400" stop="20261026080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261026T080000 -0400" stop="20261026T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026080000 -0400" stop="20261026090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261026T090000 -0400" stop="20261026T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026090000 -0400" stop="20261026100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261026T100000 -0400" stop="20261026T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026100000 -0400" stop="20261026110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261026T110000 -0400" stop="20261026T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026110000 -0400" stop="20261026120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261026T120000 -0400" stop="20261026T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026120000 -0400" stop="20261026130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261026T130000 -0400" stop="20261026T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261026130000 -0400" stop="20261026140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261027T000000 -0400" stop="20261027T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027000000 -0400" stop="20261027010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261027T010000 -0400" stop="20261027T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027010000 -0400" stop="20261027020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261027T020000 -0400" stop="20261027T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027020000 -0400" stop="20261027030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261027T030000 -0400" stop="20261027T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027030000 -0400" stop="20261027040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261027T040000 -0400" stop="20261027T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027040000 -0400" stop="20261027050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261027T050000 -0400" stop="20261027T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027050000 -0400" stop="20261027060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261027T060000 -0400" stop="20261027T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027060000 -0400" stop="20261027070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261027T070000 -0400" stop="20261027T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027070000 -0400" stop="20261027080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261027T080000 -0400" stop="20261027T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027080000 -0400" stop="20261027090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261027T090000 -0400" stop="20261027T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027090000 -0400" stop="20261027100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261027T100000 -0400" stop="20261027T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027100000 -0400" stop="20261027110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261027T110000 -0400" stop="20261027T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027110000 -0400" stop="20261027120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261027T120000 -0400" stop="20261027T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027120000 -0400" stop="20261027130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261027T130000 -0400" stop="20261027T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261027130000 -0400" stop="20261027140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261028T000000 -0400" stop="20261028T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028000000 -0400" stop="20261028010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261028T010000 -0400" stop="20261028T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028010000 -0400" stop="20261028020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261028T020000 -0400" stop="20261028T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028020000 -0400" stop="20261028030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261028T030000 -0400" stop="20261028T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028030000 -0400" stop="20261028040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261028T040000 -0400" stop="20261028T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028040000 -0400" stop="20261028050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261028T050000 -0400" stop="20261028T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028050000 -0400" stop="20261028060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261028T060000 -0400" stop="20261028T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028060000 -0400" stop="20261028070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261028T070000 -0400" stop="20261028T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028070000 -0400" stop="20261028080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261028T080000 -0400" stop="20261028T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028080000 -0400" stop="20261028090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261028T090000 -0400" stop="20261028T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028090000 -0400" stop="20261028100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261028T100000 -0400" stop="20261028T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028100000 -0400" stop="20261028110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261028T110000 -0400" stop="20261028T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028110000 -0400" stop="20261028120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261028T120000 -0400" stop="20261028T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028120000 -0400" stop="20261028130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261028T130000 -0400" stop="20261028T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261028130000 -0400" stop="20261028140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261029T000000 -0400" stop="20261029T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029000000 -0400" stop="20261029010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261029T010000 -0400" stop="20261029T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029010000 -0400" stop="20261029020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261029T020000 -0400" stop="20261029T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029020000 -0400" stop="20261029030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261029T030000 -0400" stop="20261029T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029030000 -0400" stop="20261029040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261029T040000 -0400" stop="20261029T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029040000 -0400" stop="20261029050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261029T050000 -0400" stop="20261029T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029050000 -0400" stop="20261029060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261029T060000 -0400" stop="20261029T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029060000 -0400" stop="20261029070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261029T070000 -0400" stop="20261029T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029070000 -0400" stop="20261029080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261029T080000 -0400" stop="20261029T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029080000 -0400" stop="20261029090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261029T090000 -0400" stop="20261029T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029090000 -0400" stop="20261029100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261029T100000 -0400" stop="20261029T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029100000 -0400" stop="20261029110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261029T110000 -0400" stop="20261029T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029110000 -0400" stop="20261029120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261029T120000 -0400" stop="20261029T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029120000 -0400" stop="20261029130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261029T130000 -0400" stop="20261029T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261029130000 -0400" stop="20261029140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
-  <programme start="20261030T000000 -0400" stop="20261030T010000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030000000 -0400" stop="20261030010000 -0400">
     <title>3ABN Today</title>
     <desc>Daily flagship program featuring interviews, testimonies, and ministry updates.</desc>
   </programme>
-  <programme start="20261030T010000 -0400" stop="20261030T020000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030010000 -0400" stop="20261030020000 -0400">
     <title>Strategies for Strongholds</title>
     <desc>Spiritual principles for overcoming personal challenges and strengthening faith.</desc>
   </programme>
-  <programme start="20261030T020000 -0400" stop="20261030T030000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030020000 -0400" stop="20261030030000 -0400">
     <title>Live to Be Well</title>
     <desc>Health and wellness insights from a Christian perspective.</desc>
   </programme>
-  <programme start="20261030T030000 -0400" stop="20261030T040000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030030000 -0400" stop="20261030040000 -0400">
     <title>Digging Deeper</title>
     <desc>In-depth Bible study exploring foundational doctrines and prophecy.</desc>
   </programme>
-  <programme start="20261030T040000 -0400" stop="20261030T050000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030040000 -0400" stop="20261030050000 -0400">
     <title>Action 4 Life</title>
     <desc>Fitness and lifestyle program promoting physical and spiritual health.</desc>
   </programme>
-  <programme start="20261030T050000 -0400" stop="20261030T060000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030050000 -0400" stop="20261030060000 -0400">
     <title>Christ Our Righteousness</title>
     <desc>Messages focused on salvation, grace, and living a Christ-centered life.</desc>
   </programme>
-  <programme start="20261030T060000 -0400" stop="20261030T070000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030060000 -0400" stop="20261030070000 -0400">
     <title>Ultimate Prescription</title>
     <desc>Medical and lifestyle guidance rooted in biblical principles.</desc>
   </programme>
-  <programme start="20261030T070000 -0400" stop="20261030T080000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030070000 -0400" stop="20261030080000 -0400">
     <title>Body and Spirit</title>
     <desc>Exercise routines and health discussions for whole-person wellness.</desc>
   </programme>
-  <programme start="20261030T080000 -0400" stop="20261030T090000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030080000 -0400" stop="20261030090000 -0400">
     <title>Amazing Adventures</title>
     <desc>Children’s Bible-based adventure series teaching faith and character.</desc>
   </programme>
-  <programme start="20261030T090000 -0400" stop="20261030T100000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030090000 -0400" stop="20261030100000 -0400">
     <title>Kids Camp</title>
     <desc>Fun and educational Christian programming for children.</desc>
   </programme>
-  <programme start="20261030T100000 -0400" stop="20261030T110000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030100000 -0400" stop="20261030110000 -0400">
     <title>It Is Written</title>
     <desc>Inspirational Bible teaching and evangelistic messages.</desc>
   </programme>
-  <programme start="20261030T110000 -0400" stop="20261030T120000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030110000 -0400" stop="20261030120000 -0400">
     <title>Mission 360</title>
     <desc>Global mission stories highlighting outreach and humanitarian work.</desc>
   </programme>
-  <programme start="20261030T120000 -0400" stop="20261030T130000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030120000 -0400" stop="20261030130000 -0400">
     <title>Breath of Life</title>
     <desc>Uplifting sermons and music celebrating hope and faith.</desc>
   </programme>
-  <programme start="20261030T130000 -0400" stop="20261030T140000 -0400" channel="3ABN-Kids.us">
+  <programme channel="3ABN-Kids.us" start="20261030130000 -0400" stop="20261030140000 -0400">
     <title>Eternal Truths Matter</title>
     <desc>Biblical messages focusing on prophecy, doctrine, and Christian living.</desc>
   </programme>
