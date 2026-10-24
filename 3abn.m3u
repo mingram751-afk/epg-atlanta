@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="3ABN.us" tvg-name="3ABN" group-title="Faith Networks",3ABN
+https://3abn-live.akamaized.net/hls/live/2010544/3abn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN-DareToDream.us" tvg-name="3ABN Dare to Dream Network" group-title="Faith Networks",3ABN Dare to Dream
+https://3abn-live.akamaized.net/hls/live/2010544/daretodream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN-International.us" tvg-name="3ABN International Network" group-title="Faith Networks",3ABN International
+https://3abn-live.akamaized.net/hls/live/2010544/international/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN-Proclaim.us" tvg-name="3ABN Proclaim Network" group-title="Faith Networks",3ABN Proclaim
+https://3abn-live.akamaized.net/hls/live/2010544/proclaim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN-Kids.us" tvg-name="3ABN Kids Network" group-title="Faith Networks",3ABN Kids
+https://3abn-live.akamaized.net/hls/live/2010544/kids/playlist.m3u8
