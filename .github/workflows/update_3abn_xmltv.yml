@@ -1,0 +1,31 @@
+name: Update 3ABN XMLTV
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Every day at 06:00 UTC
+  workflow_dispatch:       # Allows manual runs
+
+jobs:
+  build-xmltv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate XMLTV file
+        run: |
+          python generate_3abn_xmltv.py
+
+      - name: Commit and push updated XMLTV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 3abn_full.xml
+          git commit -m "Auto-update 3ABN XMLTV"
+          git push
