@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv source-info-name="3ABN, Gospel Truth TV, and The Word Network" source-info-url="https://www.thewordnetwork.org/">
+<tv source-info-name="3ABN, Gospel Truth TV, The Word Network, TBN, Daystar, Hope Channel, CTN, and GEB">
   <channel id="3ABN.us">
     <display-name>3ABN</display-name>
   </channel>
@@ -23,6 +23,21 @@
   </channel>
   <channel id="The.Word.Network.us2">
     <display-name>The Word Network</display-name>
+  </channel>
+  <channel id="467309">
+    <display-name>TBN</display-name>
+  </channel>
+  <channel id="464906">
+    <display-name>Daystar</display-name>
+  </channel>
+  <channel id="464958">
+    <display-name>Hope Channel North America</display-name>
+  </channel>
+  <channel id="465321">
+    <display-name>Christian Television Network</display-name>
+  </channel>
+  <channel id="465164">
+    <display-name>Golden Eagle Broadcasting</display-name>
   </channel>
   <programme start="20261024000000 -0400" stop="20261024002830 -0400" channel="3ABN-DareToDream.us">
     <title>Battles of Faith</title>
@@ -11138,35 +11153,2665 @@ Hashtags
     <desc>Lake boat leaders in Zambia, Global Mission in Ethiopia and mission stories in Los Angeles. Join us as we explore mission around the globe!</desc>
     <episode-num system="onscreen">MTS004701</episode-num>
   </programme>
-  <programme start="20261024173000 -0400" stop="20261024183000 -0400" channel="GospelTruthTV.us">
-    <title>Grace &amp; Faith International</title>
-    <sub-title>France 2026: Grace The Power of the Gospel | S1 Ep 2</sub-title>
-    <desc>Discover powerful testimonies of healing and grace as Andrew shares how God is transforming lives in the French-speaking world.</desc>
+  <programme start="20261024000000 -0400" stop="20261024003000 -0400" channel="464906">
+    <title>Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
   </programme>
-  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="GospelTruthTV.us">
-    <title>Healing Stories</title>
-    <sub-title>Standing When Symptoms Scream | S1 Ep 48</sub-title>
-    <desc>Discover practical steps to embrace your God-given authority and walk in healing.</desc>
+  <programme start="20261024003000 -0400" stop="20261024010000 -0400" channel="464906">
+    <title>Joni Table Talk</title>
+    <desc>Dr. Anthony Levatino shares his powerful journey from being a former abortionist to becoming one of the leading voices in the pro-life movement.</desc>
   </programme>
-  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="GospelTruthTV.us">
-    <title>The Garden Cartoon</title>
-    <sub-title>Double Trouble / Fish and Ships</sub-title>
-    <desc>Lenny orders a butler robot to do his chores but when it starts to malfunction Lenny finds himself in an even bigger mess! /  Captain Snappy’s ship gets swallowed by a whale! It's up to Lenny and Lucy to help him get it back!</desc>
+  <programme start="20261024010000 -0400" stop="20261024020000 -0400" channel="464906">
+    <title>Marcus Lamb</title>
+    <desc>Be empowered to live in victory as Marcus Lamb shares how you can overcome every obstacle in Christ.</desc>
   </programme>
-  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="GospelTruthTV.us">
-    <title>Good Day</title>
-    <sub-title>Can't Do It Yet | S2 Ep 17</sub-title>
-    <desc>Learn the value of stepping out of your comfort zone and embracing challenges, even when things feel difficult. Explore how trusting your identity in Christ can help you overcome fear, face failure, and take bold steps toward growth and victory.</desc>
+  <programme start="20261024020000 -0400" stop="20261024023000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
   </programme>
-  <programme start="20261024200000 -0400" stop="20261024210000 -0400" channel="GospelTruthTV.us">
-    <title>Truth &amp; Liberty</title>
-    <sub-title>History and Truth with Tim Barton</sub-title>
-    <desc>Was America truly founded on the Bible? This episode examines historical evidence and the beliefs of the Founding Fathers. Featuring Tim Barton, this compelling discussion reveals America’s Christian heritage and why it still matters in today’s cultural and political landscape.</desc>
+  <programme start="20261024023000 -0400" stop="20261024030000 -0400" channel="464906">
+    <title>Jesus the Healer With Nancy Dufresne</title>
+    <desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
   </programme>
-  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="GospelTruthTV.us">
-    <title>The Winner's Way</title>
-    <sub-title>Passing the Test: The Mental Test</sub-title>
-    <desc>You will experience God’s will to the extent that your mind is renewed to God and His Word. A renewed mind will pass the mental tests of life.</desc>
+  <programme start="20261024030000 -0400" stop="20261024033000 -0400" channel="464906">
+    <title>The Winner's Way With Mac Hammond</title>
+    <desc>Pastor Mac Hammond delivers a religious discourse inspired by the teachings of the Bible to Christian devotees and sheds light on the Word of God.</desc>
+  </programme>
+  <programme start="20261024033000 -0400" stop="20261024040000 -0400" channel="464906">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261024040000 -0400" stop="20261024043000 -0400" channel="464906">
+    <title>Travel the Road</title>
+    <desc>Documenting the adventurous lives of young missionaries Tim Scott and Will Decker, as they travel to various areas around the world.</desc>
+  </programme>
+  <programme start="20261024043000 -0400" stop="20261024050000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024060000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024063000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024063000 -0400" stop="20261024070000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024073000 -0400" channel="464906">
+    <title>Revelation Battle Plan's</title>
+  </programme>
+  <programme start="20261024073000 -0400" stop="20261024080000 -0400" channel="464906">
+    <title>Revelation Battle Plan's</title>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024083000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024083000 -0400" stop="20261024090100 -0400" channel="464906">
+    <title>Superbook</title>
+    <desc>Chris, Joy and Gizmo meet Job, who trusts God even when he loses everything.</desc>
+  </programme>
+  <programme start="20261024090100 -0400" stop="20261024093200 -0400" channel="464906">
+    <title>Lessons From the Bible</title>
+    <desc>Doug, Amelia, and Dusty, explore what it means to be a good friend; learning about one of the best friendships in the Bible, David and Jonathan; how Jesus is a friend to humanity.</desc>
+  </programme>
+  <programme start="20261024093200 -0400" stop="20261024100300 -0400" channel="464906">
+    <title>Dusty's Neighbourhood</title>
+    <desc>When Dusty is interviewed for the local news, he lets things get to his head; how do his friends deal with the new Dusty?</desc>
+  </programme>
+  <programme start="20261024100300 -0400" stop="20261024103400 -0400" channel="464906">
+    <title>Cowboy Dan's Frontier</title>
+    <desc>Do Wah Diddy gives a tour of his hometown and shows what it's like to live in the country.</desc>
+  </programme>
+  <programme start="20261024103400 -0400" stop="20261024105600 -0400" channel="464906">
+    <title>Owlegories</title>
+    <desc>The class travel to the past to learn how the milkshake was invented and figure out three facts about milk that relate back to faith along the way.</desc>
+  </programme>
+  <programme start="20261024105600 -0400" stop="20261024112700 -0400" channel="464906">
+    <title>Superbook</title>
+    <desc>Noah builds an ark and saves his family from a worldwide flood.</desc>
+  </programme>
+  <programme start="20261024112700 -0400" stop="20261024115800 -0400" channel="464906">
+    <title>The Torchlighters: Heroes of the Faith</title>
+    <desc>George Müller and his wife, Mary, open the first orphanages supported entirely by prayer.</desc>
+  </programme>
+  <programme start="20261024115800 -0400" stop="20261024123000 -0400" channel="464906">
+    <title>Scaly Adventures</title>
+    <desc>The crew goes out on the training field and into the community at night with the Anderson County Sheriff's Office in South Carolina.</desc>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="464906">
+    <title>Love a Child</title>
+    <desc>Missionaries work to share hope and spread the message of God's love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024133000 -0400" channel="464906">
+    <title>Drenda</title>
+    <desc>Drenda's deep desire is to see you experience more of what matters in your life.</desc>
+  </programme>
+  <programme start="20261024133000 -0400" stop="20261024140000 -0400" channel="464906">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East?</desc>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024143000 -0400" channel="464906">
+    <title>Jerusalem Dateline</title>
+    <desc>Hosted by Chris Mitchell, Jerusalem Dateline delivers on-the-ground reporting from Jerusalem with a biblical perspective; Julie Stahl, John Waage, and Joshua Swanson bring insight into events shaping the Middle East.</desc>
+  </programme>
+  <programme start="20261024143000 -0400" stop="20261024150000 -0400" channel="464906">
+    <title>Israel Now News</title>
+    <desc>The correspondents highlight news surrounding the nation of Israel, covering everything from current events and politics to social issues and much more.</desc>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="464906">
+    <title>Land of the Bible</title>
+    <desc>Expert guides and scholars bring Israel's Biblical history to life through ancient sites, archaeological discoveries and modern developments.</desc>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="464906">
+    <title>Your Miraculous Life With Dr. Kynan Bridges</title>
+    <desc>Dr. Kynan Bridges reveals how to operate in miracles, signs and wonders, while learning to see world events through the eyes of scripture.</desc>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024163000 -0400" channel="464906">
+    <title>Christian Worship Hour</title>
+    <desc>Offers Christian worship to those who are housebound.</desc>
+  </programme>
+  <programme start="20261024163000 -0400" stop="20261024170000 -0400" channel="464906">
+    <title>Tim Timberlake</title>
+    <desc>Tim Timberlake brings a message of hope and inspiration by going directly to God's Word, to provide solutions to life's toughest problems.</desc>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024173000 -0400" channel="464906">
+    <title>Breakthrough With Rod Parsley</title>
+    <desc>"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+  </programme>
+  <programme start="20261024173000 -0400" stop="20261024180000 -0400" channel="464906">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="464906">
+    <title>Gospel Music Showcase</title>
+    <desc>Southern Gospel and Bluegrass performances hosted by Guy Penrod.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="464906">
+    <title>Revelation Battle Plan's</title>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="464906">
+    <title>Revelation Battle Plan's</title>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024203000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261024203000 -0400" stop="20261024210000 -0400" channel="464906">
+    <title>Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+  </programme>
+  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="464906">
+    <title>Kenneth W. Hagin</title>
+    <desc>Pastor Kenneth Hagin presents viewers and congregants with an inspired message and music from Rhema Bible Church in Tulsa, Oklahoma.</desc>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024220000 -0400" channel="464906">
+    <title>PSB Prophetic Sound Broadcast With Shawn Baker</title>
+    <desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+  </programme>
+  <programme start="20261024220000 -0400" stop="20261024223000 -0400" channel="464906">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024230000 -0400" channel="464906">
+    <title>Prophecy USA</title>
+    <desc>Minister Rick Pearson discusses the hidden mysteries of America's role in Bible prophecy.</desc>
+  </programme>
+  <programme start="20261024230000 -0400" stop="20261024233000 -0400" channel="464906">
+    <title>Manna Fest With Perry Stone</title>
+    <desc>Perry Stone hosts this exciting program that deals with in-depth prophetic and practical studies of the Word of God; Manna-fest is a resource to help you better understand where we are now in light of Bible prophecy.</desc>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025000000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025003000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="464906">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis provides insights into the Jewish roots of Christianity; is Israel the aggressor in the Middle East?</desc>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="464906">
+    <title>Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025020000 -0400" channel="464906">
+    <title>Ron Carpenter</title>
+    <desc>Pastor Ron Carpenter of Redemption Bay Area in San Jose, Calif.</desc>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025023000 -0400" channel="464906">
+    <title>Healing Miracles With Pastor Addison Adamu</title>
+    <desc>With Addison Adamu, evangelist and pastor.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="464906">
+    <title>Glorious Moments With Prophet Jerome Fernando</title>
+    <desc>A man of faith teaches methods found within the Bible to explain how anyone can answer their own prayers.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025033000 -0400" channel="464906">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025033000 -0400" stop="20261025040000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261025040000 -0400" stop="20261025050000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025053000 -0400" channel="464906">
+    <title>Jerusalem Dateline</title>
+    <desc>Hosted by Chris Mitchell, Jerusalem Dateline delivers on-the-ground reporting from Jerusalem with a biblical perspective; Julie Stahl, John Waage, and Joshua Swanson bring insight into events shaping the Middle East.</desc>
+  </programme>
+  <programme start="20261025053000 -0400" stop="20261025060000 -0400" channel="464906">
+    <title>Israel Now News</title>
+    <desc>The correspondents highlight news surrounding the nation of Israel, covering everything from current events and politics to social issues and much more.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025063000 -0400" channel="464906">
+    <title>Land of the Bible</title>
+    <desc>Expert guides and scholars bring Israel's Biblical history to life through ancient sites, archaeological discoveries and modern developments.</desc>
+  </programme>
+  <programme start="20261025063000 -0400" stop="20261025070000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="464906">
+    <title>The Lionheart Experience</title>
+    <desc>Clear, practical biblical teaching that strengthens faith, encourages spiritual growth and equips viewers to apply God's Word to everyday life.</desc>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025080000 -0400" channel="464906">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="464906">
+    <title>Dr. Robert Jeffress: Pathway to Victory</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="464906">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="464906">
+    <title>Hagee Ministries</title>
+    <desc>John Hagee is the founder and senior pastor of Cornerstone Church in San Antonio, Texas.; John Hagee Ministries telecasts his national television and radio teachings throughout America and internationally; the mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="464906">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025103000 -0400" channel="464906">
+    <title>Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="464906">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="464906">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="464906">
+    <title>Travis Johnson</title>
+    <desc>Pastor Travis Johnson ministers internationally and develops ministerial networks across churches.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="464906">
+    <title>Israel: The Prophetic Connection</title>
+    <desc>Join Rev. Dr. John Tweedie through images, on-site teaching and interviews.</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="464906">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="464906">
+    <title>It Is Written</title>
+    <desc>"It Is Written" has been a staple on American television since premiering in 1956. The weekly program, currently hosted by John Bradshaw, applies timeless truths to everyday life, with many episodes dealing with issues such as loneliness, fear, low self-esteem and spiritual principles. With its straightforward, uplifting presentations, the program aims to inspire and encourage people of all faiths</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="464906">
+    <title>The Winner's Way With Mac Hammond</title>
+    <desc>Pastor Mac Hammond delivers a religious discourse inspired by the teachings of the Bible to Christian devotees and sheds light on the Word of God.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="464906">
+    <title>Ron Carpenter</title>
+    <desc>Pastor Ron Carpenter of Redemption Bay Area in San Jose, Calif.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="464906">
+    <title>Hagee Ministries</title>
+    <desc>John Hagee is the founder and senior pastor of Cornerstone Church in San Antonio, Texas.; John Hagee Ministries telecasts his national television and radio teachings throughout America and internationally; the mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="464906">
+    <title>Israel: The Prophetic Connection</title>
+    <desc>Join Rev. Dr. John Tweedie through images, on-site teaching and interviews.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="464906">
+    <title>Your Miraculous Life With Dr. Kynan Bridges</title>
+    <desc>Dr. Kynan Bridges reveals how to operate in miracles, signs and wonders, while learning to see world events through the eyes of scripture.</desc>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025170000 -0400" channel="464906">
+    <title>Manna Fest With Perry Stone</title>
+    <desc>Perry Stone hosts this exciting program that deals with in-depth prophetic and practical studies of the Word of God; Manna-fest is a resource to help you better understand where we are now in light of Bible prophecy.</desc>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025173000 -0400" channel="464906">
+    <title>Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+  </programme>
+  <programme start="20261025173000 -0400" stop="20261025180000 -0400" channel="464906">
+    <title>John Ankerberg</title>
+    <desc>John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="464906">
+    <title>Bridging the Gap</title>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="464906">
+    <title>Faith Is the Victory</title>
+    <desc>Mark and Trina Hankins share messages about faith, helping believers understand their identity in Christ and the Holy Spirit's role in their lives.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="464906">
+    <title>The Potter's Touch With Bishop T.D. Jakes</title>
+    <desc>Bishop T.D. Jakes offers practical and spiritual solutions to life's toughest questions, including taboos and hidden issues.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="464906">
+    <title>Bishop Dale C. Bronner</title>
+    <desc>Power for living encourages, empowers, and equips viewers to live a triumphant life with Christ.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261026200000 -0400" channel="464906">
+    <title>Rejoice in the Lord</title>
+    <desc>Join the pastoral leaders and praise-and-worship team for the Word of God from the Campus Church of Pensacola Christian College.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025210000 -0400" channel="464906">
+    <title>Rejoice in the Lord</title>
+    <desc>Join the pastoral leaders and praise-and-worship team for the Word of God from the Campus Church of Pensacola Christian College.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="464906">
+    <title>John Ankerberg</title>
+    <desc>John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="464906">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025223000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="464906">
+    <title>Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="464906">
+    <title>Hal Lindsey</title>
+    <desc>Hal Lindsey shares his insights into the prophecies in the Book of John.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="464906">
+    <title>Prophecy Watchers</title>
+    <desc>Bible prophecy lives! Join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026003000 -0400" channel="464906">
+    <title>Prophecy Live</title>
+  </programme>
+  <programme start="20261026003000 -0400" stop="20261026010000 -0400" channel="464906">
+    <title>Dr. Sam</title>
+    <desc>Cardiologist, evangelist, medical missionary and author Samuel Kojoglanian, MD, known as Dr. Sam, provides a Biblical study of the end times with geopolitical views and heartwarming medical analogies.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026013000 -0400" channel="464906">
+    <title>Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+  </programme>
+  <programme start="20261026013000 -0400" stop="20261026020000 -0400" channel="464906">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="464906">
+    <title>The Lionheart Experience</title>
+    <desc>Clear, practical biblical teaching that strengthens faith, encourages spiritual growth and equips viewers to apply God's Word to everyday life.</desc>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026033000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026033000 -0400" stop="20261026040000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026040000 -0400" stop="20261026043000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026043000 -0400" stop="20261026053000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="464906">
+    <title>Reflections</title>
+    <desc>Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026063000 -0400" channel="464906">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261026063000 -0400" stop="20261026070000 -0400" channel="464906">
+    <title>Prophecy Live</title>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026073000 -0400" channel="464906">
+    <title>Joni Table Talk</title>
+    <desc>Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="464906">
+    <title>Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="464906">
+    <title>Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="464906">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="464906">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="464906">
+    <title>Jesus the Healer With Nancy Dufresne</title>
+    <desc>The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="464906">
+    <title>Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="464906">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="464906">
+    <title>Sid Roth's It's Supernatural!</title>
+    <desc>Messianic investigator Sid Roth presents this show discussing and examining the supernatural reality and power of God.</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="464906">
+    <title>Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026130000 -0400" channel="464906">
+    <title>Ministry Now</title>
+    <desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="464906">
+    <title>Drenda</title>
+    <desc>Drenda's deep desire is to see you experience more of what matters in your life.</desc>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="464906">
+    <title>Love a Child</title>
+    <desc>Missionaries work to share hope and spread the message of God's love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026143000 -0400" channel="464906">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261026143000 -0400" stop="20261026150000 -0400" channel="464906">
+    <title>Miracle Word Today With Marilyn Hickey</title>
+    <desc>Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026153000 -0400" channel="464906">
+    <title>Prophecy Live</title>
+  </programme>
+  <programme start="20261026153000 -0400" stop="20261026160000 -0400" channel="464906">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>Revelation 12 pulls back the veil to uncover the origin of sin and the conflict between God's people and their archenemy. Satan's true character shows to what extent he will go to destroy God's faithful bride in the last days. Part 2 of 2.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="464906">
+    <title>Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="464906">
+    <title>Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="464906">
+    <title>PSB Prophetic Sound Broadcast With Shawn Baker</title>
+    <desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="464906">
+    <title>Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="464906">
+    <title>Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="464906">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="464906">
+    <title>Manna Fest With Perry Stone</title>
+    <desc>Perry Stone hosts this exciting program that deals with in-depth prophetic and practical studies of the Word of God; Manna-fest is a resource to help you better understand where we are now in light of Bible prophecy.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="464906">
+    <title>Breakthrough With Rod Parsley</title>
+    <desc>"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261027200000 -0400" channel="464906">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026203000 -0400" channel="464906">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="464906">
+    <title>Joni Table Talk</title>
+    <desc>Joseph Z shares God's Prophetic Endgame, tracing His redemptive plan from the dawn of creation to earth's final days and Jesus' victorious return.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="464906">
+    <title>Ministry Now</title>
+    <desc>Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="464906">
+    <title>Healing Miracles With Pastor Addison Adamu</title>
+    <desc>With Addison Adamu, evangelist and pastor.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="464906">
+    <title>Ron Carpenter</title>
+    <desc>Pastor Ron Carpenter of Redemption Bay Area in San Jose, Calif.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261026233000 -0400" channel="464906">
+    <title>Kenneth W. Hagin</title>
+    <desc>Pastor Kenneth Hagin presents viewers and congregants with an inspired message and music from Rhema Bible Church in Tulsa, Oklahoma.</desc>
+  </programme>
+  <programme start="20261026233000 -0400" stop="20261027000000 -0400" channel="464906">
+    <title>Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="464906">
+    <title>Healing Time With Dr. Doug Weiss</title>
+    <desc>Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027200000 -0400" channel="464906">
+    <title>Joni Table Talk</title>
+    <desc>Philip Renner shares eye-opening testimonies from the darkest corners of the world and reveals how you can access God's power through bold obedience and prayer.</desc>
+  </programme>
+  <programme start="20261024000000 -0400" stop="20261024010000 -0400" channel="464958">
+    <title>Living Waters</title>
+    <desc>Mark Iannone.</desc>
+  </programme>
+  <programme start="20261024010000 -0400" stop="20261024020000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261024020000 -0400" stop="20261024023000 -0400" channel="464958">
+    <title>Breath of Life</title>
+    <desc>Dr. Carlton Byrd, speaker-director for Breath of Life Ministries, presents the gospel of Jesus Christ to the students.</desc>
+  </programme>
+  <programme start="20261024023000 -0400" stop="20261024030000 -0400" channel="464958">
+    <title>In the Footsteps of Paul</title>
+    <desc>The world of the Apostle Paul and how to apply his teachings to today.</desc>
+  </programme>
+  <programme start="20261024030000 -0400" stop="20261024040000 -0400" channel="464958">
+    <title>Flight: The Genius of Birds</title>
+    <desc>Slow-motion photography and computer animation help in the analysis of avian biology and behavior.</desc>
+  </programme>
+  <programme start="20261024040000 -0400" stop="20261024050000 -0400" channel="464958">
+    <title>Metamorphosis</title>
+    <desc>Spectacular photography, computer animation, and magnetic resonance imaging open once hidden doors to every stage of a butterfly's life-cycle.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024053000 -0400" channel="464958">
+    <title>Unsealing Daniel's Mysteries</title>
+    <desc>The host narrates stories from the Book of Daniel, explaining their significance and guiding people on the path of righteousness.</desc>
+  </programme>
+  <programme start="20261024053000 -0400" stop="20261024060000 -0400" channel="464958">
+    <title>CreationScapes</title>
+    <desc>Scenes with different themes and moods; soothing and inspirational music.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024070000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024080000 -0400" channel="464958">
+    <title>Origin</title>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024083000 -0400" channel="464958">
+    <title>Spencerville Church</title>
+    <desc>A variety of religious speakers share different Christian doctrines and passages from the Bible alongside their reflections on them.</desc>
+  </programme>
+  <programme start="20261024083000 -0400" stop="20261024090000 -0400" channel="464958">
+    <title>Inverse</title>
+    <desc>The hosts conduct an interactive study of the Bible and other topics related to the Adventist faith using a practical and authentic approach.</desc>
+  </programme>
+  <programme start="20261024090000 -0400" stop="20261024093000 -0400" channel="464958">
+    <title>Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+  </programme>
+  <programme start="20261024093000 -0400" stop="20261024100000 -0400" channel="464958">
+    <title>Mission 360</title>
+    <desc>The host provides an in-depth insight into the work, challenges and development of missionaries in different parts of the world.</desc>
+  </programme>
+  <programme start="20261024100000 -0400" stop="20261024110000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261024110000 -0400" stop="20261024120000 -0400" channel="464958">
+    <title>Loma Linda University Church at Worship</title>
+    <desc>Devotees worship through sermons, prayers and hymns at the Loma Linda University Church.</desc>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="464958">
+    <title>Breath of Life</title>
+    <desc>Dr. Carlton Byrd, speaker-director for Breath of Life Ministries, presents the gospel of Jesus Christ to the students.</desc>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="464958">
+    <title>It Is Written</title>
+    <desc>A discussion with health professionals and a former drug addict on the dangers of drug use and how it's possible to break the chains of addiction.</desc>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024140000 -0400" channel="464958">
+    <title>Pioneer Memorial Church</title>
+    <desc>Join Shane Anderson, Lead Pastor at Pioneer Memorial Church for his sermons from the Bible and music from our worship services.</desc>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024150000 -0400" channel="464958">
+    <title>Loma Linda University Church at Worship</title>
+    <desc>Devotees worship through sermons, prayers and hymns at the Loma Linda University Church.</desc>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="464958">
+    <title>The Creation: The Earth is a Witness</title>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="464958">
+    <title>The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024163000 -0400" channel="464958">
+    <title>Authentic</title>
+    <desc>Conversations about life, spirituality and God.</desc>
+  </programme>
+  <programme start="20261024163000 -0400" stop="20261024170000 -0400" channel="464958">
+    <title>Design in Galapagos</title>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024180000 -0400" channel="464958">
+    <title>The Call of the Cosmos</title>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="464958">
+    <title>Maranatha Mission Stories</title>
+    <desc>Testimonies by people from various walks of life who have transformed their lives with help from Maranatha Mission volunteers.</desc>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="464958">
+    <title>Jesus 101</title>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="464958">
+    <title>Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="464958">
+    <title>Daniel Versus Everyone</title>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024210000 -0400" channel="464958">
+    <title>Unlocking Bible Prophecies</title>
+    <desc>Learn that Jesus' love for you can be found at the heart of Revelation, and that its prophecies reveal hope for your future.</desc>
+  </programme>
+  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="464958">
+    <title>Lifestyle Magazine</title>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024230000 -0400" channel="464958">
+    <title>Family Reunion</title>
+  </programme>
+  <programme start="20261024230000 -0400" stop="20261025000000 -0400" channel="464958">
+    <title>Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025003000 -0400" channel="464958">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>There is a popular belief that souls go to heaven or hell as soon as the body dies.But the Bible says that the soul is"a living being"and that a soul can die.Scripture also describes death as a"sleep"from which we awake at one of 2 resurrections.</desc>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="464958">
+    <title>Faith &amp; Politics</title>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="464958">
+    <title>My Greatest Purpose</title>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025020000 -0400" channel="464958">
+    <title>My Greatest Purpose</title>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025021500 -0400" channel="464958">
+    <title>700 Years of Happiness</title>
+  </programme>
+  <programme start="20261025021500 -0400" stop="20261025023000 -0400" channel="464958">
+    <title>700 Years of Happiness</title>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="464958">
+    <title>Decoding Hope</title>
+    <desc>We take a stroll through the very first battleground, the Garden of Eden, to understand the roots of the conflict that will one day explode at Armageddon.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025040000 -0400" channel="464958">
+    <title>Cross Connection</title>
+    <desc>Hosts Oleg Kostyuk and Sergio Gonzalez examine the life of Jesus Christ through discussion of the four Gospels and conversations with guests.</desc>
+  </programme>
+  <programme start="20261025040000 -0400" stop="20261025050000 -0400" channel="464958">
+    <title>Prophecy Unsealed</title>
+    <desc>Questions or to order a copy of this program call 541-474-3089.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025053000 -0400" channel="464958">
+    <title>Journeys</title>
+    <desc>Struggling with bitterness from her childhood experiences, Cacyne did not believe in God or in marriage, but all that would soon change.</desc>
+  </programme>
+  <programme start="20261025053000 -0400" stop="20261025060000 -0400" channel="464958">
+    <title>CreationScapes</title>
+    <desc>Scenes with different themes and moods; soothing and inspirational music.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025070000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025080000 -0400" channel="464958">
+    <title>Loma Linda University Church at Worship</title>
+    <desc>Devotees worship through sermons, prayers and hymns at the Loma Linda University Church.</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="464958">
+    <title>Faith and Life</title>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="464958">
+    <title>Ancient Bible Destinations</title>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="464958">
+    <title>Authentic With Shawn Boonstra</title>
+    <desc>Conversations about life, spirituality and God.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="464958">
+    <title>It Is Written</title>
+    <desc>Pop culture is full of ghost stories; whether ghosts are truly people who have come back from the dead; Bible verses that show the truth behind this common deception.</desc>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025110000 -0400" channel="464958">
+    <title>Pioneer Memorial Church</title>
+    <desc>Join Shane Anderson, Lead Pastor at Pioneer Memorial Church for his sermons from the Bible and music from our worship services.</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="464958">
+    <title>Faith &amp; Politics</title>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="464958">
+    <title>Cliff!</title>
+    <desc>Author and speaker Cliff Goldstein melds basic truths, literature and popular culture to answer some of life's most abstract questions; a former atheist, he understands firsthand the struggle with faith.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025130000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="464958">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>Revelation 12 pulls back the veil to uncover the origin of sin and the conflict between God's people and their archenemy. Satan's true character shows to what extent he will go to destroy God's faithful bride in the last days. Part 2 of 2.</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="464958">
+    <title>Decoding Hope</title>
+    <desc>We take a stroll through the very first battleground, the Garden of Eden, to understand the roots of the conflict that will one day explode at Armageddon.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="464958">
+    <title>Inverse</title>
+    <desc>The hosts conduct an interactive study of the Bible and other topics related to the Adventist faith using a practical and authentic approach.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="464958">
+    <title>Spencerville Church</title>
+    <desc>A variety of religious speakers share different Christian doctrines and passages from the Bible alongside their reflections on them.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="464958">
+    <title>The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="464958">
+    <title>My Greatest Purpose</title>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="464958">
+    <title>My Greatest Purpose</title>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025164500 -0400" channel="464958">
+    <title>700 Years of Happiness</title>
+  </programme>
+  <programme start="20261025164500 -0400" stop="20261025170000 -0400" channel="464958">
+    <title>700 Years of Happiness</title>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025180000 -0400" channel="464958">
+    <title>Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="464958">
+    <title>Faith &amp; Politics</title>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="464958">
+    <title>Real Family Talk</title>
+    <desc>Discussing family dynamics and sharing tools to strengthen marriages and families.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="464958">
+    <title>Unsealing Daniel's Mysteries</title>
+    <desc>The host narrates stories from the Book of Daniel, explaining their significance and guiding people on the path of righteousness.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="464958">
+    <title>Maranatha Mission Stories</title>
+    <desc>Testimonies by people from various walks of life who have transformed their lives with help from Maranatha Mission volunteers.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261026200000 -0400" channel="464958">
+    <title>Lifestyle Magazine</title>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025203000 -0400" channel="464958">
+    <title>Lifestyle Magazine</title>
+  </programme>
+  <programme start="20261025203000 -0400" stop="20261025210000 -0400" channel="464958">
+    <title>Arnion</title>
+    <desc>Robin Anthony and Miriam Johnson explore the themes of the Book of Revelation through simple dramatic interpretations.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="464958">
+    <title>Lessons 4 Living</title>
+    <desc>Lessons for navigating a spiritual journey.</desc>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="464958">
+    <title>Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025230000 -0400" channel="464958">
+    <title>Bible Answers Live</title>
+    <desc>Discussing biblical answers to questions about life and faith with religious leaders.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="464958">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>The first angel's message in Revelation 14 is a call to worship Him "who made heaven and earth"-a direct reference to the fourth commandment. Most Christians believe that the seventh-day Sabbath is for Jews, but the Bible reveals a completely different picture. Part 1 of 2.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="464958">
+    <title>Unsealing Daniel's Mysteries</title>
+    <desc>The host narrates stories from the Book of Daniel, explaining their significance and guiding people on the path of righteousness.</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026010000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026020000 -0400" channel="464958">
+    <title>Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="464958">
+    <title>Cross Connection</title>
+    <desc>Oleg and Sergio sit down with guests Claudia and Imani to discuss Paul's ministry in the Ephesian community and the role of power, wealth and religion.</desc>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="464958">
+    <title>Unhooked</title>
+    <desc>Keith shares how peer pressure contributed to his addictions early in life; a panel of experts discusses different addictions and how to overcome them.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026040000 -0400" channel="464958">
+    <title>New Perceptions</title>
+    <desc>Messages from Pioneer Memorial Church.</desc>
+  </programme>
+  <programme start="20261026040000 -0400" stop="20261026050000 -0400" channel="464958">
+    <title>Prophecy Unsealed</title>
+    <desc>Questions or to order a copy of this program call 541-474-3089.</desc>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026053000 -0400" channel="464958">
+    <title>Ancient Bible Destinations</title>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="464958">
+    <title>CreationScapes</title>
+    <desc>Scenes with different themes and moods; soothing and inspirational music.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026070000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026071500 -0400" channel="464958">
+    <title>Wake Up With Hope</title>
+    <desc>Hosts Christian and Heidi Martin deliver messages from the Bible that guide people through their daily lives.</desc>
+  </programme>
+  <programme start="20261026071500 -0400" stop="20261026073000 -0400" channel="464958">
+    <title>Hope Talks</title>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="464958">
+    <title>The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="464958">
+    <title>Breath of Life</title>
+    <desc>Dr. Carlton Byrd, speaker-director for Breath of Life Ministries, presents the gospel of Jesus Christ to the students.</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="464958">
+    <title>Let's Pray!</title>
+    <desc>A global community of prayer invites viewers to call in with their prayer requests and praises.</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="464958">
+    <title>Mum's at the Table</title>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="464958">
+    <title>Inverse</title>
+    <desc>The hosts conduct an interactive study of the Bible and other topics related to the Adventist faith using a practical and authentic approach.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="464958">
+    <title>Wake Up With Hope</title>
+    <desc>Hosts Christian and Heidi Martin deliver messages from the Bible that guide people through their daily lives.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="464958">
+    <title>The Incredible Journey</title>
+    <desc>Archaeologist and pastor Gary Kent communicates the Gospel of Jesus Christ through fascinating stories of history and testimonies of people from different walks of life.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="464958">
+    <title>Breath of Life</title>
+    <desc>Dr. Carlton Byrd, speaker-director for Breath of Life Ministries, presents the gospel of Jesus Christ to the students.</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="464958">
+    <title>Real Family Talk</title>
+    <desc>Discussing family dynamics and sharing tools to strengthen marriages and families.</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026123000 -0400" channel="464958">
+    <title>Mum's at the Table</title>
+  </programme>
+  <programme start="20261026123000 -0400" stop="20261026130000 -0400" channel="464958">
+    <title>Mission 360</title>
+    <desc>The host provides an in-depth insight into the work, challenges and development of missionaries in different parts of the world.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026140000 -0400" channel="464958">
+    <title>Go Healthy for Good!</title>
+    <desc>Type 1 Diabetes: Type 1 diabetes is a disorder characterized by fluctuating glucose levels and insulin injections. As Dr. Nerida explains, lifestyle can be a major factor.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="464958">
+    <title>Table Talk</title>
+    <desc>Ty Gibson, James Rafferty, David Asscherick and Jeffrey Rosario in dialogue on "The Big Picture.".</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026153000 -0400" channel="464958">
+    <title>King's Kids</title>
+    <desc>Meet Grandpa John as he tells us a story from Matthew about forgiveness. Enjoy Sand Art, Craft, Professor IR Wise, songs and lots more interactive fun and learning with the King's Kids.</desc>
+  </programme>
+  <programme start="20261026153000 -0400" stop="20261026160000 -0400" channel="464958">
+    <title>Arnie's Shack</title>
+    <desc>Part 3/3. Uniquely Australian with original music, puppets and a children's DIY.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="464958">
+    <title>Bible Heroes Game Show</title>
+    <desc>Hosts Nathan DeWild and Garrison Hayes test out the young contestants' biblical knowledge as they journey through the ancient lands of Egypt and learn the story of Moses.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="464958">
+    <title>The Creation Case</title>
+    <desc>Doc M, Jacqui and Rich travel to the most beautiful places around the world to answer questions surrounding the changes on Earth.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="464958">
+    <title>Cross Connection</title>
+    <desc>Hosts Oleg Kostyuk and Sergio Gonzalez examine the life of Jesus Christ through discussion of the four Gospels and conversations with guests.</desc>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="464958">
+    <title>The Great Outdoors</title>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026190000 -0400" channel="464958">
+    <title>Bible Answers Live</title>
+    <desc>Discussing biblical answers to questions about life and faith with religious leaders.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="464958">
+    <title>Decoding Hope</title>
+    <desc>We take a stroll through the very first battleground, the Garden of Eden, to understand the roots of the conflict that will one day explode at Armageddon.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="464958">
+    <title>Daniel Versus Everyone</title>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261027200000 -0400" channel="464958">
+    <title>Masterstroke</title>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026203000 -0400" channel="464958">
+    <title>Masterstroke</title>
+  </programme>
+  <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="464958">
+    <title>Shadow Empire</title>
+    <desc>Shadow Empire Hosted by Shawn Boonstra Shadow Empire—it's the gripping story of an unlikely emperor born out of wedlock and into poverty, who rose to power against staggering odds, and whose legacy has endured for centuries. Whether you realize it or not, Constantine the Great changed the course of history, and the reverberations of the decisions he made continue to this day.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="464958">
+    <title>Hope Sabbath School</title>
+    <desc>A group of young adults participate in an in-depth and interactive study of the Bible while discussing a variety of topics.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026230000 -0400" channel="464958">
+    <title>Hope at Night</title>
+    <desc>Sharing life-changing stories from guests and challenging viewers with thought-provoking questions, calls to action and discussions about serious life topics.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261026233000 -0400" channel="464958">
+    <title>Lifestyle Magazine</title>
+  </programme>
+  <programme start="20261026233000 -0400" stop="20261027000000 -0400" channel="464958">
+    <title>It Is Written: Canada</title>
+    <desc>Straightforward, Christ-centered presentations that inspire and encourage.</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="464958">
+    <title>Bible Help Desk</title>
+    <desc>Members of the clergy share their understandings of divine providence and teachings in order to guide devout Christians in leading exemplary lives.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027200000 -0400" channel="464958">
+    <title>Spencerville Church</title>
+    <desc>A variety of religious speakers share different Christian doctrines and passages from the Bible alongside their reflections on them.</desc>
+  </programme>
+  <programme start="20261024000000 -0400" stop="20261024003000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261024003000 -0400" stop="20261024010000 -0400" channel="465164">
+    <title>Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+  </programme>
+  <programme start="20261024010000 -0400" stop="20261024013000 -0400" channel="465164">
+    <title>World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+  </programme>
+  <programme start="20261024013000 -0400" stop="20261024020000 -0400" channel="465164">
+    <title>Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+  </programme>
+  <programme start="20261024020000 -0400" stop="20261024023000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261024023000 -0400" stop="20261024030000 -0400" channel="465164">
+    <title>Humanitarian</title>
+    <desc>An intervention seeks to improve the welfare and dignity of those in impoverished circumstances.</desc>
+  </programme>
+  <programme start="20261024030000 -0400" stop="20261024033000 -0400" channel="465164">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+  </programme>
+  <programme start="20261024033000 -0400" stop="20261024043000 -0400" channel="465164">
+    <title>Campmeeting</title>
+    <desc>Trust God for the breakthrough you've been praying for. Your Heavenly Father loves you and wants to step into the circumstances of your life! Enter into powerful worship by joining us for Campmeeting.</desc>
+  </programme>
+  <programme start="20261024043000 -0400" stop="20261024050000 -0400" channel="465164">
+    <title>Love Israel</title>
+    <desc>Hanukkah special.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024060000 -0400" channel="465164">
+    <title>ORU Chapel Service</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024063000 -0400" channel="465164">
+    <title>Christian World News</title>
+    <desc>George Thomas and co-anchor Wendy Griffith focus on news from around the world and the challenges of the global church; stories about Christians and their triumphs and tragedies, along with events that will affect us all.</desc>
+  </programme>
+  <programme start="20261024063000 -0400" stop="20261024070000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024073000 -0400" channel="465164">
+    <title>Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+  </programme>
+  <programme start="20261024073000 -0400" stop="20261024080000 -0400" channel="465164">
+    <title>The 700 Club Israel</title>
+    <desc>Hosted by Gordon Robertson, brings you weekly news, devotionals, interviews, and inspiring stories from the Holy Land. Discover what God is doing through CBN Israel and hear powerful testimonies of hope, faith, and humanitarian impact.</desc>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024083000 -0400" channel="465164">
+    <title>K.I.C.K.S. Club</title>
+    <desc>Puppets teach children about Jesus.</desc>
+  </programme>
+  <programme start="20261024083000 -0400" stop="20261024090000 -0400" channel="465164">
+    <title>Adventures in Dry Gulch</title>
+    <desc>Gospel Bill rides again in the town of Dry Gulch.</desc>
+  </programme>
+  <programme start="20261024090000 -0400" stop="20261024093000 -0400" channel="465164">
+    <title>Superbook</title>
+    <desc>Animated Bible stories from the Old Testament.</desc>
+  </programme>
+  <programme start="20261024093000 -0400" stop="20261024100000 -0400" channel="465164">
+    <title>Kids Like You</title>
+    <desc>Characters and puppets teach Christian values.</desc>
+  </programme>
+  <programme start="20261024100000 -0400" stop="20261024103000 -0400" channel="465164">
+    <title>Adventures in Dry Gulch</title>
+    <desc>Gospel Bill rides again in the town of Dry Gulch.</desc>
+  </programme>
+  <programme start="20261024103000 -0400" stop="20261024110000 -0400" channel="465164">
+    <title>Superbook</title>
+    <desc>Animated Bible stories from the Old Testament.</desc>
+  </programme>
+  <programme start="20261024110000 -0400" stop="20261024113000 -0400" channel="465164">
+    <title>Lifestyle</title>
+    <desc>Community happenings.</desc>
+  </programme>
+  <programme start="20261024113000 -0400" stop="20261024120000 -0400" channel="465164">
+    <title>Christian Music Countdown</title>
+    <desc>Host Genna Barlow along with new guests each week showcase Christian music videos.</desc>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="465164">
+    <title>Lift Up Jesus With Dudley Rutherford</title>
+    <desc>Senior Pastor Dudley Rutherford shares biblical truths and practical knowledge to live the life God intended for everybody, from Shepherd Church in Porter Ranch, Calif.</desc>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024133000 -0400" channel="465164">
+    <title>World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+  </programme>
+  <programme start="20261024133000 -0400" stop="20261024140000 -0400" channel="465164">
+    <title>Lifestyle</title>
+    <desc>Community happenings.</desc>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024150000 -0400" channel="465164">
+    <title>ORU Chapel Service</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="465164">
+    <title>The 700 Club Israel</title>
+    <desc>Hosted by Gordon Robertson, brings you weekly news, devotionals, interviews, and inspiring stories from the Holy Land. Discover what God is doing through CBN Israel and hear powerful testimonies of hope, faith, and humanitarian impact.</desc>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="465164">
+    <title>Jerusalem Dateline</title>
+    <desc>CBN News Middle East Bureau Chief Chris Mitchell reports on the latest events and how they impact Israel and the stability of the Middle East.</desc>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024163000 -0400" channel="465164">
+    <title>Humanitarian</title>
+    <desc>An intervention seeks to improve the welfare and dignity of those in impoverished circumstances.</desc>
+  </programme>
+  <programme start="20261024163000 -0400" stop="20261024170000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024173000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261024173000 -0400" stop="20261024180000 -0400" channel="465164">
+    <title>GOD TV Together Podcast</title>
+    <desc>Guests discuss contemporary issues from a religious perspective, emphasizing the importance of seeking the blessings of the Almighty.</desc>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="465164">
+    <title>Amazing Facts</title>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="465164">
+    <title>GEB Podcast TV</title>
+    <desc>Stepping into a world of inspiration with GEB America; connecting to meaningful conversations with the brightest minds and uplifting voices from around the world; whether it's CEOs, ministry leaders, musical artists or dynamic motivational speakers.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="465164">
+    <title>Joy for the Journey</title>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="465164">
+    <title>Watch Therefore</title>
+    <desc>Watch Therefore is a ministry that intentionally and practically teaches of the Lord Jesus and prepares for his coming.</desc>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024203000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261024203000 -0400" stop="20261024213000 -0400" channel="465164">
+    <title>Kenneth Cox Ministries</title>
+    <desc>Author and evangelist Kenneth Cox travels with his team and shares the message of salvation with the world.</desc>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024220000 -0400" channel="465164">
+    <title>PHD Ministries</title>
+    <desc>Prayer, Healing, and Deliverance Ministries.</desc>
+  </programme>
+  <programme start="20261024220000 -0400" stop="20261024223000 -0400" channel="465164">
+    <title>World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024233000 -0400" channel="465164">
+    <title>ORU Chapel Service</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025000000 -0400" channel="465164">
+    <title>The Incredible Journey</title>
+    <desc>A show that deals with the challenges and experiences on the journey of life and shares the good news of Jesus and the truth of the Bible.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025003000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="465164">
+    <title>Christian Music Countdown</title>
+    <desc>Host Genna Barlow along with new guests each week showcase Christian music videos.</desc>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025020000 -0400" channel="465164">
+    <title>ORU Chapel</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025023000 -0400" channel="465164">
+    <title>Lifestyle</title>
+    <desc>Community happenings.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="465164">
+    <title>GEB Podcast TV</title>
+    <desc>Stepping into a world of inspiration with GEB America; connecting to meaningful conversations with the brightest minds and uplifting voices from around the world; whether it's CEOs, ministry leaders, musical artists or dynamic motivational speakers.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025033000 -0400" channel="465164">
+    <title>Manna-Fest</title>
+    <desc>Perry Stone shares the Gospel and inspires faith.</desc>
+  </programme>
+  <programme start="20261025033000 -0400" stop="20261025043000 -0400" channel="465164">
+    <title>Campmeeting</title>
+    <desc>Trust God for the breakthrough you've been praying for. Your Heavenly Father loves you and wants to step into the circumstances of your life! Enter into powerful worship by joining us for Campmeeting.</desc>
+  </programme>
+  <programme start="20261025043000 -0400" stop="20261025050000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025060000 -0400" channel="465164">
+    <title>ORU Chapel</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025063000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025063000 -0400" stop="20261025070000 -0400" channel="465164">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="465164">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025080000 -0400" channel="465164">
+    <title>In Search with Phil Sanders</title>
+    <desc>Join Phil Sanders for a Bible-based message of God's grace.</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="465164">
+    <title>Dave Lombardi</title>
+    <desc>Religious programming.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="465164">
+    <title>The Incredible Journey</title>
+    <desc>A show that deals with the challenges and experiences on the journey of life and shares the good news of Jesus and the truth of the Bible.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="465164">
+    <title>Joy With Danette</title>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025103000 -0400" channel="465164">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="465164">
+    <title>David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="465164">
+    <title>Manna-Fest</title>
+    <desc>Perry Stone shares the Gospel and inspires faith.</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="465164">
+    <title>Lift Up Jesus With Dudley Rutherford</title>
+    <desc>Senior Pastor Dudley Rutherford shares biblical truths and practical knowledge to live the life God intended for everybody, from Shepherd Church in Porter Ranch, Calif.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="465164">
+    <title>Amazing Facts</title>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="465164">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="465164">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="465164">
+    <title>The Everliving Story</title>
+    <desc>Religious programming.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="465164">
+    <title>Real Life Jack Hibbs</title>
+    <desc>Jack Hibbs delivers a discourse on the teachings of the Almighty and inspires devotees to follow the path of righteousness.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025170000 -0400" channel="465164">
+    <title>Todds Road Grace Church</title>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025173000 -0400" channel="465164">
+    <title>Inspire with Mike Kai</title>
+    <desc>Mike Kai's humorous delivery and theological insight will inspire God's given potential through any situation.</desc>
+  </programme>
+  <programme start="20261025173000 -0400" stop="20261025180000 -0400" channel="465164">
+    <title>Joy for the Journey</title>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="465164">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="465164">
+    <title>Love Israel</title>
+    <desc>Hanukkah special.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261026200000 -0400" channel="465164">
+    <title>Israel: The Prophetic Connection</title>
+    <desc>Join Rev. Dr. John Tweedie through images, on-site teaching and interviews.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025203000 -0400" channel="465164">
+    <title>Israel: The Prophetic Connection</title>
+    <desc>Join Rev. Dr. John Tweedie through images, on-site teaching and interviews.</desc>
+  </programme>
+  <programme start="20261025203000 -0400" stop="20261025210000 -0400" channel="465164">
+    <title>The Incredible Journey</title>
+    <desc>A show that deals with the challenges and experiences on the journey of life and shares the good news of Jesus and the truth of the Bible.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="465164">
+    <title>Manna-Fest</title>
+    <desc>Perry Stone shares the Gospel and inspires faith.</desc>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="465164">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025223000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="465164">
+    <title>Watch Therefore</title>
+    <desc>Watch Therefore is a ministry that intentionally and practically teaches of the Lord Jesus and prepares for his coming.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="465164">
+    <title>World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026003000 -0400" channel="465164">
+    <title>Real Life Jack Hibbs</title>
+    <desc>Jack Hibbs delivers a discourse on the teachings of the Almighty and inspires devotees to follow the path of righteousness.</desc>
+  </programme>
+  <programme start="20261026003000 -0400" stop="20261026010000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026013000 -0400" channel="465164">
+    <title>Todds Road Grace Church</title>
+  </programme>
+  <programme start="20261026013000 -0400" stop="20261026020000 -0400" channel="465164">
+    <title>Bearded Bible Brothers</title>
+    <desc>Our Jewish Roots (formerly Zola Levitt Presents), teaches the Bible with an emphasis on Israel, prophecy, and the Jewish roots of Christianity. Joshua and Caleb Colson, the Bearded Bible Brothers, teach from the Holy Land, then join David and Kirsten Hart in studio. Using a strictly literal and inerrant Bible interpretation, salvation through Christ alone, an imminent pre-tribulation Rapture of al</desc>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="465164">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="465164">
+    <title>Concepts of Faith With Charles Capps</title>
+    <desc>Charles and Annette Capps teach lessons of faith and the power of the spoken and written word.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026050000 -0400" channel="465164">
+    <title>Campmeeting</title>
+    <desc>Trust God for the breakthrough you've been praying for. Your Heavenly Father loves you and wants to step into the circumstances of your life! Enter into powerful worship by joining us for Campmeeting.</desc>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026060000 -0400" channel="465164">
+    <title>ORU Chapel</title>
+    <desc>Services at Oral Roberts University.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026063000 -0400" channel="465164">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261026063000 -0400" stop="20261026070000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026073000 -0400" channel="465164">
+    <title>Manna-Fest</title>
+    <desc>Perry Stone shares the Gospel and inspires faith.</desc>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="465164">
+    <title>Life Today</title>
+    <desc>James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look t</desc>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="465164">
+    <title>David Jeremiah</title>
+    <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="465164">
+    <title>Jewish Voice with Jonathan Bernis</title>
+    <desc>Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="465164">
+    <title>Kenneth Copeland</title>
+    <desc>You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="465164">
+    <title>Believer's Walk of Faith With Bill Winston</title>
+    <desc>Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="465164">
+    <title>Joseph Prince</title>
+    <desc>Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="465164">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="465164">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understan</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="465164">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026123000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026123000 -0400" stop="20261026130000 -0400" channel="465164">
+    <title>Inspire with Mike Kai</title>
+    <desc>Mike Kai's humorous delivery and theological insight will inspire God's given potential through any situation.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="465164">
+    <title>Lifestyle</title>
+    <desc>Community happenings.</desc>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026143000 -0400" channel="465164">
+    <title>Dynamic Media Partners</title>
+  </programme>
+  <programme start="20261026143000 -0400" stop="20261026150000 -0400" channel="465164">
+    <title>Les Feldick</title>
+    <desc>Teaching the Bible.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026153000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026153000 -0400" stop="20261026160000 -0400" channel="465164">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="465164">
+    <title>Concepts of Faith With Charles Capps</title>
+    <desc>Charles and Annette Capps teach lessons of faith and the power of the spoken and written word.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="465164">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="465164">
+    <title>Miracle Word Today</title>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="465164">
+    <title>World Impact</title>
+    <desc>Biblical information and spiritual inspiration, produced by Voice of Salvation Ministries and The Church of God of Prophesy.</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="465164">
+    <title>Lifestyle</title>
+    <desc>Community happenings.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="465164">
+    <title>Prophecy USA</title>
+    <desc>Minister Rick Pearson discusses the hidden mysteries of America's role in Bible prophecy.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="465164">
+    <title>Larry and Tiz Huch</title>
+    <desc>Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261027200000 -0400" channel="465164">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026203000 -0400" channel="465164">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+  </programme>
+  <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="465164">
+    <title>International Fellowship of Christians &amp; Jews</title>
+    <desc>Promoting understanding and cooperation between Jews and Christians.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="465164">
+    <title>The 700 Club</title>
+    <desc>"The 700 Club," which first broadcast in 1966, is a newsmagazine featuring guests, news, music, testimonies and spiritual stories from a Christian perspective. News stories are frequently related to Bible passages or deal with Christian lifestyle issues. Hosts of the long-running religious show include televangelist (and former candidate for the Republican presidential nomination) Pat Robertson, T</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="465164">
+    <title>Joseph Prince Healing Special</title>
+    <desc>Joseph Prince reveals how to receive healing from God's Word and leads in a time of Holy Communion.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="465164">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261026233000 -0400" channel="465164">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261026233000 -0400" stop="20261027000000 -0400" channel="465164">
+    <title>Miracle Word Today</title>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="465164">
+    <title>Joel Osteen</title>
+    <desc>Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027200000 -0400" channel="465164">
+    <title>Todds Road Grace Church</title>
+  </programme>
+  <programme start="20261024003000 -0400" stop="20261024033000 -0400" channel="465321">
+    <title>You and Me Live Prayer</title>
+  </programme>
+  <programme start="20261024033000 -0400" stop="20261024043000 -0400" channel="465321">
+    <title>Radiant TV</title>
+    <desc>Hosted by RadiantTV Founder, Jamey Schmitz, each episode features majestic scenery of God's creation captured within the 59 U.S. National Parks, uplifting instrumental music of the Great Hymns of the Christian faith.</desc>
+  </programme>
+  <programme start="20261024043000 -0400" stop="20261024050000 -0400" channel="465321">
+    <title>CTN Special</title>
+    <desc>Various religious shows.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024060000 -0400" channel="465321">
+    <title>Truth and Liberty</title>
+    <desc>Educate, unify and mobilize believers in Jesus Christ to affect the reformation of nations through the seven mountains of cultural influence.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024063000 -0400" channel="465321">
+    <title>Superbook</title>
+    <desc>Animated Bible stories from the Old Testament.</desc>
+  </programme>
+  <programme start="20261024063000 -0400" stop="20261024070000 -0400" channel="465321">
+    <title>Scaly Adventures</title>
+    <desc>The Scaly Adventures Crew journeys the world in search of amazing animals and incredible adventures.</desc>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024073000 -0400" channel="465321">
+    <title>HisShow</title>
+    <desc>HisShow is a 3-D animated Bible series for Children that provides a fun experience for children to learn Bible stories and songs in an engaging way.</desc>
+  </programme>
+  <programme start="20261024073000 -0400" stop="20261024080000 -0400" channel="465321">
+    <title>Christian Fitness Kids</title>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024083000 -0400" channel="465321">
+    <title>Grandma Goodies</title>
+    <desc>Connie Neal brings sweetness and humor to the character of Grandma Goodie. This program will help young children learn the Word of God.</desc>
+  </programme>
+  <programme start="20261024083000 -0400" stop="20261024090000 -0400" channel="465321">
+    <title>The Torchlighters</title>
+    <desc>Heroes and heroines of Christian faith, both Biblical and contemporary.</desc>
+  </programme>
+  <programme start="20261024090000 -0400" stop="20261024093000 -0400" channel="465321">
+    <title>Dusty's Neighborhood</title>
+    <desc>Pastor Doug and his rambunctious puppy, Dusty, have visits from local kids and quirky neighbors. Bible stories lead kids to practical discoveries about wisdom, character, and faith.</desc>
+  </programme>
+  <programme start="20261024093000 -0400" stop="20261024100000 -0400" channel="465321">
+    <title>Superbook</title>
+    <desc>Animated Bible stories from the Old Testament.</desc>
+  </programme>
+  <programme start="20261024100000 -0400" stop="20261024103000 -0400" channel="465321">
+    <title>Word of Excellence</title>
+    <desc>Worship service from Parkview Christian Center with Pastor Henry L. Babers Sr.</desc>
+  </programme>
+  <programme start="20261024103000 -0400" stop="20261024110000 -0400" channel="465321">
+    <title>Gospel Country</title>
+    <desc>Original Country Gospel singing and expository teaching.</desc>
+  </programme>
+  <programme start="20261024110000 -0400" stop="20261024113000 -0400" channel="465321">
+    <title>Life Outreach International</title>
+    <desc>James and Betty Robison share inspiring stories dedicated to worldwide evangelism and bringing food to areas plagued by famine; the ministry encourages the support of missions and relief programs in areas of need throughout the world.</desc>
+  </programme>
+  <programme start="20261024113000 -0400" stop="20261024120000 -0400" channel="465321">
+    <title>Nutrient TV</title>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="465321">
+    <title>In the Kitchen with Gigi</title>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="465321">
+    <title>Tightline Fishing</title>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024133000 -0400" channel="465321">
+    <title>Devotions TV</title>
+    <desc>Roman Catholic Devotions to Mary, Mother of the Church, Mother of Perpetual Help.</desc>
+  </programme>
+  <programme start="20261024133000 -0400" stop="20261024140000 -0400" channel="465321">
+    <title>CrossFlex Youth</title>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024150000 -0400" channel="465321">
+    <title>Bill Gaither Homecoming</title>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="465321">
+    <title>The Voice of Eternal Gospel</title>
+    <desc>A Christian program bringing messages and prophecies for the end times.</desc>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="465321">
+    <title>Destined2Roam</title>
+    <desc>Fun filled, unscripted, reality style, Christian travel program with lighthearted Steve and Carol; witnessing the beauty of God through nature.</desc>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024163000 -0400" channel="465321">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261024163000 -0400" stop="20261024170000 -0400" channel="465321">
+    <title>Bless Israel Media Advocacy</title>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024173000 -0400" channel="465321">
+    <title>Christian Worship Hour</title>
+    <desc>Offers Christian worship to those who are housebound.</desc>
+  </programme>
+  <programme start="20261024173000 -0400" stop="20261024180000 -0400" channel="465321">
+    <title>Spiritual Outdoors Adventures With Jimmy Sites</title>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="465321">
+    <title>Man360</title>
+    <desc>Interviews, Bible teaching, and a focus on men's emotional, spiritual and physical health.</desc>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="465321">
+    <title>Good News on Entertainment</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024200000 -0400" channel="465321">
+    <title>Come Alive</title>
+    <desc>A church brings its community together to be the hands and feet of Jesus.</desc>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024210000 -0400" channel="465321">
+    <title>Incredible Creatures That Define Design</title>
+    <desc>An inspired world of design where nature is the teacher, a place where human designers sit in the Earth's classroom to learn the mystery of creation.</desc>
+  </programme>
+  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024220000 -0400" channel="465321">
+    <title>Gateway Gospel Hour</title>
+    <desc>Gospel music, preaching from the Bible, and messages intended to encourage and teach the Word of God.</desc>
+  </programme>
+  <programme start="20261024220000 -0400" stop="20261024223000 -0400" channel="465321">
+    <title>Watch Therefore -- Dov Schwarz</title>
+    <desc>Exploding around the world with the light of the Gospel and discipleship of Messiah Jesus just before He comes for us.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024233000 -0400" channel="465321">
+    <title>Pray Today</title>
+  </programme>
+  <programme start="20261024233000 -0400" stop="20261025000000 -0400" channel="465321">
+    <title>Christian Music Countdown</title>
+    <desc>Host Caitlin Brewer along with special guests showcase contemporary worship and CCM videos. A CTN Production. Ian Skelley Producer/Editor. David Mayo Executive Producer.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025003000 -0400" channel="465321">
+    <title>All Together Now With Roy &amp; Melanie</title>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="465321">
+    <title>The Gospel Voice With Derrick Williams</title>
+    <desc>Uplifting Gospel, Christian, &amp; Original Music!</desc>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="465321">
+    <title>Christian Music Countdown</title>
+    <desc>Host Caitlin Brewer along with special guests showcase contemporary worship and CCM videos. A CTN Production. Ian Skelley Producer/Editor. David Mayo Executive Producer.</desc>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025020000 -0400" channel="465321">
+    <title>Generation Now</title>
+  </programme>
+  <programme start="20261025020000 -0400" stop="20261025023000 -0400" channel="465321">
+    <title>Change TV</title>
+    <desc>Discussing hot topics and playing music videos.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="465321">
+    <title>TV One Life</title>
+    <desc>Bringing young people to an encounter with God.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025033000 -0400" channel="465321">
+    <title>MXTV</title>
+    <desc>Evangelistic, music-oriented ministry for young adults.</desc>
+  </programme>
+  <programme start="20261025033000 -0400" stop="20261025043000 -0400" channel="465321">
+    <title>Radiant TV</title>
+    <desc>Hosted by RadiantTV Founder, Jamey Schmitz, each episode features majestic scenery of God's creation captured within the 59 U.S. National Parks, uplifting instrumental music of the Great Hymns of the Christian faith.</desc>
+  </programme>
+  <programme start="20261025043000 -0400" stop="20261025050000 -0400" channel="465321">
+    <title>Prophecy Watchers</title>
+    <desc>Bible prophecy lives; join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025060000 -0400" channel="465321">
+    <title>Bill Gaither Homecoming</title>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025063000 -0400" channel="465321">
+    <title>Love a Child</title>
+    <desc>Love a Child is a nonprofit Christian humanitarian organization that runs the Love a Child Orphanage in Haiti, where the organization's founders, Bobby and Sherry Burnette, live. Love a Child also runs 13 schools at which more than 5,000 children are educated and fed daily. The "Love a Child" TV program invites viewers to partake in the Burnettes' journey as they take viewers all over Haiti, showi</desc>
+  </programme>
+  <programme start="20261025063000 -0400" stop="20261025070000 -0400" channel="465321">
+    <title>Watch Therefore -- Dov Schwarz</title>
+    <desc>Exploding around the world with the light of the Gospel and discipleship of Messiah Jesus just before He comes for us.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="465321">
+    <title>CTN Special</title>
+    <desc>Various religious shows.</desc>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025080000 -0400" channel="465321">
+    <title>Word of God Ministries</title>
+    <desc>James McMenis preaching Jesus as the manifested Word of God.</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="465321">
+    <title>FLC - Keith Moore</title>
+    <desc>Sunday morning services with Keith Moore present praise, worship and teaching.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="465321">
+    <title>Calvin Evans Evangelistic Outreach</title>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="465321">
+    <title>Mel Bond - Last Days Signs &amp; Wonders</title>
+    <desc>Pastors Mel and Donna bring God's love to the world.</desc>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025103000 -0400" channel="465321">
+    <title>Voice of Evangelism with Pastor David Lankford</title>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="465321">
+    <title>Prophecy Watchers</title>
+    <desc>Bible prophecy lives; join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="465321">
+    <title>The Power of the Word</title>
+    <desc>Dr. Ed King of Redemption Church.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="465321">
+    <title>Love a Child</title>
+    <desc>Missionaries work to share hope and spread the message of God's love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="465321">
+    <title>Gary Keesee: Fixing the Money Thing</title>
+    <desc>Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025140000 -0400" channel="465321">
+    <title>Turning Point With David Jeremiah</title>
+    <desc>Turning Point for God's mission is to deliver the unchanging Word of God to an ever-changing world.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="465321">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="465321">
+    <title>Get Involved</title>
+    <desc>Do you avoid our culture's issues to protect yourself? Unplug for 30 minutes and discover how God's Word calls you to be part of the solution.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025160000 -0400" channel="465321">
+    <title>Pentecostal Revival Hour</title>
+    <desc>Apostle Albert Phelps brings his Sunday message from Lizella, GA.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="465321">
+    <title>Everlasting Gospel</title>
+    <desc>60-minute Bible lessons from Pastor Doug at Sacramento Central Church.</desc>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025170000 -0400" channel="465321">
+    <title>Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025180000 -0400" channel="465321">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="465321">
+    <title>Israel/Prophetic</title>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="465321">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="465321">
+    <title>Prophecy Watchers</title>
+    <desc>Bible prophecy lives; join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="465321">
+    <title>Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+  </programme>
+  <programme start="20261025203000 -0400" stop="20261025210000 -0400" channel="465321">
+    <title>The Living Word With Tommy Combs</title>
+    <desc>Teaching the Word of God with Hebrew Word Studies.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025220000 -0400" channel="465321">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025223000 -0400" channel="465321">
+    <title>Les Feldick</title>
+    <desc>Teaching the Bible.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="465321">
+    <title>The Lance Wallnau Show</title>
+    <desc>Lance simplifies the complex and entertains as he informs, offering perspective on current events.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="465321">
+    <title>Prophecy Watchers</title>
+    <desc>Bible prophecy lives! Join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026003000 -0400" channel="465321">
+    <title>Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+  </programme>
+  <programme start="20261026003000 -0400" stop="20261026010000 -0400" channel="465321">
+    <title>Discovering the Jewish Jesus</title>
+    <desc>Messianic rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026020000 -0400" channel="465321">
+    <title>Bill Gaither Homecoming</title>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="465321">
+    <title>Destined2Roam</title>
+    <desc>Fun filled, unscripted, reality style, Christian travel program with lighthearted Steve and Carol; witnessing the beauty of God through nature.</desc>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026030000 -0400" channel="465321">
+    <title>Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+  </programme>
+  <programme start="20261026030000 -0400" stop="20261026033000 -0400" channel="465321">
+    <title>The Lance Wallnau Show</title>
+    <desc>Lance simplifies the complex and entertains as he informs, offering perspective on current events.</desc>
+  </programme>
+  <programme start="20261026033000 -0400" stop="20261026043000 -0400" channel="465321">
+    <title>Radiant TV</title>
+    <desc>Hosted by RadiantTV Founder, Jamey Schmitz, each episode features majestic scenery of God's creation captured within the 59 U.S. National Parks, uplifting instrumental music of the Great Hymns of the Christian faith.</desc>
+  </programme>
+  <programme start="20261026043000 -0400" stop="20261026050000 -0400" channel="465321">
+    <title>Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026053000 -0400" channel="465321">
+    <title>Bridges Weekly</title>
+    <desc>Serving communities throughout the region as a trusted hometown shopper and community paper.</desc>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="465321">
+    <title>Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026063000 -0400" channel="465321">
+    <title>Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+  </programme>
+  <programme start="20261026063000 -0400" stop="20261026070000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026073000 -0400" channel="465321">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="465321">
+    <title>SoulFit TV</title>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="465321">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="465321">
+    <title>Gary Keesee: Fixing the Money Thing</title>
+    <desc>Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="465321">
+    <title>Rick Renner</title>
+    <desc>Rick Renner's in-depth Bible teachings, using the Greek text, help listeners gain new insight from God's Word.</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="465321">
+    <title>Dr. David Jeremiah</title>
+    <desc>Practical Bible teaching.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="465321">
+    <title>Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="465321">
+    <title>Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="465321">
+    <title>Life Today With James Robison</title>
+    <desc>James and Betty Robison host guests.</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026123000 -0400" channel="465321">
+    <title>Dr Ward Bond</title>
+    <desc>Inspiring stories. Musical guests. Healing remedies and recipes. The best in natural health television and information that can be trusted.</desc>
+  </programme>
+  <programme start="20261026123000 -0400" stop="20261026130000 -0400" channel="465321">
+    <title>CTN Special</title>
+    <desc>Various religious shows.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="465321">
+    <title>SoulFit TV</title>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="465321">
+    <title>Stem Cell Activators With Joseph Christiano ND</title>
+    <desc>This show is all about one's health and how stem cell activators are the most advanced technologies for ridding chronic pain, illness and diseases.</desc>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="465321">
+    <title>Your Health With Dr. Richard and Cindy Becker</title>
+    <desc>The Beckers bring a practical approach to health education through timely topics, interesting and renowned guests and live viewer calls - with a focus on preventative health, healthy cooking, and information with advice from a Christian perspective.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026153000 -0400" channel="465321">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261026153000 -0400" stop="20261026160000 -0400" channel="465321">
+    <title>Elevation With Steven Furtick</title>
+    <desc>Featuring inspirational messages from Pastor Steven Furtick at Elevation Church in North Carolina.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="465321">
+    <title>Joseph Prince</title>
+    <desc>Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="465321">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="465321">
+    <title>Bringing Hope &amp; Freedom</title>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="465321">
+    <title>Through the Bible With Les Feldick</title>
+    <desc>Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="465321">
+    <title>Transformed by Grace with Kevin Sadler</title>
+    <desc>Pastor Kevin Sadler presents the transforming power of God's grace.</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="465321">
+    <title>The Pastor's Study</title>
+    <desc>Setting people free by preaching the truth of Christ for the salvation of the lost and for the correction and edification of the Church.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="465321">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="465321">
+    <title>Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+  </programme>
+  <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="465321">
+    <title>The Power of the Word</title>
+    <desc>Dr. Ed King of Redemption Church.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026213000 -0400" channel="465321">
+    <title>CTN Special</title>
+    <desc>Various religious shows.</desc>
+  </programme>
+  <programme start="20261026213000 -0400" stop="20261026220000 -0400" channel="465321">
+    <title>The Lance Wallnau Show</title>
+    <desc>Lance simplifies the complex and entertains as he informs, offering perspective on current events.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="465321">
+    <title>Come Home With Jen Mallan</title>
+    <desc>Host Jen Mallan features special guests addressing a range of topics helping us be informed about healthy eating, tidbits for our home and other fun things.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="465321">
+    <title>Good News with Greg Fritz</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261026233000 -0400" channel="465321">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+  </programme>
+  <programme start="20261026233000 -0400" stop="20261027003000 -0400" channel="465321">
+    <title>Great Awakening With Dr. Rodney Howard-Browne</title>
+    <desc>Rodney Howard-Browne shares the gospel and the word of God.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027200000 -0400" channel="465321">
+    <title>You and Me Live Prayer</title>
+  </programme>
+  <programme start="20261024003000 -0400" stop="20261024010000 -0400" channel="467309">
+    <title>Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+  </programme>
+  <programme start="20261024010000 -0400" stop="20261024013000 -0400" channel="467309">
+    <title>Gaither Gospel Hour</title>
+    <desc>Bill and Gloria Gaither and their Homecoming Friends gather in Tulsa, Okla. for a weekend of sweet fellowship, inspiring messages and life-giving music.</desc>
+  </programme>
+  <programme start="20261024013000 -0400" stop="20261024020000 -0400" channel="467309">
+    <title>Vinia: Erick Stakelbeck Hydration</title>
+  </programme>
+  <programme start="20261024020000 -0400" stop="20261024023000 -0400" channel="467309">
+    <title>God's Appointed Times With Rabbi Jason Sobel</title>
+    <desc>Rabbi Jason is joined by Rich Garza, an NBA chaplain; Rabbi and Rich sit down to discuss three different biblical celebrations that all connect; Rabbi shows how people need both the old and the new.</desc>
+  </programme>
+  <programme start="20261024023000 -0400" stop="20261024030000 -0400" channel="467309">
+    <title>Boots on the Ground</title>
+    <desc>Factual in-depth information about the ongoing war, providing viewers with clear insight into tactical maneuvers and key military events.</desc>
+  </programme>
+  <programme start="20261024030000 -0400" stop="20261024040000 -0400" channel="467309">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261024040000 -0400" stop="20261024050000 -0400" channel="467309">
+    <title>Stand With Israel: Rooted in Biblical Truth</title>
+    <desc>Erick Stakelbeck leads a discussion on the current state of Israel, focusing on the events of October 7th; an expert panel, including Mati Shoshani, Yair Pinto, Joel Rosenberg, Tal Heinrich, Rabbi Jason Sobel, Daniah Greenberg, and Huckabee.</desc>
+  </programme>
+  <programme start="20261024050000 -0400" stop="20261024053000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261024053000 -0400" stop="20261024060000 -0400" channel="467309">
+    <title>Taking Care of Business</title>
+    <desc>Taking Care of Business looks into the issues surrounding retirement.</desc>
+  </programme>
+  <programme start="20261024060000 -0400" stop="20261024070000 -0400" channel="467309">
+    <title>Healing of the Nations</title>
+  </programme>
+  <programme start="20261024070000 -0400" stop="20261024073000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>Making choices that honor God.</desc>
+  </programme>
+  <programme start="20261024073000 -0400" stop="20261024080000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261024080000 -0400" stop="20261024100000 -0400" channel="467309">
+    <title>VeggieTales</title>
+    <desc>Bob the Tomato and Larry the Cucumber are an unlikely duo in a world of talking vegetables. The two friends learn about honesty, kindness, and forgiveness together -- and Larry always has a silly song to sing. Another main character on the show is 5-year-old Junior Asparagus.</desc>
+  </programme>
+  <programme start="20261024100000 -0400" stop="20261024103000 -0400" channel="467309">
+    <title>Joel Osteen: 15 Ways to Live Longer &amp; Healthier</title>
+    <desc>Joel Osteen shows how to tame stress, find happiness and increase energy, vitality and faith.</desc>
+  </programme>
+  <programme start="20261024103000 -0400" stop="20261024110000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261024110000 -0400" stop="20261024113000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261024113000 -0400" stop="20261024120000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261024123000 -0400" stop="20261024130000 -0400" channel="467309">
+    <title>Vinia: Sheila Walsh Hydration</title>
+  </programme>
+  <programme start="20261024130000 -0400" stop="20261024133000 -0400" channel="467309">
+    <title>Vinia: Erick Stakelbeck Hydration</title>
+  </programme>
+  <programme start="20261024133000 -0400" stop="20261024140000 -0400" channel="467309">
+    <title>Healing of the Nations</title>
+  </programme>
+  <programme start="20261024140000 -0400" stop="20261024143000 -0400" channel="467309">
+    <title>Ed Young: TBN Living Legacy</title>
+    <desc>Matt and Laurie Crouch sit down with Dr. Ed Young, Sr. to discuss the importance of a living legacy and how to fulfill your purpose in a way that glorifies God.</desc>
+  </programme>
+  <programme start="20261024143000 -0400" stop="20261024150000 -0400" channel="467309">
+    <title>Elmer Heinrich: Boosting Health with Immuno 150</title>
+    <desc>Matt Crouch interviews Elmer Heinrich, the company President and CEO of Liquid Assets, about boosting health with Immuno 150.</desc>
+  </programme>
+  <programme start="20261024150000 -0400" stop="20261024153000 -0400" channel="467309">
+    <title>Jim Scudder, Jr.: InGrace</title>
+    <desc>A religious leader elaborates on the teachings of the Almighty and encourages followers to follow the path of spirituality.</desc>
+  </programme>
+  <programme start="20261024153000 -0400" stop="20261024160000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Trusting God for healing? Come and see from Scripture how God's heart is to restore and renew you.</desc>
+  </programme>
+  <programme start="20261024160000 -0400" stop="20261024170000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>David Jeremiah explores the meaning of Jesus' words, "Come to Me.".</desc>
+  </programme>
+  <programme start="20261024170000 -0400" stop="20261024173000 -0400" channel="467309">
+    <title>Billy Graham Classics</title>
+    <desc>Biblical foundations for marriage; from San Antonio, Texas, 1968.</desc>
+  </programme>
+  <programme start="20261024173000 -0400" stop="20261024180000 -0400" channel="467309">
+    <title>BillyGraham.TV</title>
+    <desc>Billy Graham sheds light on the spiritual battle raging around us, and shares a message of hope in Jesus Christ.</desc>
+  </programme>
+  <programme start="20261024180000 -0400" stop="20261024183000 -0400" channel="467309">
+    <title>Vinia: Sheila Walsh Hydration</title>
+  </programme>
+  <programme start="20261024183000 -0400" stop="20261024190000 -0400" channel="467309">
+    <title>Bone Broth Protein</title>
+    <desc>Joining Charlie Kirk as he breaks down the biggest news, challenges the mainstream narrative, and delivers fearless commentary on faith, culture and politics; no spin, no censorship, just the TRUTH.</desc>
+  </programme>
+  <programme start="20261024190000 -0400" stop="20261024193000 -0400" channel="467309">
+    <title>Drive Thru History: The Gospels</title>
+    <desc>The story of Jesus from the locations recorded in Matthew, Mark, Luke and John.</desc>
+  </programme>
+  <programme start="20261024193000 -0400" stop="20261024200000 -0400" channel="467309">
+    <title>Your Move With Andy Stanley</title>
+    <desc>What defines a miracle, and how do miracles fit into the Christian faith?</desc>
+  </programme>
+  <programme start="20261024200000 -0400" stop="20261024210000 -0400" channel="467309">
+    <title>Gaither Gospel Hour</title>
+    <desc>The Gaither Vocal Band performs with a host of gospel artists from all across the United States; it is headed by Bill and Gloria Gaither.</desc>
+  </programme>
+  <programme start="20261024210000 -0400" stop="20261024213000 -0400" channel="467309">
+    <title>The Winning Walk With Dr. Ed Young</title>
+    <desc>The Winning Walk is the international teaching ministry of Dr. Ed Young.</desc>
+  </programme>
+  <programme start="20261024213000 -0400" stop="20261024220000 -0400" channel="467309">
+    <title>One for Israel</title>
+    <desc>A journey through a love story; God's covenant relationship with Israel and His invitation to the nations; learn how this love transforms lives.</desc>
+  </programme>
+  <programme start="20261024220000 -0400" stop="20261024223000 -0400" channel="467309">
+    <title>The Rosenberg Report</title>
+    <desc>Joel C. Rosenberg is a respected geopolitical expert on the Middle East. Each week, he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective.</desc>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024230000 -0400" channel="467309">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261024230000 -0400" stop="20261025000000 -0400" channel="467309">
+    <title>Gaither Gospel Hour</title>
+    <desc>The Gaither Vocal Band performs with a host of gospel artists from all across the United States; it is headed by Bill and Gloria Gaither.</desc>
+  </programme>
+  <programme start="20261025000000 -0400" stop="20261025003000 -0400" channel="467309">
+    <title>The Story Behind the Story With Mike Rowe</title>
+    <desc>Mike Rowe and Matt Crouch reflect on how a lie becomes truth and how that changes culture.</desc>
+  </programme>
+  <programme start="20261025003000 -0400" stop="20261025010000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261025010000 -0400" stop="20261025013000 -0400" channel="467309">
+    <title>The Rosenberg Report</title>
+    <desc>Joel C. Rosenberg is a respected geopolitical expert on the Middle East. Each week, he offers a close-up view of current events and issues in this volatile region, bringing important insights and biblical perspective.</desc>
+  </programme>
+  <programme start="20261025013000 -0400" stop="20261025023000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie sit down with Jentezen Franklin to discuss the global impact of TBN.</desc>
+  </programme>
+  <programme start="20261025023000 -0400" stop="20261025030000 -0400" channel="467309">
+    <title>Drive Thru History: The Gospels</title>
+    <desc>The story of Jesus from the locations recorded in Matthew, Mark, Luke and John.</desc>
+  </programme>
+  <programme start="20261025030000 -0400" stop="20261025040000 -0400" channel="467309">
+    <title>Cahn: The Avatar</title>
+    <desc>Matt and Laurie Crouch host Rabbi Jonathan Cahn for a conversation filled with prophetic mysteries and biblical revelations; he shares how ancient truths connect to current events from his new book "The Avatar.".</desc>
+  </programme>
+  <programme start="20261025040000 -0400" stop="20261025043000 -0400" channel="467309">
+    <title>Christ Meets Culture</title>
+    <desc>Scripture-based conversations with Dr. Robert J. Pacienza, equipping viewers to think biblically and engage today's culture with grace.</desc>
+  </programme>
+  <programme start="20261025043000 -0400" stop="20261025050000 -0400" channel="467309">
+    <title>Harvest With Pastor Greg Laurie</title>
+    <desc>Join Pastor Greg Laurie for a time of encouragement, worship and Bible study.</desc>
+  </programme>
+  <programme start="20261025050000 -0400" stop="20261025053000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261025053000 -0400" stop="20261025060000 -0400" channel="467309">
+    <title>The Grace Message With Dr. Andrew Farley</title>
+    <desc>Pastor Andrew Farley brings Biblical clarity and illuminates God's grace.</desc>
+  </programme>
+  <programme start="20261025060000 -0400" stop="20261025063000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261025063000 -0400" stop="20261025070000 -0400" channel="467309">
+    <title>From His Heart With Jeff Schreve</title>
+    <desc>Dr. Jeff Schreve speaks on God, real love and real hope.</desc>
+  </programme>
+  <programme start="20261025070000 -0400" stop="20261025073000 -0400" channel="467309">
+    <title>Live With Passion!</title>
+    <desc>Father Cedric Pisegna is a Catholic priest with a vision to inspire others and encourage them to live with passion.</desc>
+  </programme>
+  <programme start="20261025073000 -0400" stop="20261025080000 -0400" channel="467309">
+    <title>Dr. Tony Evans</title>
+    <desc>Dr. Tony Evans discusses practical issues of today.</desc>
+  </programme>
+  <programme start="20261025080000 -0400" stop="20261025083000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261025083000 -0400" stop="20261025090000 -0400" channel="467309">
+    <title>Touching Lives With James Merritt</title>
+    <desc>Dr. James Merritt desires to make the name of Jesus Christ known as well as to help empower Christians in their daily walk with God; Dr. Merritt's purpose remains to bring the lost to a personal encounter with Jesus Christ.</desc>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025093000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261025093000 -0400" stop="20261025100000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>Encouraging believers to keep their eyes on the Shepherd and trust His goodness and mercy to carry them forward.</desc>
+  </programme>
+  <programme start="20261025100000 -0400" stop="20261025103000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+  </programme>
+  <programme start="20261025103000 -0400" stop="20261025110000 -0400" channel="467309">
+    <title>Winning Walk</title>
+    <desc>The international teaching ministry of the Rev. Dr. Ed Young, senior pastor of Second Baptist Church in Houston, proclaims the truth of God's word to people throughout the world.</desc>
+  </programme>
+  <programme start="20261025110000 -0400" stop="20261025113000 -0400" channel="467309">
+    <title>Hagee Ministries</title>
+    <desc>The mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+  </programme>
+  <programme start="20261025113000 -0400" stop="20261025120000 -0400" channel="467309">
+    <title>Rick Warren</title>
+    <desc>Pastor Rick shares biblical truth and practical tools for living the full life God desires for everyone.</desc>
+  </programme>
+  <programme start="20261025120000 -0400" stop="20261025123000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261025123000 -0400" stop="20261025130000 -0400" channel="467309">
+    <title>Joseph Prince: Healing Scriptures</title>
+    <desc>Joseph Prince clears up some erroneous views on healing, explaining that God wants people well and whole.</desc>
+  </programme>
+  <programme start="20261025130000 -0400" stop="20261025133000 -0400" channel="467309">
+    <title>PowerPoint With Jack Graham</title>
+    <desc>Graham discusses what we as Christians can learn when we are in the pit like Joseph.</desc>
+  </programme>
+  <programme start="20261025133000 -0400" stop="20261025140000 -0400" channel="467309">
+    <title>It is Written with John Bradshaw</title>
+    <desc>Pop culture is full of ghost stories; whether ghosts are truly people who have come back from the dead; Bible verses that show the truth behind this common deception.</desc>
+  </programme>
+  <programme start="20261025140000 -0400" stop="20261025143000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261025143000 -0400" stop="20261025150000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261025150000 -0400" stop="20261025153000 -0400" channel="467309">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>Revelation 12 pulls back the veil to uncover the origin of sin and the conflict between God's people and their archenemy. Satan's true character shows to what extent he will go to destroy God's faithful bride in the last days. Part 2 of 2.</desc>
+  </programme>
+  <programme start="20261025153000 -0400" stop="20261025160000 -0400" channel="467309">
+    <title>Life Today</title>
+    <desc>The author of "Heaven for Today" expresses the hope of heaven, both eternally and during this lifetime.</desc>
+  </programme>
+  <programme start="20261025160000 -0400" stop="20261025163000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>Encouraging believers to keep their eyes on the Shepherd and trust His goodness and mercy to carry them forward.</desc>
+  </programme>
+  <programme start="20261025163000 -0400" stop="20261025170000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+  </programme>
+  <programme start="20261025170000 -0400" stop="20261025173000 -0400" channel="467309">
+    <title>Michael A. Youssef</title>
+    <desc>Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+  </programme>
+  <programme start="20261025173000 -0400" stop="20261025180000 -0400" channel="467309">
+    <title>Tim Timberlake</title>
+    <desc>Join Pastor Tim in this 2-part message where he shows what happens when God has to change what you see before he changes where you're going.</desc>
+  </programme>
+  <programme start="20261025180000 -0400" stop="20261025183000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261025183000 -0400" stop="20261025190000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Little things make a big difference. Today, Joyce teaches how to honor God in everyday choices and stop excusing habits that hold you back.</desc>
+  </programme>
+  <programme start="20261025190000 -0400" stop="20261025193000 -0400" channel="467309">
+    <title>Joseph Prince: Healing Scriptures</title>
+    <desc>Joseph Prince clears up some erroneous views on healing, explaining that God wants people well and whole.</desc>
+  </programme>
+  <programme start="20261025193000 -0400" stop="20261025200000 -0400" channel="467309">
+    <title>PowerPoint With Jack Graham</title>
+    <desc>Graham discusses what we as Christians can learn when we are in the pit like Joseph.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261026200000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+  </programme>
+  <programme start="20261025200000 -0400" stop="20261025203000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+  </programme>
+  <programme start="20261025203000 -0400" stop="20261025210000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>Encouraging believers to keep their eyes on the Shepherd and trust His goodness and mercy to carry them forward.</desc>
+  </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="467309">
+    <title>Ancient Nutrition</title>
+    <desc>Matt and Laurie Crouch host Jordan Rubin.</desc>
+  </programme>
+  <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="467309">
+    <title>Vinia: Erick Stakelbeck Hydration</title>
+  </programme>
+  <programme start="20261025220000 -0400" stop="20261025223000 -0400" channel="467309">
+    <title>Real Life With Jack Hibbs</title>
+    <desc>Pastor Jack is the founder and senior pastor of Calvary Chapel Chino Hills, one of America's fastest growing churches; he is also the president and founder of Real Life Ministries, a nationally syndicated radio and TV show.</desc>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025230000 -0400" channel="467309">
+    <title>Amazing Facts With Doug Batchelor</title>
+    <desc>Revelation 12 pulls back the veil to uncover the origin of sin and the conflict between God's people and their archenemy. Satan's true character shows to what extent he will go to destroy God's faithful bride in the last days. Part 2 of 2.</desc>
+  </programme>
+  <programme start="20261025230000 -0400" stop="20261025233000 -0400" channel="467309">
+    <title>Max Lucado: Grace</title>
+    <desc>Considering God's idea of grace.</desc>
+  </programme>
+  <programme start="20261025233000 -0400" stop="20261026000000 -0400" channel="467309">
+    <title>The Power of Healing Leaves With Jordan Rubin</title>
+  </programme>
+  <programme start="20261026000000 -0400" stop="20261026010000 -0400" channel="467309">
+    <title>Wintley Phipps: A Symphonic Tribute</title>
+    <desc>A night of music and ministry with Wintley Phipps as he joins Matt and Laurie to share timeless songs, powerful stories and a heartfelt reminder to shine the gifts God has placed within us.</desc>
+  </programme>
+  <programme start="20261026010000 -0400" stop="20261026013000 -0400" channel="467309">
+    <title>Vision Bible: The Journey Begins</title>
+  </programme>
+  <programme start="20261026013000 -0400" stop="20261026020000 -0400" channel="467309">
+    <title>Healing of the Nations</title>
+  </programme>
+  <programme start="20261026020000 -0400" stop="20261026023000 -0400" channel="467309">
+    <title>Vinia: Sheila Walsh Hydration</title>
+  </programme>
+  <programme start="20261026023000 -0400" stop="20261026033000 -0400" channel="467309">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261026033000 -0400" stop="20261026040000 -0400" channel="467309">
+    <title>Life Today</title>
+    <desc>The author of "Return to the Shack" catches up with the characters from his blockbuster book to further explore issues of forgiveness, reconciliation and redemption.</desc>
+  </programme>
+  <programme start="20261026040000 -0400" stop="20261026043000 -0400" channel="467309">
+    <title>Elmer Heinrich: Boosting Health with Immuno 150</title>
+    <desc>Matt Crouch interviews Elmer Heinrich, the company President and CEO of Liquid Assets, about boosting health with Immuno 150.</desc>
+  </programme>
+  <programme start="20261026043000 -0400" stop="20261026050000 -0400" channel="467309">
+    <title>Vinia: Erick Stakelbeck Hydration</title>
+  </programme>
+  <programme start="20261026050000 -0400" stop="20261026053000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>Something powerful happens when someone agrees with God's promises over one's life; getting around other believers and seeing God's favor released in a new way.</desc>
+  </programme>
+  <programme start="20261026053000 -0400" stop="20261026060000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261026060000 -0400" stop="20261026063000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Is your crowd holding you back from where God wants to take you? Joyce teaches how to leave the crowd behind and make it through whatever it is you're facing.</desc>
+  </programme>
+  <programme start="20261026063000 -0400" stop="20261026070000 -0400" channel="467309">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew and Carrie share that believers already have the faith of God; renewing our minds to spiritual truths helps us to experience God's provision.</desc>
+  </programme>
+  <programme start="20261026070000 -0400" stop="20261026073000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>David Jeremiah shares the traits of those who grow strong in the Word.</desc>
+  </programme>
+  <programme start="20261026073000 -0400" stop="20261026080000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026080000 -0400" stop="20261026083000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261026083000 -0400" stop="20261026090000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Are you waiting on God to do it all? Joyce teaches how to stop being passive, take action in faith and become an active partner with God.</desc>
+  </programme>
+  <programme start="20261026090000 -0400" stop="20261026093000 -0400" channel="467309">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+  </programme>
+  <programme start="20261026093000 -0400" stop="20261026100000 -0400" channel="467309">
+    <title>Hagee Ministries</title>
+    <desc>The mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+  </programme>
+  <programme start="20261026100000 -0400" stop="20261026103000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>Something powerful happens when someone agrees with God's promises over one's life; getting around other believers and seeing God's favor released in a new way.</desc>
+  </programme>
+  <programme start="20261026103000 -0400" stop="20261026110000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026113000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261026113000 -0400" stop="20261026120000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>What will heaven really be like?</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261026123000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory provides practical application of God's Word to everyday life through clear, Biblical teaching.</desc>
+  </programme>
+  <programme start="20261026123000 -0400" stop="20261026130000 -0400" channel="467309">
+    <title>Winning Walk</title>
+    <desc>The international teaching ministry of the Rev. Dr. Ed Young, senior pastor of Second Baptist Church in Houston, proclaims the truth of God's word to people throughout the world.</desc>
+  </programme>
+  <programme start="20261026130000 -0400" stop="20261026133000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Are you waiting on God to do it all? Joyce teaches how to stop being passive, take action in faith and become an active partner with God.</desc>
+  </programme>
+  <programme start="20261026133000 -0400" stop="20261026143000 -0400" channel="467309">
+    <title>Better Together</title>
+    <desc>Women discuss faith, family, friends and more; building a community of women committed to living life together and making the world a better place.</desc>
+  </programme>
+  <programme start="20261026143000 -0400" stop="20261026150000 -0400" channel="467309">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew and Carrie share that believers already have the faith of God; renewing our minds to spiritual truths helps us to experience God's provision.</desc>
+  </programme>
+  <programme start="20261026150000 -0400" stop="20261026160000 -0400" channel="467309">
+    <title>The 700 Club</title>
+    <desc>Amazing stories of God helping people around the world.</desc>
+  </programme>
+  <programme start="20261026160000 -0400" stop="20261026163000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>David Jeremiah shares the traits of those who grow strong in the Word.</desc>
+  </programme>
+  <programme start="20261026163000 -0400" stop="20261026170000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261026170000 -0400" stop="20261026173000 -0400" channel="467309">
+    <title>Vision Bible: The Journey Begins</title>
+  </programme>
+  <programme start="20261026173000 -0400" stop="20261026180000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261026180000 -0400" stop="20261026183000 -0400" channel="467309">
+    <title>New Season with Samuel Rodriguez</title>
+    <desc>Pastor Sam aims to usher in a "New Season" where individuals and families will no longer live in failure or merely survive, but thrive for the glory of Jesus.</desc>
+  </programme>
+  <programme start="20261026183000 -0400" stop="20261026190000 -0400" channel="467309">
+    <title>Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+  </programme>
+  <programme start="20261026190000 -0400" stop="20261026193000 -0400" channel="467309">
+    <title>Allen Jackson NOW</title>
+    <desc>A lifeline for a struggling and anxious nation; a guiding hand for those who are not ready to give up, and for those who want to find a way past the negativity before things get worse; searching for the wisdom embedded in a Christian World View.</desc>
+  </programme>
+  <programme start="20261026193000 -0400" stop="20261026200000 -0400" channel="467309">
+    <title>Stakelbeck Tonight</title>
+    <desc>Host Erick Stakelbeck takes viewers around the world; from Jerusalem to London to Washington, D.C., pointing beyond with cutting-edge commentary, analysis and interviews focusing on ever-changing events and why they matter.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261027200000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261026200000 -0400" stop="20261026210000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="467309">
+    <title>Takeaways With Kirk Cameron</title>
+    <desc>Kirk Cameron discusses pressing issues faced by Christians with compassionate, well-informed guests; finding actionable takeaways that one can use to bring more of heaven to earth.</desc>
+  </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="467309">
+    <title>Harvest With Pastor Greg Laurie</title>
+    <desc>Join Pastor Greg Laurie for a time of encouragement, worship and Bible study.</desc>
+  </programme>
+  <programme start="20261026223000 -0400" stop="20261026230000 -0400" channel="467309">
+    <title>Stakelbeck Tonight</title>
+    <desc>Host Erick Stakelbeck takes viewers around the world; from Jerusalem to London to Washington, D.C., pointing beyond with cutting-edge commentary, analysis and interviews focusing on ever-changing events and why they matter.</desc>
+  </programme>
+  <programme start="20261026230000 -0400" stop="20261027000000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027003000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261027003000 -0400" stop="20261027010000 -0400" channel="467309">
+    <title>Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+  </programme>
+  <programme start="20261027010000 -0400" stop="20261027020000 -0400" channel="467309">
+    <title>Takeaways With Kirk Cameron</title>
+    <desc>Kirk Cameron discusses pressing issues faced by Christians with compassionate, well-informed guests; finding actionable takeaways that one can use to bring more of heaven to earth.</desc>
+  </programme>
+  <programme start="20261027020000 -0400" stop="20261027023000 -0400" channel="467309">
+    <title>Healthy Aging With Mushrooms With Jordan Rubin</title>
+    <desc>Discussing the benefits of Jordan Rubin and Josh Axe's product Lion's Mane supplements.</desc>
+  </programme>
+  <programme start="20261027023000 -0400" stop="20261027033000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch sit down with AI pioneer and former Hatco CEO David Rolston and author Lynette Rolston to explore how artificial intelligence is changing our world and what it means for faith.</desc>
+  </programme>
+  <programme start="20261027033000 -0400" stop="20261027040000 -0400" channel="467309">
+    <title>Life Today</title>
+    <desc>The author of "What Does God Have Planned for Me Next?" offers encouragement in the big decisions that impact your life.</desc>
+  </programme>
+  <programme start="20261027040000 -0400" stop="20261027043000 -0400" channel="467309">
+    <title>Vinia: Erick Stakelbeck Hydration</title>
+  </programme>
+  <programme start="20261027043000 -0400" stop="20261027050000 -0400" channel="467309">
+    <title>The Power of Healing Leaves With Jordan Rubin</title>
+  </programme>
+  <programme start="20261027050000 -0400" stop="20261027053000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>People often try to impress others; Those who humble themselves, letting go of pride and fear, allow God to help them grow; Authenticity leads to spiritual elevation.</desc>
+  </programme>
+  <programme start="20261027053000 -0400" stop="20261027060000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261027060000 -0400" stop="20261027063000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Grief can hit without warning; Joyce and friends discuss the loss of someone very close, offering hard-won, hope-filled wisdom for the road ahead.</desc>
+  </programme>
+  <programme start="20261027063000 -0400" stop="20261027070000 -0400" channel="467309">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew and Carrie share that believers already have the faith of God; renewing our minds to spiritual truths helps us to experience God's provision.</desc>
+  </programme>
+  <programme start="20261027070000 -0400" stop="20261027073000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>David Jeremiah looks at false teachings that have compromised believers from ancient times until now.</desc>
+  </programme>
+  <programme start="20261027073000 -0400" stop="20261027080000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261027080000 -0400" stop="20261027083000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261027083000 -0400" stop="20261027090000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Still waiting for someone else to do it for you? Joyce teaches why you have to get up, take action yourself and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027090000 -0400" stop="20261027093000 -0400" channel="467309">
+    <title>Creflo Dollar</title>
+    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+  </programme>
+  <programme start="20261027093000 -0400" stop="20261027100000 -0400" channel="467309">
+    <title>Hagee Ministries</title>
+    <desc>The mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+  </programme>
+  <programme start="20261027100000 -0400" stop="20261027103000 -0400" channel="467309">
+    <title>Joel Osteen</title>
+    <desc>People often try to impress others; Those who humble themselves, letting go of pride and fear, allow God to help them grow; Authenticity leads to spiritual elevation.</desc>
+  </programme>
+  <programme start="20261027103000 -0400" stop="20261027110000 -0400" channel="467309">
+    <title>Allen Jackson Ministries</title>
+    <desc>What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+  </programme>
+  <programme start="20261027110000 -0400" stop="20261027113000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261027113000 -0400" stop="20261027120000 -0400" channel="467309">
+    <title>Kingdom Connection With Jentezen Franklin</title>
+    <desc>A mission to share the profound truths of God's Word; viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+  </programme>
+  <programme start="20261027120000 -0400" stop="20261027123000 -0400" channel="467309">
+    <title>Robert Jeffress</title>
+    <desc>Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+  </programme>
+  <programme start="20261027123000 -0400" stop="20261027130000 -0400" channel="467309">
+    <title>The Winning Walk With Dr. Ed Young</title>
+    <desc>The international teaching ministry of the Rev. Dr. Ed Young, senior pastor of Second Baptist Church in Houston, proclaims the truth of God's word to people throughout the world.</desc>
+  </programme>
+  <programme start="20261027130000 -0400" stop="20261027133000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Still waiting for someone else to do it for you? Joyce teaches why you have to get up, take action yourself and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027133000 -0400" stop="20261027143000 -0400" channel="467309">
+    <title>Better Together</title>
+    <desc>Women discuss faith, family, friends and more; building a community of women committed to living life together and making the world a better place.</desc>
+  </programme>
+  <programme start="20261027143000 -0400" stop="20261027150000 -0400" channel="467309">
+    <title>Andrew Wommack: Gospel Truth</title>
+    <desc>Andrew and Carrie share that believers already have the faith of God; renewing our minds to spiritual truths helps us to experience God's provision.</desc>
+  </programme>
+  <programme start="20261027150000 -0400" stop="20261027160000 -0400" channel="467309">
+    <title>The 700 Club</title>
+    <desc>Remarkable stories of people who have experienced God's blessings.</desc>
+  </programme>
+  <programme start="20261027160000 -0400" stop="20261027163000 -0400" channel="467309">
+    <title>Turning Point With Dr. David Jeremiah</title>
+    <desc>David Jeremiah looks at false teachings that have compromised believers from ancient times until now.</desc>
+  </programme>
+  <programme start="20261027163000 -0400" stop="20261027170000 -0400" channel="467309">
+    <title>Steven Furtick</title>
+    <desc>From Elevation Church in Charlotte, N.C., Pastor Steven Furtick offers inspirational messages through his sermons.</desc>
+  </programme>
+  <programme start="20261027170000 -0400" stop="20261027173000 -0400" channel="467309">
+    <title>Vision Bible: The Journey Begins</title>
+  </programme>
+  <programme start="20261027173000 -0400" stop="20261027180000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261027180000 -0400" stop="20261027183000 -0400" channel="467309">
+    <title>BillyGraham.TV</title>
+    <desc>Billy Graham sheds light on the spiritual battle raging around us, and shares a message of hope in Jesus Christ.</desc>
+  </programme>
+  <programme start="20261027183000 -0400" stop="20261027190000 -0400" channel="467309">
+    <title>Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
+  </programme>
+  <programme start="20261027190000 -0400" stop="20261027193000 -0400" channel="467309">
+    <title>Allen Jackson NOW</title>
+    <desc>A lifeline for a struggling and anxious nation; a guiding hand for those who are not ready to give up, and for those who want to find a way past the negativity before things get worse; searching for the wisdom embedded in a Christian World View.</desc>
+  </programme>
+  <programme start="20261027193000 -0400" stop="20261027200000 -0400" channel="467309">
+    <title>Stakelbeck Tonight</title>
+    <desc>Host Erick Stakelbeck takes viewers around the world; from Jerusalem to London to Washington, D.C., pointing beyond with cutting-edge commentary, analysis and interviews focusing on ever-changing events and why they matter.</desc>
+  </programme>
+  <programme start="20261027200000 -0400" stop="20261028200000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261027200000 -0400" stop="20261027210000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261027210000 -0400" stop="20261027213000 -0400" channel="467309">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
+    <desc>Still waiting for someone else to do it for you? Joyce teaches why you have to get up, take action yourself and truly partner with God to see real change.</desc>
+  </programme>
+  <programme start="20261027213000 -0400" stop="20261027220000 -0400" channel="467309">
+    <title>Christine Caine</title>
+    <desc>Christine Caine talks about being in an impossible circumstance and being poised and purposed for a miracle.</desc>
+  </programme>
+  <programme start="20261027220000 -0400" stop="20261027223000 -0400" channel="467309">
+    <title>Better Together</title>
+    <desc>Women discuss faith, family, friends and more; building a community of women committed to living life together and making the world a better place.</desc>
+  </programme>
+  <programme start="20261027223000 -0400" stop="20261027230000 -0400" channel="467309">
+    <title>Stakelbeck Tonight</title>
+    <desc>Host Erick Stakelbeck takes viewers around the world; from Jerusalem to London to Washington, D.C., pointing beyond with cutting-edge commentary, analysis and interviews focusing on ever-changing events and why they matter.</desc>
+  </programme>
+  <programme start="20261027230000 -0400" stop="20261028000000 -0400" channel="467309">
+    <title>Praise</title>
+    <desc>Matt and Laurie Crouch along with other popular personalities, featuring the best in contemporary Christian music and worship; fresh and impacting ministry voices, engaging interviews from a wide variety of guests and a fast-moving hour of relevant talk you won't want to miss.</desc>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028003000 -0400" channel="467309">
+    <title>Joseph Prince</title>
+    <desc>Joseph Prince is a leading voice in proclaiming the gospel around the world through his ministry.</desc>
+  </programme>
+  <programme start="20261028003000 -0400" stop="20261028200000 -0400" channel="467309">
+    <title>Charlie Kirk Today</title>
+    <desc>Join Charlie Kirk as he breaks down the news, challenges the mainstream narrative and delivers commentary on faith, culture and politics; no spin, no censorship, just the truth.</desc>
   </programme>
   <programme start="20261024213000 -0400" stop="20261024223000 -0400" channel="GospelTruthTV.us">
     <title>Grace &amp; Faith Today</title>
@@ -12482,10 +15127,6 @@ Join the conversation about claiming your inheritance and walking boldly in God�
   <programme start="20261024230000 -0400" stop="20261024233000 -0400" channel="The.Word.Network.us2">
     <title>Glorious Moments with Prophet Jerome Fernando</title>
     <desc>Exploring the Bible with Prophet Jerome Fernando.</desc>
-  </programme>
-  <programme start="20261024233000 -0400" stop="20261025003000 -0400" channel="The.Word.Network.us2">
-    <title>Campmeeting</title>
-    <desc>Inspiration Ministries Campmeetings are celebrations of God's goodness! They inspire believers to walk &amp; sow in faith so they can live in the blessings of God.</desc>
   </programme>
   <programme start="20261024233000 -0400" stop="20261025003000 -0400" channel="The.Word.Network.us2">
     <title>Campmeeting</title>
