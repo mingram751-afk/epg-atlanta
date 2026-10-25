@@ -23,6 +23,8 @@ WATC_CHANNEL_ID = "WATC-DT.us_locals1"
 CNN_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 CNN_SOURCE_CHANNEL_ID = "plex.tv.CNN.Originals.plex"
 CNN_CHANNEL_ID = "CNNOriginals.us"
+WORD_NETWORK_URL = "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+WORD_NETWORK_CHANNEL_ID = "The.Word.Network.us2"
 
 
 def fetch_epgshare_channel(
@@ -134,6 +136,22 @@ def main() -> int:
         print(f"{CNN_CHANNEL_ID}: 1 channel, {len(cnn_programmes)} programmes")
     except Exception as exc:
         print(f"Failed to fetch or parse CNN Originals feed: {exc}", file=sys.stderr)
+        return 1
+
+    try:
+        word_channel, word_programmes = fetch_epgshare_channel(
+            WORD_NETWORK_URL, WORD_NETWORK_CHANNEL_ID, WORD_NETWORK_CHANNEL_ID
+        )
+        channels.setdefault(WORD_NETWORK_CHANNEL_ID, word_channel)
+        programmes.extend(word_programmes)
+        print(
+            f"{WORD_NETWORK_CHANNEL_ID}: 1 channel, "
+            f"{len(word_programmes)} programmes"
+        )
+    except Exception as exc:
+        print(
+            f"Failed to fetch or parse The Word Network feed: {exc}", file=sys.stderr
+        )
         return 1
 
     root = ET.Element(
