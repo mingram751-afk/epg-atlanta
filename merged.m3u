@@ -1177,7 +1177,7 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 channel-id="3ABN-Kids.us" tvg-id="3ABN-Kids.us" channel-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" channel-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://www.3abnpraisehim.tv/img/praise-him-white.gif" group-title="Religious",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-id="3ABN-PraiseHimMusic.us" channel-id="3ABN-PraiseHimMusic.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://www.3abnpraisehim.tv/img/praise-him-white.gif" group-title="Religious",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABN-Proclaim.us" channel-id="3ABN-Proclaim.us" tvg-name="3ABN Proclaim Network" tvg-logo="https://alpha.uscreencdn.com/images/logotypes/12587/57b2b251-5ce1-456a-84bd-0d8039df3b5a2.1754934262.png" group-title="Religious",3ABN Proclaim Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
