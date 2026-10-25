@@ -72,6 +72,12 @@
     <icon src="https://image.tmdb.org/t/p/original/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
+  <channel id="The.Word.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0028Y5CH.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0028Y5CH.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Word Network</display-name>
+  </channel>
   <programme channel="465164" start="20261024000000 +0000" stop="20261024003000 +0000">
     <title lang="zh">Andrew Wommack: Gospel Truth</title>
     <desc>Hebrews: Living in the New Covenant Reality. Many Christians aren't living in the freedom that Jesus purchased for us. Most people mix the old covenant with the new covenant which shouldn't be done.</desc>
@@ -12282,6 +12288,2985 @@
     <episode-num system="onscreen">S5 E2</episode-num>
     <rating system="US">
       <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024050000 +0000" stop="20261024053000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024053000 +0000" stop="20261024060000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024060000 +0000" stop="20261024063000 +0000">
+    <title lang="en">Touching Hands Ministries</title>
+    <desc lang="en">With Darrell Dumas.</desc>
+    <credits>
+      <actor>Darrell Dumas</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p962999_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024063000 +0000" stop="20261024070000 +0000">
+    <title lang="en">Robbi Warren</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>1998</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p883446_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024070000 +0000" stop="20261024073000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024073000 +0000" stop="20261024080000 +0000">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">Ministry of singing, preaching and testimonies with Peter and Elizabeth Popoff.</desc>
+    <credits>
+      <actor>Peter Popoff</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p463335_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024080000 +0000" stop="20261024083000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024083000 +0000" stop="20261024090000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024090000 +0000" stop="20261024093000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">No Root, No Fruit: The Secret to a Fruitful Life</sub-title>
+    <desc lang="en">Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E40</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024093000 +0000" stop="20261024100000 +0000">
+    <title lang="en">Divine Plan</title>
+    <desc lang="en">It presents the harmony of scriptures; enjoy the experience of discovering the truth of the Bible.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30394648_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024100000 +0000" stop="20261024103000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024103000 +0000" stop="20261024110000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024110000 +0000" stop="20261024113000 +0000">
+    <title lang="en">Dr. W.F. Washington</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <credits>
+      <actor>W.F. Washington</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13623179_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024113000 +0000" stop="20261024120000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024120000 +0000" stop="20261024123000 +0000">
+    <title lang="en">The Living Word With Tommy Combs</title>
+    <desc lang="en">Teaching the Word of God with Hebrew Word Studies.</desc>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p947423_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024123000 +0000" stop="20261024130000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024130000 +0000" stop="20261024133000 +0000">
+    <title lang="en">Victory Life Today</title>
+    <date>2019</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17509338_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024133000 +0000" stop="20261024140000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024140000 +0000" stop="20261024143000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024143000 +0000" stop="20261024150000 +0000">
+    <title lang="en">Taketa Williams</title>
+    <desc lang="en">Religious.</desc>
+    <credits>
+      <actor>Taketa Williams</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p294772_b_h12_ae.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024150000 +0000" stop="20261024160000 +0000">
+    <title lang="en">Live: Rainbow Push Coalition With Jesse Jackson</title>
+    <desc lang="en">Religious programming.</desc>
+    <credits>
+      <actor>Jesse Jackson</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p472993_b_h10_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024160000 +0000" stop="20261024163000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024163000 +0000" stop="20261024170000 +0000">
+    <title lang="en">God Made Millionaire TV With TC Bradley</title>
+    <desc lang="en">Business leaders offer their insights to coach viewers.</desc>
+    <credits>
+      <actor>TC Bradley</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17865277_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024170000 +0000" stop="20261024173000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024173000 +0000" stop="20261024180000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024180000 +0000" stop="20261024183000 +0000">
+    <title lang="en">Dr. Jamal Bryant</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p30919644_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024183000 +0000" stop="20261024190000 +0000">
+    <title lang="en">Nick Hood</title>
+    <date>2023</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23850582_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024190000 +0000" stop="20261024193000 +0000">
+    <title lang="en">David Bibey</title>
+    <date>2004</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p644840_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024193000 +0000" stop="20261024200000 +0000">
+    <title lang="en">Christlove International Church</title>
+    <desc lang="en">Religious programming.</desc>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p622854_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024200000 +0000" stop="20261024203000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">No Root, No Fruit: The Secret to a Fruitful Life</sub-title>
+    <desc lang="en">Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E40</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024203000 +0000" stop="20261024210000 +0000">
+    <title lang="en">Time for Hope</title>
+    <desc lang="en">Dr. Freda Crews, a mental health counselor and author, facilitates interviews with well-known authors, clinicians and biblical scholars, among others, in order to help suffering people find hope, deal with important issues and find meaning within their lives. Through in-depth discussions, Dr. Crews and her guests help others to realize their potential while encouraging them to put their faith in Jesus Christ in order to find peace. The weekly show also assists viewers with making better decisions and accepting responsibility for destructive behavior.</desc>
+    <credits>
+      <actor>Freda Crews</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0028Y5CH.png?w=360&amp;h=270" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024210000 +0000" stop="20261024220000 +0000">
+    <title lang="en">Gaither Music</title>
+    <desc lang="en">Gospel artists perform with the Gaither Vocal Band.</desc>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p391100_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024220000 +0000" stop="20261024223000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024223000 +0000" stop="20261024230000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024230000 +0000" stop="20261024233000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261024233000 +0000" stop="20261025000000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025000000 +0000" stop="20261025003000 +0000">
+    <title lang="en">Charles Ellis III</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <credits>
+      <actor>Charles Ellis</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p618265_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025003000 +0000" stop="20261025013000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025013000 +0000" stop="20261025020000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025020000 +0000" stop="20261025023000 +0000">
+    <title lang="en">Touching Hands Ministries</title>
+    <desc lang="en">With Darrell Dumas.</desc>
+    <credits>
+      <actor>Darrell Dumas</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p962999_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025023000 +0000" stop="20261025030000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025030000 +0000" stop="20261025033000 +0000">
+    <title lang="en">Glorious Moments with Prophet Jerome Fernando</title>
+    <desc lang="en">An impactful prophetic message aimed to edify and propel people forward and upwards in their spiritual life.</desc>
+    <credits>
+      <actor>Prophet Jerome Fernando</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20573039_b_h10_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025033000 +0000" stop="20261025043000 +0000">
+    <title lang="en">Campmeeting</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18452356_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025043000 +0000" stop="20261025050000 +0000">
+    <title lang="en">Word Special</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>2013</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9895339_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025050000 +0000" stop="20261025053000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025053000 +0000" stop="20261025060000 +0000">
+    <title lang="en">Tomorrow's World</title>
+    <desc lang="en">Tomorrow's World teaches a message of hope and makes sense of today's events with answers from your Bible.</desc>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22549682_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025060000 +0000" stop="20261025063000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025063000 +0000" stop="20261025070000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025070000 +0000" stop="20261025073000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">No Root, No Fruit: The Secret to a Fruitful Life</sub-title>
+    <desc lang="en">Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E40</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025073000 +0000" stop="20261025080000 +0000">
+    <title lang="en">Rev. Jim Holley</title>
+    <date>2021</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20100114_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025080000 +0000" stop="20261025083000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025083000 +0000" stop="20261025090000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025090000 +0000" stop="20261025093000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025093000 +0000" stop="20261025100000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025100000 +0000" stop="20261025103000 +0000">
+    <title lang="en">The Awakening Hour</title>
+    <desc lang="en">Bible teaching from Dr. William R. Crews.</desc>
+    <date>2008</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p580384_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025103000 +0000" stop="20261025110000 +0000">
+    <title lang="en">James Meeks</title>
+    <date>2010</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8272655_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025110000 +0000" stop="20261025113000 +0000">
+    <title lang="en">Word Special</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>2013</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9895339_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025113000 +0000" stop="20261025120000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025120000 +0000" stop="20261025123000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">Winning Without Losing Your Soul</sub-title>
+    <desc lang="en">Discover God's plan for you to prosper and bless others, even in tough times.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E39</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025123000 +0000" stop="20261025130000 +0000">
+    <title lang="en">Robert Jeffress</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025130000 +0000" stop="20261025133000 +0000">
+    <title lang="en">Allen Jackson Ministries</title>
+    <desc lang="en">What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+    <credits>
+      <actor>Allen Jackson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10077045_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025133000 +0000" stop="20261025140000 +0000">
+    <title lang="en">Creflo Dollar</title>
+    <desc lang="en">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; based on the belief that the Bible is the written and inspired Word of God, the show is meant to invoke change in the lives of people across the globe; Creflo and his wife, Taffi, share their vision for everyone to hear the Word and gain understanding of God's love and promises.</desc>
+    <credits>
+      <actor>Creflo A. Dollar</actor>
+      <actor>Taffi Dollar</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p186538_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025140000 +0000" stop="20261025143000 +0000">
+    <title lang="en">Hagee Ministries</title>
+    <desc lang="en">John Hagee is the founder and senior pastor of Cornerstone Church in San Antonio, Texas.; John Hagee Ministries telecasts his national television and radio teachings throughout America and internationally; the mission of John Hagee Ministries is to take the Gospel to all the world and to all generations.</desc>
+    <credits>
+      <actor>John Hagee</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19757196_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025143000 +0000" stop="20261025150000 +0000">
+    <title lang="en">God's Mighty Word</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p34287103_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025150000 +0000" stop="20261025153000 +0000">
+    <title lang="en">Ralph Douglas West</title>
+    <desc lang="en">Dr. Ralph Douglas West serves as founder and senior pastor of the Church Without Walls in Houston, Texas.</desc>
+    <credits>
+      <actor>Ralph Douglas West</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16260602_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025153000 +0000" stop="20261025160000 +0000">
+    <title lang="en">Trunell D. Felder</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <credits>
+      <actor>Trunell Felder</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p308029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025160000 +0000" stop="20261025163000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025163000 +0000" stop="20261025170000 +0000">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">Ministry of singing, preaching and testimonies with Peter and Elizabeth Popoff.</desc>
+    <credits>
+      <actor>Peter Popoff</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p463335_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025170000 +0000" stop="20261025173000 +0000">
+    <title lang="en">Elevation Church With Steve Furtick</title>
+    <desc lang="en">Focusing on the strength of God in everyday struggles.</desc>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21323063_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025173000 +0000" stop="20261025180000 +0000">
+    <title lang="en">Debleaire Snell</title>
+    <date>2025</date>
+    <icon src="http://dtil.tmsimg.com/assets/p30375008_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025180000 +0000" stop="20261025183000 +0000">
+    <title lang="en">Amazing Facts With Doug Batchelor</title>
+    <desc lang="en">Pastor Doug Batchelor reveals amazing facts of biblical events and brings new insight to frequently asked questions in Christian faith.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26602319_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025183000 +0000" stop="20261025190000 +0000">
+    <title lang="en">Tomorrow's World</title>
+    <date>2025</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30159997_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025190000 +0000" stop="20261025193000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025193000 +0000" stop="20261025200000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025200000 +0000" stop="20261025203000 +0000">
+    <title lang="en">Catholic TV Mass</title>
+    <desc lang="en">Religious services.</desc>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p614175_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025203000 +0000" stop="20261025210000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025210000 +0000" stop="20261025220000 +0000">
+    <title lang="en">Gaither Music</title>
+    <desc lang="en">Gospel artists perform with the Gaither Vocal Band.</desc>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p391100_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025220000 +0000" stop="20261025223000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025223000 +0000" stop="20261025230000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025230000 +0000" stop="20261025233000 +0000">
+    <title lang="en">Elevation Church With Steve Furtick</title>
+    <desc lang="en">Focusing on the strength of God in everyday struggles.</desc>
+    <date>2022</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21323063_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261025233000 +0000" stop="20261026000000 +0000">
+    <title lang="en">Tomorrow's World</title>
+    <date>2025</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30159997_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026000000 +0000" stop="20261026003000 +0000">
+    <title lang="en">Kingdom Christian Church</title>
+    <date>2026</date>
+    <icon src="http://dtil.tmsimg.com/assets/p34186507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026003000 +0000" stop="20261026010000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026010000 +0000" stop="20261026013000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026013000 +0000" stop="20261026020000 +0000">
+    <title lang="en">Woody Martin Ministries</title>
+    <desc lang="en">Woody Martin.</desc>
+    <date>2012</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9048805_b_h12_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026020000 +0000" stop="20261026023000 +0000">
+    <title lang="en">Touching Hands Ministries</title>
+    <desc lang="en">With Darrell Dumas.</desc>
+    <credits>
+      <actor>Darrell Dumas</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p962999_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026023000 +0000" stop="20261026030000 +0000">
+    <title lang="en">Wayne Parks Ministries</title>
+    <date>2004</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p312794_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026030000 +0000" stop="20261026033000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026033000 +0000" stop="20261026040000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026040000 +0000" stop="20261026043000 +0000">
+    <title lang="en">Word Special</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>2013</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9895339_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026043000 +0000" stop="20261026050000 +0000">
+    <title lang="en">Allen Jackson Ministries</title>
+    <desc lang="en">What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+    <credits>
+      <actor>Allen Jackson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10077045_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026050000 +0000" stop="20261026053000 +0000">
+    <title lang="en">Robert Jeffress</title>
+    <desc lang="en">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
+    <credits>
+      <actor>Robert Jeffress</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p478013_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026053000 +0000" stop="20261026060000 +0000">
+    <title lang="en">John Hagee Ministries</title>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29134352_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026060000 +0000" stop="20261026063000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026063000 +0000" stop="20261026070000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026070000 +0000" stop="20261026073000 +0000">
+    <title lang="en">Amazing Facts With Doug Batchelor</title>
+    <desc lang="en">Pastor Doug Batchelor reveals amazing facts of biblical events and brings new insight to frequently asked questions in Christian faith.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26602319_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026073000 +0000" stop="20261026080000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026080000 +0000" stop="20261026083000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026083000 +0000" stop="20261026090000 +0000">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <date>2014</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p514472_b_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026090000 +0000" stop="20261026093000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026093000 +0000" stop="20261026100000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">How to Be Comfortable in God's Presence</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E47</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026100000 +0000" stop="20261026103000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026103000 +0000" stop="20261026110000 +0000">
+    <title lang="en">Amazing Facts With Doug Batchelor</title>
+    <desc lang="en">Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <credits>
+      <actor>Doug Batchelor</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32184344_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026110000 +0000" stop="20261026120000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026120000 +0000" stop="20261026123000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026123000 +0000" stop="20261026130000 +0000">
+    <title lang="en">Word Special</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>2013</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9895339_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026130000 +0000" stop="20261026133000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">How to Be Comfortable in God's Presence</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E47</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026133000 +0000" stop="20261026140000 +0000">
+    <title lang="en">Life Today</title>
+    <desc lang="en">James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look to God for help and guidance in times of need. The Robisons provide viewers with Bible-based advice to help them deal with everyday problems.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026140000 +0000" stop="20261026143000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026143000 +0000" stop="20261026150000 +0000">
+    <title lang="en">Operation Smile</title>
+    <desc lang="en">Operation Smile is an international medical charity whose global network of thousands of credentialed medical volunteers from over 80 countries is committed to helping improve the health and lives of children from more than 60 countries.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12314034_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026150000 +0000" stop="20261026153000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026153000 +0000" stop="20261026160000 +0000">
+    <title lang="en">Bill Winston Ministries</title>
+    <desc lang="en">Embracing the word of God.</desc>
+    <credits>
+      <actor>Bill Winston</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p593337_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026160000 +0000" stop="20261026163000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026163000 +0000" stop="20261026170000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026170000 +0000" stop="20261026173000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">How to Be Comfortable in God's Presence</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E47</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026173000 +0000" stop="20261026180000 +0000">
+    <title lang="en">Elevation Church with Steven Furtick</title>
+    <credits>
+      <actor>Steven Furtick</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17794103_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026180000 +0000" stop="20261026190000 +0000">
+    <title lang="en">Campmeeting</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18452356_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026190000 +0000" stop="20261026193000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026193000 +0000" stop="20261026200000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026200000 +0000" stop="20261026203000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026203000 +0000" stop="20261026210000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026210000 +0000" stop="20261026213000 +0000">
+    <title lang="en">Stem Cell Activators With Joseph Christiano ND</title>
+    <desc lang="en">This show is all about one's health and how stem cell activators are the most advanced technologies for ridding chronic pain, illness and diseases.</desc>
+    <credits>
+      <actor>Joseph Christiano</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14621831_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026213000 +0000" stop="20261026220000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026220000 +0000" stop="20261026223000 +0000">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">Ministry of singing, preaching and testimonies with Peter and Elizabeth Popoff.</desc>
+    <credits>
+      <actor>Peter Popoff</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p463335_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026223000 +0000" stop="20261026230000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026230000 +0000" stop="20261026233000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261026233000 +0000" stop="20261027000000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027000000 +0000" stop="20261027003000 +0000">
+    <title lang="en">Charles Ellis</title>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14013972_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027003000 +0000" stop="20261027010000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027010000 +0000" stop="20261027013000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027013000 +0000" stop="20261027020000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027020000 +0000" stop="20261027023000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027023000 +0000" stop="20261027030000 +0000">
+    <title lang="en">Life Today</title>
+    <desc lang="en">James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look to God for help and guidance in times of need. The Robisons provide viewers with Bible-based advice to help them deal with everyday problems.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027030000 +0000" stop="20261027040000 +0000">
+    <title lang="en">Campmeeting</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18452356_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027040000 +0000" stop="20261027043000 +0000">
+    <title lang="en">Stem Cell Activators With Joseph Christiano ND</title>
+    <desc lang="en">This show is all about one's health and how stem cell activators are the most advanced technologies for ridding chronic pain, illness and diseases.</desc>
+    <credits>
+      <actor>Joseph Christiano</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14621831_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027043000 +0000" stop="20261027050000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027050000 +0000" stop="20261027053000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027053000 +0000" stop="20261027060000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027060000 +0000" stop="20261027063000 +0000">
+    <title lang="en">Touching Hands Ministries</title>
+    <desc lang="en">With Darrell Dumas.</desc>
+    <credits>
+      <actor>Darrell Dumas</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p962999_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027063000 +0000" stop="20261027070000 +0000">
+    <title lang="en">Divine Plan</title>
+    <desc lang="en">It presents the harmony of scriptures; enjoy the experience of discovering the truth of the Bible.</desc>
+    <date>2025</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30394648_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027070000 +0000" stop="20261027073000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027073000 +0000" stop="20261027080000 +0000">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">Ministry of singing, preaching and testimonies with Peter and Elizabeth Popoff.</desc>
+    <credits>
+      <actor>Peter Popoff</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p463335_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027080000 +0000" stop="20261027083000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027083000 +0000" stop="20261027090000 +0000">
+    <title lang="en">Operation Smile</title>
+    <desc lang="en">Operation Smile is an international medical charity whose global network of thousands of credentialed medical volunteers from over 80 countries is committed to helping improve the health and lives of children from more than 60 countries.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p12314034_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027090000 +0000" stop="20261027093000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027093000 +0000" stop="20261027100000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">If You're Reading This, You Need to Slow Down</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E48</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027100000 +0000" stop="20261027103000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027103000 +0000" stop="20261027110000 +0000">
+    <title lang="en">Amazing Facts With Doug Batchelor</title>
+    <desc lang="en">Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
+    <credits>
+      <actor>Doug Batchelor</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32184344_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027110000 +0000" stop="20261027120000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027120000 +0000" stop="20261027123000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027123000 +0000" stop="20261027130000 +0000">
+    <title lang="en">Word Special</title>
+    <desc lang="en">Teaching and preaching the word of God.</desc>
+    <date>2013</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9895339_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027130000 +0000" stop="20261027133000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">If You're Reading This, You Need to Slow Down</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E48</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027133000 +0000" stop="20261027140000 +0000">
+    <title lang="en">Life Today</title>
+    <desc lang="en">James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look to God for help and guidance in times of need. The Robisons provide viewers with Bible-based advice to help them deal with everyday problems.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027140000 +0000" stop="20261027143000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027143000 +0000" stop="20261027150000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027150000 +0000" stop="20261027153000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027153000 +0000" stop="20261027160000 +0000">
+    <title lang="en">Bill Winston Ministries</title>
+    <desc lang="en">Embracing the word of God.</desc>
+    <credits>
+      <actor>Bill Winston</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p593337_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027160000 +0000" stop="20261027163000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027163000 +0000" stop="20261027170000 +0000">
+    <title lang="en">International Fellowship of Christians and Jews</title>
+    <desc lang="en">Promoting understanding and cooperation between Jews and Christians.</desc>
+    <date>2008</date>
+    <category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p740216_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027170000 +0000" stop="20261027173000 +0000">
+    <title lang="en">Joseph Prince</title>
+    <sub-title lang="en">If You're Reading This, You Need to Slow Down</sub-title>
+    <desc lang="en">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+    <credits>
+      <actor>Joseph Prince</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p3504541_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E48</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027173000 +0000" stop="20261027180000 +0000">
+    <title lang="en">Elevation Church with Steven Furtick</title>
+    <credits>
+      <actor>Steven Furtick</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17794103_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027180000 +0000" stop="20261027190000 +0000">
+    <title lang="en">Campmeeting</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18452356_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027190000 +0000" stop="20261027193000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027193000 +0000" stop="20261027200000 +0000">
+    <title lang="en">Sonoran Secret</title>
+    <desc lang="en">The incredible true story of one man's journey into the Sonoran Desert to learn the healing secrets of the nopal cactus from an indigenous tribe, leading to the creation of Nopalea.</desc>
+    <date>2026</date>
+    <category lang="en">Health</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33222558_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027200000 +0000" stop="20261027203000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027203000 +0000" stop="20261027210000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027210000 +0000" stop="20261027213000 +0000">
+    <title lang="en">Stem Cell Activators With Joseph Christiano ND</title>
+    <desc lang="en">This show is all about one's health and how stem cell activators are the most advanced technologies for ridding chronic pain, illness and diseases.</desc>
+    <credits>
+      <actor>Joseph Christiano</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14621831_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027213000 +0000" stop="20261027220000 +0000">
+    <title lang="en">The Mercy Ships</title>
+    <desc lang="en">Step aboard the world's two largest civilian-run hospital ships and meet the international volunteers bringing hope and healing to coastal Africa; this behind-the-scenes journey reveals what it's like to live and work on a hospital ship.</desc>
+    <credits>
+      <actor>Joshua Chau</actor>
+      <actor>Richard O'Shea</actor>
+      <actor>Thomas Page</actor>
+      <director>Tracy Trost</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30525726_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027220000 +0000" stop="20261027223000 +0000">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">Ministry of singing, preaching and testimonies with Peter and Elizabeth Popoff.</desc>
+    <credits>
+      <actor>Peter Popoff</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p463335_b_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027223000 +0000" stop="20261027230000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027230000 +0000" stop="20261027233000 +0000">
+    <title lang="en">Water for Life</title>
+    <desc lang="en">Sheila Walsh shows the need for clean drinking water around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33544865_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261027233000 +0000" stop="20261028000000 +0000">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.</desc>
+    <credits>
+      <actor>Joel Osteen</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32120412_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028000000 +0000" stop="20261028003000 +0000">
+    <title lang="en">Charles Ellis</title>
+    <date>2017</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14013972_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028003000 +0000" stop="20261028010000 +0000">
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+    <desc lang="en">Rabbi Jonathan Bernis explores the Jewish roots of Christian faith, Bible prophecy and today's world events surrounding Israel.</desc>
+    <credits>
+      <actor>Jonathan Bernis</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32135219_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028010000 +0000" stop="20261028013000 +0000">
+    <title lang="en">Wounded Warriors</title>
+    <date>2011</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8867996_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028013000 +0000" stop="20261028020000 +0000">
+    <title lang="en">Lawson Perdue</title>
+    <desc lang="en">Lawson Perdue shares his testimony of starting a church in Kit Carson, teaching at Charis Bible College, and how giving and God's favor led to financial breakthrough.</desc>
+    <date>2024</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29120605_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028020000 +0000" stop="20261028023000 +0000">
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+    <desc lang="en">Noted for her humanitarian ministry efforts to aid suffering people around the world, Bible teacher Joyce Meyer reaches out to both Christians and non-Christians as she illustrates how to make each day better by applying biblical principles to every activity.</desc>
+    <credits>
+      <actor>Joyce Meyer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26384849_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028023000 +0000" stop="20261028030000 +0000">
+    <title lang="en">Life Today</title>
+    <desc lang="en">James Robison was a former preacher who changed directions in his life and began hosting this television show alongside his wife, Betty, in order to reach out to help more people. This daily religious and self-help program welcomes guests who tell how they have successfully overcome difficulties in their lives by following God's word -- with the hope of encouraging others to do the same and look to God for help and guidance in times of need. The Robisons provide viewers with Bible-based advice to help them deal with everyday problems.</desc>
+    <credits>
+      <actor>Betty Robison</actor>
+      <actor>Randy Robison</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p429520_b_h11_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028030000 +0000" stop="20261028040000 +0000">
+    <title lang="en">Campmeeting</title>
+    <date>2020</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18452356_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028040000 +0000" stop="20261028043000 +0000">
+    <title lang="en">Stem Cell Activators With Joseph Christiano ND</title>
+    <desc lang="en">This show is all about one's health and how stem cell activators are the most advanced technologies for ridding chronic pain, illness and diseases.</desc>
+    <credits>
+      <actor>Joseph Christiano</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Self improvement</category>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14621831_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="The.Word.Network.us2" start="20261028043000 +0000" stop="20261028050000 +0000">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick, an Oklahoma farmer and rancher with a special gift for teaching the Bible; his simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <credits>
+      <actor>Les Feldick</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Religious</category>
+    <icon src="http://dtil.tmsimg.com/assets/p958387_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
   </programme>
 </tv>
