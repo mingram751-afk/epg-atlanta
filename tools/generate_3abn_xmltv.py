@@ -15,6 +15,14 @@ TWN_SITE_ID = "77972"
 TWN_CHANNEL_UUID = "bead6bfc-ebc5-43c2-89ee-b67122ff5273"
 TWN_CHANNEL_INDEX = "8752"
 TWN_CHANNEL = ("The.Word.Network.us2", "The Word Network")
+EPGPW_API_BASE = "https://epg.pw/api/epg.xml"
+EPGPW_CHANNELS = [
+    ("467309", "TBN"),
+    ("464906", "Daystar"),
+    ("464958", "Hope Channel North America"),
+    ("465321", "Christian Television Network"),
+    ("465164", "Golden Eagle Broadcasting"),
+]
 DAYS = 7
 
 # XMLTV channel ID, display name, and network key used by the 3ABN schedule API.
@@ -143,6 +151,51 @@ def parse_twn_time(value):
     return parsed.astimezone(TIMEZONE)
 
 
+def fetch_epgpw_schedule(channel_id, day):
+    url = (
+        f"{EPGPW_API_BASE}?channel_id={channel_id}"
+        f"&date={day:%Y%m%d}&timezone=America%2FNew_York"
+    )
+    request = urllib.request.Request(url, headers={"User-Agent": "epg-atlanta-xmltv/1.0"})
+    with urllib.request.urlopen(request, timeout=45) as response:
+        payload = response.read()
+
+    try:
+        feed = ET.fromstring(payload)
+    except ET.ParseError as error:
+        raise RuntimeError(f"EPG.pw returned invalid XML for channel {channel_id} on {day}: {url}") from error
+    if feed.tag != "tv" or not any(channel.get("id") == channel_id for channel in feed.findall("channel")):
+        raise RuntimeError(f"EPG.pw returned no channel {channel_id} on {day}: {url}")
+
+    records = []
+    for programme in feed.findall("programme"):
+        if programme.get("channel") != channel_id:
+            continue
+        start_value, stop_value = programme.get("start"), programme.get("stop")
+        if not start_value or not stop_value:
+            raise RuntimeError(f"EPG.pw programme is missing a start or stop for {channel_id}: {ET.tostring(programme, encoding='unicode')}")
+        start = parse_epgpw_time(start_value)
+        stop = parse_epgpw_time(stop_value)
+        if stop <= start:
+            raise RuntimeError(f"Invalid EPG.pw programme interval for {channel_id}: {ET.tostring(programme, encoding='unicode')}")
+        records.append((start, stop - start, {
+            "series_title": (programme.findtext("title") or "").strip() or "Unknown program",
+            "program_title": (programme.findtext("sub-title") or "").strip() or None,
+            "description": (programme.findtext("desc") or "").strip() or None,
+        }))
+    if not records:
+        raise RuntimeError(f"No EPG.pw programme records returned for channel {channel_id} on {day}: {url}")
+    return records
+
+
+def parse_epgpw_time(value):
+    try:
+        parsed = datetime.datetime.strptime(value.strip(), "%Y%m%d%H%M%S %z")
+    except (AttributeError, ValueError) as error:
+        raise RuntimeError(f"Unrecognized EPG.pw timestamp: {value!r}") from error
+    return parsed.astimezone(TIMEZONE)
+
+
 def xmltv_time(value):
     # Include the Eastern timezone offset, including the correct DST adjustment.
     return value.astimezone(TIMEZONE).strftime("%Y%m%d%H%M%S %z")
@@ -157,7 +210,7 @@ def main():
     today = datetime.datetime.now(TIMEZONE).date()
     days = [today + datetime.timedelta(days=index) for index in range(DAYS)]
 
-    root = ET.Element("tv", {"source-info-name": "3ABN, Gospel Truth TV, and The Word Network", "source-info-url": "https://www.thewordnetwork.org/"})
+    root = ET.Element("tv", {"source-info-name": "3ABN, Gospel Truth TV, The Word Network, TBN, Daystar, Hope Channel, CTN, and GEB"})
     all_programmes = []
 
     for channel_id, display_name, network in CHANNELS:
@@ -207,6 +260,34 @@ def main():
             }
             all_programmes.append((start, stop - start, twn_id, normalized_record))
 
+    guide_start = datetime.datetime.combine(today, datetime.time.min, tzinfo=TIMEZONE)
+    guide_end = datetime.datetime.combine(today + datetime.timedelta(days=DAYS), datetime.time.min, tzinfo=TIMEZONE)
+    for channel_id, display_name in EPGPW_CHANNELS:
+        channel = ET.SubElement(root, "channel", {"id": channel_id})
+        ET.SubElement(channel, "display-name").text = display_name
+        for day in days:
+            for start, duration, record in fetch_epgpw_schedule(channel_id, day):
+                if guide_start <= start < guide_end:
+                    all_programmes.append((start, duration, channel_id, record))
+
+    # EPG.pw returns overlapping schedule windows for adjacent requested dates.
+    # Remove repeated records before writing the combined guide.
+    unique_programmes = []
+    seen_programmes = set()
+    for item in all_programmes:
+        start, duration, channel_id, record = item
+        key = (
+            channel_id,
+            start,
+            duration,
+            record.get("series_title"),
+            record.get("program_title"),
+            record.get("description"),
+        )
+        if key not in seen_programmes:
+            seen_programmes.add(key)
+            unique_programmes.append(item)
+    all_programmes = unique_programmes
     all_programmes.sort(key=lambda item: (item[2], item[0]))
     for index, (start, duration, channel_id, record) in enumerate(all_programmes):
         stop = start + duration if duration is not None else None
@@ -237,7 +318,7 @@ def main():
     ET.indent(root, space="  ")
     output = "3abn_full.xml"
     ET.ElementTree(root).write(output, encoding="utf-8", xml_declaration=True)
-    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS) + 2} channels")
+    print(f"Wrote {output} with {len(all_programmes)} programmes across {len(CHANNELS) + 2 + len(EPGPW_CHANNELS)} channels")
 
 
 if __name__ == "__main__":
