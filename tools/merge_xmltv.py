@@ -25,6 +25,8 @@ CNN_SOURCE_CHANNEL_ID = "plex.tv.CNN.Originals.plex"
 CNN_CHANNEL_ID = "CNNOriginals.us"
 WORD_NETWORK_URL = "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 WORD_NETWORK_CHANNEL_ID = "The.Word.Network.us2"
+THREEABN_XMLTV = Path(__file__).resolve().parents[1] / "3abn_full.xml"
+THREEABN_CHANNEL_ID = "3ABN-PraiseHimMusic.us"
 
 
 def fetch_epgshare_channel(
@@ -67,6 +69,26 @@ def fetch_epgshare_channel(
     if not found_channel:
         raise ValueError(f"source does not contain channel {source_channel_id}")
     return channels[0], programmes
+
+
+def fetch_xmltv_channel(path: Path, channel_id: str) -> tuple[ET.Element, list[ET.Element]]:
+    """Load one channel and its programmes from a generated XMLTV guide."""
+    source = ET.parse(path).getroot()
+    channel = next(
+        (item for item in source.findall("channel") if item.get("id") == channel_id),
+        None,
+    )
+    if channel is None:
+        raise ValueError(f"source does not contain channel {channel_id}")
+
+    programmes = [
+        ET.fromstring(ET.tostring(item))
+        for item in source.findall("programme")
+        if item.get("channel") == channel_id
+    ]
+    if not programmes:
+        raise ValueError(f"source contains no programmes for channel {channel_id}")
+    return ET.fromstring(ET.tostring(channel)), programmes
 
 
 def main() -> int:
@@ -154,10 +176,26 @@ def main() -> int:
         )
         return 1
 
+    try:
+        praise_channel, praise_programmes = fetch_xmltv_channel(
+            THREEABN_XMLTV, THREEABN_CHANNEL_ID
+        )
+        channels.setdefault(THREEABN_CHANNEL_ID, praise_channel)
+        programmes.extend(praise_programmes)
+        print(
+            f"{THREEABN_CHANNEL_ID}: 1 channel, "
+            f"{len(praise_programmes)} programmes"
+        )
+    except Exception as exc:
+        print(
+            f"Failed to load 3ABN Praise Him Music feed: {exc}", file=sys.stderr
+        )
+        return 1
+
     root = ET.Element(
         "tv",
         {
-            "source-info-name": "epg.pw + epgshare01",
+            "source-info-name": "epg.pw + epgshare01 + 3ABN XMLTV",
             "generator-info-name": "epg-atlanta XMLTV merger",
         },
     )
