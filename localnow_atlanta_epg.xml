@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="Local Now Atlanta" source-info-url="https://localnow.com/channels/epg-local-now-atlanta" generator-info-name="Local Now Atlanta page extraction">
+  <channel id="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
+    <display-name>Locked On Sports Atlanta</display-name>
+  </channel>
+  <channel id="LN_F62DE179-6022-485E-9D40-F4A77B179215">
+    <display-name>WSB (ABC) News 2 Atlanta, GA</display-name>
+  </channel>
+  <channel id="LN_0F9F3A85-2CAD-4492-BFE7-C809E79489CB">
+    <display-name>WAGA FOX 5 Atlanta GA</display-name>
+  </channel>
+  <channel id="LN_BD90ADE3-F2E3-4760-82C9-4BAFB5107E40">
+    <display-name>WXIA NBC 11Alive Atlanta GA</display-name>
+  </channel>
+  <channel id="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD">
+    <display-name>WANF Atlanta News First</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A6C04409-CBA8-4DD8-84F3-03CA01450CBD/3-1x1.png" />
+  </channel>  <programme start="20261030232300 +0000" stop="20261030232800 +0000" channel="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
+    <title lang="en">Locked On Bulldogs</title>
+  </programme>
+  <programme start="20261030232800 +0000" channel="LN_AF8A0869-F746-4CC3-8254-CD48E24F4F70">
+    <title lang="en">Locked On Falcons</title>
+  </programme>
+  <programme start="20261030232300 +0000" stop="20261030233000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
+    <title lang="en">Destinations Discovered</title>
+  </programme>
+  <programme start="20261030233000 +0000" channel="LN_F62DE179-6022-485E-9D40-F4A77B179215">
+    <title lang="en">GameDay on 2 Insiders</title>
+  </programme>
+  <programme start="20261030232300 +0000" stop="20261030233000 +0000" channel="LN_0F9F3A85-2CAD-4492-BFE7-C809E79489CB">
+    <title lang="en">The Pulse</title>
+  </programme>
+  <programme start="20261030233000 +0000" channel="LN_0F9F3A85-2CAD-4492-BFE7-C809E79489CB">
+    <title lang="en">Local News from Atlanta</title>
+  </programme>
+  <programme start="20261030232300 +0000" stop="20261030240000 +0000" channel="LN_BD90ADE3-F2E3-4760-82C9-4BAFB5107E40">
+    <title lang="en">WXIA NBC 11Alive Atlanta GA</title>
+  </programme>
+  <programme start="20261030240000 +0000" channel="LN_BD90ADE3-F2E3-4760-82C9-4BAFB5107E40">
+    <title lang="en">WXIA NBC 11Alive Atlanta GA</title>
+  </programme>
+  <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD"><title lang="en">Local News Live</title><desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc></programme>
+  <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD"><title lang="en">The Good Side Show</title><desc lang="en">The Good Side Show</desc></programme>
+  <programme start="20261031003000 +0000" stop="20261031010000 +0000" channel="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD"><title lang="en">Aging Untold</title><desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc></programme>
+  <programme start="20261031010000 +0000" stop="20261031020000 +0000" channel="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD"><title lang="en">News at 9pm</title><desc lang="en">Atlanta News First delivers local news, weather, sports, investigations, and community coverage for Metro Atlanta and North Georgia.</desc></programme>
+  <programme start="20261031020000 +0000" stop="20261031030000 +0000" channel="LN_A6C04409-CBA8-4DD8-84F3-03CA01450CBD"><title lang="en">ANF News at 10pm</title><desc lang="en">Atlanta News First delivers local news, weather, sports, investigations, and community coverage for Metro Atlanta and North Georgia.</desc></programme></tv>
