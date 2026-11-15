@@ -1193,6 +1193,12 @@ https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="467309" channel-id="TBN.us" tvg-name="TBN" tvg-logo="https://www.tbn.org/sites/default/files/2022-11/Official%20TBN%20Logo%20B-W-no-pad.png" group-title="Religious",TBN
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SBNTV.us@SD" channel-id="SBNTV.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious" SBN TV
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+#EXTINF:-1 tvg-id="SBNTVGlobal.us@SD" channel-id="SBNTVGlobal.us@SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious",SBN TV Global
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD", channel-id="SBNTVInternational.us@SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious",SBN TV International
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
 #EXTINF:-1 tvg-id=465179" channel-id="465179" tvg-name="World Harvest TV" tvg-logo="https://familybroadcastingcorporation.com/wp-content/uploads/2022/11/wht_logo.jpg" group-title="Religious",World Harvest TV
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTruthTV.us" channel-id="GospelTruthTV.us" tvg-name="Gospel Truth TV" tvg-logo="https://i.imgur.com/LI52X2q.png" group-title="Religious",Gospel Truth TV
