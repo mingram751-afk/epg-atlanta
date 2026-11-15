@@ -25,6 +25,9 @@ CNN_SOURCE_CHANNEL_ID = "plex.tv.CNN.Originals.plex"
 CNN_CHANNEL_ID = "CNNOriginals.us"
 WORD_NETWORK_URL = "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 WORD_NETWORK_CHANNEL_ID = "The.Word.Network.us2"
+SBN_URL = WORD_NETWORK_URL
+SBN_SOURCE_CHANNEL_ID = "SonLife.Broadcasting.Network.HD.us2"
+SBN_CHANNEL_ID = "SBNTV.us@SD"
 THREEABN_XMLTV = Path(__file__).resolve().parents[1] / "3abn_full.xml"
 THREEABN_CHANNEL_ID = "3ABN-PraiseHimMusic.us"
 
@@ -176,6 +179,16 @@ def main() -> int:
         )
         return 1
 
+    try:
+        sbn_channel, sbn_programmes = fetch_epgshare_channel(
+            SBN_URL, SBN_SOURCE_CHANNEL_ID, SBN_CHANNEL_ID
+        )
+        channels.setdefault(SBN_CHANNEL_ID, sbn_channel)
+        programmes.extend(sbn_programmes)
+        print(f"{SBN_CHANNEL_ID}: 1 channel, {len(sbn_programmes)} programmes")
+    except Exception as exc:
+        print(f"Failed to fetch or parse SBN TV feed: {exc}", file=sys.stderr)
+        return 1
     try:
         praise_channel, praise_programmes = fetch_xmltv_channel(
             THREEABN_XMLTV, THREEABN_CHANNEL_ID
