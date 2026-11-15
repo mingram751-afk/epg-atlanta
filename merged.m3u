@@ -1193,7 +1193,7 @@ https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="467309" channel-id="TBN.us" tvg-name="TBN" tvg-logo="https://www.tbn.org/sites/default/files/2022-11/Official%20TBN%20Logo%20B-W-no-pad.png" group-title="Religious",TBN
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SBNTV.us@SD" channel-id="SBNTV.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious" SBN TV
+#EXTINF:-1 tvg-id="SBNTV.us@SD" channel-id="SBNTV.us" tvg-name="SBN TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious",SBN TV
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
 #EXTINF:-1 tvg-id="SBNTVGlobal.us@SD" channel-id="SBNTVGlobal.us@SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious",SBN TV Global
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
